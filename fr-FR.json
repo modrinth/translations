@@ -1,0 +1,11 @@
+{
+	"project": {
+		"types": {
+			"modpack": {
+				"singular": "Pack de mods",
+				"plural": "Packs de mods",
+				"search": "Rechercher un pack de mods..."
+			}
+		}
+	}
+}
