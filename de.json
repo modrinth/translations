@@ -1,6 +1,6 @@
 {
 	"footer": {
-		"description": "Modrinth ist Quelloffene-Software.",
+		"description": "Modrinth ist quelloffene Software.",
 		"copyright": "© Guavy LLC",
 		"legal": {
 			"heading": "Geschäftsbedingungen",
@@ -33,12 +33,12 @@
 	"error": {
 		"status": "{status} Fehler",
 		"message": {
-			"404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verloren.<br />Die Seite nach der du gesucht hast, wurde nicht gefunden.",
+			"404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verlaufen.<br />Die Seite nach der du gesucht hast, wurde nicht gefunden.",
 			"project_missing": "Das {type} nach dem du gesucht hast, wurde nicht gefunden.",
 			"default": "Ein unerwarteter Fehler ist aufgetreten."
 		},
 		"actions": {
-			"home": "Go home",
+			"home": "Gehe zur Startseite",
 			"discord": "Erhalte Hilfe auf Discord"
 		}
 	},
@@ -77,7 +77,7 @@
 			"discord": "Discord",
 			"github": "GitHub",
 			"issues": "Issues",
-			"source": "Quell-Code",
+			"source": "Quellcode",
 			"wiki": "Wiki",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
@@ -89,7 +89,7 @@
 		"environments": {
 			"label": "Umgebung",
 			"server_side": "Server-Seite",
-			"client_side": "Client-Seide",
+			"client_side": "Client-Seite",
 			"values": {
 				"required": "Benötigt",
 				"unsupported": "Inkompatibel",
