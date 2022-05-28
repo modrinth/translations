@@ -3,8 +3,8 @@
 		"description": "Modrinth ist quelloffene Software.",
 		"copyright": "© Guavy LLC",
 		"legal": {
-			"heading": "Allgemeine Geschäftsbedingungen",
-			"terms": "Terms",
+			"heading": "Rechtliches",
+			"terms": "AGB",
 			"privacy": "Datenschutz",
 			"rules": "Regeln"
 		},
@@ -14,10 +14,10 @@
 			"docs": "Dokumentation"
 		},
 		"buttons": {
-			"privacy": "Datenschutz-Einstellungen",
+			"privacy": "Datenschutzeinstellungen",
 			"theme": {
-				"label": "Farbthema ändern",
-				"system": "Systemweites Farbthema",
+				"label": "Farbschema ändern",
+				"system": "Systemweites Farbschema",
 				"light": "Heller Modus",
 				"dark": "Dunker Modus",
 				"oled": "OLED Modus"
@@ -33,8 +33,8 @@
 	"error": {
 		"status": "{status} Fehler",
 		"message": {
-			"404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verlaufen.<br />Die Seite nach der du gesucht hast, wurde nicht gefunden.",
-			"project_missing": "Das {type} nach dem du gesucht hast, wurde nicht gefunden.",
+			"404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verlaufen.<br />Die gefragte Seite wurde nicht gefunden.",
+			"project_missing": "Das Project vom Typ {type}, nach dem du gesucht hast, wurde nicht gefunden.",
 			"default": "Ein unerwarteter Fehler ist aufgetreten."
 		},
 		"actions": {
@@ -76,13 +76,13 @@
 			"github_profile": "GitHub Profil",
 			"discord": "Discord",
 			"github": "GitHub",
-			"issues": "Issues",
+			"issues": "Fehler",
 			"source": "Quellcode",
 			"wiki": "Wiki",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
 			"buy_me_a_coffee": "Kauf mir einen Kaffee",
-			"github_sponsors": "GitHub Sponsoren",
+			"github_sponsors": "GitHub Sponsors",
 			"donate": "Spenden",
 			"kofi": "Ko-Fi"
 		},
@@ -91,7 +91,7 @@
 			"server_side": "Server-Seite",
 			"client_side": "Client-Seite",
 			"values": {
-				"required": "Benötigt",
+				"required": "Erforderlich",
 				"unsupported": "Inkompatibel",
 				"optional": "Optional",
 				"unknown": "Unbekannt"
@@ -114,8 +114,8 @@
 		},
 		"sidebar_headings": {
 			"external_resources": "Externe Ressourcen",
-			"featured_versions": "Vorgestellte Versionen",
-			"project_members": "Projekt Mitglieder",
+			"featured_versions": "Empfohlene Versionen",
+			"project_members": "Projektmitglieder",
 			"technical_information": "Technische Informationen"
 		}
 	},
@@ -124,7 +124,7 @@
 		"rejected": "Abgelehnt",
 		"draft": "Entwurf",
 		"unlisted": "Nicht gelistet",
-		"processing": "Wird geprüft",
+		"processing": "Wird überprüft",
 		"unknown": "Unbekannt"
 	},
 	"release_channels": {
@@ -140,9 +140,9 @@
 	"stats": {
 		"joined": "Beigetreten vor {ago}",
 		"notified": "Benachrichtigt vor {ago}",
-		"downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> Follower von Projekten} other {<b>#</b> Follower von Projekten}}",
-		"followers": "{followers, plural, one {<b>1</b> follower} other {<b>#</b> followers}}",
+		"downloads": "{Downloads, plural, one {<b>1</b> Download} other {<b>#</b> Downloads}}",
+		"followers_of_projects": "{Abonnenten, plural, one {<b>1</b> Abonnent von Projekten} other {<b>#</b> Abonnenten von Projekten}}",
+		"followers": "{Abonnenten, plural, one {<b>1</b> Abonnent} other {<b>#</b> Abonnenten}}",
 		"user_id": "Nutzer ID: {id}",
 		"created": "Erstellt vor {ago}",
 		"updated": "Aktualisiert vor {ago}"
@@ -151,10 +151,10 @@
 		"technology": "Technologie",
 		"adventure": "Abenteuer",
 		"magic": "Magie",
-		"utility": "Utility",
+		"utility": "Nützliches",
 		"decoration": "Dekoration",
-		"library": "Library",
-		"cursed": "Cursed",
+		"library": "Bibliothek",
+		"cursed": "Komisch",
 		"worldgen": "Welt Generation",
 		"storage": "Lagerung",
 		"food": "Essen",
@@ -162,10 +162,10 @@
 		"miscellaneous": "Verschiedenes",
 		"challenging": "Herausforderungen",
 		"combat": "Kampf",
-		"kitchen-sink": "Kitchen Sink",
+		"kitchen-sink": "Von allem etwas",
 		"lightweight": "Lightweight",
 		"multiplayer": "Mehrspieler",
-		"quests": "Quests",
+		"quests": "Aufgaben",
 		"optimization": "Optimierung",
 		"fabric": "Fabric",
 		"forge": "Forge",
