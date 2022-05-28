@@ -1,0 +1,181 @@
+{
+	"footer": {
+		"description": "Modrinth 是一个开源软件。",
+		"copyright": "© Guavy LLC",
+		"legal": {
+			"heading": "法律文件",
+			"terms": "服务条款",
+			"privacy": "隐私政策",
+			"rules": "社区规则"
+		},
+		"resources": {
+			"heading": "资源库",
+			"blog": "博客",
+			"docs": "文档"
+		},
+		"buttons": {
+			"privacy": "设置隐私偏好",
+			"theme": {
+				"label": "更改视觉主题",
+				"system": "跟随系统设置",
+				"light": "明亮模式",
+				"dark": "黑夜模式",
+				"oled": "OLED 模式"
+			},
+			"language": {
+				"label": "选择语言",
+				"en": "English",
+				"en-GB": "English (UK)",
+				"zh-CN": "简体中文 (中国大陆)"
+			}
+		}
+	},
+	"error": {
+		"status": "错误 {status}",
+		"message": {
+			"404": "啊噗，看起来您在后端 [Labyrinth](https://github.com/modrinth/labrinth) 里迷路了。<br />您所寻找的页面并不存在哦。",
+			"project_missing": "类别 {type} 无法被找到。",
+			"default": "一个意外的错误发生了。"
+		},
+		"actions": {
+			"home": "返回主页",
+			"discord": "在 Discord 里寻求帮助"
+		}
+	},
+	"pages": {
+		"description": "描述",
+		"gallery": "图库",
+		"changelog": "更改日志",
+		"versions": "版本",
+		"settings": "设置",
+		"reports": "举报",
+		"moderation": "管理",
+		"notifications": "消息提醒",
+		"about": "有关内容",
+		"following": "关注中",
+		"all": "全部"
+	},
+	"generic": {
+		"labels": {
+			"license": "许可证",
+			"project_id": "项目 ID",
+			"project_status": "项目状态"
+		},
+		"actions": {
+			"edit": "编辑",
+			"follow": "关注",
+			"unfollow": "取消关注",
+			"report": "举报",
+			"new_project": "新建项目",
+			"download": "下载",
+			"save": "保存",
+			"cancel": "取消",
+			"discard": "舍弃更改的内容"
+		},
+		"external": {
+			"github_profile": "GitHub 资料",
+			"discord": "Discord",
+			"github": "GitHub",
+			"issues": "问题追踪",
+			"source": "源代码",
+			"wiki": "Wiki",
+			"patreon": "Patreon",
+			"paypal": "PayPal",
+			"buy_me_a_coffee": "请我喝杯咖啡吧",
+			"github_sponsors": "GitHub Sponsors",
+			"donate": "捐助",
+			"kofi": "Ko-Fi"
+		},
+		"environments": {
+			"label": "运行环境",
+			"server_side": "服务端",
+			"client_side": "客户端",
+			"values": {
+				"required": "必装",
+				"unsupported": "不支持",
+				"optional": "选装",
+				"unknown": "未知的"
+			}
+		},
+		"byline": "由 <u>{author}</u> 创作"
+	},
+	"project": {
+		"types": {
+			"mod": {
+				"singular": "个模组",
+				"plural": "多个模组",
+				"search": "搜索模组..."
+			},
+			"modpack": {
+				"singular": "个整合包",
+				"plural": "多个整合包",
+				"search": "搜索整合包..."
+			}
+		},
+		"sidebar_headings": {
+			"external_resources": "外置资源",
+			"featured_versions": "推荐版本",
+			"project_members": "项目成员",
+			"technical_information": "技术性信息"
+		}
+	},
+	"status": {
+		"approved": "已通过",
+		"rejected": "已回绝",
+		"draft": "草案",
+		"unlisted": "未列出",
+		"processing": "正在审核",
+		"unknown": "未知"
+	},
+	"release_channels": {
+		"release": "发行版",
+		"beta": "Beta",
+		"alpha": "Alpha"
+	},
+	"roles": {
+		"developer": "开发者",
+		"admin": "总管理员",
+		"moderator": "管理者"
+	},
+	"stats": {
+		"joined": "加入于 {ago}",
+		"notified": "提醒于 {ago}",
+		"downloads": "{downloads, plural, one {<b>1</b> 次下载} other {<b>#</b> 次下载}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> 名关注者} other {<b>#</b> 名关注者}}",
+		"followers": "{followers, plural, one {<b>1</b> 名粉丝} other {<b>#</b> 名粉丝}}",
+		"user_id": "用户 ID: {id}",
+		"created": "创建于 {ago}",
+		"updated": "更新于 {ago}"
+	},
+	"tags": {
+		"technology": "科技",
+		"adventure": "冒险",
+		"magic": "魔法",
+		"utility": "实用工具",
+		"decoration": "装饰",
+		"library": "类库",
+		"cursed": "原版魔改",
+		"worldgen": "世界生成",
+		"storage": "存储",
+		"food": "食物",
+		"equipment": "装备",
+		"miscellaneous": "杂项",
+		"challenging": "难度挑战",
+		"combat": "战斗",
+		"kitchen-sink": "通用解决方案",
+		"lightweight": "轻量内容",
+		"multiplayer": "多人游戏",
+		"quests": "任务",
+		"optimization": "优化",
+		"fabric": "Fabric",
+		"forge": "Forge",
+		"quilt": "Quilt",
+		"modloader": "Mod 加载器",
+		"rift": "Rift",
+		"server": "服务端",
+		"client": "客户端",
+		"good": "good",
+		"trash": "Trash",
+		"misc": "杂项"
+	}
+}
