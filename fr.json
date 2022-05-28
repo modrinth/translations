@@ -26,7 +26,13 @@
 				"en": "Anglais",
 				"en-GB": "Anglais (UK)",
 				"fr": "Français",
-				"fr-FR": "Français (FR)"
+				"fr-FR": "Français (FR)",
+				"zh": "Chinois",
+				"zh-CN": "Chinois simplifié (CN)",
+				"et": "Estonien",
+				"et-EE": "Estonien (EE)",
+				"de": "Allemand",
+				"ja": "Japonais"
 			}
 		}
 	},
