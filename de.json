@@ -128,7 +128,7 @@
 		"unknown": "Unbekannt"
 	},
 	"release_channels": {
-		"release": "Release",
+		"release": "Vollversion",
 		"beta": "Beta",
 		"alpha": "Alpha"
 	},
