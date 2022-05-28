@@ -1,0 +1,181 @@
+{
+	"footer": {
+		"description": "Modrinth é software de código-aberto.",
+		"copyright": "© Guavy LLC",
+		"legal": {
+			"heading": "Legal",
+			"terms": "Termos",
+			"privacy": "Privacidade",
+			"rules": "Regras"
+		},
+		"resources": {
+			"heading": "Recursos",
+			"blog": "Blog",
+			"docs": "Documentação"
+		},
+		"buttons": {
+			"privacy": "Definir preferências de privacidade",
+			"theme": {
+				"label": "Mudar tema",
+				"system": "Tema do sistema",
+				"light": "Modo claro",
+				"dark": "Modo escuro",
+				"oled": "Modo OLED"
+			},
+			"language": {
+				"label": "Selecionar linguagem",
+				"en": "English",
+				"en-GB": "English (UK)",
+				"br": "Português (Brasil)"
+			}
+		}
+	},
+	"error": {
+		"status": "Erro {status}",
+		"message": {
+			"404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não pôde ser encontrada.",
+			"project_missing": "O {type} que você estava procurando não pôde ser encontrado.",
+			"default": "Um erro inesperado aconteceu."
+		},
+		"actions": {
+			"home": "Voltar",
+			"discord": "Consiga ajuda no Discord"
+		}
+	},
+	"pages": {
+		"description": "Descrição",
+		"gallery": "Galeria",
+		"changelog": "Mudanças",
+		"versions": "Versões",
+		"settings": "Configurações",
+		"reports": "Reports",
+		"moderation": "Moderação",
+		"notifications": "Notificações",
+		"about": "Sobre",
+		"following": "Seguindo",
+		"all": "Todos"
+	},
+	"generic": {
+		"labels": {
+			"license": "Licença",
+			"project_id": "ID do projeto",
+			"project_status": "Status do projeto"
+		},
+		"actions": {
+			"edit": "Editar",
+			"follow": "Seguir",
+			"unfollow": "Parar de seguir",
+			"report": "Reportar",
+			"new_project": "Novo projeto",
+			"download": "Baixar",
+			"save": "Salvar",
+			"cancel": "Cancelar",
+			"discard": "Descartar mudanças"
+		},
+		"external": {
+			"github_profile": "Perfil GitHub",
+			"discord": "Discord",
+			"github": "GitHub",
+			"issues": "Issues",
+			"source": "Código-fonte",
+			"wiki": "Wiki",
+			"patreon": "Patreon",
+			"paypal": "PayPal",
+			"buy_me_a_coffee": "Me compre um café",
+			"github_sponsors": "Patrocinadores GitHub",
+			"donate": "Doar",
+			"kofi": "Ko-Fi"
+		},
+		"environments": {
+			"label": "Ambiente",
+			"server_side": "Servidor",
+			"client_side": "Cliente",
+			"values": {
+				"required": "Obrigatório",
+				"unsupported": "Sem suporte",
+				"optional": "Opcional",
+				"unknown": "Desconhecido"
+			}
+		},
+		"byline": "por <u>{author}</u>"
+	},
+	"project": {
+		"types": {
+			"mod": {
+				"singular": "Mod",
+				"plural": "Mods",
+				"search": "Pesquisar mods..."
+			},
+			"modpack": {
+				"singular": "Modpack",
+				"plural": "Modpacks",
+				"search": "Pesquisar modpacks..."
+			}
+		},
+		"sidebar_headings": {
+			"external_resources": "Recursos externos",
+			"featured_versions": "Versões destacadas",
+			"project_members": "Membros do projeto",
+			"technical_information": "Informações técnicas"
+		}
+	},
+	"status": {
+		"approved": "Aprovado",
+		"rejected": "Rejeitado",
+		"draft": "Rascunho",
+		"unlisted": "Deslistado",
+		"processing": "Em análise",
+		"unknown": "Desconhecido"
+	},
+	"release_channels": {
+		"release": "Estável",
+		"beta": "Beta",
+		"alpha": "Alpha"
+	},
+	"roles": {
+		"developer": "Desenvolvedor",
+		"admin": "Administrador",
+		"moderator": "Moderador"
+	},
+	"stats": {
+		"joined": "Entrou em {ago}",
+		"notified": "Notificado a {ago}",
+		"downloads": "{downloads, plural, one {<b>1</b> download} outros {<b>#</b> downloads}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> follower of projects} outros {<b>#</b> seguidores de projetos}}",
+		"followers": "{followers, plural, one {<b>1</b> follower} outros {<b>#</b> seguidores}}",
+		"user_id": "ID de usuário: {id}",
+		"created": "Criado em {ago}",
+		"updated": "Atualizado em {ago}"
+	},
+	"tags": {
+		"technology": "Tecnologia",
+		"adventure": "Aventura",
+		"magic": "Magia",
+		"utility": "Utilidade",
+		"decoration": "Decoração",
+		"library": "Biblioteca",
+		"cursed": "Amaldiçoado",
+		"worldgen": "Geração de Mundo",
+		"storage": "Armazenamento",
+		"food": "Comida",
+		"equipment": "Equipamento",
+		"miscellaneous": "Miscelâneos",
+		"challenging": "Desafiador",
+		"combat": "Combate",
+		"kitchen-sink": "Kitchen Sink",
+		"lightweight": "Leve",
+		"multiplayer": "Multiplayer",
+		"quests": "Quests",
+		"optimization": "Otimização",
+		"fabric": "Fabric",
+		"forge": "Forge",
+		"quilt": "Quilt",
+		"modloader": "ModLoader",
+		"rift": "Rift",
+		"server": "Servidor",
+		"client": "Cliente",
+		"good": "Bom",
+		"trash": "Lixo",
+		"misc": "Outros"
+	}
+}
