@@ -121,6 +121,28 @@
 		},
 		"byline": "by <u>{author}</u>"
 	},
+	"search": {
+		"show": "Show",
+		"hide": "Hide",
+		"filters": "Filters",
+		"mc_ver": "Minecraft version",
+		"search_ver_placeholder": "Search versions...",
+		"show_snapshots": "Show snapshots",
+		"modloaders": "Modloaders",
+		"envs": "Environments",
+		"cats": "Categories",
+		"licences": "Licenses",
+		"clear_filters": "Clear filters",
+		"sort_by": "Sort by",
+		"sort": {
+			"relevance": "Relevance",
+			"downloads": "Downloads",
+			"follows": "Follows",
+			"newest": "Recently created",
+			"updated": "Recently updated"
+		},
+		"show_per_page": "Show per page"
+	},
 	"project": {
 		"types": {
 			"mod": {

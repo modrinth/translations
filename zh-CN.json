@@ -23,7 +23,7 @@
     },
     "footer": {
         "description": "Modrinth 是一个开源软件。",
-        "copyright": "© Guavy LLC",
+        "copyright": "© Guavy 有限责任公司",
         "legal": {
             "heading": "法律",
             "terms": "条款",
@@ -70,7 +70,7 @@
         "changelog": "变更日志",
         "versions": "版本",
         "settings": "设置",
-        "reports": "报告",
+        "reports": "举报",
         "moderation": "管理",
         "notifications": "通知",
         "about": "关于",
@@ -87,7 +87,7 @@
             "edit": "编辑",
             "follow": "关注",
             "unfollow": "取消关注",
-            "report": "报告",
+            "report": "举报",
             "new_project": "新建项目",
             "download": "下载",
             "save": "保存",
@@ -120,6 +120,28 @@
             }
         },
         "byline": "由 <u>{author}</u> 创作"
+    },
+    "search": {
+        "show": "显示",
+        "hide": "隐藏",
+        "filters": "过滤器",
+        "mc_ver": "Minecraft 版本",
+        "search_ver_placeholder": "搜索版本……",
+        "show_snapshots": "显示快照版本",
+        "modloaders": "模组加载器",
+        "envs": "环境",
+        "cats": "分类",
+        "licences": "许可证",
+        "clear_filters": "清空过滤器",
+        "sort_by": "按……排序",
+        "sort": {
+            "relevance": "相关性",
+            "downloads": "下载数",
+            "follows": "关注数",
+            "newest": "最近创建",
+            "updated": "最近更新"
+        },
+        "show_per_page": "每页显示"
     },
     "project": {
         "types": {
@@ -160,14 +182,14 @@
         "moderator": "管理员"
     },
     "stats": {
-        "joined": "{ago} 加入",
-        "notified": "{ago} 通知",
+        "joined": "于 {ago} 加入",
+        "notified": "{ago} 的通知",
         "downloads": "{downloads, plural, one {<b>1</b> 下载} other {<b>#</b> 下载}}",
         "followers_of_projects": "{followers, plural, one {<b>1</b> 项目关注者} other {<b>#</b> 项目关注者}}",
         "followers": "{followers, plural, one {<b>1</b> 关注者} other {<b>#</b> 关注者}}",
         "user_id": "用户 ID: {id}",
-        "created": "{ago} 新建",
-        "updated": "{ago} 更新"
+        "created": "于 {ago} 新建",
+        "updated": "于 {ago} 更新"
     },
     "tags": {
         "technology": "科技",
@@ -181,7 +203,6 @@
         "storage": "存储",
         "food": "食物",
         "equipment": "装备",
-        "miscellaneous": "Miscellaneous",
         "challenging": "Challenging",
         "combat": "战斗",
         "kitchen-sink": "Kitchen Sink",
@@ -192,12 +213,12 @@
         "fabric": "Fabric",
         "forge": "Forge",
         "quilt": "Quilt",
-        "modloader": "模组加载器",
+        "modloader": "ModLoader",
         "rift": "Rift",
         "server": "服务端",
         "client": "客户端",
         "good": "Good",
         "trash": "Trash",
-        "misc": "Miscellaneous"
+        "misc": "杂项"
     }
 }
