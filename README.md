@@ -4,8 +4,7 @@ Modrinth uses the translations present in this repository across our projects, i
 
 > **Warning**
 > **You may want to wait before contributing** <br>
-> We are currently in the process of setting up this project in crowd-sourced translation platform, [see issue #3](https://github.com/modrinth/translations/issues/3).
-> <br>Using a dedicated translation service will make contributing much easier. All existing translations will be preserved.
+> We are currently in the process of setting up this project in crowd-sourced translation platform (Crowdin), [see issue #3](https://github.com/modrinth/translations/issues/3). Using a dedicated translation service will make contributing much easier. All existing translations will be preserved.
 
 ### Translation format
 
