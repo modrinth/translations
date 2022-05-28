@@ -141,7 +141,7 @@
 		"joined": "Rejoint {ago}",
 		"notified": "Notifié {ago}",
 		"downloads": "{downloads, plural, one {<b>1</b> téléchargement} other {<b>#</b> téléchargements}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> follower of projects} other {<b>#</b> followers of projects}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> abonnné aux projets} other {<b>#</b> abonnnés aux projets}}",
 		"followers": "{followers, plural, one {<b>1</b> abonné} other {<b>#</b> abonnés}}",
 		"user_id": "ID utilisateur : {id}",
 		"created": "Créé {ago}",
