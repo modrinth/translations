@@ -134,7 +134,7 @@
 		"unknown": "Inconnu"
 	},
 	"release_channels": {
-		"release": "Release",
+		"release": "Stable",
 		"beta": "Bêta",
 		"alpha": "Alpha"
 	},
@@ -159,7 +159,7 @@
 		"magic": "Magie",
 		"utility": "Utilitaire",
 		"decoration": "Décoration",
-		"library": "Librarie",
+		"library": "Bibliothèque",
 		"cursed": "Cursed",
 		"worldgen": "Génération du monde",
 		"storage": "Stockage",
