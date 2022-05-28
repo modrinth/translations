@@ -94,7 +94,7 @@
 		},
 		"environments": {
 			"label": "Environnement",
-			"server_side": "Côté erveur",
+			"server_side": "Côté serveur",
 			"client_side": "Côté client",
 			"values": {
 				"required": "Requis",
