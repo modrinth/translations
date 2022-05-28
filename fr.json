@@ -140,9 +140,9 @@
 	"stats": {
 		"joined": "Rejoint {ago}",
 		"notified": "Notifié {ago}",
-		"downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
+		"downloads": "{downloads, plural, one {<b>1</b> téléchargement} other {<b>#</b> téléchargements}}",
 		"followers_of_projects": "{followers, plural, one {<b>1</b> follower of projects} other {<b>#</b> followers of projects}}",
-		"followers": "{followers, plural, one {<b>1</b> follower} other {<b>#</b> followers}}",
+		"followers": "{followers, plural, one {<b>1</b> abonné} other {<b>#</b> abonnés}}",
 		"user_id": "ID utilisateur : {id}",
 		"created": "Créé {ago}",
 		"updated": "Mis à jour {ago}"
