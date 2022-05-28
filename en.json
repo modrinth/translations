@@ -25,7 +25,8 @@
 			"language": {
 				"label": "Select language",
 				"en": "English",
-				"en-GB": "English (UK)"
+				"en-GB": "English (UK)",
+				"de": "German"
 			}
 		}
 	},
