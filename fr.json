@@ -23,16 +23,19 @@
 			},
 			"language": {
 				"label": "Choisir la langue",
+				"de": "Allemand",
 				"en": "Anglais",
 				"en-GB": "Anglais (UK)",
-				"fr": "Français",
-				"fr-FR": "Français (FR)",
 				"zh": "Chinois",
 				"zh-CN": "Chinois simplifié (CN)",
 				"et": "Estonien",
 				"et-EE": "Estonien (EE)",
-				"de": "Allemand",
-				"ja": "Japonais"
+				"fr": "Français",
+				"fr-FR": "Français (FR)",
+				"ja": "Japonais",
+				"pt": "Portugais",
+				"pt-BR": "Portugais (BR)",
+				"ru": "Russe"
 			}
 		}
 	},
