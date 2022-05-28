@@ -1,0 +1,166 @@
+{
+	"footer": {
+		"description": "Modrinth on avatud lähtekoodiga tarkvara.",
+		"legal": {
+			"heading": "Legaalne",
+			"terms": "Teenusetingimused",
+			"privacy": "Privaatsus",
+			"rules": "Reeglid"
+		},
+		"resources": {
+			"heading": "Ressursid",
+			"blog": "Blogi",
+			"docs": "Dokumentatsioon"
+		},
+		"buttons": {
+			"privacy": "Määra privaatsuseelistused",
+			"theme": {
+				"label": "Muuda teemat",
+				"system": "Süsteemiteema",
+				"light": "Hele režiim",
+				"dark": "Tume režiim",
+				"oled": "OLED-režiim"
+			},
+			"language": {
+				"label": "Vali keel",
+				"et": "Eesti keel"
+			}
+		}
+	},
+	"error": {
+		"status": "{status} viga",
+		"message": {
+			"404": "Oi ei, tundub et eksisid [Labürindis](https://github.com/modrinth/labrinth) ära.<br />Lehte, mida otsisid ei leitud.",
+			"project_missing": "{type} mida otsisid ei leitud.",
+			"default": "Esines tundmatu viga."
+		},
+		"actions": {
+			"home": "Mine koju",
+			"discord": "Hangi abi Discordis (ingl. k)"
+		}
+	},
+	"pages": {
+		"description": "Kirjeldus",
+		"gallery": "Galerii",
+		"changelog": "Muudatuste logi",
+		"versions": "Versioonid",
+		"settings": "Sätted",
+		"reports": "Raportid",
+		"moderation": "Haldus",
+		"notifications": "Teavitused",
+		"about": "Teave",
+		"following": "Jälgitavad",
+		"all": "Kõik"
+	},
+	"generic": {
+		"labels": {
+			"license": "Litsents",
+			"project_id": "Projekti ID",
+			"project_status": "Projekti olek"
+		},
+		"actions": {
+			"edit": "Muuda",
+			"follow": "Jälgi",
+			"unfollow": "Tühista jälgimine",
+			"report": "Teata",
+			"new_project": "Uus projekt",
+			"download": "Laadi alla",
+			"save": "Salvesta",
+			"cancel": "Tühista",
+			"discard": "Tühista muudatused"
+		},
+		"external": {
+			"github_profile": "GitHubi profiil",
+			"issues": "Vigade loend",
+			"source": "Lähtekood",
+			"wiki": "Viki",
+			"donate": "Anneta"
+		},
+		"environments": {
+			"label": "Keskkond",
+			"server_side": "Serveripoolne",
+			"client_side": "Kliendipoolne",
+			"values": {
+				"required": "Nõutud",
+				"unsupported": "Mittetoetatud",
+				"optional": "Valikuline",
+				"unknown": "Teadmata"
+			}
+		},
+		"byline": "autorilt <u>{author}</u>"
+	},
+	"project": {
+		"types": {
+			"mod": {
+				"singular": "Mod",
+				"plural": "Modid",
+				"search": "Otsi mode..."
+			},
+			"modpack": {
+				"singular": "Modipakk",
+				"plural": "Modipakid",
+				"search": "Otsi modipakke..."
+			}
+		},
+		"sidebar_headings": {
+			"external_resources": "Välised ressursid",
+			"featured_versions": "Esiletoodud versioonid",
+			"project_members": "Projekti liikmed",
+			"technical_information": "Tehniline teave"
+		}
+	},
+	"status": {
+		"approved": "Heakskiidetud",
+		"rejected": "Tagasilükatud",
+		"draft": "Mustand",
+		"unlisted": "Mitteavalik",
+		"processing": "Ülevaatamisel",
+		"unknown": "Teadmata"
+	},
+	"release_channels": {
+		"release": "Stabiilne",
+		"beta": "Beeta",
+		"alpha": "Alfa"
+	},
+	"roles": {
+		"developer": "Arendaja",
+		"admin": "Administraator",
+		"moderator": "Moderaator"
+	},
+	"stats": {
+		"joined": "Liitus {ago}",
+		"notified": "Teavitatud {ago}",
+		"downloads": "{downloads, plural, one {<b>1</b> allalaadimine} other {<b>#</b> allalaadimist}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> projektide jälgija} other {<b>#</b> projektide jälgijad}}",
+		"followers": "{followers, plural, one {<b>1</b> jälgija} other {<b>#</b> jälgijat}}",
+		"user_id": "Kasutaja ID: {id}",
+		"created": "Loodud {ago}",
+		"updated": "Uuendatud {ago}"
+	},
+	"tags": {
+		"technology": "Tehnoloogia",
+		"adventure": "Seiklus",
+		"magic": "Maagia",
+		"utility": "Üldkasulik",
+		"decoration": "Kaunistus",
+		"library": "Teek",
+		"cursed": "Neetud",
+		"worldgen": "Maailmageneratsioon",
+		"storage": "Hoidla",
+		"food": "Toit",
+		"equipment": "Varustus",
+		"miscellaneous": "Varia",
+		"challenging": "Katsumus",
+		"combat": "Võitlus",
+		"kitchen-sink": "Midagi kõigile",
+		"lightweight": "Kerge",
+		"multiplayer": "Mitmikmäng",
+		"quests": "Ülesanded",
+		"optimization": "Optimeerimine",
+		"server": "Server",
+		"client": "Klient",
+		"good": "Hea",
+		"trash": "Rämps",
+		"misc": "Varia"
+	}
+}
