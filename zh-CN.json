@@ -1,4 +1,26 @@
 {
+    "index": {
+        "hero_tagline": "探索、游玩和创作 Minecraft 内容",
+        "hero_description": "在我们为社区建立的开源模组平台上寻找令人愉快的优质内容。创作并获取报酬*，通过我们完善的API部署你的项目！",
+        "feature": {
+            "api": "易用的 API",
+            "api_description": "文档完善的 API 为促进第三方集成和启动器的发展提供支持。",
+            "earn": "创作者收益",
+            "earn_description": "计划为创作者提供 100% 的广告收入。*付款正在开发中。",
+            "lighting": "闪电般的快速搜索",
+            "lighting_description": "由快速且普适的搜索算法提供支持，您无需等待。",
+            "helpful": "乐于助人的社区",
+            "helpful_description": "在我们拥有超过 1000 名成员的 Discord 服务器上寻求帮助、讨论开发和闲聊。",
+            "extensible": "可拓展的设计",
+            "extensible_description": "与构建工具、仓库、启动器和自定义应用程序集成。",
+            "oss": "完全开源",
+            "oss_description": "这是一个由活跃社区维护的欢迎贡献的开源项目。"
+        }
+    },
+    "header": {
+        "notifications": "通知",
+        "sign_in_with_github": "使用 GitHub 登录"
+    },
     "footer": {
         "description": "Modrinth 是一个开源软件。",
         "copyright": "© Guavy LLC",
