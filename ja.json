@@ -1,0 +1,180 @@
+{
+	"footer": {
+		"description": "Modrinthはオープンソースソフトウェアです。",
+		"legal": {
+			"heading": "法的",
+			"terms": "条項",
+			"privacy": "プライバシー",
+			"rules": "ルール"
+		},
+		"resources": {
+			"heading": "資力",
+			"blog": "ブログ",
+			"docs": "ドキュメント"
+		},
+		"buttons": {
+			"privacy": "プライバシーを設定する",
+			"theme": {
+				"label": "テーマの変更",
+				"system": "システムのテーマ",
+				"light": "ライトモード",
+				"dark": "ダークモード",
+				"oled": "OLEDモード"
+			},
+			"language": {
+				"label": "言語の選択",
+				"en": "英語",
+				"en-GB": "英語 (UK)",
+				"ja": "日本語"
+			}
+		}
+	},
+	"error": {
+		"status": "{status} エラー",
+		"message": {
+			"404": "おっと、[ラビリンス](https://github.com/modrinth/labrinth)で迷子になってしまったようです。<br />お探しのページが見つかりませんでした。",
+			"project_missing": "お探しの {type} は見つかりませんでした。",
+			"default": "予期しないエラーが発生しました。"
+		},
+		"actions": {
+			"home": "ホームに戻る",
+			"discord": "Discordで助けを求める"
+		}
+	},
+	"pages": {
+		"description": "説明",
+		"gallery": "ギャラリー",
+		"changelog": "変更ログ",
+		"versions": "バージョン",
+		"settings": "設定",
+		"reports": "報告",
+		"moderation": "モデレーション",
+		"notifications": "通知",
+		"about": "約",
+		"following": "フォロー中",
+		"all": "全て"
+	},
+	"generic": {
+		"labels": {
+			"license": "ライセンス",
+			"project_id": "プロジェクトID",
+			"project_status": "プロジェクトの状態"
+		},
+		"actions": {
+			"edit": "編集",
+			"follow": "フォロー",
+			"unfollow": "フォロー解除",
+			"report": "報告",
+			"new_project": "新しいプロジェクト",
+			"download": "ダウンロード",
+			"save": "保存",
+			"cancel": "キャンセル",
+			"discard": "変更を破棄"
+		},
+		"external": {
+			"github_profile": "GitHubのプロフィール",
+			"discord": "Discord",
+			"github": "GitHub",
+			"issues": "問題報告",
+			"source": "ソース",
+			"wiki": "Wiki",
+			"patreon": "Patreon",
+			"paypal": "PayPal",
+			"buy_me_a_coffee": "コーヒーを奢る",
+			"github_sponsors": "GitHubのスポンサー",
+			"donate": "寄付",
+			"kofi": "Ko-Fi"
+		},
+		"environments": {
+			"label": "動作環境",
+			"server_side": "サーバ側",
+			"client_side": "クライアント側",
+			"values": {
+				"required": "必須",
+				"unsupported": "非サポート",
+				"optional": "任意",
+				"unknown": "不明"
+			}
+		},
+		"byline": "<u>{author}</u>によって"
+	},
+	"project": {
+		"types": {
+			"mod": {
+				"singular": "Mod",
+				"plural": "Mods",
+				"search": "Modを検索..."
+			},
+			"modpack": {
+				"singular": "Modpack",
+				"plural": "Modpacks",
+				"search": "Modpackを検索..."
+			}
+		},
+		"sidebar_headings": {
+			"external_resources": "外部のリソース",
+			"featured_versions": "注目のバージョン",
+			"project_members": "プロジェクトのメンバー",
+			"technical_information": "技術的な情報"
+		}
+	},
+	"status": {
+		"approved": "承認済み",
+		"rejected": "拒否",
+		"draft": "下書き",
+		"unlisted": "非公開",
+		"processing": "レビュー中",
+		"unknown": "不明"
+	},
+	"release_channels": {
+		"release": "リリース",
+		"beta": "ベータ",
+		"alpha": "アルファ"
+	},
+	"roles": {
+		"developer": "開発者",
+		"admin": "管理者",
+		"moderator": "モデレータ"
+	},
+	"stats": {
+		"joined": "{ago}に参加",
+		"notified": "{ago}に通知",
+		"downloads": "{downloads, plural, one {<b>1</b> ダウンロード} other {<b>#</b> ダウンロード}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b>人のプロジェクトのフォロワー} other {<b>#</b>人のプロジェクトのフォロワー}}",
+		"followers": "{followers, plural, one {<b>1</b>人のフォロワー} other {<b>#</b>人のフォロワー}}",
+		"user_id": "ユーザID: {id}",
+		"created": "{ago}に作成",
+		"updated": "{ago}に更新"
+	},
+	"tags": {
+		"technology": "技術",
+		"adventure": "冒険",
+		"magic": "魔法",
+		"utility": "実用的",
+		"decoration": "装飾",
+		"library": "ライブラリ",
+		"cursed": "呪い",
+		"worldgen": "ワールド生成",
+		"storage": "ストレージ",
+		"food": "食料",
+		"equipment": "装備",
+		"miscellaneous": "その他",
+		"challenging": "挑戦",
+		"combat": "戦闘",
+		"kitchen-sink": "なんでも",
+		"lightweight": "軽量",
+		"multiplayer": "マルチプレイヤー",
+		"quests": "クエスト",
+		"optimization": "最適化",
+		"fabric": "Fabric",
+		"forge": "Forge",
+		"quilt": "Quilt",
+		"modloader": "ModLoader",
+		"rift": "Rift",
+		"server": "サーバー",
+		"client": "クライアント",
+		"good": "良い",
+		"trash": "悪い",
+		"misc": "その他"
+	}
+}
