@@ -34,7 +34,7 @@
 		"status": "{status} Fehler",
 		"message": {
 			"404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verlaufen.<br />Die Seite nach der du gesucht hast, wurde nicht gefunden.",
-			"project_missing": "Das {type} nach dem du gesucht hast, wurde nicht gefunden.",
+			"project_missing": "Die {type} nach dem du gesucht hast, wurde nicht gefunden.",
 			"default": "Ein unerwarteter Fehler ist aufgetreten."
 		},
 		"actions": {
