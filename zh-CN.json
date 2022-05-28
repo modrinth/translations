@@ -1,4 +1,26 @@
 {
+  "index": {
+    "hero_tagline": "探寻、游玩并创作有关 Minecraft 的内容",
+    "hero_description": "在我们为社区打造的开源模组平台上寻找愉悦身心的优质内容。您还可以通过我们文档齐备的 API 来发布作品并获取报酬*!",
+    "feature": {
+      "api": "清晰易用的 API",
+      "api_description": "通过文档齐备的 API 为第三方集成与启动器的发展赋能。",
+      "earn": "创作者收益反馈",
+      "earn_description": "我们计划向创作者支付项目页面中 100% 的广告收入。*支付系统尚在开发。",
+      "lighting": "极速搜索 快如闪电",
+      "lighting_description": "由一个响应迅速高效，情境适用广泛的搜索引擎所驱动，极速检索，无需等待",
+      "helpful": "互帮互助的社区",
+      "helpful_description": "在我们超过千名成员的 Discord 服务器上，或寻求支持，或开发研讨，甚至是互娱吹水，友善的社区总能让您宾至如归。",
+      "extensible": "高拓展性设计",
+      "extensible_description": "与 构建工具，代码仓库，启动器，甚至是自定义应用高效集成。",
+      "oss": "程序完全开源",
+      "oss_description": "这是一个由活跃社区构建的开源平台，任何小贡献都能汇聚成大力量，我们期待您的贡献。"
+    }
+  },
+  "header": {
+    "notifications": "通知提醒",
+    "sign_in_with_github": "通过 GitHub 登录"
+  },
 	"footer": {
 		"description": "Modrinth 是一个开源软件。",
 		"copyright": "© Guavy 有限责任公司",
@@ -14,9 +36,9 @@
 			"docs": "文档"
 		},
 		"buttons": {
-			"privacy": "设置隐私偏好",
+			"privacy": "设置隐私管理偏好",
 			"theme": {
-				"label": "更改视觉主题",
+				"label": "更改视效主题",
 				"system": "跟随系统设置",
 				"light": "明亮模式",
 				"dark": "黑夜模式",
@@ -33,7 +55,7 @@
 	"error": {
 		"status": "错误 {status}",
 		"message": {
-			"404": "啊噗，看起来您在后端 [Labyrinth](https://github.com/modrinth/labrinth) 里迷路了。<br />您所寻找的页面并不存在哦。",
+			"404": "啊噗，看起来您在后端程序 [迷宫](https://github.com/modrinth/labrinth) 里迷路了。<br />您所寻找的页面并不存在哦。",
 			"project_missing": "类别 {type} 无法被找到。",
 			"default": "一个意外的错误发生了。"
 		},
@@ -51,7 +73,7 @@
 		"reports": "举报",
 		"moderation": "管理",
 		"notifications": "消息提醒",
-		"about": "有关内容",
+		"about": "相关信息",
 		"following": "关注中",
 		"all": "全部"
 	},
@@ -76,7 +98,7 @@
 			"github_profile": "GitHub 资料",
 			"discord": "Discord",
 			"github": "GitHub",
-			"issues": "问题追踪",
+			"issues": "问题报告",
 			"source": "源代码",
 			"wiki": "Wiki",
 			"patreon": "Patreon",
@@ -98,6 +120,28 @@
 			}
 		},
 		"byline": "由 <u>{author}</u> 创作"
+	},
+	"search": {
+	  "show": "展开",
+	  "hide": "隐藏",
+	  "filters": "筛选条件",
+	  "mc_ver": "Minecraft 版本",
+	  "search_ver_placeholder": "要检索的目标版本...",
+	  "show_snapshots": "显示快照版",
+	  "modloaders": "模组加载器",
+	  "envs": "运行环境",
+	  "cats": "类别",
+	  "licences": "许可证",
+	  "clear_filters": "清空筛选条件",
+	  "sort_by": "按...排序",
+	  "sort": {
+	    "relevance": "相关性",
+	    "downloads": "下载量",
+	    "follows": "关注数",
+	    "newest": "最近发布",
+	    "updated": "最近更新"
+	  },
+	  "show_per_page": "每页展示量"
 	},
 	"project": {
 		"types": {
@@ -128,9 +172,9 @@
 		"unknown": "未知"
 	},
 	"release_channels": {
-		"release": "发行版",
-		"beta": "Beta",
-		"alpha": "Alpha"
+		"release": "稳定发行版",
+		"beta": "Beta 测试",
+		"alpha": "Alpha 测试"
 	},
 	"roles": {
 		"developer": "开发者",
@@ -154,7 +198,7 @@
 		"utility": "实用工具",
 		"decoration": "装饰",
 		"library": "类库",
-		"cursed": "原版魔改",
+		"cursed": "游戏损坏风险",
 		"worldgen": "世界生成",
 		"storage": "存储",
 		"food": "食物",
@@ -162,20 +206,20 @@
 		"miscellaneous": "杂项",
 		"challenging": "难度挑战",
 		"combat": "战斗",
-		"kitchen-sink": "通用解决方案",
-		"lightweight": "轻量内容",
+		"kitchen-sink": "一应俱全",
+		"lightweight": "轻量化",
 		"multiplayer": "多人游戏",
 		"quests": "任务",
 		"optimization": "优化",
 		"fabric": "Fabric",
 		"forge": "Forge",
 		"quilt": "Quilt",
-		"modloader": "Mod 加载器",
+		"modloader": "ModLoader",
 		"rift": "Rift",
 		"server": "服务端",
 		"client": "客户端",
-		"good": "good",
-		"trash": "Trash",
+		"good": "优质内容",
+		"trash": "回收物",
 		"misc": "杂项"
 	}
 }
