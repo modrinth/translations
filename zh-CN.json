@@ -1,12 +1,12 @@
 {
 	"footer": {
 		"description": "Modrinth 是一个开源软件。",
-		"copyright": "© Guavy LLC",
+		"copyright": "© Guavy 有限责任公司",
 		"legal": {
 			"heading": "法律文件",
 			"terms": "服务条款",
 			"privacy": "隐私政策",
-			"rules": "社区规则"
+			"rules": "社区守则"
 		},
 		"resources": {
 			"heading": "资源库",
@@ -70,7 +70,7 @@
 			"download": "下载",
 			"save": "保存",
 			"cancel": "取消",
-			"discard": "舍弃更改的内容"
+			"discard": "舍弃更改"
 		},
 		"external": {
 			"github_profile": "GitHub 资料",
@@ -94,7 +94,7 @@
 				"required": "必装",
 				"unsupported": "不支持",
 				"optional": "选装",
-				"unknown": "未知的"
+				"unknown": "未知"
 			}
 		},
 		"byline": "由 <u>{author}</u> 创作"
@@ -139,7 +139,7 @@
 	},
 	"stats": {
 		"joined": "加入于 {ago}",
-		"notified": "提醒于 {ago}",
+		"notified": "通知于 {ago}",
 		"downloads": "{downloads, plural, one {<b>1</b> 次下载} other {<b>#</b> 次下载}}",
 		"followers_of_projects": "{followers, plural, one {<b>1</b> 名关注者} other {<b>#</b> 名关注者}}",
 		"followers": "{followers, plural, one {<b>1</b> 名粉丝} other {<b>#</b> 名粉丝}}",
