@@ -19,7 +19,7 @@
 				"label": "Farbschema ändern",
 				"system": "Systemweites Farbschema",
 				"light": "Heller Modus",
-				"dark": "Dunker Modus",
+				"dark": "Dunkler Modus",
 				"oled": "OLED Modus"
 			},
 			"language": {
