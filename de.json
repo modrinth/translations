@@ -1,6 +1,6 @@
 {
 	"footer": {
-		"description": "Modrinth ist quelloffene Software.",
+		"description": "Modrinth ist Quelloffene-Software.",
 		"copyright": "© Guavy LLC",
 		"legal": {
 			"heading": "Rechtliches",
@@ -36,7 +36,7 @@
 			"default": "Ein unerwarteter Fehler ist aufgetreten."
 		},
 		"actions": {
-			"home": "Gehe zur Startseite",
+			"home": "Zur Startseite",
 			"discord": "Erhalte Hilfe auf Discord"
 		}
 	},
@@ -90,7 +90,7 @@
 			"client_side": "Clientseitig",
 			"values": {
 				"required": "Erforderlich",
-				"unsupported": "Inkompatibel",
+				"unsupported": "Nicht unterstützt",
 				"optional": "Optional",
 				"unknown": "Unbekannt"
 			}
@@ -153,12 +153,12 @@
 		"decoration": "Dekoration",
 		"library": "Bibliothek",
 		"cursed": "Komisch",
-		"worldgen": "Weltgeneration",
+		"worldgen": "Weltgenerierung",
 		"storage": "Lagerung",
 		"food": "Essen",
 		"equipment": "Ausrüstung",
 		"miscellaneous": "Verschiedenes",
-		"challenging": "Herausforderung",
+		"challenging": "Herausfordernd",
 		"combat": "Kampf",
 		"kitchen-sink": "Von allem etwas",
 		"lightweight": "Lightweight",
