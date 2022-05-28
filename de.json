@@ -3,9 +3,9 @@
 		"description": "Modrinth ist quelloffene Software.",
 		"copyright": "© Guavy LLC",
 		"legal": {
-			"heading": "Geschäftsbedingungen",
+			"heading": "Allgemeine Geschäftsbedingungen",
 			"terms": "Terms",
-			"privacy": "Privatsphäre",
+			"privacy": "Datenschutz",
 			"rules": "Regeln"
 		},
 		"resources": {
@@ -14,7 +14,7 @@
 			"docs": "Dokumentation"
 		},
 		"buttons": {
-			"privacy": "Privatsphäre-Einstellungen",
+			"privacy": "Datenschutz-Einstellungen",
 			"theme": {
 				"label": "Farbthema ändern",
 				"system": "Systemweites Farbthema",
