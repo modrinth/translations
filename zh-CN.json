@@ -182,14 +182,14 @@
         "moderator": "管理员"
     },
     "stats": {
-        "joined": "于 {ago} 加入",
+        "joined": "于{ago}加入",
         "notified": "{ago} 的通知",
         "downloads": "{downloads, plural, one {<b>1</b> 下载} other {<b>#</b> 下载}}",
         "followers_of_projects": "{followers, plural, one {<b>1</b> 项目关注者} other {<b>#</b> 项目关注者}}",
         "followers": "{followers, plural, one {<b>1</b> 关注者} other {<b>#</b> 关注者}}",
         "user_id": "用户 ID: {id}",
-        "created": "于 {ago} 新建",
-        "updated": "于 {ago} 更新"
+        "created": "于{ago}新建",
+        "updated": "于{ago}更新"
     },
     "tags": {
         "technology": "科技",
@@ -205,7 +205,7 @@
         "equipment": "装备",
         "challenging": "Challenging",
         "combat": "战斗",
-        "kitchen-sink": "Kitchen Sink",
+        "kitchen-sink": "大杂烩",
         "lightweight": "轻量",
         "multiplayer": "多人游戏",
         "quests": "任务",
