@@ -26,8 +26,6 @@
 				"de": "Allemand",
 				"en": "Anglais",
 				"en-GB": "Anglais (UK)",
-				"zh": "Chinois",
-				"zh-CN": "Chinois simplifié (CN)",
 				"et": "Estonien",
 				"et-EE": "Estonien (EE)",
 				"fr": "Français",
@@ -35,7 +33,9 @@
 				"ja": "Japonais",
 				"pt": "Portugais",
 				"pt-BR": "Portugais (BR)",
-				"ru": "Russe"
+				"ru": "Russe",
+				"zh": "Chinois",
+				"zh-CN": "Chinois simplifié (CN)"
 			}
 		}
 	},
