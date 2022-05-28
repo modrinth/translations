@@ -88,8 +88,8 @@
 		},
 		"environments": {
 			"label": "Umgebung",
-			"server_side": "Server-Seite",
-			"client_side": "Client-Seite",
+			"server_side": "Serverseitig",
+			"client_side": "Clientseitig",
 			"values": {
 				"required": "Erforderlich",
 				"unsupported": "Inkompatibel",
