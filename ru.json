@@ -1,0 +1,181 @@
+{
+	"footer": {
+		"description": "Modrinth — сервис с открытым исходным кодом.",
+		"copyright": "© Guavy LLC",
+		"legal": {
+			"heading": "Правовой материал",
+			"terms": "Условия использования",
+			"privacy": "Политика конфиденциальности",
+			"rules": "Правила"
+		},
+		"resources": {
+			"heading": "Ресурсы",
+			"blog": "Блог",
+			"docs": "Документация"
+		},
+		"buttons": {
+			"privacy": "Настройки конфиденциальности",
+			"theme": {
+				"label": "Изменить тему",
+				"system": "Тема системы",
+				"light": "Светлая тема",
+				"dark": "Тёмная тема",
+				"oled": "OLED-тема"
+			},
+			"language": {
+				"label": "Выберите язык",
+				"en": "Английский",
+				"en-GB": "Английский (Соединённое Королевство)",
+				"ru": "Русский (Россия)"
+			}
+		}
+	},
+	"error": {
+		"status": "Ошибка {status}",
+		"message": {
+			"404": "Ой-ёй, похоже, вы заблудились в лабиринте.<br/>Страница, которую вы ищете, не найдена.",
+			"project_missing": "{type}, который вы ищете, не найден.",
+			"default": "Произошла непредвиденная ошибка"
+		},
+		"actions": {
+			"home": "Вернуться на главную",
+			"discord": "Discord"
+		}
+	},
+	"pages": {
+		"description": "Описание",
+		"gallery": "Галерея",
+		"changelog": "Список изменений",
+		"versions": "Версии",
+		"settings": "Настройки",
+		"reports": "Жалобы",
+		"moderation": "Модерация",
+		"notifications": "Уведомления",
+		"about": "О проекте",
+		"following": "Подписки",
+		"all": "Всё"
+	},
+	"generic": {
+		"labels": {
+			"license": "Лицензия",
+			"project_id": "ID проекта",
+			"project_status": "Статус проекта"
+		},
+		"actions": {
+			"edit": "Изменить",
+			"follow": "Подписаться",
+			"unfollow": "Отписаться",
+			"report": "Пожаловаться",
+			"new_project": "Новый проект",
+			"download": "Скачать",
+			"save": "Сохранить",
+			"cancel": "Отмена",
+			"discard": "Сбросить"
+		},
+		"external": {
+			"github_profile": "Профиль на GitHub",
+			"discord": "Discord",
+			"github": "GitHub",
+			"issues": "Баг-трекер",
+			"source": "Исходный код",
+			"wiki": "Вики",
+			"patreon": "Patreon",
+			"paypal": "PayPal",
+			"buy_me_a_coffee": "Buy Me a Coffee",
+			"github_sponsors": "GitHub Sponsors",
+			"donate": "Пожертвовать",
+			"kofi": "Ko-Fi"
+		},
+		"environments": {
+			"label": "Окружение",
+			"server_side": "Сервер",
+			"client_side": "Клиент",
+			"values": {
+				"required": "Требуется",
+				"unsupported": "Не поддерживается",
+				"optional": "Опционально",
+				"unknown": "Неизвестно"
+			}
+		},
+		"byline": "от <u>{author}</u>"
+	},
+	"project": {
+		"types": {
+			"mod": {
+				"singular": "Мод",
+				"plural": "Моды",
+				"search": "Поиск модов..."
+			},
+			"modpack": {
+				"singular": "Сборка модов",
+				"plural": "Сборки модов",
+				"search": "Поиск сборок модов..."
+			}
+		},
+		"sidebar_headings": {
+			"external_resources": "Внешние ресурсы",
+			"featured_versions": "Рекомендуемые версии",
+			"project_members": "Участники проекта",
+			"technical_information": "Техническая информация"
+		}
+	},
+	"status": {
+		"approved": "Утверждён",
+		"rejected": "Отклонён",
+		"draft": "Черновик",
+		"unlisted": "Скрыт",
+		"processing": "На рассмотрении",
+		"unknown": "Неизвестно"
+	},
+	"release_channels": {
+		"release": "Релиз",
+		"beta": "Бета",
+		"alpha": "Альфа"
+	},
+	"roles": {
+		"developer": "Разработчик",
+		"admin": "Администратор",
+		"moderator": "Модератор"
+	},
+	"stats": {
+		"joined": "Зарегистрирован(а) {ago}",
+		"notified": "Получено {ago}",
+		"downloads": "{downloads, plural, one {<b>#</b> скачивание} few {<b>#</b> скачивания} many {<b>#</b> скачиваний} other {<b>#</b> скачивания}}",
+		"followers_of_projects": "{followers, plural, one {<b>#</b> подписчик на проекты} few {<b>#</b> подписчика на проекты} mane {<b>#</b> подписчиков на проекты} other {<b>#</b> подписчика на проекты}}",
+		"followers": "{followers, plural, one {<b>#</b> подписчик} few {<b>#</b> подписчика} many {<b>#</b> подписчиков} other {<b>#</b> подписчика}}",
+		"user_id": "ID пользователя: {id}",
+		"created": "Создан {ago}",
+		"updated": "Обновлён {ago}"
+	},
+	"tags": {
+		"technology": "Технологии",
+		"adventure": "Приключения",
+		"magic": "Магия",
+		"utility": "Утилиты",
+		"decoration": "Косметика",
+		"library": "Библиотеки",
+		"cursed": "Проклято",
+		"worldgen": "Генерация мира",
+		"storage": "Инвентарь",
+		"food": "Еда",
+		"equipment": "Снаряжение",
+		"miscellaneous": "Разное",
+		"challenging": "Испытания",
+		"combat": "Боевые",
+		"kitchen-sink": "Всё подряд",
+		"lightweight": "Легковесные",
+		"multiplayer": "Сетевая игра",
+		"quests": "Квесты",
+		"optimization": "Оптимизация",
+		"fabric": "Fabric",
+		"forge": "Forge",
+		"quilt": "Quilt",
+		"modloader": "ModLoader",
+		"rift": "Rift",
+		"server": "Сервер",
+		"client": "Клиент",
+		"good": "Норм",
+		"trash": "Трэш",
+		"misc": "Разное"
+	}
+}
