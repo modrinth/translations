@@ -87,7 +87,7 @@
 		"moderation": "Moderacja",
 		"notifications": "Powiadomienia",
 		"about": "O nas",
-		"following": "Śledzący",
+		"following": "Obserwujący",
 		"terms": "Zasady i warunki",
 		"privacy": "Polityka prywatności",
 		"rules": "Zasady projektu",
@@ -166,7 +166,7 @@
 				"search": "Szukaj modów..."
 			},
 			"modpack": {
-				"singular": "Modpack",
+				"singular": "Paczka modów",
 				"plural": "Paczki modów",
 				"search": "Szukaj modpacków..."
 			}
@@ -187,7 +187,7 @@
 		},
 		"body": {
 			"editor": "Edytor",
-			"placeholder": "Wprowadź opis projektu...",
+			"placeholder": "Wprowadź treść projektu...",
 			"empty": "Opis tego projektu jest pusty."
 		},
 		"members": "Członkowie",
@@ -196,7 +196,7 @@
 			"upload_version": "Prześlij wersję",
 			"delete_version": "Usuń wersję",
 			"edit_details": "Edytuj szczegóły",
-			"edit_body": "Edytuj opis",
+			"edit_body": "Edytuj treść",
 			"manage_invites": "Zarządzaj zaproszeniami",
 			"remove_member": "Usuń członków",
 			"edit_member": "Edytuj członków",
@@ -265,7 +265,7 @@
 		"alpha": "Alfa"
 	},
 	"roles": {
-		"developer": "Programista",
+		"developer": "Twórca",
 		"admin": "Administrator",
 		"moderator": "Moderator"
 	},
@@ -302,7 +302,7 @@
 			"copyright": "Prawa autorskie",
 			"inappropriate": "Nieodpowiednie",
 			"malicious": "Złośliwe",
-			"name-squatting": "Name-squatting",
+			"name-squatting": "Skradziona nazwa",
 			"other": "Inne"
 		},
 		"new": {
