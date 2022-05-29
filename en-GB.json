@@ -1,4 +1,9 @@
 {
+	"_comment": "This file is only for testing and will be deleted or reverted soon",
+
+	"locale": {
+		"no_translation": "Oi bruv, this page was written by those idiot Americans"
+	},
 	"footer": {
 		"description": "Bloody Modrinth is open source software."
 	},
