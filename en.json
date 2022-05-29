@@ -250,7 +250,8 @@
 			"follows": "Follower count",
 			"newest": "Recently created",
 			"updated": "Recently updated"
-		}
+		},
+		"per_page": "Show per page"
 	},
 	"status": {
 		"approved": "Approved",
