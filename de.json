@@ -102,12 +102,12 @@
 			"mod": {
 				"singular": "Mod",
 				"plural": "Mods",
-				"search": "Suche Mods..."
+				"search": "Mods durchsuchen..."
 			},
 			"modpack": {
 				"singular": "Modpack",
 				"plural": "Modpacks",
-				"search": "Suche Modpacks..."
+				"search": "Modpacks durchsuchen..."
 			}
 		},
 		"sidebar_headings": {
