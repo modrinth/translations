@@ -3,11 +3,11 @@
 		"no_translation": "Due to the nature of this page, the only official version of this content is in English."
 	},
 	"index": {
-		"tagline": "Discover, play, and create Minecraft content",
-		"description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+		"tagline": "Исследуй, играй и создавай контент в Minecraft",
+		"description": "Находите занимательный и качественный контент с помощью нашей открытой платформы моддинга, созданной для сообщества. Создавайте, получайте вознаграждение и продвигайте свои проекты с нашим полностью задокументированным API!",
 		"features": {
 			"book": {
-				"title": "Easy to use API",
+				"title": "Лёгкое в использовании API",
 				"description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
 			},
 			"coin": {
@@ -141,7 +141,7 @@
 			"buy_me_a_coffee": "Buy Me a Coffee",
 			"github_sponsors": "GitHub Sponsors",
 			"donate": "Пожертвовать",
-			"kofi": "Ko-Fi"
+			"kofi": "Ko-fi"
 		},
 		"environments": {
 			"singular": "Environment",
@@ -172,7 +172,7 @@
 			}
 		},
 		"sidebar_headings": {
-			"external_resources": "Внешние ресурсы",
+			"external_resources": "Внешние ссылки",
 			"featured_versions": "Рекомендуемые версии",
 			"project_members": "Участники проекта",
 			"technical_information": "Техническая информация"
