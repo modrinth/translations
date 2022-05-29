@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "Clear filters",
 			"hide": "Hide filters",
 			"show": "Show filters",
 			"show_snapshots": "Show snapshots",
