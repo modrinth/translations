@@ -1,17 +1,17 @@
 {
 	"locale": {
-		"no_translation": "Due to the nature of this page, the only official version of this content is in English."
+		"no_translation": "Debido a la naturaleza de esta página, la única versión oficial de este contenido es en inglés."
 	},
 	"index": {
-		"tagline": "Discover, play, and create Minecraft content",
-		"description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+		"tagline": "Descubre, juega y crea contenido para Minecraft",
+		"description": "Encuentra contenido divertido y de calidad a través de nuestra plataforma de código abierto para el desarrollo de mods, construida para la comunidad. ¡Crea, gana dinero* y despliega tu proyecto con nuestra API totalmente documentada!",
 		"features": {
 			"book": {
-				"title": "Easy to use API",
-				"description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+				"title": "API fácil de usar",
+				"description": "Soportado por una API totalmente documentada que facilita el crecimiento de integraciones y lanzadores de terceros."
 			},
 			"coin": {
-				"title": "Creator earnings",
+				"title": "Pagos para el creador",
 				"description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
 			},
 			"speedometer": {

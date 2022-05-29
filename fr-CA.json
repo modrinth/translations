@@ -4,7 +4,7 @@
 	},
 	"index": {
 		"tagline": "Découvrez, créez du contenu Minecraft et jouez avec",
-		"description": "Trouvez du contenu agréable et de qualité grâce à notre plateforme de modification open-source conçue pour la communauté. Créez des choses, soyez payé*, et déployez votre projet avec notre API entièrement documentée !",
+		"description": "Trouvez du contenu agréable et de qualité grâce à notre plateforme de modification open-source conçue pour la communauté. Créez des choses, soyez payé*, et déployez votre projet avec notre API entièrement documenté !",
 		"features": {
 			"book": {
 				"title": "API facile à utiliser",
@@ -20,7 +20,7 @@
 			},
 			"chat": {
 				"title": "Communauté attentive",
-				"description": "Obtenez de l'aide (en anglais), développez et trainez sur notre serveur Discord avec plus de 1500 membres."
+				"description": "Obtenez de l'aide, développez et trainez sur notre serveur Discord avec plus de 1500 membres."
 			},
 			"puzzle": {
 				"title": "Extensible par conception",
