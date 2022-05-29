@@ -122,7 +122,7 @@
 			"discard": "Änderungen verwerfen"
 		},
 		"popup": {
-			"verify": "Zur Verifikation, tippe <i>{content}</i>:",
+			"verify": "Zur Bestätigung, tippe <i>{content}</i>:",
 			"important": "Das hier ist super wichtig.",
 			"placeholder": "Hier tippen..."
 		},
