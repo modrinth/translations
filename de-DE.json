@@ -195,7 +195,7 @@
 			"edit_body": "Beschreibung bearbeiten",
 			"manage_invites": "Einladungen verwalten",
 			"remove_member": "Mitglieder entfernen",
-			"edit_member": "Mitglieder verwalten",
+			"edit_member": "Mitglieder bearbeiten",
 			"delete_project": "Projekt löschen"
 		},
 		"role": {
@@ -327,7 +327,7 @@
 		},
 		"revoke_token": {
 			"title": "Modrinth Token invalidieren",
-			"body": "Das Modrinth Token zu invalidieren kann unerwartete Folgen haben. Bitte seit dir bewusst, dass das folgende kaputt gehen könnte:\n - jede Anwendung die dein Token nutzt um mit der API zu interagieren.\n - Gradle - wenn Minotaur ein falsches Token bekommt, dann könnte dein Gradle build fehlschlagen.\n - GitHub - wenn du eine GitHub action nutzt, die die Modrinth API verwendet, dann kann dies zu Fehlern führen.\n\nWenn du fortfahren willst, dann führe die folgenden Schritte aus:\n\n 1. Gehe zur [Modrinth Application Seite auf GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Stell sicher, dass du mit dem GitHub Account angemeldet bist den du auch für Modrinth nutzt!\n 2. Drück den großen roten \"Revoke Access\" Knopf neben dem \"Permissions\" Titel.\n\nWenn du diese Schritte abgeschlossen hast, drück auf den \"Continue\" Knopf darunter.\n\n**Dies wird dich von Modrinth abmelden. Wenn du dich dann wieder anmeldest, wird ein neues Token generiert.**",
+			"body": "Das Modrinth Token zu invalidieren kann unerwartete Folgen haben. Bitte sei dir bewusst, dass das folgende kaputt gehen könnte:\n - jede Anwendung die dein Token nutzt um mit der API zu interagieren.\n - Gradle - wenn Minotaur ein falsches Token bekommt, dann könnte dein Gradle build fehlschlagen.\n - GitHub - wenn du eine GitHub action nutzt, die die Modrinth API verwendet, dann kann dies zu Fehlern führen.\n\nWenn du fortfahren willst, dann führe die folgenden Schritte aus:\n\n 1. Gehe zur [Modrinth Application Seite auf GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Stell sicher, dass du mit dem GitHub Account angemeldet bist den du auch für Modrinth nutzt!\n 2. Drück den großen roten \"Revoke Access\" Knopf neben dem \"Permissions\" Titel.\n\nWenn du diese Schritte abgeschlossen hast, drück auf den \"Continue\" Knopf darunter.\n\n**Dies wird dich von Modrinth abmelden. Wenn du dich dann wieder anmeldest, wird ein neues Token generiert.**",
 			"action": "Ausloggen"
 		}
 	},
