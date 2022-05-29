@@ -297,7 +297,7 @@
 		"avatar": "Avatar hochladen"
 	},
 	"report": {
-		"singular": "Meldung",
+		"singular": "Melden",
 		"plural": "Meldungen",
 		"type": {
 			"spam": "Spam",
