@@ -4,43 +4,43 @@
 	},
 	"index": {
 		"tagline": "Descubra, jogue e crie conteúdo de Minecraft",
-		"description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+		"description": "Ache conteúdo de qualidade através da nossa plataforma de modding de código aberto construída para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto com nossa API totalmente documentada!",
 		"features": {
 			"book": {
-				"title": "Easy to use API",
-				"description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+				"title": "API fácil de usar",
+				"description": "Estruturado por uma API 100% documentada, facilitando launchers e outras integrações de terceiros."
 			},
 			"coin": {
-				"title": "Creator earnings",
-				"description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+				"title": "Receita dos Autores",
+				"description": "Planos para dar aos criadores 100% da receita dos anúncios exibidos nas páginas de seus projetos. *Receita dos Autores está em desenvolvimento."
 			},
 			"speedometer": {
-				"title": "Lightning-fast search",
-				"description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+				"title": "Pesquisa ultrarrápida",
+				"description": "Desenvolvido com algoritmos de busca rápidos para que você não precise esperar."
 			},
 			"chat": {
-				"title": "Helpful community",
-				"description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+				"title": "Comunidade prestativa",
+				"description": "Consiga suporte, desenvolva e divirta-se em nosso servidor do Discord com mais de 1.500 membros."
 			},
 			"puzzle": {
-				"title": "Extensible by design",
-				"description": "Integrates with build tools, repositories, launchers, and custom applications."
+				"title": "Extensível por design",
+				"description": "Integra-se com ferramentas de compilação, repositórios, launchers e aplicações personalizadas."
 			},
 			"tools": {
-				"title": "Fully open source",
-				"description": "An open source project maintained by an active community that welcomes contributions."
+				"title": "100% código-aberto",
+				"description": "Um projeto de código-aberto mantido por uma comunidade ativa que acolhe contribuições."
 			}
 		}
 	},
 	"header": {
-		"my_profile": "Go to my profile",
-		"logout": "Log out",
-		"github": "Sign in with GitHub"
+		"my_profile": "Ir ao meu perfil",
+		"logout": "Sair",
+		"github": "Entrar com GitHub"
 	},
 	"footer": {
 		"description": "Modrinth é software de código-aberto.",
 		"legal": {
-			"heading": "Legal",
+			"heading": "Jurídico",
 			"terms": "Termos",
 			"privacy": "Privacidade",
 			"rules": "Regras"
@@ -88,54 +88,54 @@
 		"notifications": "Notificações",
 		"about": "Sobre",
 		"following": "Seguindo",
-		"terms": "Terms and conditions",
-		"privacy": "Privacy policy",
-		"rules": "Project rules",
+		"terms": "Termos e condições",
+		"privacy": "Política de privacidade",
+		"rules": "Regras do projeto",
 		"all": "Todos"
 	},
 	"generic": {
 		"labels": {
 			"license": {
-				"singular": "License",
-				"plural": "Licenses"
+				"singular": "Licença",
+				"plural": "Licenças"
 			},
 			"project_id": "ID do projeto",
 			"project_status": "Status do projeto",
-			"minecraft_versions": "Minecraft versions",
+			"minecraft_versions": "Versões do Minecraft",
 			"mod_loaders": "Mod loaders",
-			"categories": "Categories",
+			"categories": "Categorias",
 			"downloads": "Downloads",
-			"files": "Files"
+			"files": "Arquivos"
 		},
 		"actions": {
-			"create": "Create",
+			"create": "Criar",
 			"edit": "Editar",
 			"follow": "Seguir",
 			"unfollow": "Parar de seguir",
-			"feature": "Feature",
+			"feature": "Destacar",
 			"report": "Reportar",
 			"new_project": "Novo projeto",
-			"preview": "Preview",
+			"preview": "Pré-visualização",
 			"download": "Baixar",
 			"save": "Salvar",
-			"confirm": "Confirm",
-			"remove": "Remove",
-			"delete": "Delete",
+			"confirm": "Confirmar",
+			"remove": "Remover",
+			"delete": "Deletar",
 			"cancel": "Cancelar",
 			"discard": "Descartar mudanças"
 		},
 		"popup": {
-			"verify": "To verify, type <i>{content}</i> below:",
-			"important": "This is extremely important.",
-			"placeholder": "Type here..."
+			"verify": "Para confirmar, digite <i>{content}</i> abaixo:",
+			"important": "Isso é extremamente importante.",
+			"placeholder": "Digite aqui..."
 		},
 		"external": {
 			"github_profile": "Perfil GitHub",
 			"discord": "Discord",
 			"github": "GitHub",
-			"issues": "Issues",
+			"issues": "Problemas",
 			"source": "Código-fonte",
-			"wiki": "Wiki",
+			"wiki": "Documentação",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
 			"buy_me_a_coffee": "Me compre um café",
@@ -144,8 +144,8 @@
 			"kofi": "Ko-Fi"
 		},
 		"environments": {
-			"singular": "Environment",
-			"plural": "Environments",
+			"singular": "Ambiente",
+			"plural": "Ambientes",
 			"server_side": "Servidor",
 			"client_side": "Cliente",
 			"values": {
@@ -187,68 +187,68 @@
 		},
 		"body": {
 			"editor": "Editor",
-			"placeholder": "Enter project body...",
+			"placeholder": "Digite o corpo do texto...",
 			"empty": "A descrição deste projeto está vazia."
 		},
 		"members": "Membros",
 		"permissions": "Permissões",
 		"permission": {
-			"upload_version": "Upload version",
+			"upload_version": "Enviar nova versão",
 			"delete_version": "Deletar versão",
 			"edit_details": "Editar detalhes",
-			"edit_body": "Edit body",
-			"manage_invites": "Manage invites",
+			"edit_body": "Editar corpo do texto",
+			"manage_invites": "Gerenciar convites",
 			"remove_member": "Remover membros",
 			"edit_member": "Editar membros",
 			"delete_project": "Deletar projeto"
 		},
 		"role": {
-			"text": "Role",
-			"placeholder": "Enter roles..."
+			"text": "Função",
+			"placeholder": "Inserir funções..."
 		},
 		"advanced": "Avançado",
 		"visibility": {
 			"title": "Visibilidade",
-			"description": "This project is currently {status}.",
+			"description": "Este projeto está {status}.",
 			"action": "Alterar visibilidade"
 		},
 		"ownership": {
-			"title": "Ownership",
-			"description": "Transfer ownership of this project to another user.",
-			"action": "Transfer ownership"
+			"title": "Proprietário",
+			"description": "Transferir a posse deste projeto para outro usuário.",
+			"action": "Mudar Proprietário"
 		},
 		"delete": {
 			"title": "Deletar projeto",
-			"description": "Deleting a project erases all project data, including versions.",
-			"action": "Delete project"
+			"description": "Deletar um projeto apaga todos os dados do projeto, incluindo as versões.",
+			"action": "Deletar projeto"
 		}
 	},
 	"version": {
 		"featured": "Destacado",
 		"autofeatured": "Auto-destacado",
-		"feature_action": "Feature",
+		"feature_action": "Destacar",
 		"dependencies": "Dependências",
-		"metadata": "Metadata",
-		"release_channel": "Release channel",
+		"metadata": "Propriedades",
+		"release_channel": "Canal de publicação",
 		"number": "Número de versão",
 		"publication_date": "Data de publicação",
-		"publisher": "Publisher"
+		"publisher": "Publicador(a)"
 	},
 	"search": {
 		"filters": {
 			"hide": "Esconder filtros",
 			"show": "Mostrar filtros",
-			"show_snapshots": "Show snapshots",
+			"show_snapshots": "Exibir snapshots",
 			"search_versions": "Procurar versões...",
 			"licenses": "Licenças"
 		},
 		"sort": {
 			"by": "Ordenar por",
 			"relevance": "Relevância",
-			"downloads": "Download count",
+			"downloads": "Downloads",
 			"follows": "Número de seguidores",
-			"newest": "Recently created",
-			"updated": "Recently updated"
+			"newest": "Criado recentemente",
+			"updated": "Atualizado recentemente"
 		}
 	},
 	"status": {
@@ -262,7 +262,7 @@
 	"release_channels": {
 		"release": "Estável",
 		"beta": "Beta",
-		"alpha": "Alpha"
+		"alpha": "Alfa"
 	},
 	"roles": {
 		"developer": "Desenvolvedor",
@@ -281,66 +281,66 @@
 	},
 	"settings": {
 		"username": {
-			"text": "Username",
-			"placeholder": "Add a username..."
+			"text": "Nome de Usuário",
+			"placeholder": "Adicione o nome de um usuário..."
 		},
 		"bio": {
 			"text": "Bio",
-			"placeholder": "Add a bio..."
+			"placeholder": "Adicionar bio..."
 		},
 		"email": {
-			"text": "<b>Private email</b> (visible only to moderators)",
-			"placeholder": "Add an email..."
+			"text": "<b>E-mail privado</b> (visível somente para moderadores)",
+			"placeholder": "Adicione um e-mail..."
 		},
-		"avatar": "Upload avatar"
+		"avatar": "Carregar avatar"
 	},
 	"report": {
-		"singular": "Report",
-		"plural": "Reports",
+		"singular": "Reportar",
+		"plural": "Denúncias",
 		"type": {
 			"spam": "Spam",
-			"copyright": "Copyright",
-			"inappropriate": "Inappropriate",
-			"malicious": "Malicious",
-			"name-squatting": "Name-squatting",
-			"other": "Other"
+			"copyright": "Direitos autorais",
+			"inappropriate": "Inapropriado",
+			"malicious": "Malicioso",
+			"name-squatting": "Roubo de identidade",
+			"other": "Outro"
 		},
 		"new": {
-			"information": "Additional information",
-			"description": "Include links and images if possible. Markdown formatting is supported."
+			"information": "Informações adicionais",
+			"description": "Inclua links e imagens, se possível. A formatação Markdown é suportada."
 		}
 	},
 	"user": {
 		"following": {
-			"loading": "Loading followed projects...",
-			"none": "You haven't followed any projects."
+			"loading": "Carregando projetos seguidos...",
+			"none": "Você ainda não seguiu nenhum projeto."
 		},
 		"delete": {
-			"title": "Delete account",
-			"body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers.",
-			"confirm_title": "Are you sure you want to delete your account?",
-			"confirm_body": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-			"yes_I_want_to_do_this": "Yes, irrecoverably delete my account"
+			"title": "Excluir conta",
+			"body": "Depois de excluir sua conta, não tem pé atrás. Excluir sua conta irá remover todos os seus dados anexados, incluindo projetos, de nossos servidores.",
+			"confirm_title": "Você tem certeza que deseja excluir sua conta?",
+			"confirm_body": "Isso irá **apagar imediatamente todos os seus projetos** e seguidores. Esta ação não pode ser revertida.\n\nSe precisar de ajuda com sua conta, obtenha suporte no [Discord do Modrinth](/discord).",
+			"yes_I_want_to_do_this": "Sim, exclua minha conta irreversivelmente"
 		},
 		"auth": {
-			"title": "Authorization token",
-			"body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-			"copy": "Copy token to clipboard",
-			"copied": "Copied token to clipboard",
-			"revoke": "Revoke token"
+			"title": "Token de autorização",
+			"body": "Seu token de autorização pode ser usado com a API do Modrinth, o plugin de Gradle Minotaur e outros aplicativos que interagem com a API do Modrinth. Mantenha seu token um segredo!",
+			"copy": "Copiar token para a área de transferência",
+			"copied": "Token copiado para a área de transferência",
+			"revoke": "Revogar token"
 		},
 		"revoke_token": {
-			"title": "Revoke your Modrinth token",
-			"body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the continue button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-			"action": "Log out"
+			"title": "Revogar token Modrinth",
+			"body": "Revogar o seu token Modrinth pode ter consequências indesejadas. Esteja ciente de que o seguinte pode quebrar:\n - Qualquer aplicativo que use seu token para acessar a API.\n - Gradle - se o Minotaur receber um token incorreto, suas compilações do Gradle falharão.\n - GitHub - se você têm GitHub Actions que usam a API do Modrinth, elas poderão falhar.\n\nSe você quer continuar mesmo assim, siga as etapas a seguir:\n\n 1. Vá para a página do aplicativo Modrinth no GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Lembre-se de estar logado na conta do GitHub que você usou para o Modrinth!\n 2. Pressione o botão vermelho grandão de \"Revogar Acesso\" ao lado do cabeçalho \"Permissões\".\n\nDepois de ter completado esses passos, pressione o botão continuar abaixo.\n\n**Isso vai te desconectar do Modrinth. Quando você entrar novamente, um novo token será generado para você.**",
+			"action": "Sair"
 		}
 	},
 	"images": {
-		"replace": "Replace image",
-		"how_to": "Drag and drop to upload or click to select"
+		"replace": "Substituir imagem",
+		"how_to": "Arraste e solte para fazer o upload ou clique para selecionar"
 	},
 	"ads": {
-		"privacy_respecting": "A privacy-respecting ad would have been shown here.",
+		"privacy_respecting": "Um anúncio que respeita sua privacidade seria exibido aqui.",
 		"console": {
 			"line1": "Você está usando um adblocker.",
 			"line2": "Seu adblocker impediu o Modrinth de mostrar um anúncio, nossa única fonte de renda.",
@@ -365,8 +365,8 @@
 		"combat": "Combate",
 		"kitchen-sink": "Kitchen Sink",
 		"lightweight": "Leve",
-		"multiplayer": "Multiplayer",
-		"quests": "Quests",
+		"multiplayer": "Multijogador",
+		"quests": "Missões",
 		"optimization": "Otimização",
 		"fabric": "Fabric",
 		"forge": "Forge",
