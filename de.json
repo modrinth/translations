@@ -90,7 +90,7 @@
 			"client_side": "Clientseitig",
 			"values": {
 				"required": "Erforderlich",
-				"unsupported": "Nicht unterstützt",
+				"incompatible": "Nicht unterstützt",
 				"optional": "Optional",
 				"unknown": "Unbekannt"
 			}
