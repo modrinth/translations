@@ -102,7 +102,7 @@
 			"project_id": "ID du projet",
 			"project_status": "Statut du projet",
 			"minecraft_versions": "Versions de Minecraft",
-			"mod_loaders": "Mod loaders",
+			"mod_loaders": "Chargeurs de mod",
 			"categories": "Catégories",
 			"downloads": "Téléchargements",
 			"files": "Fichiers"
@@ -166,9 +166,9 @@
 				"search": "Rechercher un mod..."
 			},
 			"modpack": {
-				"singular": "Modpack",
-				"plural": "Modpacks",
-				"search": "Rechercher un modpack..."
+				"singular": "Pack de mods",
+				"plural": "Packs de mods",
+				"search": "Rechercher un pack de mods..."
 			}
 		},
 		"sidebar_headings": {
@@ -357,7 +357,7 @@
 		"utility": "Utilitaire",
 		"decoration": "Décoration",
 		"library": "Bibliothèque",
-		"cursed": "Cursed",
+		"cursed": "Bizarre",
 		"worldgen": "Génération du monde",
 		"storage": "Stockage",
 		"food": "Nourriture",
@@ -373,7 +373,7 @@
 		"fabric": "Fabric",
 		"forge": "Forge",
 		"quilt": "Quilt",
-		"modloader": "ModLoader",
+		"modloader": "Chargeur de mod",
 		"rift": "Rift",
 		"server": "Serveur",
 		"client": "Client",
