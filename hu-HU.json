@@ -1,140 +1,140 @@
 {
 	"locale": {
-		"no_translation": "Due to the nature of this page, the only official version of this content is in English."
+		"no_translation": "Ezen származása miatt, az oldal tartalma csak az eredeti nyelven érhető el."
 	},
 	"index": {
-		"tagline": "Discover, play, and create Minecraft content",
-		"description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+		"tagline": "Fedezz fel, játsz és készíts Minecraft tartalmat",
+		"description": "Keress érdekes és minőségi tartalmat a nyílt forráskódú mod platformon keresztül, amely a közösségért készült. Hozz létre, keress pénzt* és fejleszd a saját projektedet a teljesen dokumentált API-val!",
 		"features": {
 			"book": {
-				"title": "Easy to use API",
-				"description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+				"title": "Könnyen használható API",
+				"description": "Teljesen dokumentált API biztosítja a fejlődését harmadik fél által készített integrációknak és indítóknak."
 			},
 			"coin": {
-				"title": "Creator earnings",
-				"description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+				"title": "Alkotó jutalmak",
+				"description": "Az alkotók az oldalaik által termelt reklám bevétel 100%-át megkapják. *A bevételküldés jelenleg fejlesztés alatt áll."
 			},
 			"speedometer": {
-				"title": "Lightning-fast search",
-				"description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+				"title": "Villámgyors kereső",
+				"description": "Gyors algoritmusok által működtetett kereső, hogy ne kelljen várakozni."
 			},
 			"chat": {
-				"title": "Helpful community",
-				"description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+				"title": "Segítőkész közösség",
+				"description": "Kérj segítséget, fejlessz és beszélgess Discord szerverünkön több mint 1500 taggal."
 			},
 			"puzzle": {
-				"title": "Extensible by design",
-				"description": "Integrates with build tools, repositories, launchers, and custom applications."
+				"title": "Bővíthető infrastruktúra",
+				"description": "Integrálható build eszközökkel, adattárakkal, indítókkal és egyéni alkalmazásokkal."
 			},
 			"tools": {
-				"title": "Fully open source",
-				"description": "An open source project maintained by an active community that welcomes contributions."
+				"title": "Teljesen nyílt forráskódú",
+				"description": "Egy teljesen nyílt forráskódú projekt az aktív közösségünk által, amely üdvözli a közreműködést."
 			}
 		}
 	},
 	"header": {
-		"my_profile": "Go to my profile",
-		"logout": "Log out",
-		"github": "Sign in with GitHub"
+		"my_profile": "Saját profil",
+		"logout": "Kijelentkezés",
+		"github": "Bejelentkezés GitHub-al"
 	},
 	"footer": {
-		"description": "Modrinth is open source software.",
+		"description": "A Modrinth nyílt forráskódú szoftver.",
 		"legal": {
-			"heading": "Legal",
-			"terms": "Terms",
-			"privacy": "Privacy",
-			"rules": "Rules"
+			"heading": "Jogi megjegyzések",
+			"terms": "Felhasználási feltételek",
+			"privacy": "Adatvédelem",
+			"rules": "Szabályzat"
 		},
 		"resources": {
-			"heading": "Resources",
+			"heading": "Források",
 			"blog": "Blog",
-			"docs": "Docs"
+			"docs": "Dokumentáció"
 		},
 		"buttons": {
-			"privacy": "Set privacy preferences",
+			"privacy": "Adatvédelmi beállítások",
 			"theme": {
-				"label": "Change theme",
-				"system": "System theme",
-				"light": "Light mode",
-				"dark": "Dark mode",
-				"oled": "OLED mode"
+				"label": "Kinézet",
+				"system": "Rendszer theme",
+				"light": "Világos mód",
+				"dark": "Sötét mód",
+				"oled": "OLED mód"
 			},
 			"language": {
-				"label": "Select language",
+				"label": "Nyelv kiválasztása",
 				"en": "English",
 				"en-GB": "English (UK)"
 			}
 		}
 	},
 	"error": {
-		"status": "{status} Error",
+		"status": "{status} Hiba",
 		"message": {
-			"404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-			"project_missing": "The {type} you were looking for cannot be found.",
-			"default": "An unexpected error has occurred."
+			"404": "Hoppá! Úgy tűnik elvesztél a [Labyrinth](https://github.com/modrinth/labrinth)-ben.<br />Az oldal amit keresel nem található!",
+			"project_missing": "{type} nem található.",
+			"default": "Váratlan hiba történt!"
 		},
 		"actions": {
-			"home": "Go home",
-			"discord": "Get help on Discord"
+			"home": "Főoldal",
+			"discord": "Kérj segítséget Discord-on"
 		}
 	},
 	"pages": {
-		"description": "Description",
-		"gallery": "Gallery",
-		"changelog": "Changelog",
-		"versions": "Versions",
-		"settings": "Settings",
-		"moderation": "Moderation",
-		"notifications": "Notifications",
-		"about": "About",
-		"following": "Following",
-		"terms": "Terms and conditions",
-		"privacy": "Privacy policy",
-		"rules": "Project rules",
-		"all": "All"
+		"description": "Leírás",
+		"gallery": "Galéria",
+		"changelog": "Változtatások",
+		"versions": "Verziók",
+		"settings": "Beállítások",
+		"moderation": "Moderáció",
+		"notifications": "Értesítések",
+		"about": "Rólunk",
+		"following": "Követés",
+		"terms": "Felhasználási feltételek",
+		"privacy": "Adatvédelmi feltételek",
+		"rules": "Szabályok",
+		"all": "Összes"
 	},
 	"generic": {
 		"labels": {
 			"license": {
-				"singular": "License",
-				"plural": "Licenses"
+				"singular": "Licenc",
+				"plural": "Licencek"
 			},
-			"project_id": "Project ID",
-			"project_status": "Project status",
-			"minecraft_versions": "Minecraft versions",
-			"mod_loaders": "Mod loaders",
-			"categories": "Categories",
-			"downloads": "Downloads",
-			"files": "Files"
+			"project_id": "Projekt ID",
+			"project_status": "Projekt státusz",
+			"minecraft_versions": "Minecraft verziók",
+			"mod_loaders": "Mod betöltők",
+			"categories": "Kategóriák",
+			"downloads": "Letöltések",
+			"files": "Fájlok"
 		},
 		"actions": {
-			"create": "Create",
-			"edit": "Edit",
-			"follow": "Follow",
-			"unfollow": "Unfollow",
-			"feature": "Feature",
-			"report": "Report",
-			"new_project": "New project",
-			"preview": "Preview",
-			"download": "Download",
-			"save": "Save",
-			"confirm": "Confirm",
-			"remove": "Remove",
-			"delete": "Delete",
-			"cancel": "Cancel",
-			"discard": "Discard changes"
+			"create": "Létrehozás",
+			"edit": "Szerkesztés",
+			"follow": "Követés",
+			"unfollow": "Követés törlése",
+			"feature": "Funkció",
+			"report": "Jelentés",
+			"new_project": "Új projekt",
+			"preview": "Előnézet",
+			"download": "Letöltés",
+			"save": "Mentés",
+			"confirm": "Kész",
+			"remove": "Eltávolítás",
+			"delete": "Törlés",
+			"cancel": "Mégsem",
+			"discard": "Változások elvétése"
 		},
 		"popup": {
-			"verify": "To verify, type <i>{content}</i> below:",
-			"important": "This is extremely important.",
-			"placeholder": "Type here..."
+			"verify": "A megerősítéshez, írd be: <i>{content}</i>",
+			"important": "Ez nagyon fontos!",
+			"placeholder": "Írd ide..."
 		},
 		"external": {
-			"github_profile": "GitHub profile",
+			"github_profile": "GitHub profil",
 			"discord": "Discord",
 			"github": "GitHub",
 			"issues": "Issues",
-			"source": "Source",
+			"source": "Forrás",
 			"wiki": "Wiki",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
@@ -144,239 +144,239 @@
 			"kofi": "Ko-Fi"
 		},
 		"environments": {
-			"singular": "Environment",
-			"plural": "Environments",
-			"server_side": "Server side",
-			"client_side": "Client side",
+			"singular": "Környezet",
+			"plural": "Környezetek",
+			"server_side": "Szerver oldali",
+			"client_side": "Kliens oldali",
 			"values": {
-				"required": "Required",
-				"unsupported": "Unsupported",
-				"optional": "Optional",
-				"unknown": "Unknown"
+				"required": "Szükséges",
+				"unsupported": "Nem támogatott",
+				"optional": "Opcionális",
+				"unknown": "Ismeretlen"
 			}
 		},
-		"up_to_date": "You are up to date!",
-		"byline": "by <u>{author}</u>"
+		"up_to_date": "Naprakész vagy!",
+		"byline": "készítette <u>{author}</u>"
 	},
 	"project": {
 		"types": {
 			"mod": {
 				"singular": "Mod",
-				"plural": "Mods",
-				"search": "Search mods..."
+				"plural": "Modok",
+				"search": "Keress modokat..."
 			},
 			"modpack": {
 				"singular": "Modpack",
-				"plural": "Modpacks",
-				"search": "Search modpacks..."
+				"plural": "Modpackek",
+				"search": "Keress modpackeket..."
 			}
 		},
 		"sidebar_headings": {
-			"external_resources": "External resources",
-			"featured_versions": "Featured versions",
-			"project_members": "Project members",
-			"technical_information": "Technical information"
+			"external_resources": "Külső források",
+			"featured_versions": "Kiemelt verziók",
+			"project_members": "Projekt tagok",
+			"technical_information": "Technika információk"
 		},
 		"gallery": {
-			"upload": "Upload gallery image",
-			"confirm": "Are you sure you want to delete this gallery image?",
+			"upload": "Tölts fel egy képe a galériába",
+			"confirm": "Biztos vagy benne, hogy törölni akarod ezt a képet a galériából?",
 			"placeholder": {
-				"title": "Enter image title...",
-				"description": "Enter image description..."
+				"title": "Írd be a kép címét...",
+				"description": "Írd be a kép leírását..."
 			}
 		},
 		"body": {
-			"editor": "Editor",
-			"placeholder": "Enter project body...",
-			"empty": "This project description is empty."
+			"editor": "Szerkesztő",
+			"placeholder": "Írd be a projekt leírását...",
+			"empty": "Ennek a projektnek a leírása üres."
 		},
-		"members": "Members",
-		"permissions": "Permissions",
+		"members": "Tagok",
+		"permissions": "Jogosultságok",
 		"permission": {
-			"upload_version": "Upload version",
-			"delete_version": "Delete version",
-			"edit_details": "Edit details",
-			"edit_body": "Edit body",
-			"manage_invites": "Manage invites",
-			"remove_member": "Remove members",
-			"edit_member": "Edit members",
-			"delete_project": "Delete project"
+			"upload_version": "Verzió feltöltése",
+			"delete_version": "Verzió törlése",
+			"edit_details": "Részletek szerkesztése",
+			"edit_body": "Leírás szerkesztése",
+			"manage_invites": "Meghívások kezelése",
+			"remove_member": "Tagok eltávolítása",
+			"edit_member": "Tagok szerkesztése",
+			"delete_project": "Projekt törlése"
 		},
 		"role": {
-			"text": "Role",
-			"placeholder": "Enter roles..."
+			"text": "Rang",
+			"placeholder": "Írj be rangokat..."
 		},
-		"advanced": "Advanced",
+		"advanced": "Haladó",
 		"visibility": {
-			"title": "Visibility",
-			"description": "This project is currently {status}.",
-			"action": "Change visibility"
+			"title": "Láthatóság",
+			"description": "Ez a projekt jelenleg {status}.",
+			"action": "Láthatóság megváltoztatása"
 		},
 		"ownership": {
-			"title": "Ownership",
-			"description": "Transfer ownership of this project to another user.",
-			"action": "Transfer ownership"
+			"title": "Tulajdonjog",
+			"description": "A projekt tulajdonjogának átadása másik felhasználónak.",
+			"action": "Tulajdonjog átadása"
 		},
 		"delete": {
-			"title": "Delete project",
-			"description": "Deleting a project erases all project data, including versions.",
-			"action": "Delete project"
+			"title": "Projekt törlése",
+			"description": "A projekt törlése töröl minden adatot, még a verziókat is.",
+			"action": "Törlés mindenképpen"
 		}
 	},
 	"version": {
-		"featured": "Featured",
-		"autofeatured": "Auto-featured",
-		"feature_action": "Feature",
-		"dependencies": "Dependencies",
-		"metadata": "Metadata",
-		"release_channel": "Release channel",
-		"number": "Version number",
-		"publication_date": "Publication date",
-		"publisher": "Publisher"
+		"featured": "Kiemelt",
+		"autofeatured": "Automatikusan kiemelt",
+		"feature_action": "Kiemelés",
+		"dependencies": "Függőségek",
+		"metadata": "Metaadatok",
+		"release_channel": "Kiadási csatorna",
+		"number": "Verziószám",
+		"publication_date": "Publikálás dátuma",
+		"publisher": "Publikáló"
 	},
 	"search": {
 		"filters": {
-			"hide": "Hide filters",
-			"show": "Show filters",
-			"show_snapshots": "Show snapshots",
-			"search_versions": "Search versions...",
-			"licenses": "Licenses"
+			"hide": "Szűrők elrejtése",
+			"show": "Szűrők mutatása",
+			"show_snapshots": "Snapshotok mutatása",
+			"search_versions": "Verziók keresése...",
+			"licenses": "Licencek"
 		},
 		"sort": {
-			"by": "Sort by",
-			"relevance": "Relevance",
-			"downloads": "Download count",
-			"follows": "Follower count",
-			"newest": "Recently created",
-			"updated": "Recently updated"
+			"by": "Rendezés",
+			"relevance": "Jelentősség",
+			"downloads": "Letöltések száma",
+			"follows": "Követők száma",
+			"newest": "Újonnan létrehozva",
+			"updated": "Nemrég frissítve"
 		}
 	},
 	"status": {
-		"approved": "Approved",
-		"rejected": "Rejected",
-		"draft": "Draft",
-		"unlisted": "Unlisted",
-		"processing": "Under review",
-		"unknown": "Unknown"
+		"approved": "Elfogadva",
+		"rejected": "Elutasítva",
+		"draft": "Piszkozat",
+		"unlisted": "Nem listázott",
+		"processing": "Felülvizsgálat alatt",
+		"unknown": "Ismeretlen"
 	},
 	"release_channels": {
-		"release": "Release",
-		"beta": "Beta",
-		"alpha": "Alpha"
+		"release": "Kiadás",
+		"beta": "Béta",
+		"alpha": "Alfa"
 	},
 	"roles": {
-		"developer": "Developer",
-		"admin": "Admin",
-		"moderator": "Moderator"
+		"developer": "Fejlesztő",
+		"admin": "Adminisztrátor",
+		"moderator": "Moderátor"
 	},
 	"stats": {
-		"joined": "Joined {ago}",
-		"notified": "Notified {ago}",
-		"downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> follower of projects} other {<b>#</b> followers of projects}}",
-		"followers": "{followers, plural, one {<b>1</b> follower} other {<b>#</b> followers}}",
-		"user_id": "User ID: {id}",
-		"created": "Created {ago}",
-		"updated": "Updated {ago}"
+		"joined": "{ago} csatlakozott",
+		"notified": "{ago} értesítve",
+		"downloads": "{downloads, plural, one {<b>1</b> követő} other {<b>#</b> követők}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> projektet követ} other {<b>#</b> követi a projektjeit}}",
+		"followers": "{followers, plural, one {<b>1</b> követő} other {<b>#</b> követők}}",
+		"user_id": "Felhasználói ID: {id}",
+		"created": "Létrehozva {ago}",
+		"updated": "Frissítve {ago}"
 	},
 	"settings": {
 		"username": {
-			"text": "Username",
-			"placeholder": "Add a username..."
+			"text": "Felhasználónév",
+			"placeholder": "Adj hozzá egy felhasználónevet..."
 		},
 		"bio": {
-			"text": "Bio",
-			"placeholder": "Add a bio..."
+			"text": "Bemutatkozás",
+			"placeholder": "Mutatkozz be!"
 		},
 		"email": {
-			"text": "<b>Private email</b> (visible only to moderators)",
-			"placeholder": "Add an email..."
+			"text": "<b>Privát E-Mail</b> (csak Moderátorok láthatják)",
+			"placeholder": "Adj hozzá E-Mailt..."
 		},
-		"avatar": "Upload avatar"
+		"avatar": "Profilkép feltöltése"
 	},
 	"report": {
-		"singular": "Report",
-		"plural": "Reports",
+		"singular": "Jelentés",
+		"plural": "Jelentések",
 		"type": {
 			"spam": "Spam",
-			"copyright": "Copyright",
-			"inappropriate": "Inappropriate",
-			"malicious": "Malicious",
-			"name-squatting": "Name-squatting",
-			"other": "Other"
+			"copyright": "Szerzói jog",
+			"inappropriate": "Nem megfelelő",
+			"malicious": "Káros",
+			"name-squatting": "Lopott név",
+			"other": "Egyéb"
 		},
 		"new": {
-			"information": "Additional information",
-			"description": "Include links and images if possible. Markdown formatting is supported."
+			"information": "Egyéb információ",
+			"description": "Adj hozzá linkeket és képeket, ha lehet. A Markdown formázás engedélyzett!"
 		}
 	},
 	"user": {
 		"following": {
-			"loading": "Loading followed projects...",
-			"none": "You haven't followed any projects."
+			"loading": "Követett projektek betöltése...",
+			"none": "Nem követsz projektet."
 		},
 		"delete": {
-			"title": "Delete account",
-			"body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers.",
-			"confirm_title": "Are you sure you want to delete your account?",
-			"confirm_body": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-			"yes_I_want_to_do_this": "Yes, irrecoverably delete my account"
+			"title": "Fiók törlése",
+			"body": "Ha törlöd a fiókodat, minden adatod és minden projekted azonnal törlődni fog a szervereinkről.",
+			"confirm_title": "Biztosan ki akarod törölni a fiókodat?",
+			"confirm_body": "Ez **azonnal törölni fog minden projektedet** és követésedet. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
+			"yes_I_want_to_do_this": "Igen, visszafordíthatatlanul törölni akarom a fiókomat."
 		},
 		"auth": {
-			"title": "Authorization token",
-			"body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-			"copy": "Copy token to clipboard",
-			"copied": "Copied token to clipboard",
-			"revoke": "Revoke token"
+			"title": "Felhatalmazó token",
+			"body": "A tokened használható a Modrinth API-val, a Minotaur Gradle pluginnal és egyéb alkalmazásokkal, amik kapcsolatban vannak a Modrinth API-val. Figyelj rá, hogy titokban tartsad!",
+			"copy": "Token másolása a vágólapra",
+			"copied": "Token másolva a vágólapra!",
+			"revoke": "Tokened visszavonása"
 		},
 		"revoke_token": {
-			"title": "Revoke your Modrinth token",
-			"body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the continue button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-			"action": "Log out"
+			"title": "Modrinth API token visszavonása",
+			"body": "A Modrinth API tokened visszavonása váratlan hibákat vonhat maga után. Figyelj rá, hogy ezek elromolhatnak:\n - Minden alkalmazás, ami a tokenedet használja a Modrinth API eléréséhez.\n - Gradle - ha a Minotaur-nak hibás tokent adtál meg, a Gradle buildek sikertelenek lehetnek.\n - GitHub - ha a GitHub Actions a rossz tokent használja, hibálat fog okozni.\n\nHa szeretnéd folytatni, tedd meg a következő lépéseket:\n\n 1. Menj a  [Modrinth Alkalmazás oldalra GitHub-on](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Figyelj arra, hogy azt a GitHub fiókod használd, amivel Modrinth-re is belépsz!\n 2. Nyomd meg a nagy prios \"Revoke Access\" gombot a \"Permissions\" fejléc mellett.\n\nAmint megtetted ezeket a lépéseket nyomj a \"Continue\" gombra lent.\n\n**Ez ki fog jelentkeztetni téged Modrinth-ről, de amikor visszalépsz, a tokened újra lesz generálva.**",
+			"action": "Kilépés"
 		}
 	},
 	"images": {
-		"replace": "Replace image",
-		"how_to": "Drag and drop to upload or click to select"
+		"replace": "Kép módosítása",
+		"how_to": "Húzd ide a fájlt vagy kattints a kiválasztáshoz!"
 	},
 	"ads": {
-		"privacy_respecting": "A privacy-respecting ad would have been shown here.",
+		"privacy_respecting": "Egy adatvédelmet tisztelő hirdetés jelnt volna meg itt.",
 		"console": {
-			"line1": "You are using an adblocker.",
-			"line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-			"line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+			"line1": "Adblocker-t használsz.",
+			"line2": "Az Adblockered megakadályozta a Modrinth-et, hogy hirdetést jelenítsen meg, az egyetlen bevételi forrásunkat.",
+			"line3": "Ha szeretnéd támogatni a Modrinth-et hirdetések megtekintése nélkül, segíts nekünk fejleszteni a Modrinth-et!",
 			"line4": "https://github.com/modrinth/"
 		}
 	},
 	"tags": {
-		"technology": "Technology",
-		"adventure": "Adventure",
-		"magic": "Magic",
-		"utility": "Utility",
-		"decoration": "Decoration",
-		"library": "Library",
-		"cursed": "Cursed",
-		"worldgen": "World generation",
-		"storage": "Storage",
-		"food": "Food",
-		"equipment": "Equipment",
-		"miscellaneous": "Miscellaneous",
-		"challenging": "Challenging",
-		"combat": "Combat",
-		"kitchen-sink": "Kitchen Sink",
-		"lightweight": "Lightweight",
-		"multiplayer": "Multiplayer",
-		"quests": "Quests",
-		"optimization": "Optimization",
+		"technology": "Technológia",
+		"adventure": "Felfedezés",
+		"magic": "Mágia",
+		"utility": "Hasznos",
+		"decoration": "Dekoráció",
+		"library": "Könyvtár",
+		"cursed": "Elátkozott",
+		"worldgen": "Világgenerálás",
+		"storage": "Tárhely",
+		"food": "Étel",
+		"equipment": "Felszerelés",
+		"miscellaneous": "Egyéb",
+		"challenging": "Kihívó",
+		"combat": "Csata",
+		"kitchen-sink": "Süjjesztő",
+		"lightweight": "Könnyű",
+		"multiplayer": "Többjátékos",
+		"quests": "Küldetések",
+		"optimization": "Optimalizálás",
 		"fabric": "Fabric",
 		"forge": "Forge",
 		"quilt": "Quilt",
 		"modloader": "ModLoader",
 		"rift": "Rift",
-		"server": "Server",
-		"client": "Client",
-		"good": "Good",
-		"trash": "Trash",
-		"misc": "Miscellaneous"
+		"server": "Szerver",
+		"client": "Kliens",
+		"good": "Jó",
+		"trash": "Szutyok",
+		"misc": "Egyéb"
 	}
 }
