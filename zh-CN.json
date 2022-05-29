@@ -109,7 +109,7 @@
 			"files": "文件"
 		},
 		"actions": {
-			"create": "Create",
+			"create": "创建",
 			"edit": "编辑",
 			"follow": "关注",
 			"unfollow": "取消关注",
@@ -273,9 +273,9 @@
 	"stats": {
 		"joined": "加入于 {ago}",
 		"notified": "通知接收于 {ago}",
-		"downloads": "{downloads, number} 次下载",
-		"followers_of_projects": "{followers, number} 名关注者",
-		"followers": "{followers, number} 名粉丝",
+		"downloads": "<b>{downloads, number}</b> 次下载",
+		"followers_of_projects": "<b>{followers, number}</b> 名关注者",
+		"followers": "<b>{followers, number}</b> 名粉丝",
 		"user_id": "用户 ID: {id}",
 		"created": "创建于 {ago}",
 		"updated": "更新于 {ago}"
