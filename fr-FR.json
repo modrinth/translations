@@ -62,7 +62,7 @@
 			"language": {
 				"label": "Sélectionner la langue",
 				"en": "Anglais",
-				"en-GB": "Anglais (UK)"
+				"en-GB": "Anglais (GB)"
 			}
 		}
 	},
@@ -87,7 +87,7 @@
 		"moderation": "Modération",
 		"notifications": "Notifications",
 		"about": "À propos",
-		"following": "Suivi",
+		"following": "Abonné",
 		"terms": "Termes et conditions",
 		"privacy": "Politique de confidentialité",
 		"rules": "Règles du projet",
@@ -112,7 +112,7 @@
 			"edit": "Modifier",
 			"follow": "Suivre",
 			"unfollow": "Ne plus suivre",
-			"feature": "Fonctionnalité",
+			"feature": "Mettre en vedette",
 			"report": "Signaler",
 			"new_project": "Nouveau projet",
 			"preview": "Aperçu",
@@ -225,10 +225,10 @@
 	},
 	"version": {
 		"featured": "Mis en valeur",
-		"autofeatured": "Mis en valeur automatiquement",
-		"feature_action": "Fonctionnalité",
+		"autofeatured": "Mise en valeur automatiquement",
+		"feature_action": "Mettre en vedette",
 		"dependencies": "Dépendances",
-		"metadata": "Metadonnés",
+		"metadata": "Métadonnées",
 		"release_channel": "Canal de sortie",
 		"number": "Numéro de version",
 		"publication_date": "Date de publication",
@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "Réinitialiser les filtres",
 			"hide": "Cacher les filtres",
 			"show": "Afficher les filtres",
 			"show_snapshots": "Afficher les snapshots",
@@ -246,10 +247,11 @@
 			"by": "Trier par",
 			"relevance": "Pertinence",
 			"downloads": "Nombre de téléchargements",
-			"follows": "Nombre de suiveurs",
+			"follows": "Nombre d'abonnés",
 			"newest": "Récemment créé",
 			"updated": "Récemment mis à jour"
-		}
+		},
+		"per_page": "Afficher par page"
 	},
 	"status": {
 		"approved": "Approuvé",
@@ -273,8 +275,8 @@
 		"joined": "À rejoint {ago}",
 		"notified": "Notifié {ago}",
 		"downloads": "{downloads, plural, one {<b>1</b> téléchargement} other {<b>#</b> téléchargements}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> suiveur de projets} other {<b>#</b> suiveurs de projets}}",
-		"followers": "{followers, plural, one {<b>1</b> suiveur} other {<b>#</b> suiveurs}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> abonné de projets} other {<b>#</b> abonnés de projets}}",
+		"followers": "{followers, plural, one {<b>1</b> abonné} other {<b>#</b> abonnés}}",
 		"user_id": "ID utilisateur : {id}",
 		"created": "Créé {ago}",
 		"updated": "Mis à jour {ago}"
@@ -306,20 +308,20 @@
 			"other": "Autre"
 		},
 		"new": {
-			"information": "Informations complémentaires",
+			"information": "Informations complémentaires (en anglais)",
 			"description": "Inclure des liens et des images si possible. Le formatage Markdown est pris en charge."
 		}
 	},
 	"user": {
 		"following": {
 			"loading": "Chargement des projets suivis...",
-			"none": "Vous n'avez suivi aucun projet."
+			"none": "Vous ne suivez aucun projet."
 		},
 		"delete": {
 			"title": "Supprimer le compte",
 			"body": "Une fois que vous supprimez votre compte, il n'y a pas de retour en arrière. La suppression de votre compte supprimera toutes les données jointes, y compris les projets, de nos serveurs.",
 			"confirm_title": "Êtes-vous sûr de vouloir supprimer votre compte ?",
-			"confirm_body": "Cela **supprimera immédiatement tous vos projets** et suivis. La suppression de votre compte est irréversible.\n\nSi vous avez besoin d'aide pour votre compte, obtenez de l'aide sur [Modrinth Discord](/discord).",
+			"confirm_body": "Cela **supprimera immédiatement tous vos projets** et abonnements. La suppression de votre compte est irréversible.\n\nSi vous avez besoin d'aide pour votre compte, obtenez de l'aide sur [Modrinth Discord](/discord).",
 			"yes_I_want_to_do_this": "Oui, supprimer irrémédiablement mon compte"
 		},
 		"auth": {
@@ -371,7 +373,7 @@
 		"fabric": "Fabric",
 		"forge": "Forge",
 		"quilt": "Quilt",
-		"modloader": "Chargeur de mod",
+		"modloader": "ModLoader",
 		"rift": "Rift",
 		"server": "Serveur",
 		"client": "Client",
