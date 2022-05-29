@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "Limpar filtros",
 			"hide": "Esconder filtros",
 			"show": "Mostrar filtros",
 			"show_snapshots": "Exibir snapshots",
@@ -249,7 +250,8 @@
 			"follows": "Número de seguidores",
 			"newest": "Criado recentemente",
 			"updated": "Atualizado recentemente"
-		}
+		},
+		"per_page": "Mostrar por página"
 	},
 	"status": {
 		"approved": "Aprovado",
@@ -272,9 +274,9 @@
 	"stats": {
 		"joined": "Entrou em {ago}",
 		"notified": "Notificado a {ago}",
-		"downloads": "{downloads, plural, one {<b>1</b> download} outros {<b>#</b> downloads}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> follower of projects} outros {<b>#</b> seguidores de projetos}}",
-		"followers": "{followers, plural, one {<b>1</b> follower} outros {<b>#</b> seguidores}}",
+		"downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> seguidor de projetos} other {<b>#</b> seguidores de projetos}}",
+		"followers": "{followers, plural, one {<b>1</b> seguidor} other {<b>#</b> seguidores}}",
 		"user_id": "ID de usuário: {id}",
 		"created": "Criado em {ago}",
 		"updated": "Atualizado em {ago}"

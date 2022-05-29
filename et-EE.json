@@ -7,7 +7,7 @@
 		"description": "Meie kogukonna jaoks loodud avatud lähtekoodiga modimisplatvormi kaudu leiad nauditavat ja kvaliteetset sisu. Loo asju, saa tasu* ning juuruta oma projekt meie täielikult dokumenteeritud rakendusliidese abil!",
 		"features": {
 			"book": {
-				"title": "Lihtsasti kasutatav rakendusliides",
+				"title": "Kergelt kasutatav rakendusliides",
 				"description": "Toetatud täielikult dokumenteeritud rakendusliidesega, mis hõlbustab kolmandate osapoolte integratsioonide ja mängukäivitajate kasvu."
 			},
 			"coin": {
@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "Tühjenda filtrid",
 			"hide": "Peida filtrid",
 			"show": "Kuva filtrid",
 			"show_snapshots": "Kuva katsetusversioone",
@@ -249,7 +250,8 @@
 			"follows": "Jälgijate arv",
 			"newest": "Hiljuti loodud",
 			"updated": "Hiljuti uuendatud"
-		}
+		},
+		"per_page": "Juba lehekülje kaupa"
 	},
 	"status": {
 		"approved": "Heakskiidetud",
