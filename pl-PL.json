@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "Wyszyść",
 			"hide": "Ukryj filtry",
 			"show": "Pokaż filtry",
 			"show_snapshots": "Pokaż snapshoty",
@@ -249,7 +250,8 @@
 			"follows": "Ilość obserwujących",
 			"newest": "Ostatnio utworzone",
 			"updated": "Ostatnio zaktualizowane"
-		}
+		},
+		"per_page": "Pokazuj naraz"
 	},
 	"status": {
 		"approved": "Zatwierdzony",
