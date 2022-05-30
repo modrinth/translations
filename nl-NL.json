@@ -28,14 +28,14 @@
 			},
 			"tools": {
 				"title": "Volledig open source",
-				"description": "Een open source project dat onderhouden wordt door een actieve gemeenschap die contributies verwelkomt."
+				"description": "Een open source project onderhouden door een actieve gemeenschap die bijdragen verwelkomt."
 			}
 		}
 	},
 	"header": {
 		"my_profile": "Ga naar mijn profiel",
 		"logout": "Uitloggen",
-		"github": "Log in met GitHub"
+		"github": "Inloggen met GitHub"
 	},
 	"footer": {
 		"description": "Modrinth is open source software.",
@@ -46,7 +46,7 @@
 			"rules": "Regels"
 		},
 		"resources": {
-			"heading": "Bronnen",
+			"heading": "Informatie",
 			"blog": "Blog",
 			"docs": "Documentatie"
 		},
@@ -67,25 +67,25 @@
 		}
 	},
 	"error": {
-		"status": "{status} Error",
+		"status": "{status} Fout",
 		"message": {
-			"404": "Oh oh, het lijkt erop dat je verdwaald bent in het [Labyrinth](https://github.com/modrinth/labrinth).<br />De pagina die je zoekt kon niet gevonden worden.",
-			"project_missing": "De {type} die u zoekt kon niet worden gevonden.",
+			"404": "Oh oh, het lijkt erop dat je verdwaald bent in het [Labyrinth](https://github.com/modrinth/labrinth).<br />De pagina die je zoekt, kon niet gevonden worden.",
+			"project_missing": "Het {type} dat je zocht kan niet gevonden worden.",
 			"default": "Er is een onverwachte fout is opgetreden."
 		},
 		"actions": {
 			"home": "Ga naar de hoofdpagina",
-			"discord": "Krijg hulp in de Discord"
+			"discord": "Krijg hulp op Discord"
 		}
 	},
 	"pages": {
 		"description": "Omschrijving",
 		"gallery": "Galerij",
-		"changelog": "Logboek",
+		"changelog": "Wijzigingsoverzicht",
 		"versions": "Versies",
 		"settings": "Instellingen",
 		"moderation": "Moderatie",
-		"notifications": "Meldingen",
+		"notifications": "Notificaties",
 		"about": "Over",
 		"following": "Volgend",
 		"terms": "Algemene voorwaarden",
@@ -108,7 +108,7 @@
 			"files": "Bestanden"
 		},
 		"actions": {
-			"create": "Maak aan",
+			"create": "Creëer",
 			"edit": "Bewerk",
 			"follow": "Volgen",
 			"unfollow": "Ontvolgen",
