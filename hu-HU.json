@@ -274,7 +274,7 @@
 	"stats": {
 		"joined": "{ago} csatlakozott",
 		"notified": "{ago} értesítve",
-		"downloads": "{downloads, plural, one {<b>1</b> követő} other {<b>#</b> követők}}",
+		"downloads": "{downloads, plural, one {<b>1</b> letöltés} other {<b>#</b> letöltések}}",
 		"followers_of_projects": "{followers, plural, one {<b>1</b> projektet követ} other {<b>#</b> követi a projektjeit}}",
 		"followers": "{followers, plural, one {<b>1</b> követő} other {<b>#</b> követők}}",
 		"user_id": "Felhasználói ID: {id}",
