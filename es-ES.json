@@ -226,7 +226,7 @@
 	"version": {
 		"featured": "Destacado",
 		"autofeatured": "Destacados automáticamente",
-		"feature_action": "Presentar",
+		"feature_action": "Destacar",
 		"dependencies": "Dependencias",
 		"metadata": "Metadatos",
 		"release_channel": "Canal de lanzamientos",
