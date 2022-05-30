@@ -226,7 +226,7 @@
 	"version": {
 		"featured": "Destacado",
 		"autofeatured": "Destacados automáticamente",
-		"feature_action": "Característica",
+		"feature_action": "Presentar",
 		"dependencies": "Dependencias",
 		"metadata": "Metadatos",
 		"release_channel": "Canal de lanzamientos",
@@ -259,7 +259,7 @@
 		"draft": "Borrador",
 		"unlisted": "Sin listar",
 		"processing": "En revisión",
-		"unknown": "No reconocido"
+		"unknown": "Desconocido"
 	},
 	"release_channels": {
 		"release": "Lanzamiento",
@@ -297,7 +297,7 @@
 		"avatar": "Subir avatar"
 	},
 	"report": {
-		"singular": "Reportar",
+		"singular": "Reporte",
 		"plural": "Reportes",
 		"type": {
 			"spam": "Contenido no deseado",
@@ -379,6 +379,6 @@
 		"client": "Cliente",
 		"good": "Bueno",
 		"trash": "Basura",
-		"misc": "Miscelánea"
+		"misc": "Misceláneos"
 	}
 }
