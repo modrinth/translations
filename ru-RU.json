@@ -113,9 +113,9 @@
 			"follow": "Подписаться",
 			"unfollow": "Отписаться",
 			"feature": "Рекомендовать",
-			"report": "Пожаловаться",
+			"report": "Жалоба",
 			"new_project": "Новый проект",
-			"preview": "Предпросмотр",
+			"preview": "Просмотр",
 			"download": "Скачать",
 			"save": "Сохранить",
 			"confirm": "Подтвердить",
@@ -232,11 +232,11 @@
 		"release_channel": "Тип версии",
 		"number": "Номер версии",
 		"publication_date": "Дата публикации",
-		"publisher": "Создатель"
+		"publisher": "Опубликовано"
 	},
 	"search": {
 		"filters": {
-			"clear": "Сброс фильтров",
+			"clear": "Снять фильтры",
 			"hide": "Скрыть фильтры",
 			"show": "Показать фильтры",
 			"show_snapshots": "Показать снапшоты",
@@ -278,7 +278,7 @@
 		"followers_of_projects": "{followers, plural, one {<b>#</b> подписчик на проекты} few {<b>#</b> подписчика на проекты} many {<b>#</b> подписчиков на проекты} other {<b>#</b> подписчика на проекты}}",
 		"followers": "{followers, plural, one {<b>#</b> подписчик} few {<b>#</b> подписчика} many {<b>#</b> подписчиков} other {<b>#</b> подписчика}}",
 		"user_id": "ID пользователя: {id}",
-		"created": "Создано {ago}",
+		"created": "Создан {ago}",
 		"updated": "Обновлено {ago}"
 	},
 	"settings": {
