@@ -275,7 +275,7 @@
 		"joined": "Lid geworden {ago} geleden",
 		"notified": "Genotificeerd {ago} geleden",
 		"downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> volgers van projecten} other {<b>#</b> volgers van projecten}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> volger van project} other {<b>#</b> volgers van projecten}}",
 		"followers": "{followers, plural, one {<b>1</b> volger} other {<b>#</b> volgers}}",
 		"user_id": "Gebruiker ID: {id}",
 		"created": "Aangemaakt {ago} geleden",
