@@ -53,8 +53,8 @@
 		"buttons": {
 			"privacy": "Adatvédelmi beállítások",
 			"theme": {
-				"label": "Kinézet",
-				"system": "Rendszer theme",
+				"label": "Téma váltása",
+				"system": "Rendszer téma",
 				"light": "Világos mód",
 				"dark": "Sötét mód",
 				"oled": "OLED mód"
@@ -325,15 +325,15 @@
 			"yes_I_want_to_do_this": "Igen, visszafordíthatatlanul törölni akarom a fiókomat."
 		},
 		"auth": {
-			"title": "Felhatalmazó token",
-			"body": "A tokened használható a Modrinth API-val, a Minotaur Gradle pluginnal és egyéb alkalmazásokkal, amik kapcsolatban vannak a Modrinth API-val. Figyelj rá, hogy titokban tartsad!",
+			"title": "Hitelesítő token",
+			"body": "A hitelesítő tokened használható a Modrinth API-val, a Minotaur Gradle pluginnal és egyéb alkalmazásokkal, amik kapcsolatban vannak a Modrinth API-val. Figyelj rá, hogy titokban tartsad!",
 			"copy": "Token másolása a vágólapra",
-			"copied": "Token másolva a vágólapra!",
-			"revoke": "Tokened visszavonása"
+			"copied": "Token másolva vágólapra",
+			"revoke": "Token visszavonása"
 		},
 		"revoke_token": {
-			"title": "Modrinth API token visszavonása",
-			"body": "A Modrinth API tokened visszavonása váratlan hibákat vonhat maga után. Figyelj rá, hogy ezek elromolhatnak:\n - Minden alkalmazás, ami a tokenedet használja a Modrinth API eléréséhez.\n - Gradle - ha a Minotaur-nak hibás tokent adtál meg, a Gradle buildek sikertelenek lehetnek.\n - GitHub - ha a GitHub Actions a rossz tokent használja, hibálat fog okozni.\n\nHa szeretnéd folytatni, tedd meg a következő lépéseket:\n\n 1. Menj a  [Modrinth Alkalmazás oldalra GitHub-on](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Figyelj arra, hogy azt a GitHub fiókod használd, amivel Modrinth-re is belépsz!\n 2. Nyomd meg a nagy prios \"Revoke Access\" gombot a \"Permissions\" fejléc mellett.\n\nAmint megtetted ezeket a lépéseket nyomj a \"Continue\" gombra lent.\n\n**Ez ki fog jelentkeztetni téged Modrinth-ről, de amikor visszalépsz, a tokened újra lesz generálva.**",
+			"title": "Modrinth tokened visszavonása",
+			"body": "A Modrinth tokened visszavonása váratlan hibákat okozhat. Figyelj rá, hogy ezek elromolhatnak:\n - Minden alkalmazás, ami a tokenedet használja az API eléréséhez.\n - Gradle - ha a Minotaur-nak hibás tokent adtál meg, a Gradle buildek sikertelenek lehetnek.\n - GitHub - ha a GitHub Actions a rossz tokent használja, hibálat fog okozni.\n\nHa szeretnéd folytatni, tedd meg a következő lépéseket:\n\n 1. Menj a [Modrinth Alkalmazás oldalra GitHub-on](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Figyelj arra, hogy azt a GitHub fiókod használd, amivel Modrinth-re is belépsz!\n 2. Nyomd meg a nagy vörös \"Revoke Access\" gombot a \"Permissions\" fejléc mellett.\n\nAmint megtetted ezeket a lépéseket nyomj a \"Continue\" gombra lent.\n\n**Ez ki fog jelentkeztetni téged Modrinth-ről, de amikor visszalépsz, a tokened újra lesz generálva.**",
 			"action": "Kilépés"
 		}
 	},
