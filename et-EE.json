@@ -4,31 +4,31 @@
 	},
 	"index": {
 		"tagline": "Avasta, mängi ja loo Minecrafti sisu",
-		"description": "Meie kogukonna jaoks loodud avatud lähtekoodiga modimisplatvormi kaudu leiad nauditavat ja kvaliteetset sisu. Loo asju, saa tasu* ning juuruta oma projekt meie täielikult dokumenteeritud rakendusliidese abil!",
+		"description": "Leia meeldivat ja kvaliteetset sisu meie avatud lähtekoodiga modimisplatvormilt, mis on ehitatud kogukonna jaoks. Loo kraami, saa tasustatud* ning juuruta oma projekt meie täielikult dokumenteeritud rakendusliidese abil!",
 		"features": {
 			"book": {
 				"title": "Kergelt kasutatav rakendusliides",
 				"description": "Toetatud täielikult dokumenteeritud rakendusliidesega, mis hõlbustab kolmandate osapoolte integratsioonide ja mängukäivitajate kasvu."
 			},
 			"coin": {
-				"title": "Autorite teenimisvõimalused",
-				"description": "Soovime autoritele anda 100% nende projektilehtede reklaamitasudest. *Maksed on hetkel arenduses."
+				"title": "Autorite tasustamine",
+				"description": "Soovime autoritele anda 100% nende projektilehtede reklaamitasudest. *Tasustamine on hetkel arendusjärgus."
 			},
 			"speedometer": {
-				"title": "Välk-kiire otsing",
-				"description": "Põhineb kiiretel ja kohanduvatel otsingualgoritmidel, seega tulemusi ei pea ootama."
+				"title": "Välkkiire otsing",
+				"description": "Põhineb kiiretel ja kohanduvatel otsingualgoritmidel, seega tulemusi ei pea kaua ootama."
 			},
 			"chat": {
 				"title": "Abivalmis kogukond",
 				"description": "Hangi tuge, arenda ja veeda aega meie enam kui 1500 liikmega Discordi serveris."
 			},
 			"puzzle": {
-				"title": "Disainitud laiendatavaks",
-				"description": "Integreerub arendustööriistade, koodihoidlate, mängukäivitajate ja kohandatud rakendustega."
+				"title": "Laiendatavaks disainitud",
+				"description": "Ühendub arendustööriistade, koodihoidlate, mängukäivitajate ja kohandatud rakendustega."
 			},
 			"tools": {
 				"title": "Täielikult avatud lähtekoodiga",
-				"description": "Avatud lähtekoodiga projekt, mida haldab aktiivne kogukond, kes tervitab kaastöid."
+				"description": "Avatud lähtekoodiga projekt, mida haldab aktiivne kogukond, mis tervitab kaastööd."
 			}
 		}
 	},
@@ -41,7 +41,7 @@
 		"description": "Modrinth on avatud lähtekoodiga tarkvara.",
 		"legal": {
 			"heading": "Legaalne",
-			"terms": "Teenusetingimused",
+			"terms": "Tingimused",
 			"privacy": "Privaatsus",
 			"rules": "Reeglid"
 		},
@@ -90,7 +90,7 @@
 		"following": "Jälgitavad",
 		"terms": "Teenusetingimused",
 		"privacy": "Privaatsuspoliitika",
-		"rules": "Projekti reeglid",
+		"rules": "Projektireeglid",
 		"all": "Kõik"
 	},
 	"generic": {
@@ -113,7 +113,7 @@
 			"follow": "Jälgi",
 			"unfollow": "Tühista jälgimine",
 			"feature": "Too esile",
-			"report": "Teata",
+			"report": "Teavita",
 			"new_project": "Uus projekt",
 			"preview": "Eelvaade",
 			"download": "Laadi alla",
@@ -133,7 +133,7 @@
 			"github_profile": "GitHubi profiil",
 			"discord": "Discord",
 			"github": "GitHub",
-			"issues": "Vigade loend",
+			"issues": "Probleemid",
 			"source": "Lähtekood",
 			"wiki": "Viki",
 			"patreon": "Patreon",
@@ -146,8 +146,8 @@
 		"environments": {
 			"singular": "Keskkond",
 			"plural": "Keskkonnad",
-			"server_side": "Serveripoolne",
-			"client_side": "Kliendipoolne",
+			"server_side": "Serveri poolel",
+			"client_side": "Kliendi poolel",
 			"values": {
 				"required": "Nõutud",
 				"unsupported": "Mittetoetatud",
@@ -178,7 +178,7 @@
 			"technical_information": "Tehniline teave"
 		},
 		"gallery": {
-			"upload": "Laadi galeriipilt üles",
+			"upload": "Laadi üles galeriipilt",
 			"confirm": "Kas soovid kindlasti selle galeriipildi kustutada?",
 			"placeholder": {
 				"title": "Sisesta pildi pealkiri...",
@@ -193,13 +193,13 @@
 		"members": "Liikmed",
 		"permissions": "Õigused",
 		"permission": {
-			"upload_version": "Laadi versioon üles",
-			"delete_version": "Kustuta versioon",
-			"edit_details": "Muuda üksikasju",
-			"edit_body": "Muuda sisu",
-			"manage_invites": "Halda kutseid",
-			"remove_member": "Eemalda liikmeid",
-			"edit_member": "Muuda liikmeid",
+			"upload_version": "Versiooni üleslaadimine",
+			"delete_version": "Versiooni kustutamine",
+			"edit_details": "Üksikasjade muutmine",
+			"edit_body": "Sisu muutmine",
+			"manage_invites": "Kutsete haldamine",
+			"remove_member": "Liikmete eemaldamine",
+			"edit_member": "Liikmete muutmine",
 			"delete_project": "Kustuta projekt"
 		},
 		"role": {
@@ -214,7 +214,7 @@
 		},
 		"ownership": {
 			"title": "Omandiõigus",
-			"description": "Anna selle projekti omandiõigus teisele kasutajale.",
+			"description": "Anna selle projekti omandiõigus teisele kasutajale üle.",
 			"action": "Anna omandiõigus üle"
 		},
 		"delete": {
@@ -244,14 +244,14 @@
 			"licenses": "Litsentsid"
 		},
 		"sort": {
-			"by": "Sorteeri",
+			"by": "Sorteeri:",
 			"relevance": "Asjakohasus",
 			"downloads": "Allalaadimiste arv",
 			"follows": "Jälgijate arv",
 			"newest": "Hiljuti loodud",
 			"updated": "Hiljuti uuendatud"
 		},
-		"per_page": "Juba lehekülje kaupa"
+		"per_page": "Tulemusi leheküljel"
 	},
 	"status": {
 		"approved": "Heakskiidetud",
@@ -275,7 +275,7 @@
 		"joined": "Liitus {ago}",
 		"notified": "Teavitatud {ago}",
 		"downloads": "{downloads, plural, one {<b>1</b> allalaadimine} other {<b>#</b> allalaadimist}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> projektide jälgija} other {<b>#</b> projektide jälgijad}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> projektide jälgija} other {<b>#</b> projektide jälgijat}}",
 		"followers": "{followers, plural, one {<b>1</b> jälgija} other {<b>#</b> jälgijat}}",
 		"user_id": "Kasutaja ID: {id}",
 		"created": "Loodud {ago}",
@@ -297,7 +297,7 @@
 		"avatar": "Laadi üles profiilipilt"
 	},
 	"report": {
-		"singular": "Teata",
+		"singular": "Raport",
 		"plural": "Raportid",
 		"type": {
 			"spam": "Rämpssisu",
@@ -319,7 +319,7 @@
 		},
 		"delete": {
 			"title": "Kustuta konto",
-			"body": "Kui oled oma konto kustutanud, pole enam tagasiteed. Konto kustutamisel eemaldatakse meie serveritest kõik sellega seonduvad andmed, sealhulgas projektid.",
+			"body": "Kui kustutad oma konto, siis tagasiteed enam pole. Konto kustutamisel eemaldatakse meie serveritest kõik sellega seonduvad andmed, sealhulgas projektid.",
 			"confirm_title": "Kas soovid kindlasti oma konto kustutada?",
 			"confirm_body": "See **kustutab koheselt kõik su projektid** ja jälgimised. Konto kustutamist ei saa tagasi võtta.\n\nKui soovid kontoga abi, hangi tuge [Modrinthi Discordis](/discord).",
 			"yes_I_want_to_do_this": "Jah, kustuta mu konto pöördumatult"
@@ -333,7 +333,7 @@
 		},
 		"revoke_token": {
 			"title": "Muuda Modrinthi pääsutõend kehtetuks",
-			"body": "Modrinthi pääsutõendi kehtetuks muutmisel võivad olla soovimatud tagajärjed. Pane tähele, et järgnevad asjad võivad katki minna:\n - Mistahes rakendus, mis kasutab rakendusliidesele ligipääsemiseks sinu pääsutõendit.\n - Gradle - kui Minotauril on kehtetu pääsutõend, võivad ebaõnnestuda sinu Gradle'i ehitustööd.\n - GitHub - kui kasutad GitHub Action'it, mis kasutab Modrinthi rakendusliidest, põhjustab see veateateid.\n\nKui soovid jätkata, teosta järgnevad sammud:\n\n 1. Mine [Modrinthi rakenduse lehele GitHubis](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Veendu, et oled sisse logitud sama GitHubi kontoga, mida kasutasid Modrinthi jaoks!\n 2. Vajuta suurt punast \"Revoke Access\" (\"tühista ligipääs\") nuppu \"Permissions\" päise kõrval.\n\nKui oled need sammud täitnud, vajuta allpool jätkamisnuppu.\n\n**See logib sind Modrinthist välja, ent kui tagasi sisse logid, luuakse sulle uus pääsutõend.**",
+			"body": "Modrinthi pääsutõendi kehtetuks muutmisel võivad olla soovimatud tagajärjed. Pane tähele, et järgnevad asjad võivad katki minna:\n - Mistahes rakendus, mis kasutab rakendusliidesele ligipääsemiseks sinu pääsutõendit.\n - Gradle - kui Minotauril on kehtetu pääsutõend, võivad ebaõnnestuda sinu Gradle'i ehitustööd.\n - GitHub - kui kasutad GitHub Action'it, mis kasutab Modrinthi rakendusliidest, hakkab see veateateid tagastama.\n\nKui soovid jätkata, teosta järgnevad sammud:\n\n 1. Mine [GitHubis Modrinthi rakenduse lehele](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Veendu, et oled sisse logitud sama GitHubi kontoga, mida kasutasid Modrinthi jaoks!\n 2. Vajuta suurt punast \"Revoke Access\" (\"tühista ligipääs\") nuppu \"Permissions\" päise kõrval.\n\nKui oled need sammud täitnud, vajuta allpool jätkamisnuppu.\n\n**See logib sind Modrinthist välja, ent kui tagasi sisse logid, luuakse sulle uus pääsutõend.**",
 			"action": "Logi välja"
 		}
 	},
@@ -342,7 +342,7 @@
 		"how_to": "Üleslaadimiseks sikuta fail siia või klõpsa valimiseks"
 	},
 	"ads": {
-		"privacy_respecting": "Siin oleks kuvatud privaatsust austav reklaam.",
+		"privacy_respecting": "Siin oleks olnud kuvatud privaatsust austav reklaam.",
 		"console": {
 			"line1": "Kasutad reklaamiblokeerijat.",
 			"line2": "Sinu reklaamiblokeerija tõkestas Modrinthil reklaami kuvamise, meie ainsa sissetulekuallika.",
@@ -359,7 +359,7 @@
 		"library": "Teek",
 		"cursed": "Neetud",
 		"worldgen": "Maailmageneratsioon",
-		"storage": "Hoidla",
+		"storage": "Hoiustamine",
 		"food": "Toit",
 		"equipment": "Varustus",
 		"miscellaneous": "Varia",
