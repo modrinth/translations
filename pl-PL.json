@@ -34,11 +34,11 @@
 	},
 	"header": {
 		"my_profile": "Idź do mojego profilu",
-		"logout": "Wyloguj się",
+		"logout": "Wyloguj",
 		"github": "Zaloguj się przez GitHub"
 	},
 	"footer": {
-		"description": "Modrinth jest oprogramowaniem open source.",
+		"description": "Modrinth to otwarte oprogramowanie.",
 		"legal": {
 			"heading": "Polityka",
 			"terms": "Warunki",
@@ -87,7 +87,7 @@
 		"moderation": "Moderacja",
 		"notifications": "Powiadomienia",
 		"about": "O nas",
-		"following": "Obserwujący",
+		"following": "Obserwowane",
 		"terms": "Zasady i warunki",
 		"privacy": "Polityka prywatności",
 		"rules": "Zasady projektu",
@@ -127,27 +127,27 @@
 		"popup": {
 			"verify": "Aby zweryfikować, wprowadź <i>{content}</i> poniżej:",
 			"important": "To jest bardzo ważne.",
-			"placeholder": "Wpisz tutaj..."
+			"placeholder": "Wprowadź tutaj..."
 		},
 		"external": {
 			"github_profile": "Profil GitHub",
 			"discord": "Discord",
 			"github": "GitHub",
 			"issues": "Problemy",
-			"source": "Kod źródłowy",
+			"source": "Źródło",
 			"wiki": "Wiki",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
 			"buy_me_a_coffee": "Buy Me a Coffee",
 			"github_sponsors": "Sponsorzy GitHub",
-			"donate": "Darowizna",
+			"donate": "Wesprzyj",
 			"kofi": "Ko-Fi"
 		},
 		"environments": {
 			"singular": "Środowisko",
 			"plural": "Środowiska",
-			"server_side": "Strona serwera",
-			"client_side": "Strona klienta",
+			"server_side": "Po stronie serwera",
+			"client_side": "Po stronie klienta",
 			"values": {
 				"required": "Wymagany",
 				"unsupported": "Nieobsługiwany",
@@ -168,14 +168,14 @@
 			"modpack": {
 				"singular": "Paczka modów",
 				"plural": "Paczki modów",
-				"search": "Szukaj modpacków..."
+				"search": "Szukaj paczek modów..."
 			}
 		},
 		"sidebar_headings": {
 			"external_resources": "Zasoby zewnętrzne",
 			"featured_versions": "Wyróżnione wersje",
 			"project_members": "Członkowie projektu",
-			"technical_information": "Informacja techniczna"
+			"technical_information": "Dane techniczne"
 		},
 		"gallery": {
 			"upload": "Prześlij obraz do galerii",
@@ -193,14 +193,14 @@
 		"members": "Członkowie",
 		"permissions": "Uprawnienia",
 		"permission": {
-			"upload_version": "Prześlij wersję",
-			"delete_version": "Usuń wersję",
-			"edit_details": "Edytuj szczegóły",
-			"edit_body": "Edytuj treść",
-			"manage_invites": "Zarządzaj zaproszeniami",
-			"remove_member": "Usuń członków",
-			"edit_member": "Edytuj członków",
-			"delete_project": "Usuń projekt"
+			"upload_version": "Przesyłanie wersji",
+			"delete_version": "Usuwanie wersji",
+			"edit_details": "Edytowanie szczegółów",
+			"edit_body": "Edytowanie treść",
+			"manage_invites": "Zarządzanie zaproszeniami",
+			"remove_member": "Usuwanie członków",
+			"edit_member": "Edytowanie członków",
+			"delete_project": "Usuwanie projekt"
 		},
 		"role": {
 			"text": "Rola",
@@ -213,9 +213,9 @@
 			"action": "Zmień widoczność"
 		},
 		"ownership": {
-			"title": "Własność",
+			"title": "Właściciel",
 			"description": "Przenieś własność tego projektu do innego użytkownika.",
-			"action": "Przenieś własność"
+			"action": "Zmień właściciela"
 		},
 		"delete": {
 			"title": "Usuń projekt",
@@ -229,38 +229,40 @@
 		"feature_action": "Wyróżnij",
 		"dependencies": "Zależności",
 		"metadata": "Metadane",
-		"release_channel": "Kanał wydania",
+		"release_channel": "Wydanie",
 		"number": "Numer wersji",
-		"publication_date": "Data wydania",
+		"publication_date": "Data publikacji",
 		"publisher": "Wydawca"
 	},
 	"search": {
 		"filters": {
+			"clear": "Wyszyść",
 			"hide": "Ukryj filtry",
 			"show": "Pokaż filtry",
-			"show_snapshots": "Pokaż snapshoty",
+			"show_snapshots": "Pokazuj snapshoty",
 			"search_versions": "Szukaj wersje...",
 			"licenses": "Licencje"
 		},
 		"sort": {
 			"by": "Sortuj według",
-			"relevance": "Istotność",
+			"relevance": "Trafność",
 			"downloads": "Ilość pobrań",
 			"follows": "Ilość obserwujących",
-			"newest": "Ostatnio utworzone",
+			"newest": "Ostatnio dodane",
 			"updated": "Ostatnio zaktualizowane"
-		}
+		},
+		"per_page": "Pokazuj naraz"
 	},
 	"status": {
 		"approved": "Zatwierdzony",
 		"rejected": "Odrzucony",
-		"draft": "Szkic",
-		"unlisted": "Niewymieniony",
+		"draft": "Wersja robocza",
+		"unlisted": "Niepubliczny",
 		"processing": "W trakcie przeglądu",
 		"unknown": "Nieznany"
 	},
 	"release_channels": {
-		"release": "Wydanie",
+		"release": "Stabilny",
 		"beta": "Beta",
 		"alpha": "Alfa"
 	},
@@ -300,8 +302,8 @@
 		"type": {
 			"spam": "Spam",
 			"copyright": "Prawa autorskie",
-			"inappropriate": "Nieodpowiednie",
-			"malicious": "Złośliwe",
+			"inappropriate": "Nieodpowiedni",
+			"malicious": "Złośliwy",
 			"name-squatting": "Skradziona nazwa",
 			"other": "Inne"
 		},
@@ -313,7 +315,7 @@
 	"user": {
 		"following": {
 			"loading": "Ładowanie obserwowanych projektów...",
-			"none": "Nie obserwowałeś żadnych projektów."
+			"none": "Nie obserwujesz żadnych projektów."
 		},
 		"delete": {
 			"title": "Usuń konto",
@@ -332,7 +334,7 @@
 		"revoke_token": {
 			"title": "Unieważnij swój token Modrinth",
 			"body": "Unieważnienie tokena Modrinth może mieć niezamierzone konsekwencje. Należy pamiętać, że następujące rzeczy mogą przestać działać:\n - Każda aplikacja, która używa twojego tokena, aby uzyskać dostęp do API.\n - Gradle - jeśli Minotaur będzie miał nieprawidłowy token, twoje kompilacje Gradle mogą się nie powieść.\n - GitHub - jeśli używasz akcji GitHub, które korzystają z API Modrinth, spowoduje to błędy.\n\nJeśli chcesz kontynuować, wykonaj następujące kroki:\n\n 1. Udaj się na stronę aplikacji [Modrinth na GitHubie](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Upewnij się, że jesteś zalogowany na konto GitHub, którego użyłeś do Modrinth!\n 2. Naciśnij duży czerwony przycisk \"Cofnij dostęp\" znajdujący się obok nagłówka \"Uprawnienia\".\n\nPo wykonaniu tych czynności naciśnij poniższy przycisk \"Kontynuuj\".\n\n**Spowoduje to wylogowanie z Modrinth, ale kiedy zalogujesz się ponownie, twój token zostanie zregenerowany.",
-			"action": "Wyloguj się"
+			"action": "Wyloguj"
 		}
 	},
 	"images": {
@@ -352,7 +354,7 @@
 		"technology": "Technologia",
 		"adventure": "Przygoda",
 		"magic": "Magia",
-		"utility": "Użytkowe",
+		"utility": "Użyteczne",
 		"decoration": "Dekoracja",
 		"library": "Biblioteka",
 		"cursed": "Przeklęty",

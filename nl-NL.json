@@ -3,12 +3,12 @@
 		"no_translation": "Door de aard van deze pagina is de enige officiële versie van deze inhoud in het Engels."
 	},
 	"index": {
-		"tagline": "Ontdek, speel en creëer Minecraft content",
+		"tagline": "Vind, speel en creëer Minecraft content",
 		"description": "Vind leuke en hoogwaardige content via ons open-source modding platform gebouwd voor de community. Maak iets, krijg betaald*, en implementeer je project met onze volledig gedocumenteerde API!",
 		"features": {
 			"book": {
 				"title": "Eenvoudig te gebruiken API",
-				"description": "Dankzij een volledig gedocumenteerde API wordt de groei van integraties en launchers van derde partijen vergemakkelijkt."
+				"description": "Dankzij een volledig gedocumenteerde API wordt de groei en integratie met launchers van derde partijen vergemakkelijkt."
 			},
 			"coin": {
 				"title": "Inkomsten voor auteurs",
@@ -28,14 +28,14 @@
 			},
 			"tools": {
 				"title": "Volledig open source",
-				"description": "Een open source project dat onderhouden wordt door een actieve gemeenschap die contributies verwelkomt."
+				"description": "Een open source project onderhouden door een actieve gemeenschap die bijdragen verwelkomt."
 			}
 		}
 	},
 	"header": {
 		"my_profile": "Ga naar mijn profiel",
 		"logout": "Uitloggen",
-		"github": "Log in met GitHub"
+		"github": "Inloggen met GitHub"
 	},
 	"footer": {
 		"description": "Modrinth is open source software.",
@@ -46,7 +46,7 @@
 			"rules": "Regels"
 		},
 		"resources": {
-			"heading": "Bronnen",
+			"heading": "Informatie",
 			"blog": "Blog",
 			"docs": "Documentatie"
 		},
@@ -62,36 +62,36 @@
 			"language": {
 				"label": "Taal selecteren",
 				"en": "Nederlands",
-				"en-GB": "Nederlands"
+				"en-GB": "Nederlands(NL)"
 			}
 		}
 	},
 	"error": {
 		"status": "{status} Fout",
 		"message": {
-			"404": "Oh oh, het lijkt erop dat je verdwaald bent in het [Labyrinth](https://github.com/modrinth/labrinth).<br />De pagina die je zoekt kon niet gevonden worden.",
-			"project_missing": "De {type} die u zoekt kon niet worden gevonden.",
+			"404": "Oh oh, het lijkt erop dat je verdwaald bent in het [Labyrinth](https://github.com/modrinth/labrinth).<br />De pagina die je zoekt, kon niet gevonden worden.",
+			"project_missing": "Het {type} dat je zocht kan niet gevonden worden.",
 			"default": "Er is een onverwachte fout is opgetreden."
 		},
 		"actions": {
 			"home": "Ga naar de hoofdpagina",
-			"discord": "Krijg hulp in de Discord"
+			"discord": "Krijg hulp op Discord"
 		}
 	},
 	"pages": {
 		"description": "Omschrijving",
 		"gallery": "Galerij",
-		"changelog": "Logboek",
+		"changelog": "Wijzigingsoverzicht",
 		"versions": "Versies",
 		"settings": "Instellingen",
 		"moderation": "Moderatie",
-		"notifications": "Meldingen",
+		"notifications": "Notificaties",
 		"about": "Over",
 		"following": "Volgend",
 		"terms": "Algemene voorwaarden",
 		"privacy": "Privacybeleid",
 		"rules": "Project regels",
-		"all": "Alle"
+		"all": "Alles"
 	},
 	"generic": {
 		"labels": {
@@ -108,7 +108,7 @@
 			"files": "Bestanden"
 		},
 		"actions": {
-			"create": "Aanmaken",
+			"create": "Creëer",
 			"edit": "Bewerk",
 			"follow": "Volgen",
 			"unfollow": "Ontvolgen",
@@ -120,13 +120,13 @@
 			"save": "Opslaan",
 			"confirm": "Bevestigen",
 			"remove": "Verwijder",
-			"delete": "Wissen",
+			"delete": "Verwijder",
 			"cancel": "Annuleren",
 			"discard": "Wijzigingen negeren"
 		},
 		"popup": {
 			"verify": "Typ <i>{content}</i> hieronder om het te verifiëren:",
-			"important": "Dat is uiterst belangrijk.",
+			"important": "Dit is uiterst belangrijk.",
 			"placeholder": "Hier typen..."
 		},
 		"external": {
@@ -140,7 +140,7 @@
 			"paypal": "PayPal",
 			"buy_me_a_coffee": "Buy Me a Coffee",
 			"github_sponsors": "GitHub Sponsors",
-			"donate": "Doneren",
+			"donate": "Doneer",
 			"kofi": "Ko-Fi"
 		},
 		"environments": {
@@ -163,7 +163,7 @@
 			"mod": {
 				"singular": "Mod",
 				"plural": "Mods",
-				"search": "Zoek mods..."
+				"search": "Mods zoeken..."
 			},
 			"modpack": {
 				"singular": "Modpakket",
@@ -186,7 +186,7 @@
 			}
 		},
 		"body": {
-			"editor": "Tekst bewerker",
+			"editor": "Bewerker",
 			"placeholder": "Voer de projectbeschrijving in...",
 			"empty": "Deze projectbeschrijving is leeg."
 		},
@@ -197,7 +197,7 @@
 			"delete_version": "Versie verwijderen",
 			"edit_details": "Details bewerken",
 			"edit_body": "Bewerk text",
-			"manage_invites": "Beheer uitnodigingen",
+			"manage_invites": "Uitnodigingen beheer",
 			"remove_member": "Leden verwijderen",
 			"edit_member": "Leden bewerken",
 			"delete_project": "Project verwijderen"
@@ -228,7 +228,7 @@
 		"autofeatured": "Automatisch uitgelicht",
 		"feature_action": "Mogelijkheden",
 		"dependencies": "Afhankelijkheden",
-		"metadata": "Metagedata",
+		"metadata": "Metadata",
 		"release_channel": "Release-kanaal",
 		"number": "Versienummer",
 		"publication_date": "Publicatiedatum",
@@ -251,7 +251,7 @@
 			"newest": "Recent gemaakt",
 			"updated": "Recent bijgewerkt"
 		},
-		"per_page": "Laat zien per pagina"
+		"per_page": "Per pagina laten zien"
 	},
 	"status": {
 		"approved": "Goedgekeurd",
@@ -272,14 +272,14 @@
 		"moderator": "Beheerder"
 	},
 	"stats": {
-		"joined": "Lid geworden {ago}",
-		"notified": "Genotificeerd {ago}",
+		"joined": "Lid geworden {ago} geleden",
+		"notified": "Genotificeerd {ago} geleden",
 		"downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> volgers van projecten} other {<b>#</b> volgers van projecten}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> volger van project} other {<b>#</b> volgers van projecten}}",
 		"followers": "{followers, plural, one {<b>1</b> volger} other {<b>#</b> volgers}}",
 		"user_id": "Gebruiker ID: {id}",
-		"created": "Aangemaakt {ago}",
-		"updated": "Bijgewerkt {ago}"
+		"created": "Aangemaakt {ago} geleden",
+		"updated": "Bijgewerkt {ago} geleden"
 	},
 	"settings": {
 		"username": {
@@ -319,7 +319,7 @@
 		},
 		"delete": {
 			"title": "Account verwijderen",
-			"body": "Als je je account verwijderd, is er geen weg meer terug. Bij het verwijderen van je account wordt alle gekoppelde gegevens, waaronder projecten, van je account verwijderd.",
+			"body": "Als je je account verwijderd, is er geen weg meer terug. Bij het verwijderen van je account worden alle gekoppelde gegevens, waaronder projecten, van je account verwijderd.",
 			"confirm_title": "Weet je zeker dat je je account wilt verwijderen?",
 			"confirm_body": "Dit zal **al je projecten direct verwijderen**. Het verwijderen van je account kan niet ongedaan worden gemaakt.\n\nAls je hulp nodig hebt met je account, krijg dan ondersteuning op de [Modrinth Discord](/discord).",
 			"yes_I_want_to_do_this": "Ja, mijn account onherstelbaar verwijderen"
@@ -345,7 +345,7 @@
 		"privacy_respecting": "Hier zou sprake zijn geweest van een advertentie die uw privacy respecteert.",
 		"console": {
 			"line1": "Je gebruikt een adblocker.",
-			"line2": "Je adblocker heeft voorkomen dat Modrinth een advertentie weergeeft, onze enige bron van inkomsten.",
+			"line2": "Je adblocker heeft voorkomen dat Modrinth een advertentie weergeeft, onze enige bron van inkomen.",
 			"line3": "Als je Modrinth nog wilt helpen zonder advertenties te bekijken, kun je bijdragen aan Modrinth op GitHub!",
 			"line4": "https://github.com/modrinth/"
 		}
@@ -365,7 +365,7 @@
 		"miscellaneous": "Overig",
 		"challenging": "Uitdagingen",
 		"combat": "Gevecht",
-		"kitchen-sink": "Kitchen Sink",
+		"kitchen-sink": "Keuken Spoelbak",
 		"lightweight": "Lichtgewicht",
 		"multiplayer": "Multiplayer",
 		"quests": "Uitdagingen",
