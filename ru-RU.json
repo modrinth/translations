@@ -140,8 +140,8 @@
 			"paypal": "PayPal",
 			"buy_me_a_coffee": "Buy Me a Coffee",
 			"github_sponsors": "GitHub Sponsors",
-			"donate": "Пожертвовать",
-			"kofi": "Ko-Fi"
+			"donate": "Поддержать",
+			"kofi": "Ko-fi"
 		},
 		"environments": {
 			"singular": "Окружение",
@@ -152,7 +152,7 @@
 				"required": "Требуется",
 				"unsupported": "Не поддерживается",
 				"optional": "Опционально",
-				"unknown": "Неизвестно"
+				"unknown": "Не указано"
 			}
 		},
 		"up_to_date": "Вы в курсе всех обновлений!",
@@ -172,7 +172,7 @@
 			}
 		},
 		"sidebar_headings": {
-			"external_resources": "Внешние ресурсы",
+			"external_resources": "Внешние ссылки",
 			"featured_versions": "Рекомендуемые версии",
 			"project_members": "Участники проекта",
 			"technical_information": "Техническая информация"
@@ -193,18 +193,18 @@
 		"members": "Участники",
 		"permissions": "Разрешения",
 		"permission": {
-			"upload_version": "Загрузить версию",
-			"delete_version": "Удалить версию",
-			"edit_details": "Изменить детали",
-			"edit_body": "Редактировать описание",
+			"upload_version": "Загрузка версий",
+			"delete_version": "Удаление версий",
+			"edit_details": "Изменение деталей",
+			"edit_body": "Изменение описания",
 			"manage_invites": "Управление приглашениями",
-			"remove_member": "Удалить участников",
-			"edit_member": "Изменить участников",
-			"delete_project": "Удалить проект"
+			"remove_member": "Исключение участников",
+			"edit_member": "Настройка участников",
+			"delete_project": "Удаление проекта"
 		},
 		"role": {
-			"text": "Роль",
-			"placeholder": "Введите роли..."
+			"text": "Статус",
+			"placeholder": "Введите статус..."
 		},
 		"advanced": "Расширенные",
 		"visibility": {
@@ -288,7 +288,7 @@
 		},
 		"bio": {
 			"text": "О себе",
-			"placeholder": "Расскажите о себе..."
+			"placeholder": "Рассказать о себе..."
 		},
 		"email": {
 			"text": "<b>Личный e-mail адрес</b> (доступен только модераторам)",
@@ -332,13 +332,13 @@
 			"revoke": "Отозвать токен"
 		},
 		"revoke_token": {
-			"title": "Отозвать ваш токен Modrinth API",
+			"title": "Отозвать ваш токен Modrinth",
 			"body": "Отзыв вашего токена Modrinth может иметь непредвиденные последствия. Имейте в виду, что сломаться может следуещее:\n - Любое приложение, использующее ваш токен.\n - Gradle - если в Minotaur указан неверный токен, сборки Gradle могут завершиться неудачей.\n - GitHub - если вы используете действие GitHub, использующее API Modrinth, это вызовет ошибки.\n\nЕсли вы хотите продолжить, выполните следующие шаги:\n\n 1. Зайдите на страницу [Приложение Modrinth на GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Убедитесь, что вы вошли в аккаунт GitHub, который вы использовали на Modrinth!\n 2. Нажмите большую красную кнопку «Revoke Access» рядом с заголовком «Permissions».\n\nПосле нажмите кнопку подтверждения ниже.\n\n**Этим самым вы выйдете из Modrinth, однако, когда вы снова войдете в систему, ваш токен будет восстановлен.**",
 			"action": "Выйти"
 		}
 	},
 	"images": {
-		"replace": "Изменить изображение",
+		"replace": "Сменить изображение",
 		"how_to": "Перетащите сюда файл или нажмите чтобы выбрать"
 	},
 	"ads": {
@@ -355,11 +355,11 @@
 		"adventure": "Приключения",
 		"magic": "Магия",
 		"utility": "Утилиты",
-		"decoration": "Косметика",
-		"library": "Библиотеки",
-		"cursed": "Странные",
+		"decoration": "Декорации",
+		"library": "Библиотека",
+		"cursed": "Проклято",
 		"worldgen": "Генерация мира",
-		"storage": "Инвентарь",
+		"storage": "Хранилище",
 		"food": "Еда",
 		"equipment": "Снаряжение",
 		"miscellaneous": "Разное",
