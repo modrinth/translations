@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "清除筛选",
 			"hide": "隐藏筛选条件",
 			"show": "展开筛选条件",
 			"show_snapshots": "显示快照版本",
@@ -249,7 +250,8 @@
 			"follows": "关注数",
 			"newest": "最近发布",
 			"updated": "最近更新"
-		}
+		},
+		"per_page": "每页显示数量"
 	},
 	"status": {
 		"approved": "已通过",
@@ -355,7 +357,7 @@
 		"utility": "实用工具",
 		"decoration": "装饰",
 		"library": "类库",
-		"cursed": "Cursed",
+		"cursed": "魔性",
 		"worldgen": "世界生成",
 		"storage": "存储",
 		"food": "食物",
