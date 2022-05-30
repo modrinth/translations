@@ -86,10 +86,10 @@
 		"settings": "설정",
 		"moderation": "관리",
 		"notifications": "알림",
-		"about": "정보",
+		"about": "소개",
 		"following": "팔로우 중",
 		"terms": "이용약관",
-		"privacy": "개인정보 처리방침",
+		"privacy": "개인정보처리방침",
 		"rules": "프로젝트 규칙",
 		"all": "전체"
 	},
@@ -138,8 +138,8 @@
 			"wiki": "위키",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
-			"buy_me_a_coffee": "커피 사주세요",
-			"github_sponsors": "GitHub 후원자",
+			"buy_me_a_coffee": "Buy Me a Coffee",
+			"github_sponsors": "GitHub Sponsors",
 			"donate": "후원",
 			"kofi": "Ko-Fi"
 		},
@@ -173,8 +173,8 @@
 		},
 		"sidebar_headings": {
 			"external_resources": "외부 리소스",
-			"featured_versions": "지원하는 버전",
-			"project_members": "프로젝트 구성원",
+			"featured_versions": "출시된 버전",
+			"project_members": "프로젝트 멤버",
 			"technical_information": "기술적 정보"
 		},
 		"gallery": {
@@ -190,7 +190,7 @@
 			"placeholder": "프로젝트의 본문을 입력하세요...",
 			"empty": "이 프로젝트의 설명이 없습니다."
 		},
-		"members": "구성원",
+		"members": "멤버",
 		"permissions": "권한",
 		"permission": {
 			"upload_version": "버전 업로드",
@@ -198,13 +198,13 @@
 			"edit_details": "세부 정보 수정",
 			"edit_body": "본문 수정",
 			"manage_invites": "초대 관리",
-			"remove_member": "구성원 제거",
-			"edit_member": "구성원 편집",
+			"remove_member": "멤버 제거",
+			"edit_member": "멤버 편집",
 			"delete_project": "프로젝트 삭제"
 		},
 		"role": {
 			"text": "권한",
-			"placeholder": "역할 입력..."
+			"placeholder": "권한 입력..."
 		},
 		"advanced": "고급",
 		"visibility": {
@@ -229,14 +229,14 @@
 		"feature_action": "추천",
 		"dependencies": "의존성",
 		"metadata": "메타데이터",
-		"release_channel": "출시 상태",
-		"number": "버전",
+		"release_channel": "출시 종류",
+		"number": "버전 구분",
 		"publication_date": "출시일",
 		"publisher": "출시자"
 	},
 	"search": {
 		"filters": {
-			"clear": "필터 지우기",
+			"clear": "필터 초기화",
 			"hide": "필터 숨기기",
 			"show": "필터 표시",
 			"show_snapshots": "스냅샷 표시",
@@ -245,18 +245,18 @@
 		},
 		"sort": {
 			"by": "정렬 기준",
-			"relevance": "관련성순",
+			"relevance": "연관성",
 			"downloads": "다운로드 수",
-			"follows": "팔로워순",
-			"newest": "최신순",
-			"updated": "업데이트순"
+			"follows": "팔로워 수",
+			"newest": "최근 생성순",
+			"updated": "최근 업데이트순"
 		},
 		"per_page": "페이지 당 표시 수"
 	},
 	"status": {
-		"approved": "승인",
-		"rejected": "거부",
-		"draft": "임시",
+		"approved": "승인된",
+		"rejected": "거부된",
+		"draft": "초안",
 		"unlisted": "비공개",
 		"processing": "검토 중",
 		"unknown": "알 수 없음"
@@ -268,30 +268,30 @@
 	},
 	"roles": {
 		"developer": "개발자",
-		"admin": "총책임자",
+		"admin": "관리자",
 		"moderator": "운영자"
 	},
 	"stats": {
 		"joined": "{ago} 전에 가입함",
 		"notified": "{ago} 전에 알림을 받음",
-		"downloads": "{downloads, plural, one {<b>1</b> 다운로드} other {<b>#</b> 다운로드}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> 프로젝트 팔로워} other {<b>#</b> 프로젝트 팔로워}}",
-		"followers": "{followers, plural, one {<b>1</b> 팔로워} other {<b>#</b> 팔로워}}",
+		"downloads": "{downloads, plural, one {<b>1</b> 다운로드 수} other {<b>#</b> 다운로드 수}}",
+		"followers_of_projects": "{followers, plural, one {<b>1</b> 프로젝트 팔로워 수} other {<b>#</b> 프로젝트 팔로워 수}}",
+		"followers": "{followers, plural, one {<b>1</b> 팔로워 수} other {<b>#</b> 팔로워 수}}",
 		"user_id": "사용자 ID: {id}",
 		"created": "{ago} 전에 생성됨",
 		"updated": "{ago} 전에 업데이트됨"
 	},
 	"settings": {
 		"username": {
-			"text": "사용자명",
-			"placeholder": "사용자명 입력..."
+			"text": "유저 이름",
+			"placeholder": "유저 이름 입력..."
 		},
 		"bio": {
 			"text": "자기소개",
 			"placeholder": "자기소개 추가..."
 		},
 		"email": {
-			"text": "<b>사적 이메일</b> (운영자에게만 보임)",
+			"text": "<b>비공개 이메일</b> (운영자에게만 보임)",
 			"placeholder": "이메일 추가..."
 		},
 		"avatar": "아바타 업로드"
@@ -300,7 +300,7 @@
 		"singular": "신고",
 		"plural": "신고",
 		"type": {
-			"spam": "도배",
+			"spam": "스팸",
 			"copyright": "저작권",
 			"inappropriate": "부적절",
 			"malicious": "악의성",
@@ -315,7 +315,7 @@
 	"user": {
 		"following": {
 			"loading": "팔로우한 프로젝트 불러오는 중...",
-			"none": "팔로우한 프로젝트가 없습니다."
+			"none": "어떠한 프로젝트도 팔로우하지 않았습니다."
 		},
 		"delete": {
 			"title": "계정 삭제",
@@ -357,15 +357,15 @@
 		"utility": "유틸리티",
 		"decoration": "장식",
 		"library": "라이브러리",
-		"cursed": "이상함",
+		"cursed": "요상함",
 		"worldgen": "세계 생성",
 		"storage": "저장소",
 		"food": "음식",
 		"equipment": "장비",
 		"miscellaneous": "기타",
-		"challenging": "어려움",
+		"challenging": "도전",
 		"combat": "전투",
-		"kitchen-sink": "무진장",
+		"kitchen-sink": "키친 싱크",
 		"lightweight": "가벼움",
 		"multiplayer": "멀티플레이어",
 		"quests": "퀘스트",
