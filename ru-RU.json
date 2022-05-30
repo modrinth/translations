@@ -245,16 +245,16 @@
 		},
 		"sort": {
 			"by": "Сортировка",
-			"relevance": "По соответствию",
-			"downloads": "По скачиваниям",
-			"follows": "По количеству подписчиков",
-			"newest": "По дате создания",
+			"relevance": "Соответствие",
+			"downloads": "Кол-во скачиваний",
+			"follows": "Кол-во подписчиков",
+			"newest": "Дата создания",
 			"updated": "Дата обновления"
 		},
 		"per_page": "На странице"
 	},
 	"status": {
-		"approved": "Утверждено",
+		"approved": "Одобрено",
 		"rejected": "Отклонено",
 		"draft": "Черновик",
 		"unlisted": "Скрыто",
@@ -278,12 +278,12 @@
 		"followers_of_projects": "{followers, plural, one {<b>#</b> подписчик на проекты} few {<b>#</b> подписчика на проекты} many {<b>#</b> подписчиков на проекты} other {<b>#</b> подписчика на проекты}}",
 		"followers": "{followers, plural, one {<b>#</b> подписчик} few {<b>#</b> подписчика} many {<b>#</b> подписчиков} other {<b>#</b> подписчика}}",
 		"user_id": "ID пользователя: {id}",
-		"created": "Создан {ago}",
+		"created": "Создано {ago}",
 		"updated": "Обновлено {ago}"
 	},
 	"settings": {
 		"username": {
-			"text": "Никнейм",
+			"text": "Имя пользователя",
 			"placeholder": "Добавить имя пользователя..."
 		},
 		"bio": {
