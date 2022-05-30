@@ -20,7 +20,7 @@
 			},
 			"chat": {
 				"title": "Abivalmis kogukond",
-				"description": "Hangi tuge, arenda ja veeda aega meie enam kui 1500 liikmega Discordi serveris (inglise keeles)."
+				"description": "Hangi tuge, arenda ja veeda aega meie enam kui 1500 liikmega Discordi serveris."
 			},
 			"puzzle": {
 				"title": "Disainitud laiendatavaks",
@@ -75,7 +75,7 @@
 		},
 		"actions": {
 			"home": "Mine koju",
-			"discord": "Hangi abi Discordis (ingl. k)"
+			"discord": "Hangi abi Discordis"
 		}
 	},
 	"pages": {
@@ -308,7 +308,7 @@
 			"other": "Muu"
 		},
 		"new": {
-			"information": "Lisateave (ingl. k)",
+			"information": "Lisateave",
 			"description": "Lisa võimalusel linke ja pilte. Toetatud on Markdown-vorming."
 		}
 	},
@@ -321,7 +321,7 @@
 			"title": "Kustuta konto",
 			"body": "Kui oled oma konto kustutanud, pole enam tagasiteed. Konto kustutamisel eemaldatakse meie serveritest kõik sellega seonduvad andmed, sealhulgas projektid.",
 			"confirm_title": "Kas soovid kindlasti oma konto kustutada?",
-			"confirm_body": "See **kustutab koheselt kõik su projektid** ja jälgimised. Konto kustutamist ei saa tagasi võtta.\n\nKui soovid kontoga abi, hangi tuge [Modrinthi Discordis](/discord) (inglise keeles).",
+			"confirm_body": "See **kustutab koheselt kõik su projektid** ja jälgimised. Konto kustutamist ei saa tagasi võtta.\n\nKui soovid kontoga abi, hangi tuge [Modrinthi Discordis](/discord).",
 			"yes_I_want_to_do_this": "Jah, kustuta mu konto pöördumatult"
 		},
 		"auth": {
