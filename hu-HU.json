@@ -236,6 +236,7 @@
 	},
 	"search": {
 		"filters": {
+			"clear": "Szűrők törlése",
 			"hide": "Szűrők elrejtése",
 			"show": "Szűrők mutatása",
 			"show_snapshots": "Snapshotok mutatása",
@@ -249,7 +250,8 @@
 			"follows": "Követők száma",
 			"newest": "Újonnan létrehozva",
 			"updated": "Nemrég frissítve"
-		}
+		},
+		"per_page": "Oldalanként"
 	},
 	"status": {
 		"approved": "Elfogadva",
