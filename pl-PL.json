@@ -38,7 +38,7 @@
 		"github": "Zaloguj się przez GitHub"
 	},
 	"footer": {
-		"description": "Modrinth jest oprogramowaniem open source.",
+		"description": "Modrinth to otwarte oprogramowanie.",
 		"legal": {
 			"heading": "Polityka",
 			"terms": "Warunki",
@@ -127,20 +127,20 @@
 		"popup": {
 			"verify": "Aby zweryfikować, wprowadź <i>{content}</i> poniżej:",
 			"important": "To jest bardzo ważne.",
-			"placeholder": "Wpisz tutaj..."
+			"placeholder": "Wprowadź tutaj..."
 		},
 		"external": {
 			"github_profile": "Profil GitHub",
 			"discord": "Discord",
 			"github": "GitHub",
 			"issues": "Problemy",
-			"source": "Kod źródłowy",
+			"source": "Źródło",
 			"wiki": "Wiki",
 			"patreon": "Patreon",
 			"paypal": "PayPal",
 			"buy_me_a_coffee": "Buy Me a Coffee",
 			"github_sponsors": "Sponsorzy GitHub",
-			"donate": "Darowizna",
+			"donate": "Wesprzyj",
 			"kofi": "Ko-Fi"
 		},
 		"environments": {
@@ -354,7 +354,7 @@
 		"technology": "Technologia",
 		"adventure": "Przygoda",
 		"magic": "Magia",
-		"utility": "Użytkowe",
+		"utility": "Użyteczne",
 		"decoration": "Dekoracja",
 		"library": "Biblioteka",
 		"cursed": "Przeklęty",
