@@ -70,7 +70,7 @@
 		"status": "{status} 오류",
 		"message": {
 			"404": "이런, 아무래도 [Labyrinth](https://github.com/modrinth/labrinth)에서 길을 잃은 것 같습니다.<br />요청하신 페이지를 찾을 수 없습니다.",
-			"project_missing": "요청하신 {type} 을/를 찾을 수 없습니다.",
+			"project_missing": "요청하신 {type}을(를) 찾을 수 없습니다.",
 			"default": "예기치 않은 오류가 발생했습니다."
 		},
 		"actions": {
@@ -190,7 +190,7 @@
 			"placeholder": "프로젝트의 본문을 입력하세요...",
 			"empty": "이 프로젝트의 설명이 없습니다."
 		},
-		"members": "멤버",
+		"members": "구성원",
 		"permissions": "권한",
 		"permission": {
 			"upload_version": "버전 업로드",
@@ -198,13 +198,13 @@
 			"edit_details": "세부 정보 수정",
 			"edit_body": "본문 수정",
 			"manage_invites": "초대 관리",
-			"remove_member": "멤버 제거",
-			"edit_member": "멤버 편집",
+			"remove_member": "구성원 제거",
+			"edit_member": "구성원 편집",
 			"delete_project": "프로젝트 삭제"
 		},
 		"role": {
 			"text": "역할",
-			"placeholder": "권한 입력..."
+			"placeholder": "역할 입력..."
 		},
 		"advanced": "고급",
 		"visibility": {
@@ -229,7 +229,7 @@
 		"feature_action": "추천",
 		"dependencies": "의존성",
 		"metadata": "메타데이터",
-		"release_channel": "출시 종류",
+		"release_channel": "릴리스 채널",
 		"number": "버전 구분",
 		"publication_date": "출시일",
 		"publisher": "출시자"
@@ -248,14 +248,14 @@
 			"relevance": "연관성",
 			"downloads": "다운로드 수",
 			"follows": "팔로워 수",
-			"newest": "최근 생성순",
-			"updated": "최근 업데이트순"
+			"newest": "최근 생성",
+			"updated": "최근 업데이트"
 		},
 		"per_page": "페이지 당 표시 수"
 	},
 	"status": {
-		"approved": "승인된",
-		"rejected": "거부된",
+		"approved": "승인",
+		"rejected": "거부",
 		"draft": "초안",
 		"unlisted": "비공개",
 		"processing": "검토 중",
@@ -274,17 +274,17 @@
 	"stats": {
 		"joined": "{ago} 전에 가입함",
 		"notified": "{ago} 전에 알림을 받음",
-		"downloads": "{downloads, plural, one {<b>1</b> 다운로드 수} other {<b>#</b> 다운로드 수}}",
-		"followers_of_projects": "{followers, plural, one {<b>1</b> 프로젝트 팔로워 수} other {<b>#</b> 프로젝트 팔로워 수}}",
-		"followers": "{followers, plural, one {<b>1</b> 팔로워 수} other {<b>#</b> 팔로워 수}}",
+		"downloads": "{downloads, plural, other {<b>#</b> 다운로드}}",
+		"followers_of_projects": "{followers, plural, other {<b>#</b> 프로젝트 팔로워}}",
+		"followers": "{followers, plural, other {<b>#</b> 팔로워}}",
 		"user_id": "사용자 ID: {id}",
 		"created": "{ago} 전에 생성됨",
 		"updated": "{ago} 전에 업데이트됨"
 	},
 	"settings": {
 		"username": {
-			"text": "유저 이름",
-			"placeholder": "유저 이름 입력..."
+			"text": "사용자명",
+			"placeholder": "사용자명 입력..."
 		},
 		"bio": {
 			"text": "자기소개",
