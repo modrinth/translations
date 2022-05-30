@@ -91,7 +91,7 @@
 		"terms": "이용약관",
 		"privacy": "개인정보처리방침",
 		"rules": "프로젝트 규칙",
-		"all": "전체"
+		"all": "모두"
 	},
 	"generic": {
 		"labels": {
@@ -104,7 +104,7 @@
 			"minecraft_versions": "Minecraft 버전",
 			"mod_loaders": "모드 로더",
 			"categories": "카테고리",
-			"downloads": "다운로드순",
+			"downloads": "다운로드",
 			"files": "파일"
 		},
 		"actions": {
@@ -119,7 +119,7 @@
 			"download": "다운로드",
 			"save": "저장",
 			"confirm": "확인",
-			"remove": "삭제",
+			"remove": "제거",
 			"delete": "삭제",
 			"cancel": "취소",
 			"discard": "변경 사항 취소"
@@ -127,7 +127,7 @@
 		"popup": {
 			"verify": "계속하려면 <i>{content}</i>를 아래에 입력하세요.",
 			"important": "이것은 매우 중요합니다.",
-			"placeholder": "이곳에 입력..."
+			"placeholder": "여기에 입력..."
 		},
 		"external": {
 			"github_profile": "GitHub 프로필",
@@ -174,7 +174,7 @@
 		"sidebar_headings": {
 			"external_resources": "외부 리소스",
 			"featured_versions": "출시된 버전",
-			"project_members": "프로젝트 멤버",
+			"project_members": "프로젝트 구성원",
 			"technical_information": "기술적 정보"
 		},
 		"gallery": {
@@ -203,7 +203,7 @@
 			"delete_project": "프로젝트 삭제"
 		},
 		"role": {
-			"text": "권한",
+			"text": "역할",
 			"placeholder": "권한 입력..."
 		},
 		"advanced": "고급",
@@ -315,7 +315,7 @@
 	"user": {
 		"following": {
 			"loading": "팔로우한 프로젝트 불러오는 중...",
-			"none": "어떠한 프로젝트도 팔로우하지 않았습니다."
+			"none": "팔로우한 프로젝트가 없습니다."
 		},
 		"delete": {
 			"title": "계정 삭제",
