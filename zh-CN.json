@@ -102,7 +102,7 @@
 			"project_id": "项目 ID",
 			"project_status": "项目状态",
 			"minecraft_versions": "Minecraft 版本",
-			"mod_loaders": "适配模组加载器",
+			"mod_loaders": "模组加载器",
 			"categories": "类别",
 			"downloads": "下载量",
 			"files": "文件"
@@ -125,15 +125,15 @@
 			"discard": "舍弃更改"
 		},
 		"popup": {
-			"verify": "若要完成复验，请在下方输入 <i>{content}</i>",
+			"verify": "请在下方输入 <i>{content}</i> 以确认你的决定。",
 			"important": "此操作十分重要，请慎思而行。",
-			"placeholder": "在此输入..."
+			"placeholder": "在此输入……"
 		},
 		"external": {
 			"github_profile": "GitHub 资料",
 			"discord": "Discord",
 			"github": "GitHub",
-			"issues": "问题报告",
+			"issues": "问题跟踪器",
 			"source": "源代码",
 			"wiki": "维基",
 			"patreon": "Patreon",
@@ -155,39 +155,39 @@
 				"unknown": "未知"
 			}
 		},
-		"up_to_date": "您已处在最新版!",
+		"up_to_date": "你已在使用最新版！",
 		"byline": "由 <u>{author}</u> 创作"
 	},
 	"project": {
 		"types": {
 			"mod": {
-				"singular": "个模组",
-				"plural": "多个模组",
-				"search": "搜索模组..."
+				"singular": "模组",
+				"plural": "模组",
+				"search": "搜索模组……"
 			},
 			"modpack": {
-				"singular": "个整合包",
-				"plural": "多个整合包",
+				"singular": "整合包",
+				"plural": "整合包",
 				"search": "搜索整合包..."
 			}
 		},
 		"sidebar_headings": {
-			"external_resources": "外置资源",
+			"external_resources": "外部资源",
 			"featured_versions": "推荐版本",
 			"project_members": "项目成员",
-			"technical_information": "技术性信息"
+			"technical_information": "技术信息"
 		},
 		"gallery": {
 			"upload": "上传图像至项目图库",
-			"confirm": "您确定您要从图库中删除该图像?",
+			"confirm": "你确定要从图库里删除该图像吗？",
 			"placeholder": {
-				"title": "输入图像标题...",
-				"description": "输入图像描述..."
+				"title": "输入图像标题……",
+				"description": "输入图像描述……"
 			}
 		},
 		"body": {
 			"editor": "文本编辑器",
-			"placeholder": "在此输入描述项目的正文...",
+			"placeholder": "在此输入描述项目的正文……",
 			"empty": "此项目尚未提供项目描述。"
 		},
 		"members": "成员",
@@ -203,13 +203,13 @@
 			"delete_project": "删除项目"
 		},
 		"role": {
-			"text": "角色",
-			"placeholder": "在此输入其在项目中的角色..."
+			"text": "身份",
+			"placeholder": "在此输入此人在项目中的身份..."
 		},
-		"advanced": "高级",
+		"advanced": "高级设置",
 		"visibility": {
 			"title": "可见性",
-			"description": "该项目目前处于 {status}。",
+			"description": "该项目目前处于{status}。",
 			"action": "更改可见性"
 		},
 		"ownership": {
@@ -219,7 +219,7 @@
 		},
 		"delete": {
 			"title": "删除项目",
-			"description": "删除项目将删除所有项目数据，包括各版本内容。",
+			"description": "删除项目将删除项目的所有数据，包括各版本内容。",
 			"action": "删除项目"
 		}
 	},
@@ -240,7 +240,7 @@
 			"hide": "隐藏筛选条件",
 			"show": "展开筛选条件",
 			"show_snapshots": "显示快照版本",
-			"search_versions": "检索指定版本...",
+			"search_versions": "搜索指定版本...",
 			"licenses": "许可证"
 		},
 		"sort": {
@@ -263,8 +263,8 @@
 	},
 	"release_channels": {
 		"release": "稳定发行版",
-		"beta": "Beta 测试",
-		"alpha": "Alpha 测试"
+		"beta": "Beta 测试版",
+		"alpha": "Alpha 测试版"
 	},
 	"roles": {
 		"developer": "开发者",
@@ -277,57 +277,57 @@
 		"downloads": "<b>{downloads, number}</b> 次下载",
 		"followers_of_projects": "<b>{followers, number}</b> 名关注者",
 		"followers": "<b>{followers, number}</b> 名粉丝",
-		"user_id": "用户 ID: {id}",
+		"user_id": "用户 ID：{id}",
 		"created": "创建于 {ago}",
 		"updated": "更新于 {ago}"
 	},
 	"settings": {
 		"username": {
 			"text": "用户名",
-			"placeholder": "键入用户名..."
+			"placeholder": "在这里输入用户名……"
 		},
 		"bio": {
 			"text": "个人简介",
-			"placeholder": "键入个人简介..."
+			"placeholder": "在这里输入个人简介..."
 		},
 		"email": {
-			"text": "<b>私人邮箱</b> (管理者可见)",
-			"placeholder": "键入邮箱..."
+			"text": "<b>私人邮箱地址</b>（仅管理员可见）",
+			"placeholder": "在这里输入邮箱地址……"
 		},
 		"avatar": "上传头像"
 	},
 	"report": {
-		"singular": "份举报",
-		"plural": "份举报",
+		"singular": "举报",
+		"plural": "举报",
 		"type": {
 			"spam": "灌水",
 			"copyright": "版权争议",
-			"inappropriate": "不恰当内容",
+			"inappropriate": "内容不恰当",
 			"malicious": "散播病毒",
 			"name-squatting": "抢注名称",
 			"other": "其它原因"
 		},
 		"new": {
 			"information": "附随描述",
-			"description": "如果有条件，尽可能提供链接和图像。支持 Markdown 格式。"
+			"description": "有条件的话请尽可能提供链接和图像。编辑器支持 Markdown 格式。"
 		}
 	},
 	"user": {
 		"following": {
-			"loading": "正在加载已关注项目...",
-			"none": "您尚未关注任何项目哦。"
+			"loading": "正在加载已关注的项目...",
+			"none": "你尚未关注任何项目。"
 		},
 		"delete": {
 			"title": "删除账户",
-			"body": "一旦删除帐户，将无法复原，请谨慎度量。删除您的帐户将从我们的服务器上删除所有附加的数据，包括账户下所有项目。",
-			"confirm_title": "您确定要删除您的账户?",
-			"confirm_body": "此操作将 **立即删除您所有的项目** 及关注者，且删除账户的操作不可撤销。\n\n如果您需要有关账户问题的帮助，请随时在 [Modrinth Discord](/discord) 上联系我们。",
+			"body": "一旦删除账户，将无法复原，请谨慎度量。删除你的账户将从我们的服务器上删除所有附加的数据，包括账户下的所有项目。",
+			"confirm_title": "你确定要删除自己的账户吗？",
+			"confirm_body": "此操作将**立即删除你所有的项目**及关注者。你无法撤销此操作，或复原此操作造成的影响。\n\n如果你需要有关账户问题的帮助，请随时在[我们的Discord服务器](/discord)上联系我们。",
 			"yes_I_want_to_do_this": "确定，我已知晓该操作不可撤销。"
 		},
 		"auth": {
 			"title": "授权令牌",
 			"body": "我们的授权令牌可以应用到 Modrinth API、Minotaur Gradle插件及其他与 Modrinth 的 API 有交互的应用程序。请自行保障自身数据安全!",
-			"copy": "将 授权令牌 复制到剪贴板",
+			"copy": "将授权令牌复制到剪贴板",
 			"copied": "已复制令牌至剪贴板",
 			"revoke": "吊销该令牌"
 		},
@@ -342,11 +342,11 @@
 		"how_to": "拖放上传或单击选择"
 	},
 	"ads": {
-		"privacy_respecting": "这里会显示一个尊重隐私的广告。",
+		"privacy_respecting": "这里理应会显示一个尊重隐私的广告。",
 		"console": {
-			"line1": "您正在使用广告拦截器。",
-			"line2": "您的广告拦截阻止了 Modrinth 展示广告，而这恰恰是我们唯一的收入来源。",
-			"line3": "如果您还想在不看广告的情况下帮助 Modrinth，你可以在 GitHub 上为 Modrinth 做出贡献！",
+			"line1": "你正在使用广告拦截器。",
+			"line2": "你的广告拦截器拦截了 Modrinth 向你展示的广告——我们唯一的收入来源。",
+			"line3": "帮助 Modrinth 的不只有观看广告这一种方式；你也可以在 GitHub 上为 Modrinth 做出贡献：",
 			"line4": "https://github.com/modrinth/"
 		}
 	},
@@ -356,16 +356,16 @@
 		"magic": "魔法",
 		"utility": "实用工具",
 		"decoration": "装饰",
-		"library": "类库",
+		"library": "程序库",
 		"cursed": "魔性",
 		"worldgen": "世界生成",
 		"storage": "存储",
 		"food": "食物",
 		"equipment": "装备",
 		"miscellaneous": "杂项",
-		"challenging": "难度挑战",
+		"challenging": "高难度",
 		"combat": "战斗",
-		"kitchen-sink": "一应俱全",
+		"kitchen-sink": "水槽包",
 		"lightweight": "轻量",
 		"multiplayer": "多人游戏",
 		"quests": "任务",
@@ -378,7 +378,7 @@
 		"server": "服务端",
 		"client": "客户端",
 		"good": "优质内容",
-		"trash": "回收物",
+		"trash": "垃圾内容",
 		"misc": "杂项"
 	}
 }
