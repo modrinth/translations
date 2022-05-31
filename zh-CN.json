@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "创作者收益回馈",
-        "description": "我们计划向创作者支付项目页面中 100% 的广告收入。*支付系统尚在开发。"
+        "description": "我们计划让项目页面中 100% 的广告收入均归创作者所有。*结算系统正在开发中。"
       },
       "speedometer": {
         "title": "极速搜索 快如闪电",
@@ -23,7 +23,7 @@
         "description": "在我们超过千名成员的 Discord 服务器上，或寻求支持，或开发研讨，甚至是互娱吹水，友善的社区总能让您感到宾至如归。"
       },
       "puzzle": {
-        "title": "高拓展性设计",
+        "title": "与生俱来的可拓展性",
         "description": "与构建工具，代码仓库，启动器，甚至是自定义应用快捷高效地集成。"
       },
       "tools": {
@@ -68,7 +68,7 @@
     "status": "错误 {status}",
     "message": {
       "404": "啊噗，看起来您在后端程序 [迷宫](https://github.com/modrinth/labrinth) 里迷路了。<br />您所寻找的页面并不存在哦。",
-      "project_missing": "类别 {type} 无法被找到。",
+      "project_missing": "未找到您想要的 {type} 。",
       "default": "发生了一个意外的错误。"
     },
     "actions": {
@@ -94,8 +94,8 @@
   "generic": {
     "labels": {
       "license": {
-        "singular": "许可证",
-        "plural": "许可证"
+        "singular": "许可协议",
+        "plural": "许可协议"
       },
       "project_id": "项目 ID",
       "project_status": "项目状态",
@@ -123,7 +123,7 @@
       "discard": "舍弃更改"
     },
     "popup": {
-      "verify": "请在下方输入 <i>{content}</i> 以确认你的决定。",
+      "verify": "请在下方输入 <i>{content}</i> 以确认操作。",
       "important": "此操作十分重要，请慎思而行。",
       "placeholder": "在此输入……"
     },
@@ -136,7 +136,7 @@
       "wiki": "维基",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "请我喝杯咖啡吧",
+      "buy_me_a_coffee": "赞助我一杯咖啡",
       "github_sponsors": "GitHub Sponsors",
       "donate": "捐助",
       "kofi": "Ko-Fi"
@@ -149,7 +149,7 @@
       "values": {
         "required": "必装",
         "unsupported": "不支持",
-        "optional": "选装",
+        "optional": "可选",
         "unknown": "未知"
       }
     },
@@ -161,7 +161,7 @@
       "mod": {
         "singular": "模组",
         "plural": "模组",
-        "search": "搜索模组……"
+        "search": "搜索模组..."
       },
       "modpack": {
         "singular": "整合包",
@@ -179,13 +179,13 @@
       "upload": "上传图像至项目图库",
       "confirm": "你确定要从图库里删除该图像吗？",
       "placeholder": {
-        "title": "输入图像标题……",
-        "description": "输入图像描述……"
+        "title": "输入图像标题...",
+        "description": "输入图像描述..."
       }
     },
     "body": {
       "editor": "文本编辑器",
-      "placeholder": "在此输入描述项目的正文……",
+      "placeholder": "在此输入描述项目的正文...",
       "empty": "此项目尚未提供项目描述。"
     },
     "members": "成员",
@@ -234,7 +234,7 @@
   },
   "search": {
     "filters": {
-      "clear": "清除筛选",
+      "clear": "清除筛选条件",
       "hide": "隐藏筛选条件",
       "show": "展开筛选条件",
       "show_snapshots": "显示快照版本",
