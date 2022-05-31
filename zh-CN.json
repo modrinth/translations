@@ -253,8 +253,8 @@
   },
   "status": {
     "approved": "已通过",
-    "rejected": "已回绝",
-    "draft": "草案",
+    "rejected": "被驳回",
+    "draft": "草稿",
     "unlisted": "未列出",
     "processing": "正在审核",
     "unknown": "未知"
@@ -298,15 +298,15 @@
     "singular": "举报",
     "plural": "举报",
     "type": {
-      "spam": "灌水",
-      "copyright": "版权争议",
+      "spam": "骚扰诈骗",
+      "copyright": "侵权",
       "inappropriate": "内容不恰当",
-      "malicious": "散播病毒",
+      "malicious": "恶意软件",
       "name-squatting": "抢注名称",
       "other": "其它原因"
     },
     "new": {
-      "information": "附随描述",
+      "information": "附加描述",
       "description": "有条件的话请尽可能提供链接和图像。编辑器支持 Markdown 格式。"
     }
   },
@@ -319,8 +319,8 @@
       "title": "删除账户",
       "body": "一旦删除账户，将无法复原，请谨慎度量。删除你的账户将从我们的服务器上删除所有附加的数据，包括账户下的所有项目。",
       "confirm_title": "你确定要删除自己的账户吗？",
-      "confirm_body": "此操作将**立即删除你所有的项目**及关注者。你无法撤销此操作，或复原此操作造成的影响。\n\n如果你需要有关账户问题的帮助，请随时在[我们的Discord服务器](/discord)上联系我们。",
-      "yes_I_want_to_do_this": "确定，我已知晓该操作不可撤销。"
+      "confirm_body": "这将会**立即删除你所有的项目**及关注者。此操作无法撤销。\n\n如需获取账户相关的帮助，请前往[Modrinth Discord](/discord)提问。",
+      "yes_I_want_to_do_this": "确定，永久删除我的账户。"
     },
     "auth": {
       "title": "授权令牌",
@@ -337,7 +337,7 @@
   },
   "images": {
     "replace": "替换图像",
-    "how_to": "拖放上传或单击选择"
+    "how_to": "拖拽上传或点击选择"
   },
   "ads": {
     "privacy_respecting": "这里理应会显示一个尊重隐私的广告。",
@@ -355,7 +355,7 @@
     "utility": "实用工具",
     "decoration": "装饰",
     "library": "程序库",
-    "cursed": "魔性",
+    "cursed": "怪异",
     "worldgen": "世界生成",
     "storage": "存储",
     "food": "食物",
@@ -363,7 +363,7 @@
     "miscellaneous": "杂项",
     "challenging": "高难度",
     "combat": "战斗",
-    "kitchen-sink": "水槽",
+    "kitchen-sink": "杂烩",
     "lightweight": "轻量",
     "multiplayer": "多人游戏",
     "quests": "任务",
