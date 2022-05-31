@@ -72,7 +72,7 @@
       "default": "Wystąpił nieoczekiwany błąd."
     },
     "actions": {
-      "home": "Idź na stronę główną",
+      "home": "Wróć na stronę główną",
       "discord": "Uzyskaj pomoc na Discord"
     }
   },
