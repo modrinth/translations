@@ -137,9 +137,9 @@
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "Sponsorzy GitHub",
+      "github_sponsors": "GitHub Sponsors",
       "donate": "Wesprzyj",
-      "kofi": "Ko-Fi"
+      "kofi": "Ko-fi"
     },
     "environments": {
       "singular": "Środowisko",
@@ -244,8 +244,8 @@
     "sort": {
       "by": "Sortuj według",
       "relevance": "Trafność",
-      "downloads": "Ilość pobrań",
-      "follows": "Ilość obserwujących",
+      "downloads": "Liczba pobrań",
+      "follows": "Liczba obserwujących",
       "newest": "Ostatnio dodane",
       "updated": "Ostatnio zaktualizowane"
     },
