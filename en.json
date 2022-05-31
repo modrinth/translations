@@ -139,7 +139,7 @@
       "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
       "donate": "Donate",
-      "kofi": "Ko-Fi"
+      "kofi": "Ko-fi"
     },
     "environments": {
       "singular": "Environment",
@@ -272,9 +272,9 @@
   "stats": {
     "joined": "Joined {ago}",
     "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>1</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>1</b> follower} other {<b>#</b> followers}}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
     "user_id": "User ID: {id}",
     "created": "Created {ago}",
     "updated": "Updated {ago}"
