@@ -272,9 +272,9 @@
   "stats": {
     "joined": "Регистрация: {ago}",
     "notified": "Получено {ago}",
-    "downloads": "{downloads, plural, one {<b>1</b> скачивание} few {<b>#</b> скачивания} many {<b>#</b> скачиваний} other {<b>#</b> скачиваний}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> подписчик на проекты} few {<b>#</b> подписчика на проекты} many {<b>#</b> подписчиков на проекты} other {<b>#</b> подписчиков на проекты}}",
-    "followers": "{followers, plural, one {<b>1</b> подписчик} few {<b>#</b> подписчика} many {<b>#</b> подписчиков} other {<b>#</b> подписчиков}}",
+    "downloads": "{downloads, plural, one {<b>#</b> скачивание} few {<b>#</b> скачивания} many {<b>#</b> скачиваний} other {<b>#</b> скачивания}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> подписчик на проекты} few {<b>#</b> подписчика на проекты} many {<b>#</b> подписчиков на проекты} other {<b>#</b> подписчика на проекты}}",
+    "followers": "{followers, plural, one {<b>#</b> подписчик} few {<b>#</b> подписчика} many {<b>#</b> подписчиков} other {<b>#</b> подписчика}}",
     "user_id": "ID пользователя: {id}",
     "created": "Создано {ago}",
     "updated": "Обновлено {ago}"
@@ -364,7 +364,7 @@
     "challenging": "Испытания",
     "combat": "Бой",
     "kitchen-sink": "Всё подряд",
-    "lightweight": "Нетребовательные",
+    "lightweight": "Легковесные",
     "multiplayer": "Сетевая игра",
     "quests": "Квесты",
     "optimization": "Оптимизация",
