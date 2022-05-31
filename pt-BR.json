@@ -274,7 +274,7 @@
     "notified": "Notificado a {ago}",
     "downloads": "{downloads, plural, one {<b>1</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>1</b> seguidor de projetos} other {<b>#</b> seguidores de projetos}}",
-    "followers": "{followers, plural, one {<b>1</b> seguidor} other {<b>#</b> seguidores}}",
+    "followers": "{followers, plural, one {<b>#</b> seguidor} other {<b>#</b> seguidores}}",
     "user_id": "ID de usuário: {id}",
     "created": "Criado em {ago}",
     "updated": "Atualizado em {ago}"
