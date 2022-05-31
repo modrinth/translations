@@ -79,7 +79,7 @@
   "pages": {
     "description": "설명",
     "gallery": "갤러리",
-    "changelog": "변경 내역",
+    "changelog": "체인지로그",
     "versions": "버전",
     "settings": "설정",
     "moderation": "관리",
@@ -149,7 +149,7 @@
       "values": {
         "required": "필수",
         "unsupported": "미지원",
-        "optional": "선택",
+        "optional": "선택사항",
         "unknown": "알 수 없음"
       }
     },
@@ -226,7 +226,7 @@
     "autofeatured": "자동으로 추천됨",
     "feature_action": "추천",
     "dependencies": "의존성",
-    "metadata": "메타데이터",
+    "metadata": "부가 정보",
     "release_channel": "릴리스 채널",
     "number": "버전 구분",
     "publication_date": "출시일",
@@ -350,14 +350,14 @@
   },
   "tags": {
     "technology": "기술",
-    "adventure": "모험",
+    "adventure": "어드벤처",
     "magic": "마법",
     "utility": "유틸리티",
     "decoration": "장식",
     "library": "라이브러리",
     "cursed": "요상함",
     "worldgen": "세계 생성",
-    "storage": "저장소",
+    "storage": "창고",
     "food": "음식",
     "equipment": "장비",
     "miscellaneous": "기타",
