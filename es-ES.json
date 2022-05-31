@@ -8,7 +8,7 @@
     "features": {
       "book": {
         "title": "API fácil de usar",
-        "description": "Soportado por una API totalmente documentada que facilita el crecimiento de integraciones y lanzadores de terceros."
+        "description": "Respaldado por una API totalmente documentada que facilita el crecimiento de integraciones y lanzadores de terceros."
       },
       "coin": {
         "title": "Pagos para el creador",
@@ -150,11 +150,11 @@
         "required": "Requerido",
         "unsupported": "No soportado",
         "optional": "Opcional",
-        "unknown": "No reconocido"
+        "unknown": "Desconocido"
       }
     },
     "up_to_date": "¡Estás en la última versión!",
-    "byline": "por <u>{author}</u>"
+    "byline": "de <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -377,6 +377,6 @@
     "client": "Cliente",
     "good": "Bueno",
     "trash": "Basura",
-    "misc": "Misceláneos"
+    "misc": "Miscelánea"
   }
 }
