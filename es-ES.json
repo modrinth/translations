@@ -110,7 +110,7 @@
       "edit": "Editar",
       "follow": "Seguir",
       "unfollow": "Dejar de seguir",
-      "feature": "Característica",
+      "feature": "Destacar",
       "report": "Reportar",
       "new_project": "Nuevo proyecto",
       "preview": "Previsualizar",
@@ -207,7 +207,7 @@
     "advanced": "Avanzado",
     "visibility": {
       "title": "Visibilidad",
-      "description": "Este proyecto está actualmente en {status}.",
+      "description": "Este proyecto está actualmente {status}.",
       "action": "Cambiar visibilidad"
     },
     "ownership": {
@@ -270,14 +270,14 @@
     "moderator": "Moderador"
   },
   "stats": {
-    "joined": "Se unió hace {ago}",
-    "notified": "Notificado hace {ago}",
+    "joined": "Se unió {ago}",
+    "notified": "Notificado {ago}",
     "downloads": "{downloads, plural, one {<b>1</b> descarga} other {<b>#</b> descargas}}",
-    "followers_of_projects": "{followers, plural, one {<b>1</b> seguidor de proyectos} other {<b>#</b> seguidores de proyectos}}",
+    "followers_of_projects": "{followers, plural, one {<b>1</b> seguidor de sus proyectos} other {<b>#</b> seguidores de sus proyectos}}",
     "followers": "{followers, plural, one {<b>1</b> seguidor} other {<b>#</b> seguidores}}",
     "user_id": "ID de usuario: {id}",
-    "created": "Creado hace {ago}",
-    "updated": "Actualizado hace {ago}"
+    "created": "Creado {ago}",
+    "updated": "Actualizado {ago}"
   },
   "settings": {
     "username": {
@@ -302,7 +302,7 @@
       "copyright": "Copyright",
       "inappropriate": "Inadecuado",
       "malicious": "Malicioso",
-      "name-squatting": "Robo de nombre",
+      "name-squatting": "Suplantación de nombre",
       "other": "Otros"
     },
     "new": {
@@ -316,8 +316,8 @@
       "none": "No has seguido ningún proyecto."
     },
     "delete": {
-      "title": "Borrar cuenta",
-      "body": "Una vez eliminada tu cuenta no hay vuelta atrás. Eliminar tu cuenta, borrará todos los datos relacionados, incluidos proyectos, de nuestros servidores.",
+      "title": "Eliminar cuenta",
+      "body": "Una vez eliminada tu cuenta no hay vuelta atrás. Eliminar tu cuenta borrará todos los datos relacionados, incluidos proyectos, de nuestros servidores.",
       "confirm_title": "¿Estás seguro de que quieres borrar tu cuenta?",
       "confirm_body": "Esto **inmediatamente eliminará todos tus proyectos** y seguimientos. Eliminar tu cuenta no puede ser revertido.\n\nSi necesitas ayuda con tu cuenta, obtén ayuda en el [Discord de Modrinth](/discord).",
       "yes_I_want_to_do_this": "Sí, elimina mi cuenta permanentemente"
