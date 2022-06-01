@@ -207,7 +207,7 @@
     "advanced": "Расширенные",
     "visibility": {
       "title": "Видимость",
-      "description": "Текущий статус проекта: {status}",
+      "description": "Текущий статус проекта: {status}.",
       "action": "Изменить видимость"
     },
     "ownership": {
