@@ -42,7 +42,7 @@
     "legal": {
       "heading": "법률",
       "terms": "이용약관",
-      "privacy": "개인정보",
+      "privacy": "개인정보 처리방침",
       "rules": "규칙"
     },
     "resources": {
@@ -89,7 +89,7 @@
     "terms": "이용약관",
     "privacy": "개인정보처리방침",
     "rules": "프로젝트 규칙",
-    "all": "모두"
+    "all": "전체"
   },
   "generic": {
     "labels": {
@@ -109,7 +109,7 @@
       "create": "만들기",
       "edit": "편집",
       "follow": "팔로우",
-      "unfollow": "팔로우 해제",
+      "unfollow": "언팔로우",
       "feature": "추천",
       "report": "신고",
       "new_project": "새 프로젝트",
@@ -117,7 +117,7 @@
       "download": "다운로드",
       "save": "저장",
       "confirm": "확인",
-      "remove": "제거",
+      "remove": "삭제",
       "delete": "삭제",
       "cancel": "취소",
       "discard": "변경 사항 취소"
@@ -236,7 +236,7 @@
     "filters": {
       "clear": "필터 초기화",
       "hide": "필터 숨기기",
-      "show": "필터 표시",
+      "show": "필터 보기",
       "show_snapshots": "스냅샷 표시",
       "search_versions": "버전 검색...",
       "licenses": "라이센스"
@@ -245,15 +245,15 @@
       "by": "정렬 기준",
       "relevance": "연관성",
       "downloads": "다운로드 수",
-      "follows": "팔로워 수",
+      "follows": "팔로워순",
       "newest": "최근 생성",
       "updated": "최근 업데이트"
     },
     "per_page": "페이지 당 표시 수"
   },
   "status": {
-    "approved": "승인",
-    "rejected": "거부",
+    "approved": "승인됨",
+    "rejected": "거부됨",
     "draft": "초안",
     "unlisted": "비공개",
     "processing": "검토 중",
@@ -350,9 +350,9 @@
   },
   "tags": {
     "technology": "기술",
-    "adventure": "어드벤처",
+    "adventure": "모험",
     "magic": "마법",
-    "utility": "유틸리티",
+    "utility": "유틸",
     "decoration": "장식",
     "library": "라이브러리",
     "cursed": "요상함",
@@ -375,7 +375,7 @@
     "rift": "Rift",
     "server": "서버",
     "client": "클라이언트",
-    "good": "양호함",
+    "good": "좋음",
     "trash": "쓰레기",
     "misc": "기타"
   }
