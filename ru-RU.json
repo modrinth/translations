@@ -33,7 +33,7 @@
     }
   },
   "header": {
-    "my_profile": "Перейти к профилю",
+    "my_profile": "Открыть профиль",
     "logout": "Выйти",
     "github": "Войти с помощью GitHub"
   },
@@ -148,7 +148,7 @@
       "client_side": "Клиент",
       "values": {
         "required": "Требуется",
-        "unsupported": "Не требуется",
+        "unsupported": "Нет",
         "optional": "Опционально",
         "unknown": "Не указано"
       }
