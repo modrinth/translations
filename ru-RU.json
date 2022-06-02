@@ -42,7 +42,7 @@
     "legal": {
       "heading": "Соглашения",
       "terms": "Условия",
-      "privacy": "Личные данные",
+      "privacy": "Сбор данных",
       "rules": "Правила"
     },
     "resources": {
@@ -148,8 +148,8 @@
       "client_side": "Клиент",
       "values": {
         "required": "Требуется",
-        "unsupported": "Не поддерживается",
-        "optional": "Необязателен",
+        "unsupported": "Не требуется",
+        "optional": "Опционально",
         "unknown": "Не указано"
       }
     },
@@ -362,7 +362,7 @@
     "equipment": "Снаряжение",
     "miscellaneous": "Разное",
     "challenging": "Испытания",
-    "combat": "Бой",
+    "combat": "Сражения",
     "kitchen-sink": "Всё подряд",
     "lightweight": "Легковесные",
     "multiplayer": "Сетевая игра",
