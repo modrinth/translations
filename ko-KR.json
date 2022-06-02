@@ -79,7 +79,7 @@
   "pages": {
     "description": "설명",
     "gallery": "갤러리",
-    "changelog": "체인지로그",
+    "changelog": "변경 내역",
     "versions": "버전",
     "settings": "설정",
     "moderation": "관리",
@@ -170,7 +170,7 @@
       }
     },
     "sidebar_headings": {
-      "external_resources": "외부 리소스",
+      "external_resources": "외부 자료",
       "featured_versions": "출시된 버전",
       "project_members": "프로젝트 구성원",
       "technical_information": "기술적 정보"
@@ -247,7 +247,7 @@
       "downloads": "다운로드 수",
       "follows": "팔로워순",
       "newest": "최근 생성",
-      "updated": "최근 업데이트"
+      "updated": "최근 갱신"
     },
     "per_page": "페이지 당 표시 수"
   },
