@@ -198,7 +198,7 @@
       "manage_invites": "Zarządzanie zaproszeniami",
       "remove_member": "Usuwanie członków",
       "edit_member": "Edytowanie członków",
-      "delete_project": "Usuwanie projekt"
+      "delete_project": "Usuwanie projektu"
     },
     "role": {
       "text": "Rola",
@@ -234,7 +234,7 @@
   },
   "search": {
     "filters": {
-      "clear": "Wyszyść",
+      "clear": "Wyszyść filtry",
       "hide": "Ukryj filtry",
       "show": "Pokaż filtry",
       "show_snapshots": "Pokazuj snapshoty",
@@ -352,16 +352,16 @@
     "technology": "Technologia",
     "adventure": "Przygoda",
     "magic": "Magia",
-    "utility": "Użyteczne",
+    "utility": "Narzędzia",
     "decoration": "Dekoracja",
     "library": "Biblioteka",
-    "cursed": "Przeklęty",
-    "worldgen": "Generacja świata",
+    "cursed": "Przeklęte",
+    "worldgen": "Generowanie świata",
     "storage": "Magazyn",
     "food": "Jedzenie",
     "equipment": "Wyposażenie",
     "miscellaneous": "Różne",
-    "challenging": "Wyzwanie",
+    "challenging": "Wyzwania",
     "combat": "Walka",
     "kitchen-sink": "Zlew kuchenny",
     "lightweight": "Lekki",

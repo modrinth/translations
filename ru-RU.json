@@ -33,16 +33,16 @@
     }
   },
   "header": {
-    "my_profile": "Перейти к профилю",
+    "my_profile": "Открыть профиль",
     "logout": "Выйти",
     "github": "Войти с помощью GitHub"
   },
   "footer": {
     "description": "Modrinth — проект с открытым исходным кодом.",
     "legal": {
-      "heading": "Юридическая информация",
-      "terms": "Условия использования",
-      "privacy": "Политика конфиденциальности",
+      "heading": "Соглашения",
+      "terms": "Условия",
+      "privacy": "Сбор данных",
       "rules": "Правила"
     },
     "resources": {
@@ -54,10 +54,10 @@
       "privacy": "Настройки конфиденциальности",
       "theme": {
         "label": "Сменить тему",
-        "system": "Системная тема",
-        "light": "Светлая тема",
-        "dark": "Тёмная тема",
-        "oled": "OLED-тема"
+        "system": "Системная",
+        "light": "Светлая",
+        "dark": "Тёмная",
+        "oled": "OLED"
       },
       "language": {
         "label": "Выбрать язык"
@@ -86,7 +86,7 @@
     "notifications": "Уведомления",
     "about": "О проекте",
     "following": "Подписки",
-    "terms": "Условия использования",
+    "terms": "Условия",
     "privacy": "Политика конфиденциальности",
     "rules": "Правила проекта",
     "all": "Всё"
@@ -148,8 +148,8 @@
       "client_side": "Клиент",
       "values": {
         "required": "Требуется",
-        "unsupported": "Не поддерживается",
-        "optional": "Необязателен",
+        "unsupported": "Нет",
+        "optional": "Опционально",
         "unknown": "Не указано"
       }
     },
@@ -207,7 +207,7 @@
     "advanced": "Расширенные",
     "visibility": {
       "title": "Видимость",
-      "description": "Текущий статус проекта: {status}",
+      "description": "Текущий статус проекта: {status}.",
       "action": "Изменить видимость"
     },
     "ownership": {
@@ -362,7 +362,7 @@
     "equipment": "Снаряжение",
     "miscellaneous": "Разное",
     "challenging": "Испытания",
-    "combat": "Бой",
+    "combat": "Сражения",
     "kitchen-sink": "Всё подряд",
     "lightweight": "Легковесные",
     "multiplayer": "Сетевая игра",

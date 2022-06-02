@@ -371,7 +371,7 @@
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
-    "modloader": "Chargeur de mod",
+    "modloader": "ModLoader",
     "rift": "Rift",
     "server": "Serveur",
     "client": "Client",

@@ -245,7 +245,7 @@
       "by": "Trier par",
       "relevance": "Pertinence",
       "downloads": "Nombre de téléchargements",
-      "follows": "Nombre de suiveurs",
+      "follows": "Nombre de followers",
       "newest": "Récemment créé",
       "updated": "Récemment mis à jour"
     },
@@ -273,8 +273,8 @@
     "joined": "À rejoint {ago}",
     "notified": "Notifié {ago}",
     "downloads": "{downloads, plural, one {<b>1</b> téléchargement} other {<b>#</b> téléchargements}}",
-    "followers_of_projects": "{followers, plural, one {<b>1</b> suiveur de projets} other {<b>#</b> suiveurs de projets}}",
-    "followers": "{followers, plural, one {<b>1</b> suiveur} other {<b>#</b> suiveurs}}",
+    "followers_of_projects": "{followers, plural, one {<b>1</b> follower de projets} other {<b>#</b> followers de projets}}",
+    "followers": "{followers, plural, one {<b>1</b> follower} other {<b>#</b> followers}}",
     "user_id": "ID utilisateur : {id}",
     "created": "Créé {ago}",
     "updated": "Mis à jour {ago}"
