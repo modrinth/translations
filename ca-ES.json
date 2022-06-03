@@ -67,79 +67,79 @@
   "error": {
     "status": "Error {status}",
     "message": {
-      "404": "",
-      "project_missing": "",
-      "default": ""
+      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
+      "project_missing": "The {type} you were looking for cannot be found.",
+      "default": "An unexpected error has occurred."
     },
     "actions": {
-      "home": "",
-      "discord": ""
+      "home": "Go home",
+      "discord": "Get help on Discord"
     }
   },
   "pages": {
-    "description": "",
-    "gallery": "",
-    "changelog": "",
-    "versions": "",
-    "settings": "",
-    "moderation": "",
-    "notifications": "",
-    "about": "",
-    "following": "",
-    "terms": "",
-    "privacy": "",
-    "rules": "",
-    "all": ""
+    "description": "Description",
+    "gallery": "Gallery",
+    "changelog": "Changelog",
+    "versions": "Versions",
+    "settings": "Settings",
+    "moderation": "Moderation",
+    "notifications": "Notifications",
+    "about": "About",
+    "following": "Following",
+    "terms": "Terms and conditions",
+    "privacy": "Privacy policy",
+    "rules": "Project rules",
+    "all": "All"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "",
-        "plural": ""
+        "singular": "License",
+        "plural": "Licenses"
       },
-      "project_id": "",
-      "project_status": "",
-      "minecraft_versions": "",
-      "mod_loaders": "",
-      "categories": "",
-      "downloads": "",
-      "files": ""
+      "project_id": "Project ID",
+      "project_status": "Project status",
+      "minecraft_versions": "Minecraft versions",
+      "mod_loaders": "Mod loaders",
+      "categories": "Categories",
+      "downloads": "Downloads",
+      "files": "Files"
     },
     "actions": {
-      "create": "",
-      "edit": "",
-      "follow": "",
-      "unfollow": "",
-      "feature": "",
-      "report": "",
-      "new_project": "",
-      "preview": "",
-      "download": "",
-      "save": "",
-      "confirm": "",
-      "remove": "",
-      "delete": "",
-      "cancel": "",
-      "discard": ""
+      "create": "Create",
+      "edit": "Edit",
+      "follow": "Follow",
+      "unfollow": "Unfollow",
+      "feature": "Feature",
+      "report": "Report",
+      "new_project": "New project",
+      "preview": "Preview",
+      "download": "Download",
+      "save": "Save",
+      "confirm": "Confirm",
+      "remove": "Remove",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "discard": "Discard changes"
     },
     "popup": {
-      "verify": "",
-      "important": "",
-      "placeholder": ""
+      "verify": "To verify, type <i>{content}</i> below:",
+      "important": "This is extremely important.",
+      "placeholder": "Type here..."
     },
     "external": {
-      "github_profile": "",
-      "discord": "",
-      "github": "",
-      "issues": "",
-      "source": "",
-      "wiki": "",
-      "patreon": "",
-      "paypal": "",
-      "buy_me_a_coffee": "",
-      "github_sponsors": "",
-      "donate": "",
-      "kofi": ""
+      "github_profile": "GitHub profile",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Issues",
+      "source": "Source",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Buy Me a Coffee",
+      "github_sponsors": "GitHub Sponsors",
+      "donate": "Donate",
+      "kofi": "Ko-fi"
     },
     "environments": {
       "singular": "Entorn",
@@ -216,92 +216,92 @@
       "action": "Transfereix la propietat"
     },
     "delete": {
-      "title": "",
+      "title": "Delete project",
       "description": "Eliminar un projecte esborra totes les dades del projecte, incloses les versions.",
-      "action": ""
+      "action": "Delete project"
     }
   },
   "version": {
     "featured": "Destacat",
-    "autofeatured": "",
-    "feature_action": "",
-    "dependencies": "",
-    "metadata": "",
-    "release_channel": "",
-    "number": "",
-    "publication_date": "",
-    "publisher": ""
+    "autofeatured": "Auto-featured",
+    "feature_action": "Feature",
+    "dependencies": "Dependencies",
+    "metadata": "Metadata",
+    "release_channel": "Release channel",
+    "number": "Version number",
+    "publication_date": "Publication date",
+    "publisher": "Publisher"
   },
   "search": {
     "filters": {
-      "clear": "",
-      "hide": "",
-      "show": "",
-      "show_snapshots": "",
-      "search_versions": "",
-      "licenses": ""
+      "clear": "Clear filters",
+      "hide": "Hide filters",
+      "show": "Show filters",
+      "show_snapshots": "Show snapshots",
+      "search_versions": "Search versions...",
+      "licenses": "Licenses"
     },
     "sort": {
-      "by": "",
-      "relevance": "",
-      "downloads": "",
-      "follows": "",
-      "newest": "",
-      "updated": ""
+      "by": "Sort by",
+      "relevance": "Relevance",
+      "downloads": "Download count",
+      "follows": "Follower count",
+      "newest": "Recently created",
+      "updated": "Recently updated"
     },
-    "per_page": ""
+    "per_page": "Show per page"
   },
   "status": {
-    "approved": "",
-    "rejected": "",
-    "draft": "",
-    "unlisted": "",
-    "processing": "",
-    "unknown": ""
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "draft": "Draft",
+    "unlisted": "Unlisted",
+    "processing": "Under review",
+    "unknown": "Unknown"
   },
   "release_channels": {
-    "release": "",
-    "beta": "",
-    "alpha": ""
+    "release": "Release",
+    "beta": "Beta",
+    "alpha": "Alpha"
   },
   "roles": {
-    "developer": "",
-    "admin": "",
-    "moderator": ""
+    "developer": "Developer",
+    "admin": "Admin",
+    "moderator": "Moderator"
   },
   "stats": {
-    "joined": "",
+    "joined": "Joined {ago}",
     "notified": "Notificat fa {ago}",
-    "downloads": "",
-    "followers_of_projects": "",
-    "followers": "",
-    "user_id": "",
-    "created": "",
-    "updated": ""
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "user_id": "User ID: {id}",
+    "created": "Created {ago}",
+    "updated": "Updated {ago}"
   },
   "settings": {
     "username": {
-      "text": "",
-      "placeholder": ""
+      "text": "Username",
+      "placeholder": "Add a username..."
     },
     "bio": {
-      "text": "",
-      "placeholder": ""
+      "text": "Bio",
+      "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "",
-      "placeholder": ""
+      "text": "<b>Private email</b> (visible only to moderators)",
+      "placeholder": "Add an email..."
     },
     "avatar": "Pujar avatar"
   },
   "report": {
-    "singular": "",
+    "singular": "Report",
     "plural": "Reports",
     "type": {
       "spam": "Contingut brossa",
       "copyright": "Copyright",
       "inappropriate": "Inadequat",
-      "malicious": "",
+      "malicious": "Malicious",
       "name-squatting": "Robatori de nom",
       "other": "Altres"
     },
@@ -317,13 +317,13 @@
     },
     "delete": {
       "title": "Esborrar compte",
-      "body": "",
-      "confirm_title": "",
-      "confirm_body": "",
-      "yes_I_want_to_do_this": ""
+      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers.",
+      "confirm_title": "Are you sure you want to delete your account?",
+      "confirm_body": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+      "yes_I_want_to_do_this": "Yes, irrecoverably delete my account"
     },
     "auth": {
-      "title": "",
+      "title": "Authorization token",
       "body": "El token d'autorització pot utilitzar-se per l'API de Modrinth, el connector de Gradel anomenat Minotaur i altres aplicacions que interactuen amb l'API de Modrinth. Assegura't de mantenir-ho secret!",
       "copy": "Copiar el token al porta-retalls",
       "copied": "Token copiat al porta-retalls",
@@ -332,7 +332,7 @@
     "revoke_token": {
       "title": "Revocar el token de Modrinth",
       "body": "Revocar el teu token de Modrinth pot tenir conseqüències no desitjades. Si us plau, tingues en compte que el següent podria trencar-se:\n - Qualsevol aplicació que utilitzi el teu token per accedir a l'API.\n - Gradle - si Minotaur rep una fitxa incorrecta, les teves compilacions de Gradle podrien fallar.\n - GitHub: si fas servir una acció de GitHub que fa servir l'API de Modrinth, provocarà errors.\n\nSi voleu continuar, seguiu els passos següents:\n\n 1. Ves a la [pàgina de l'aplicació Modrinth a GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assegura't d'haver iniciat sessió al compte de GitHub que has fet ús per a Modrinth!\n 2. Premeu el botó vermell gran \"Revoca l'accés\" al costat de la capçalera \"Permisos\".\n\nUn cop hagis completat aquests passos, prem el botó Continuar.\n\n**Això et tancarà la sessió de Modrinth, però, quan torneu a iniciar sessió, el vostre token es regenerarà.**",
-      "action": ""
+      "action": "Log out"
     }
   },
   "images": {
@@ -340,43 +340,43 @@
     "how_to": "Arrossega i deixa anar per pujar-ho o clica per seleccionar"
   },
   "ads": {
-    "privacy_respecting": "",
+    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
     "console": {
-      "line1": "",
-      "line2": "",
-      "line3": "",
-      "line4": ""
+      "line1": "You are using an adblocker.",
+      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
+      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line4": "https://github.com/modrinth/"
     }
   },
   "tags": {
-    "technology": "",
-    "adventure": "",
-    "magic": "",
-    "utility": "",
-    "decoration": "",
-    "library": "",
-    "cursed": "",
-    "worldgen": "",
-    "storage": "",
-    "food": "",
-    "equipment": "",
-    "miscellaneous": "",
-    "challenging": "",
-    "combat": "",
-    "kitchen-sink": "",
-    "lightweight": "",
-    "multiplayer": "",
-    "quests": "",
-    "optimization": "",
-    "fabric": "",
-    "forge": "",
-    "quilt": "",
-    "modloader": "",
-    "rift": "",
-    "server": "",
-    "client": "",
-    "good": "",
-    "trash": "",
-    "misc": ""
+    "technology": "Technology",
+    "adventure": "Adventure",
+    "magic": "Magic",
+    "utility": "Utility",
+    "decoration": "Decoration",
+    "library": "Library",
+    "cursed": "Cursed",
+    "worldgen": "World generation",
+    "storage": "Storage",
+    "food": "Food",
+    "equipment": "Equipment",
+    "miscellaneous": "Miscellaneous",
+    "challenging": "Challenging",
+    "combat": "Combat",
+    "kitchen-sink": "Kitchen Sink",
+    "lightweight": "Lightweight",
+    "multiplayer": "Multiplayer",
+    "quests": "Quests",
+    "optimization": "Optimization",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Server",
+    "client": "Client",
+    "good": "Good",
+    "trash": "Trash",
+    "misc": "Miscellaneous"
   }
 }
