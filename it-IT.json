@@ -1,0 +1,382 @@
+{
+  "locale": {
+    "no_translation": ""
+  },
+  "index": {
+    "tagline": "",
+    "description": "",
+    "features": {
+      "book": {
+        "title": "",
+        "description": ""
+      },
+      "coin": {
+        "title": "",
+        "description": ""
+      },
+      "speedometer": {
+        "title": "",
+        "description": ""
+      },
+      "chat": {
+        "title": "",
+        "description": ""
+      },
+      "puzzle": {
+        "title": "",
+        "description": ""
+      },
+      "tools": {
+        "title": "",
+        "description": ""
+      }
+    }
+  },
+  "header": {
+    "my_profile": "",
+    "logout": "",
+    "github": ""
+  },
+  "footer": {
+    "description": "",
+    "legal": {
+      "heading": "",
+      "terms": "",
+      "privacy": "",
+      "rules": ""
+    },
+    "resources": {
+      "heading": "",
+      "blog": "",
+      "docs": ""
+    },
+    "buttons": {
+      "privacy": "",
+      "theme": {
+        "label": "",
+        "system": "",
+        "light": "",
+        "dark": "",
+        "oled": ""
+      },
+      "language": {
+        "label": ""
+      }
+    }
+  },
+  "error": {
+    "status": "",
+    "message": {
+      "404": "",
+      "project_missing": "",
+      "default": ""
+    },
+    "actions": {
+      "home": "",
+      "discord": ""
+    }
+  },
+  "pages": {
+    "description": "",
+    "gallery": "",
+    "changelog": "",
+    "versions": "",
+    "settings": "",
+    "moderation": "",
+    "notifications": "",
+    "about": "",
+    "following": "",
+    "terms": "",
+    "privacy": "",
+    "rules": "",
+    "all": ""
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "",
+        "plural": ""
+      },
+      "project_id": "",
+      "project_status": "",
+      "minecraft_versions": "",
+      "mod_loaders": "",
+      "categories": "",
+      "downloads": "",
+      "files": ""
+    },
+    "actions": {
+      "create": "",
+      "edit": "",
+      "follow": "",
+      "unfollow": "",
+      "feature": "",
+      "report": "",
+      "new_project": "",
+      "preview": "",
+      "download": "",
+      "save": "",
+      "confirm": "",
+      "remove": "",
+      "delete": "",
+      "cancel": "",
+      "discard": ""
+    },
+    "popup": {
+      "verify": "",
+      "important": "",
+      "placeholder": ""
+    },
+    "external": {
+      "github_profile": "",
+      "discord": "",
+      "github": "",
+      "issues": "",
+      "source": "",
+      "wiki": "",
+      "patreon": "",
+      "paypal": "",
+      "buy_me_a_coffee": "",
+      "github_sponsors": "",
+      "donate": "",
+      "kofi": ""
+    },
+    "environments": {
+      "singular": "",
+      "plural": "",
+      "server_side": "",
+      "client_side": "",
+      "values": {
+        "required": "",
+        "unsupported": "",
+        "optional": "",
+        "unknown": ""
+      }
+    },
+    "up_to_date": "",
+    "byline": ""
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "",
+        "plural": "",
+        "search": ""
+      },
+      "modpack": {
+        "singular": "",
+        "plural": "",
+        "search": ""
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "",
+      "featured_versions": "",
+      "project_members": "",
+      "technical_information": ""
+    },
+    "gallery": {
+      "upload": "",
+      "confirm": "",
+      "placeholder": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "body": {
+      "editor": "",
+      "placeholder": "",
+      "empty": ""
+    },
+    "members": "",
+    "permissions": "",
+    "permission": {
+      "upload_version": "",
+      "delete_version": "",
+      "edit_details": "",
+      "edit_body": "",
+      "manage_invites": "",
+      "remove_member": "",
+      "edit_member": "",
+      "delete_project": ""
+    },
+    "role": {
+      "text": "",
+      "placeholder": ""
+    },
+    "advanced": "",
+    "visibility": {
+      "title": "",
+      "description": "",
+      "action": ""
+    },
+    "ownership": {
+      "title": "",
+      "description": "",
+      "action": ""
+    },
+    "delete": {
+      "title": "",
+      "description": "",
+      "action": ""
+    }
+  },
+  "version": {
+    "featured": "",
+    "autofeatured": "",
+    "feature_action": "",
+    "dependencies": "",
+    "metadata": "",
+    "release_channel": "",
+    "number": "",
+    "publication_date": "",
+    "publisher": ""
+  },
+  "search": {
+    "filters": {
+      "clear": "",
+      "hide": "",
+      "show": "",
+      "show_snapshots": "",
+      "search_versions": "",
+      "licenses": ""
+    },
+    "sort": {
+      "by": "",
+      "relevance": "",
+      "downloads": "",
+      "follows": "",
+      "newest": "",
+      "updated": ""
+    },
+    "per_page": ""
+  },
+  "status": {
+    "approved": "",
+    "rejected": "",
+    "draft": "",
+    "unlisted": "",
+    "processing": "",
+    "unknown": ""
+  },
+  "release_channels": {
+    "release": "",
+    "beta": "",
+    "alpha": ""
+  },
+  "roles": {
+    "developer": "",
+    "admin": "",
+    "moderator": ""
+  },
+  "stats": {
+    "joined": "",
+    "notified": "",
+    "downloads": "",
+    "followers_of_projects": "",
+    "followers": "",
+    "user_id": "",
+    "created": "",
+    "updated": ""
+  },
+  "settings": {
+    "username": {
+      "text": "",
+      "placeholder": ""
+    },
+    "bio": {
+      "text": "",
+      "placeholder": ""
+    },
+    "email": {
+      "text": "",
+      "placeholder": ""
+    },
+    "avatar": ""
+  },
+  "report": {
+    "singular": "",
+    "plural": "",
+    "type": {
+      "spam": "",
+      "copyright": "",
+      "inappropriate": "",
+      "malicious": "",
+      "name-squatting": "",
+      "other": ""
+    },
+    "new": {
+      "information": "",
+      "description": ""
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "",
+      "none": ""
+    },
+    "delete": {
+      "title": "",
+      "body": "",
+      "confirm_title": "",
+      "confirm_body": "",
+      "yes_I_want_to_do_this": ""
+    },
+    "auth": {
+      "title": "",
+      "body": "",
+      "copy": "",
+      "copied": "",
+      "revoke": ""
+    },
+    "revoke_token": {
+      "title": "",
+      "body": "",
+      "action": ""
+    }
+  },
+  "images": {
+    "replace": "",
+    "how_to": ""
+  },
+  "ads": {
+    "privacy_respecting": "",
+    "console": {
+      "line1": "",
+      "line2": "",
+      "line3": "",
+      "line4": ""
+    }
+  },
+  "tags": {
+    "technology": "",
+    "adventure": "",
+    "magic": "",
+    "utility": "",
+    "decoration": "",
+    "library": "",
+    "cursed": "",
+    "worldgen": "",
+    "storage": "",
+    "food": "",
+    "equipment": "",
+    "miscellaneous": "",
+    "challenging": "",
+    "combat": "",
+    "kitchen-sink": "",
+    "lightweight": "",
+    "multiplayer": "",
+    "quests": "",
+    "optimization": "",
+    "fabric": "",
+    "forge": "",
+    "quilt": "",
+    "modloader": "",
+    "rift": "",
+    "server": "",
+    "client": "",
+    "good": "",
+    "trash": "",
+    "misc": ""
+  }
+}
