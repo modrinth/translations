@@ -48,15 +48,15 @@
     "resources": {
       "heading": "Resourcez",
       "blog": "Blog",
-      "docs": "Docs"
+      "docs": "Big book of information"
     },
     "buttons": {
       "privacy": "SET PRIVACY PREFERENCEZ",
       "theme": {
         "label": "CHANGE THEME",
         "system": "SISTEM THEME",
-        "light": "Light mode",
-        "dark": "Dark mode",
+        "light": "Too brite",
+        "dark": "Nite nite",
         "oled": "Super dark mode :0"
       },
       "language": {
@@ -81,12 +81,12 @@
     "gallery": "GALLERY",
     "changelog": "Changez",
     "versions": "VERSHUNS",
-    "settings": "SETTINGS",
-    "moderation": "MODERASHUN",
-    "notifications": "NOTIFICASHUNS",
+    "settings": "Setings",
+    "moderation": "Moderashun",
+    "notifications": "Notificashuns",
     "about": "About",
-    "following": "FOLLOWIN",
-    "terms": "TERMS AN CONDISHUNS",
+    "following": "Followin",
+    "terms": "Terms and condishuns",
     "privacy": "PRIVACY POLICY",
     "rules": "Project rulz",
     "all": "Evrythin"
@@ -97,7 +97,7 @@
         "singular": "License",
         "plural": "Licensez"
       },
-      "project_id": "Project ID",
+      "project_id": "Boring number",
       "project_status": "PROJECT STATUS",
       "minecraft_versions": "MINECRAFT VERSHUNS",
       "mod_loaders": "Mod loaderz",
@@ -106,20 +106,20 @@
       "files": "Filez"
     },
     "actions": {
-      "create": "Create",
+      "create": "Make thing",
       "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
-      "feature": "Feature",
-      "report": "Report",
+      "follow": "Tel me about thiz",
+      "unfollow": "Shut up about thiz",
+      "feature": "Make pwetty",
+      "report": "Dis not right",
       "new_project": "NEW PROJECT",
       "preview": "PREVIEW",
-      "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
-      "cancel": "Cancel",
+      "download": "Get from interwebz",
+      "save": "Make stay",
+      "confirm": "Do it.",
+      "remove": "Ew go away",
+      "delete": "Begone",
+      "cancel": "Stop it!",
       "discard": "DISCARD CHANGEZ"
     },
     "popup": {
@@ -128,29 +128,29 @@
       "placeholder": "TYPE HER..."
     },
     "external": {
-      "github_profile": "GitHub profile",
-      "discord": "Discord",
-      "github": "GitHub",
+      "github_profile": "Scary code place",
+      "discord": "Funny chat place",
+      "github": "Scary code",
       "issues": "Problemz",
       "source": "Source",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "BUY ME COFFEH",
-      "github_sponsors": "GitHub Sponsors",
+      "github_sponsors": "Gib money in code place",
       "donate": "Giv money",
       "kofi": "Ko-Fi"
     },
     "environments": {
       "singular": "ENVIRONMENT",
-      "plural": "Environments",
+      "plural": "Places where it runs",
       "server_side": "Server side",
       "client_side": "Client side",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Must put here",
+        "unsupported": "Dont work here",
+        "optional": "Can work if you want",
+        "unknown": "I don't know"
       }
     },
     "up_to_date": "U R UP 2 DATE!",
@@ -172,7 +172,7 @@
     "sidebar_headings": {
       "external_resources": "External resourcez",
       "featured_versions": "Featured vershuns",
-      "project_members": "Project members",
+      "project_members": "Theze peepl helpd",
       "technical_information": "TECHNICAL INFORMASHUN"
     },
     "gallery": {
@@ -184,29 +184,29 @@
       }
     },
     "body": {
-      "editor": "Editor",
-      "placeholder": "Enter project body...",
+      "editor": "Pen & paper",
+      "placeholder": "Put thing here...",
       "empty": "DIS PROJECT DESCRIPSHUN IZ EMPTY."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Peoplez hoo helpd",
+    "permissions": "Can peoplez do thingz",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit body",
+      "upload_version": "Upload to interwebz",
+      "delete_version": "Filez begone",
+      "edit_details": "Change smol thingz",
+      "edit_body": "Put pen on descripshun",
       "manage_invites": "MANAGE INVITEZ",
       "remove_member": "REMOOV MEMBERS",
       "edit_member": "EDIT MEMBERS",
       "delete_project": "DELETE PROJECT"
     },
     "role": {
-      "text": "Role",
+      "text": "Pwetty cowour",
       "placeholder": "ENTR ROLEZ..."
     },
-    "advanced": "Advanced",
+    "advanced": "Scawy",
     "visibility": {
-      "title": "Visibility",
+      "title": "Can peoplez see",
       "description": "DIS PROJECT IZ CURRENTLY {status}.",
       "action": "CHANGE VISIBILITY"
     },
@@ -216,20 +216,20 @@
       "action": "TRANZFR OWNERSHIP"
     },
     "delete": {
-      "title": "Delete project",
+      "title": "Be gone",
       "description": "DELETIN PROJECT ERASEZ ALL PROJECT DATA, INCLUDIN VERSHUNS.",
-      "action": "Delete project"
+      "action": "Be gone"
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
+    "featured": "Pwetty",
+    "autofeatured": "Modwinth made dis pwetty",
+    "feature_action": "Make pwetty",
+    "dependencies": "Thingz you need",
+    "metadata": "Scawy text",
+    "release_channel": "Are there scawy bugs",
+    "number": "Big scawy number",
+    "publication_date": "When was made",
     "publisher": "Publisher"
   },
   "search": {
@@ -276,8 +276,8 @@
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
     "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "created": "Appeared {ago}",
+    "updated": "No longer the same since {ago}"
   },
   "settings": {
     "username": {
