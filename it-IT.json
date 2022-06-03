@@ -1,26 +1,26 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "A causa della natura di questa pagina, l'unica versione ufficiale di questo contenuto è in lingua inglese."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "Scopri, gioca, e crea contenuti per Minecraft",
+    "description": "Trova contenuti divertenti e di qualità attraverso la nostra piattaforma di modding open-source costruita per la comunità. Crea contenuti, guadagna*, e distribuisci il tuo progetto con la nostra API completamente documentata!",
     "features": {
       "book": {
-        "title": "Easy to use API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "title": "API facile da utilizzare",
+        "description": "Supportato da un'API completamente documentata che facilita la crescita di integrazioni e launcher di terze parti."
       },
       "coin": {
-        "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "title": "Guadagni per il creatore",
+        "description": "Contiamo di dare ai creatori il 100% degli introiti pubblicitari delle loro pagine progetto. *I pagamenti sono attualmente in fase di sviluppo."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "Ricerca ultra veloce",
+        "description": "Alimentato da algoritmi di ricerca veloci e adattabili, in modo da non dover aspettare."
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "Gruppo di supporto",
+        "description": "Otteni supporto, sviluppa e fatti un giro sul nostro server Discord con oltre 1.500 membri."
       },
       "puzzle": {
         "title": "Extensible by design",
