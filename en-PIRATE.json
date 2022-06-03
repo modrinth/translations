@@ -1,44 +1,44 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Due to the nature o' this here page, the only official version o' this here content be in English."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "Discover, play, an' create Minecraft content",
+    "description": "Find enjoyable an' quality content through our open-source moddin' platform built fer the crew. Create stuff, get paid*, an' deploy yer project with our fully documented API!",
     "features": {
       "book": {
         "title": "Easy to use API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "Backed by a fully documented api facilitatin' the growth o' 3rd party integrations & launchers."
       },
       "coin": {
         "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "Plannin' to give creators 100% o' ad revenue from their project pages. *Payouts be currently in development."
       },
       "speedometer": {
         "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "description": "Powered by fast an' adaptable search algorithms so ye don't 'ave to wait."
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "'elpful crew",
+        "description": "Get support, develop, an' 'ang out on our Discord server with o'er 1,500 members."
       },
       "puzzle": {
         "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "description": "Integrates with build tools, repositories, launchers, an' custom applications."
       },
       "tools": {
         "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "description": "An open source project maintained by an active crew that there welcomes contributions."
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
+    "my_profile": "Go to me profile",
     "logout": "Log out",
     "github": "Sign in with GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth be open source software.",
     "legal": {
       "heading": "Legal",
       "terms": "Terms",
@@ -51,34 +51,34 @@
       "docs": "Docs"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Set ye privacy preferences",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Change ye theme",
+        "system": "Follow the theme ye system uses",
+        "light": "Very bright theme",
+        "dark": "Theme to be gentle on ye eyes",
+        "oled": "Super dark theme"
       },
       "language": {
-        "label": "Select language"
+        "label": "Choose yer Speakin'"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "Ye accounted an error: {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Uh oh, looks such as yerself got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br /> The page ye be lookin' fer could not be found.",
+      "project_missing": "The {type} ye was lookin' fer cannot be found.",
+      "default": "An unexpected error 'as occurred."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Go back to ye home",
+      "discord": "Get help on the crew's Discord server"
     }
   },
   "pages": {
     "description": "Description",
-    "gallery": "Gallery",
+    "gallery": "Ye hoard 'o images",
     "changelog": "Changelog",
     "versions": "Versions",
     "settings": "Settings",
