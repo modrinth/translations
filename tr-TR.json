@@ -1,0 +1,382 @@
+{
+  "locale": {
+    "no_translation": "Bu sayfanın doğasından ötürü, bu içeriğin tek resmi hali İngilizce'dir."
+  },
+  "index": {
+    "tagline": "Keşfet, oyna ve Minecraft içeriği yarat",
+    "description": "Topluluk için yapılan açık kaynak modlama platformumuz üzerinden eğlenceli ve kaliteli içerik bulun. Bir şey yaratın, ödeme alın* ve tamamen belgelenmiş API'miz ile projenizi yükleyin!",
+    "features": {
+      "book": {
+        "title": "Kullanması kolay API",
+        "description": "3. parti bağlantıların ve başlatıcıların büyümesini kolaylaştıran, tamamen belgelenmiş API'yle destekli."
+      },
+      "coin": {
+        "title": "Yaratıcı kazançları",
+        "description": "İçerik üreticilerine, kendi proje sayfalarından %100 reklam geliri verilmesi planlanıyor. *Ödemeler, şu an geliştirme aşamasında."
+      },
+      "speedometer": {
+        "title": "Şimşek hızında arama",
+        "description": "Hızlı ve uyumlu arama algoritmalarıyla güçlendirildi ki beklemek zorunda kalmayın."
+      },
+      "chat": {
+        "title": "Yardımsever topluluk",
+        "description": "1500'ü aşkın kullanıcılarımızla Discord sunucumuzda destek alın, geliştirin ve takılın."
+      },
+      "puzzle": {
+        "title": "Tasarımla genişletilebilir",
+        "description": "Yapım araçları, depolar, başlatıcılar ve özel uygulamalar ile entegreli."
+      },
+      "tools": {
+        "title": "Tamamen açık kaynak",
+        "description": "Katkıları hoş karşılayan aktif bir topluluk tarafından sürdürülen bir açık kaynak projesi."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Profilime git",
+    "logout": "Çıkış yap",
+    "github": "GitHub ile giriş yap"
+  },
+  "footer": {
+    "description": "Modrinth bir açık kaynak yazılımıdır.",
+    "legal": {
+      "heading": "Yasal",
+      "terms": "Şartlar",
+      "privacy": "Gizlilik",
+      "rules": "Kurallar"
+    },
+    "resources": {
+      "heading": "Kaynaklar",
+      "blog": "Blog",
+      "docs": "Dokümantasyon"
+    },
+    "buttons": {
+      "privacy": "Gizlilik tercihleri ayarla",
+      "theme": {
+        "label": "Tema değiştir",
+        "system": "Sistem teması",
+        "light": "Aydınlık modu",
+        "dark": "Karanlık modu",
+        "oled": "OLED modu"
+      },
+      "language": {
+        "label": "Dil seç"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} Hatası",
+    "message": {
+      "404": "Hay aksi, görünüşe göre [Labyrinth](https://github.com/modrinth/labrinth)'te mahsur kaldınız.<br/>Aradığınız sayfa bulunamıyor.",
+      "project_missing": "Aramış olduğunuz {type} bulunamıyor.",
+      "default": "Beklenmeyen bir hata oluştu."
+    },
+    "actions": {
+      "home": "Ana sayfaya git",
+      "discord": "Discord'tan yardım al"
+    }
+  },
+  "pages": {
+    "description": "Açıklama",
+    "gallery": "Galeri",
+    "changelog": "Değişiklik Kaydı",
+    "versions": "Sürümler",
+    "settings": "Ayarlar",
+    "moderation": "Moderasyon",
+    "notifications": "Bildirimler",
+    "about": "Hakkında",
+    "following": "Takip Edilen",
+    "terms": "Şartlar ve Koşullar",
+    "privacy": "Gizlillik politikası",
+    "rules": "Proje kuralları",
+    "all": "Tüm"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Lisans",
+        "plural": "Lisanslar"
+      },
+      "project_id": "Proje ID",
+      "project_status": "Proje durumu",
+      "minecraft_versions": "Minecraft sürümleri",
+      "mod_loaders": "Mod yükleyicileri",
+      "categories": "Kategoriler",
+      "downloads": "İndirmeler",
+      "files": "Dosyalar"
+    },
+    "actions": {
+      "create": "Oluştur",
+      "edit": "Düzenle",
+      "follow": "Takip Et",
+      "unfollow": "Takibi Bırak",
+      "feature": "Öne Çıkar",
+      "report": "Rapor Et",
+      "new_project": "Yeni proje",
+      "preview": "Önizleme",
+      "download": "İndir",
+      "save": "Kaydet",
+      "confirm": "Onayla",
+      "remove": "Kaldır",
+      "delete": "Sil",
+      "cancel": "İptal",
+      "discard": "Değişiklikleri iptal et"
+    },
+    "popup": {
+      "verify": "Doğrulamak için, aşağıya <i>{content}</i> yazın:",
+      "important": "Bu son derece önemli.",
+      "placeholder": "Buraya yazın..."
+    },
+    "external": {
+      "github_profile": "GitHub profili",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Sorunlar",
+      "source": "Kaynak",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Bana Bir Çay Ismarla",
+      "github_sponsors": "GitHub Sponsorları",
+      "donate": "Bağış Yap",
+      "kofi": "Ko-Fi"
+    },
+    "environments": {
+      "singular": "Çevre",
+      "plural": "Çevreler",
+      "server_side": "Sunucu tarafı",
+      "client_side": "İstemci tarafı",
+      "values": {
+        "required": "Zorunlu",
+        "unsupported": "Desteksiz",
+        "optional": "İsteğe Bağlı",
+        "unknown": "Bilinmiyor"
+      }
+    },
+    "up_to_date": "Güncelsiniz!",
+    "byline": "<u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Mod",
+        "plural": "Modlar",
+        "search": "Mod ara..."
+      },
+      "modpack": {
+        "singular": "Mod Paketi",
+        "plural": "Mod Paketleri",
+        "search": "Mod paketi ara..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Dış kaynaklar",
+      "featured_versions": "Öne çıkan sürümler",
+      "project_members": "Proje üyeleri",
+      "technical_information": "Teknik bilgi"
+    },
+    "gallery": {
+      "upload": "Galeri görseli yükle",
+      "confirm": "Bu galeri görselini silmek istediğinizden emin misiniz?",
+      "placeholder": {
+        "title": "Görsel başlığı gir...",
+        "description": "Görsel açıklaması gir..."
+      }
+    },
+    "body": {
+      "editor": "Düzenleyici",
+      "placeholder": "Proje metnini gir...",
+      "empty": "Bu proje açıklaması boş."
+    },
+    "members": "Üyeler",
+    "permissions": "İzinler",
+    "permission": {
+      "upload_version": "Sürüm yükle",
+      "delete_version": "Sürüm sil",
+      "edit_details": "Detayları düzenle",
+      "edit_body": "Metni düzenle",
+      "manage_invites": "Davetleri yönet",
+      "remove_member": "Üye kaldır",
+      "edit_member": "Üye düzenle",
+      "delete_project": "Projeyi sil"
+    },
+    "role": {
+      "text": "Rol",
+      "placeholder": "Rolleri gir..."
+    },
+    "advanced": "Gelişmiş",
+    "visibility": {
+      "title": "Görünürlük",
+      "description": "Bu proje şu an {status}",
+      "action": "Görünürlüğü değiştir"
+    },
+    "ownership": {
+      "title": "Sahiplik",
+      "description": "Bu projenin sahipliğini başka kullanıcıya devret.",
+      "action": "Sahiplik devret"
+    },
+    "delete": {
+      "title": "Projeyi sil",
+      "description": "Bir projeyi silmek, sürümler dahil tüm proje verisini temizler.",
+      "action": "Projeyi sil"
+    }
+  },
+  "version": {
+    "featured": "Öne Çıkan",
+    "autofeatured": "Otomatik Öne Çıkan",
+    "feature_action": "Öne Çıkar",
+    "dependencies": "Bağımlılıklar",
+    "metadata": "Üstveri",
+    "release_channel": "Yayın kanalı",
+    "number": "Sürüm numarası",
+    "publication_date": "Yayın tarihi",
+    "publisher": "Yayıncı"
+  },
+  "search": {
+    "filters": {
+      "clear": "Filtreleri temizle",
+      "hide": "Filtreleri gizle",
+      "show": "Filtreleri göster",
+      "show_snapshots": "Snapshotları göster",
+      "search_versions": "Sürüm ara...",
+      "licenses": "Lisanslar"
+    },
+    "sort": {
+      "by": "Şuna göre sırala",
+      "relevance": "Alaka düzeyi",
+      "downloads": "İndirme sayısı",
+      "follows": "Takipçi sayısı",
+      "newest": "Yeni yaratılmış",
+      "updated": "Yeni güncellenen"
+    },
+    "per_page": "Sayfa başı göster"
+  },
+  "status": {
+    "approved": "Onaylı",
+    "rejected": "Reddedildi",
+    "draft": "Taslak",
+    "unlisted": "Liste Dışı",
+    "processing": "İncelemede",
+    "unknown": "Bilinmiyor"
+  },
+  "release_channels": {
+    "release": "Yayın",
+    "beta": "Beta",
+    "alpha": "Alfa"
+  },
+  "roles": {
+    "developer": "Geliştirici",
+    "admin": "Yönetici",
+    "moderator": "Moderatör"
+  },
+  "stats": {
+    "joined": "{ago} önce katıldı",
+    "notified": "{ago} önce bildirildi",
+    "downloads": "{downloads, plural, bir {<b>1</b> indirme} other {<b>#</b> indirme}}",
+    "followers_of_projects": "{followers, plural, one {<b>1</b> projenin takipçisi} other {<b>#</b> projenin takipçisi}}",
+    "followers": "{followers, plural, one {<b>1</b> takipçi} other {<b>#</b> takipçi}}",
+    "user_id": "Kullanıcı ID: {id}",
+    "created": "{ago} önce yaratıldı",
+    "updated": "{ago} önce güncellendi"
+  },
+  "settings": {
+    "username": {
+      "text": "Kullanıcı adı",
+      "placeholder": "Bir kullanıcı adı ekle..."
+    },
+    "bio": {
+      "text": "Özgeçmiş",
+      "placeholder": "Bir özgeçmiş ekle..."
+    },
+    "email": {
+      "text": "<b>Özel email</b> (sadece moderatörlere görünür)",
+      "placeholder": "Bir email ekle..."
+    },
+    "avatar": "Avatar yükle"
+  },
+  "report": {
+    "singular": "Rapor",
+    "plural": "Raporlar",
+    "type": {
+      "spam": "Spam",
+      "copyright": "Telif Hakkı",
+      "inappropriate": "Uygunsuz",
+      "malicious": "Kötü Niyetli",
+      "name-squatting": "",
+      "other": "Diğer"
+    },
+    "new": {
+      "information": "Ek bilgi",
+      "description": "Mümkünse bağlantı ve görselleri dahil edin. Markdown formatı desteklidir."
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Takip edilen projeler yükleniyor...",
+      "none": "Herhangi bir proje takip etmemişsiniz."
+    },
+    "delete": {
+      "title": "Hesabı sil",
+      "body": "Hesabınızı bir kere silerseniz geri dönüşü yok. Hesabını silmek, projeler dahil olmak üzere tüm bağlı verileri sunucumuzdan kaldıracaktır.",
+      "confirm_title": "Hesabınızı silmek istediğinizden emin misiniz?",
+      "confirm_body": "Bu işlem **tüm projelerinizi ve takiplerinizi hızlıca silecektir.** Hesabızın silinmesi geriye çevrilemez.\n\nEğer hesabınızla ilgili yardıma ihtiyacınız varsa, [Modrinth Discord](/discord)'tan destek alın.",
+      "yes_I_want_to_do_this": "Evet, geri alınamaz şekilde hesabımı sil"
+    },
+    "auth": {
+      "title": "Kimlik doğrulama tokeni",
+      "body": "Kimlik doğrulama tokeniniz, Modrinth API, Minotaur Gradle eklentisi ve Modrinth API'yle etkileşime giren diğer uygulamalarla kullanılabilir. Bunu sır olarak sakladığınızdan emin olun!",
+      "copy": "Tokeni panoya kopyala",
+      "copied": "Token panoya kopyalandı",
+      "revoke": "Tokeni iptal et"
+    },
+    "revoke_token": {
+      "title": "Modrinth tokeninizi iptal edin",
+      "body": "Modrinth tokeninizi iptal etmek, istenmeyen sonuçlara yol açabilir. Lütfen aşağıdakilerin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a yanlış token verilirse, Gradle yapımlarınız hata verebilir.\n - GitHub - eğer Modrinth API'si kullanan bir GitHub Action'ı kullanıyorsanız, hataya neden olacaktır.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub'taki Modrinth Uygulama sayfasının](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) başına gelin. Modrinth için kullandığınız GitHub hesabınızla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kere bu adımları tamamladıktan sonra, aşağıdaki devam etme tuşuna tıklayın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracaktır ancak tekrar giriş yaparsanız tokeniniz yeniden oluşturulacak.**",
+      "action": "Çıkış yap"
+    }
+  },
+  "images": {
+    "replace": "Görseli değiştir",
+    "how_to": "Yüklemek için sürükle bırak veya seçmek için tıkla"
+  },
+  "ads": {
+    "privacy_respecting": "Gizliliğe önem veren bir reklam burada gözükürdü.",
+    "console": {
+      "line1": "Bir reklam engelleyici kullanıyorsunuz.",
+      "line2": "Reklam engelleyiciniz Modrinth'in tek gelir kaynağı olan bir reklamın göstermesinin önüne geçti.",
+      "line3": "Eğer hala reklamları görmeden Modrinth'e yardım etmek istersen, GitHub üzerinden Modrinth'e katkıda bulunabilirsin!",
+      "line4": ""
+    }
+  },
+  "tags": {
+    "technology": "Teknoloji",
+    "adventure": "Macera",
+    "magic": "Sihir",
+    "utility": "Yardımcı",
+    "decoration": "Dekorasyon",
+    "library": "Kitaplık",
+    "cursed": "Lanetli",
+    "worldgen": "Dünya Oluşumu",
+    "storage": "Depolama",
+    "food": "Yemek",
+    "equipment": "Ekipman",
+    "miscellaneous": "Çeşitli",
+    "challenging": "Meydan Okuyucu",
+    "combat": "Savaşma",
+    "kitchen-sink": "Eviye",
+    "lightweight": "Hafif",
+    "multiplayer": "Çok Oyunculu",
+    "quests": "Görevler",
+    "optimization": "Optimizasyon",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Sunucu",
+    "client": "İstemci",
+    "good": "İyi",
+    "trash": "Çöp",
+    "misc": "Çeşitli"
+  }
+}
