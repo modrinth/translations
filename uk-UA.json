@@ -1,0 +1,382 @@
+{
+  "locale": {
+    "no_translation": "У зв'язку з характером цієї сторінки, офіційна версія вмісту доступна лише англійською."
+  },
+  "index": {
+    "tagline": "",
+    "description": "",
+    "features": {
+      "book": {
+        "title": "Простий у використанні API",
+        "description": ""
+      },
+      "coin": {
+        "title": "",
+        "description": ""
+      },
+      "speedometer": {
+        "title": "",
+        "description": ""
+      },
+      "chat": {
+        "title": "",
+        "description": ""
+      },
+      "puzzle": {
+        "title": "",
+        "description": ""
+      },
+      "tools": {
+        "title": "",
+        "description": ""
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Перейти до профілю",
+    "logout": "Вийти",
+    "github": "Увійти за допомогою GitHub"
+  },
+  "footer": {
+    "description": "Modrinth — програмне забезпечення з відкритим вихідним кодом.",
+    "legal": {
+      "heading": "Угоди",
+      "terms": "Умови використання",
+      "privacy": "Конфіденційність",
+      "rules": "Правила"
+    },
+    "resources": {
+      "heading": "Ресурси",
+      "blog": "Блог",
+      "docs": "Документація"
+    },
+    "buttons": {
+      "privacy": "Налаштування конфіденційності",
+      "theme": {
+        "label": "Змінити тему",
+        "system": "Системна тема",
+        "light": "Світла тема",
+        "dark": "Темна тема",
+        "oled": "OLED-тема"
+      },
+      "language": {
+        "label": "Виберіть мову"
+      }
+    }
+  },
+  "error": {
+    "status": "Помилка {status}",
+    "message": {
+      "404": "Ох, здається, що ви заблукали в [нашому лабіринті](https://github.com/modrinth/labrinth).<br />Сторінка, яку ви шукаєте, не знайдена.",
+      "project_missing": "{type}, який ви шукаєте, не знайдено.",
+      "default": "Виникла непередбачувана помилка."
+    },
+    "actions": {
+      "home": "На головну",
+      "discord": "Отримати допомогу в Discord (англ.)"
+    }
+  },
+  "pages": {
+    "description": "Опис",
+    "gallery": "Галерея",
+    "changelog": "Список змін",
+    "versions": "Версії",
+    "settings": "Налаштування",
+    "moderation": "Модерація",
+    "notifications": "Сповіщення",
+    "about": "Про проект",
+    "following": "Підписки",
+    "terms": "Правила та умови",
+    "privacy": "Політика конфіденційності",
+    "rules": "Правила проекту",
+    "all": "Все"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Ліцензія",
+        "plural": "Ліцензії"
+      },
+      "project_id": "ID проекту",
+      "project_status": "Статус проекту",
+      "minecraft_versions": "Версії Minecraft",
+      "mod_loaders": "Завантажувачі модів",
+      "categories": "Категорії",
+      "downloads": "Завантаження",
+      "files": "Файли"
+    },
+    "actions": {
+      "create": "Створити",
+      "edit": "Редагувати",
+      "follow": "Підписатися",
+      "unfollow": "Відписатися",
+      "feature": "Рекомендувати",
+      "report": "Поскаржитися",
+      "new_project": "Новий проект",
+      "preview": "Переглянути",
+      "download": "Завантажити",
+      "save": "Зберегти",
+      "confirm": "Підтвердити",
+      "remove": "Виключити",
+      "delete": "Видалити",
+      "cancel": "Скасувати",
+      "discard": "Скасувати зміни"
+    },
+    "popup": {
+      "verify": "Щоб підтвердити, введіть <i>{content}</i> нижче:",
+      "important": "Це надзвичайно важливо.",
+      "placeholder": "Введіть тут..."
+    },
+    "external": {
+      "github_profile": "Профіль GitHub",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Проблеми",
+      "source": "Вихідний код",
+      "wiki": "Вікі",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Buy Me a Coffee",
+      "github_sponsors": "GitHub Sponsors",
+      "donate": "Пожертвувати",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Середовище",
+      "plural": "Середовища",
+      "server_side": "Сервер",
+      "client_side": "Клієнт",
+      "values": {
+        "required": "Потрібно",
+        "unsupported": "Не підтримується",
+        "optional": "Опціонально",
+        "unknown": "Невідомо"
+      }
+    },
+    "up_to_date": "Ви в курсі всіх оновлень!",
+    "byline": "від <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Мод",
+        "plural": "Моди",
+        "search": "Пошук модів..."
+      },
+      "modpack": {
+        "singular": "Збірка модів",
+        "plural": "Збірки модів",
+        "search": "Пошук збірок модів..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Зовнішні ресурси",
+      "featured_versions": "Рекомендовані версії",
+      "project_members": "Учасники проекту",
+      "technical_information": "Технічна інформація"
+    },
+    "gallery": {
+      "upload": "Завантажити в галерею",
+      "confirm": "Ви впевнені, що хочете видалити зображення?",
+      "placeholder": {
+        "title": "Введіть назву зображення...",
+        "description": "Введіть опис зображення..."
+      }
+    },
+    "body": {
+      "editor": "Редактор",
+      "placeholder": "Введіть опис проекту...",
+      "empty": "Опис цього проекту пустий."
+    },
+    "members": "Учасники",
+    "permissions": "Дозволи",
+    "permission": {
+      "upload_version": "Вивантаження версій",
+      "delete_version": "Видалення версій",
+      "edit_details": "Редагування деталей",
+      "edit_body": "Редагування опису",
+      "manage_invites": "Управління запрошеннями",
+      "remove_member": "Виключення учасників",
+      "edit_member": "Редагування учасників",
+      "delete_project": "Видалення проекту"
+    },
+    "role": {
+      "text": "Роль",
+      "placeholder": "Введіть ролі..."
+    },
+    "advanced": "Додаткові опції",
+    "visibility": {
+      "title": "Видимість",
+      "description": "Поточний стан проекту: {status}.",
+      "action": "Змінити видимість"
+    },
+    "ownership": {
+      "title": "Власність",
+      "description": "Передати право власності на цей проект іншому користувачу.",
+      "action": "Змінити власника"
+    },
+    "delete": {
+      "title": "Видалення проекту",
+      "description": "Ця дія видалить всі дані проекту, включаючи версії.",
+      "action": "Видалити проект"
+    }
+  },
+  "version": {
+    "featured": "Рекомендована",
+    "autofeatured": "Рекомендована автоматично",
+    "feature_action": "Рекомендувати",
+    "dependencies": "Залежності",
+    "metadata": "Метадані",
+    "release_channel": "Тип версії",
+    "number": "Номер версії",
+    "publication_date": "Дата публікації",
+    "publisher": "Видавець"
+  },
+  "search": {
+    "filters": {
+      "clear": "Скинути фільтри",
+      "hide": "Сховати фільтри",
+      "show": "Показати фільтри",
+      "show_snapshots": "Показувати снапшоти",
+      "search_versions": "Пошук версій...",
+      "licenses": "Ліцензії"
+    },
+    "sort": {
+      "by": "Сортування",
+      "relevance": "Релевантність",
+      "downloads": "Кількість завантажень",
+      "follows": "Кількість підписників",
+      "newest": "Дата створення",
+      "updated": "Дата оновлення"
+    },
+    "per_page": "На сторінці"
+  },
+  "status": {
+    "approved": "Затверджено",
+    "rejected": "Відхилено",
+    "draft": "Чернетка",
+    "unlisted": "Прихований",
+    "processing": "На розгляді",
+    "unknown": "Невідомо"
+  },
+  "release_channels": {
+    "release": "Реліз",
+    "beta": "Бета",
+    "alpha": "Альфа"
+  },
+  "roles": {
+    "developer": "Розробник",
+    "admin": "Адміністратор",
+    "moderator": "Модератор"
+  },
+  "stats": {
+    "joined": "Приєднався {ago}",
+    "notified": "Отримано {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> завантаження} few {<b>#</b> завантаження} many {<b>#</b> завантажень} other {<b>#</b> завантаження}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> підписник на проекти} few {<b>#</b> підписники на проекти} many {<b>#</b> підписників на проекти} other {<b>#</b> підписників на проекти}}",
+    "followers": "{followers, plural, one {<b>#</b> підписник} few {<b>#</b> підписники} many {<b>#</b> підписників} other {<b>#</b> підписників}}",
+    "user_id": "ID користувача: {id}",
+    "created": "Створено {ago}",
+    "updated": "Оновлено {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Ім'я користувача",
+      "placeholder": "Додати ім'я користувача..."
+    },
+    "bio": {
+      "text": "Про себе",
+      "placeholder": "Розкажіть про себе..."
+    },
+    "email": {
+      "text": "<b>Особиста електронна пошта</b> (показуватися лише для модераторів)",
+      "placeholder": "Додати е-пошту..."
+    },
+    "avatar": "Завантажити аватар"
+  },
+  "report": {
+    "singular": "Скарга",
+    "plural": "Скарги",
+    "type": {
+      "spam": "Спам",
+      "copyright": "Порушення авторських прав",
+      "inappropriate": "Неприйнятний вміст",
+      "malicious": "Шкідливий вміст",
+      "name-squatting": "Привласнення назви",
+      "other": "Інше"
+    },
+    "new": {
+      "information": "Додаткова інформація",
+      "description": "Якщо можливо, додайте посилання та зображення. Форматування Markdown підтримується."
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Завантаження відстежуваних проектів...",
+      "none": "Ви ще не підписані на жодні проекти."
+    },
+    "delete": {
+      "title": "Видалити обліковий запис",
+      "body": "Після видалення облікового запису, зворотного шляху вже не буде. Видалення облікового запису призведе до видалення всіх пов'язаних даних, включаючи проекти, з наших серверів.",
+      "confirm_title": "Ви впевнені, що бажаєте видалити обліковий запис?",
+      "confirm_body": "Це **негайно видалити всі ваші проєкти** та підписки. Видалення облікового запису неможливо буде скасувати.\n\nЯкщо вам потрібна допомога з вашим обліковим записом, отримайте підтримку на [сервері Modrinth у Discord](/discord).",
+      "yes_I_want_to_do_this": "Так, безповоротно видалити мій обліковий запис"
+    },
+    "auth": {
+      "title": "Токен авторизації",
+      "body": "Ваш токен авторизації можна використовувати з API Modrinth, плагіном Minotaur для Gradle та іншими додатками, які взаємодіють з API Modrinth. Тримайте це в секреті!",
+      "copy": "Скопіювати токен",
+      "copied": "Токен скопійовано",
+      "revoke": "Відкликати токен"
+    },
+    "revoke_token": {
+      "title": "Відкликання вашого токену Modrinth",
+      "body": "Відкликання вашого токена Modrinth може мати непередбачені наслідки. Будь ласка, майте на увазі, що такі дії можуть зламати:\n • Будь-які програма, яка використовує ваш токен для доступу до API.\n • Gradle: якщо в Minotaur вказано невірний токен, ваші складання Gradle можуть закінчитися з помилкою.\n • GitHub: якщо ви використовуєте GitHub Action, яка використовує API Modrinth, це викличе помилки.\n\nЯкщо ви готови продовжувати, виконайте наступні кроки:\n\n 1. Перейдіть на [сторінку Modrinth на GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Переконайтеся, що ви авторизовані в обліковий запис GitHub, який використовується для Modrinth!\n 2. Натисніть велику кнопку «Revoke access» під заголовком «Permissions».\n\nПісля завершення цих кроків, натисніть кнопку «Вийти» нижче.\n\n**Ви вийдете з Modrinth, однак, коли ви знову ввійдете в свій обліковий запис, ваш токен знову буде відтворений.**",
+      "action": "Вийти"
+    }
+  },
+  "images": {
+    "replace": "Замінити зображення",
+    "how_to": "Перетягніть або натисніть, щоб вибрати файл для завантаження"
+  },
+  "ads": {
+    "privacy_respecting": "Тут було б показано оголошення, яке поважає конфіденційність.",
+    "console": {
+      "line1": "Ви використовуєте блокувальник реклами.",
+      "line2": "Ваш блокувальник реклами не дозволив Modrinth показати рекламу — наше єдине джерело доходу.",
+      "line3": "Якщо ви все ще хочете допомогти Modrinth не переглядаючи рекламу, ви можете зробити свій внесок у Modrinth на GitHub!",
+      "line4": ""
+    }
+  },
+  "tags": {
+    "technology": "Технології",
+    "adventure": "Пригоди",
+    "magic": "Магія",
+    "utility": "Утиліти",
+    "decoration": "Прикраси",
+    "library": "Бібліотеки",
+    "cursed": "Прокляті",
+    "worldgen": "Генерація світу",
+    "storage": "Інвентар",
+    "food": "Їжа",
+    "equipment": "Обладнання",
+    "miscellaneous": "Різне",
+    "challenging": "Виклики",
+    "combat": "Баталії",
+    "kitchen-sink": "Все підряд",
+    "lightweight": "Легкий",
+    "multiplayer": "Гра в мережі",
+    "quests": "Квести",
+    "optimization": "Оптимізація",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Сервер",
+    "client": "Клієнт",
+    "good": "Гарно",
+    "trash": "Треш",
+    "misc": "Різне"
+  }
+}
