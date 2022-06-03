@@ -27,8 +27,8 @@
         "description": "Integrates with build tools, repositories, launchers, and custom applications."
       },
       "tools": {
-        "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "title": "Повністю відкритий вихідний код",
+        "description": "Проект з відкритим кодом, який підтримується активною спільнотою, яка вітає внески."
       }
     }
   },
