@@ -1,0 +1,382 @@
+{
+  "locale": {
+    "no_translation": "DUE 2 TEH NACHUR OV DIS PAEG, TEH ONLY OFFISHUL VERSHUN OV DIS CONTENT IZ IN ENGLISH."
+  },
+  "index": {
+    "tagline": "DISCOVR, PULAY, AN CREATE MINECRAFT CONTENT",
+    "description": "FIND ENJOYABLE AN QUALITY CONTENT THRU R OPEN-SOURCE MODDIN PLATFORM BUILT 4 DA COMMUNITY. CREATE STUFF, GIT PAID*, AN DEPLOY UR PROJECT WIF R FULLY DOCUMENTD API!",
+    "features": {
+      "book": {
+        "title": "EASY 2 USE API",
+        "description": "BAKD BY FULLY DOCUMENTD API FACILITATIN TEH GROWTH OV 3RD PARTY INTEGRASHUNS & LAUNCHERS."
+      },
+      "coin": {
+        "title": "CREATOR EARNINGS",
+        "description": "PLANNIN 2 GIV CREATORS 100% OV AD REVENUE FRUM THEIR PROJECT PAGEZ. *PAYOUTS R CURRENTLY IN DEVELOPMENT."
+      },
+      "speedometer": {
+        "title": "LIGHTNIN-FAST SEARCH",
+        "description": "POWERD BY FAST AN ADAPTABLE SEARCH ALGORITHMS SO U DOAN HAS 2 WAIT."
+      },
+      "chat": {
+        "title": "HELPFUL COMMUNITY",
+        "description": "GIT SUPPORT, DEVELOP, AN HANG OUT ON R DISCORD SERVR WIF OVAR 1,500 MEMBERS."
+      },
+      "puzzle": {
+        "title": "EXTENSIBLE BY DESIGN",
+        "description": "INTEGRATEZ WIF BUILD TOOLS, REPOSITORIEZ, LAUNCHERS, AN CUSTOM APPLICASHUNS."
+      },
+      "tools": {
+        "title": "FULLY OPEN SOURCE",
+        "description": "AN OPEN SOURCE PROJECT MAINTAIND BY AN ACTIV COMMUNITY DAT WELCOMEZ CONTRIBUSHUNS."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "GO 2 MAH PROFILE",
+    "logout": "LOG OUT",
+    "github": "SIGN IN WIF GITHUB"
+  },
+  "footer": {
+    "description": "MODRINTH IZ OPEN SOURCE SOFTWARE.",
+    "legal": {
+      "heading": "LEGAL",
+      "terms": "TERMS",
+      "privacy": "PRIVACY",
+      "rules": "Rulz"
+    },
+    "resources": {
+      "heading": "Resourcez",
+      "blog": "Blog",
+      "docs": ""
+    },
+    "buttons": {
+      "privacy": "SET PRIVACY PREFERENCEZ",
+      "theme": {
+        "label": "CHANGE THEME",
+        "system": "SISTEM THEME",
+        "light": "",
+        "dark": "",
+        "oled": "Super dark mode :0"
+      },
+      "language": {
+        "label": "SELECT LANGUAGE"
+      }
+    }
+  },
+  "error": {
+    "status": "Oopsie {status}",
+    "message": {
+      "404": "UH OH, LOOKZ LIEK U GOT LOST IN DA [Labyrinth](https://github.com/modrinth/labrinth).<br />TEH PAEG U R LOOKIN 4 CUD NOT BE FINDZ.",
+      "project_missing": "TEH {type} U WUZ LOOKIN 4 CANT BE FINDZ.",
+      "default": "AN UNEXPECTD ERROR HAS OCCURRD."
+    },
+    "actions": {
+      "home": "GO HOME",
+      "discord": "GIT HALP ON DISCORD"
+    }
+  },
+  "pages": {
+    "description": "DESCRIPSHUN",
+    "gallery": "GALLERY",
+    "changelog": "Changez",
+    "versions": "VERSHUNS",
+    "settings": "SETTINGS",
+    "moderation": "MODERASHUN",
+    "notifications": "NOTIFICASHUNS",
+    "about": "About",
+    "following": "FOLLOWIN",
+    "terms": "TERMS AN CONDISHUNS",
+    "privacy": "PRIVACY POLICY",
+    "rules": "Project rulz",
+    "all": "Evrythin"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "License",
+        "plural": "Licensez"
+      },
+      "project_id": "",
+      "project_status": "PROJECT STATUS",
+      "minecraft_versions": "MINECRAFT VERSHUNS",
+      "mod_loaders": "Mod loaderz",
+      "categories": "CATegoriez",
+      "downloads": "Downlodez",
+      "files": "Filez"
+    },
+    "actions": {
+      "create": "",
+      "edit": "Edit",
+      "follow": "",
+      "unfollow": "",
+      "feature": "",
+      "report": "",
+      "new_project": "NEW PROJECT",
+      "preview": "PREVIEW",
+      "download": "",
+      "save": "",
+      "confirm": "",
+      "remove": "",
+      "delete": "",
+      "cancel": "",
+      "discard": "DISCARD CHANGEZ"
+    },
+    "popup": {
+      "verify": "2 VERIFY, TYPE <i>{content}</i> BELOW:",
+      "important": "DIS AR TEH EXTREMELY IMPORTANT.",
+      "placeholder": "TYPE HER..."
+    },
+    "external": {
+      "github_profile": "",
+      "discord": "",
+      "github": "",
+      "issues": "Problemz",
+      "source": "Source",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "BUY ME COFFEH",
+      "github_sponsors": "",
+      "donate": "Giv money",
+      "kofi": "Ko-Fi"
+    },
+    "environments": {
+      "singular": "ENVIRONMENT",
+      "plural": "",
+      "server_side": "Server side",
+      "client_side": "Client side",
+      "values": {
+        "required": "",
+        "unsupported": "",
+        "optional": "",
+        "unknown": ""
+      }
+    },
+    "up_to_date": "U R UP 2 DATE!",
+    "byline": "by <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "MOD",
+        "plural": "MODZ",
+        "search": "SEARCH MODZ..."
+      },
+      "modpack": {
+        "singular": "MODPACK",
+        "plural": "MODPACKZ",
+        "search": "SEARCH MODPACKZ..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "External resourcez",
+      "featured_versions": "Featured vershuns",
+      "project_members": "",
+      "technical_information": "TECHNICAL INFORMASHUN"
+    },
+    "gallery": {
+      "upload": "UPLOAD GALLERY IMAGE",
+      "confirm": "R U SURE U WANTS 2 DELETE DIS GALLERY IMAGE?",
+      "placeholder": {
+        "title": "ENTR IMAGE TITLE...",
+        "description": "ENTR IMAGE DESCRIPSHUN..."
+      }
+    },
+    "body": {
+      "editor": "",
+      "placeholder": "",
+      "empty": "DIS PROJECT DESCRIPSHUN IZ EMPTY."
+    },
+    "members": "",
+    "permissions": "",
+    "permission": {
+      "upload_version": "",
+      "delete_version": "",
+      "edit_details": "",
+      "edit_body": "",
+      "manage_invites": "MANAGE INVITEZ",
+      "remove_member": "REMOOV MEMBERS",
+      "edit_member": "EDIT MEMBERS",
+      "delete_project": "DELETE PROJECT"
+    },
+    "role": {
+      "text": "",
+      "placeholder": "ENTR ROLEZ..."
+    },
+    "advanced": "",
+    "visibility": {
+      "title": "",
+      "description": "DIS PROJECT IZ CURRENTLY {status}.",
+      "action": "CHANGE VISIBILITY"
+    },
+    "ownership": {
+      "title": "OWNERSHIP",
+      "description": "TRANZFR OWNERSHIP OV DIS PROJECT 2 ANOTHR USR.",
+      "action": "TRANZFR OWNERSHIP"
+    },
+    "delete": {
+      "title": "",
+      "description": "DELETIN PROJECT ERASEZ ALL PROJECT DATA, INCLUDIN VERSHUNS.",
+      "action": ""
+    }
+  },
+  "version": {
+    "featured": "",
+    "autofeatured": "",
+    "feature_action": "",
+    "dependencies": "",
+    "metadata": "",
+    "release_channel": "",
+    "number": "",
+    "publication_date": "",
+    "publisher": ""
+  },
+  "search": {
+    "filters": {
+      "clear": "",
+      "hide": "",
+      "show": "",
+      "show_snapshots": "SHOW SNAPSHOTZ",
+      "search_versions": "SEARCH VERSHUNS...",
+      "licenses": "LICENSEZ"
+    },
+    "sort": {
+      "by": "",
+      "relevance": "",
+      "downloads": "",
+      "follows": "",
+      "newest": "",
+      "updated": ""
+    },
+    "per_page": ""
+  },
+  "status": {
+    "approved": "Approvd :3",
+    "rejected": "Rejected :(",
+    "draft": "",
+    "unlisted": "",
+    "processing": "",
+    "unknown": ""
+  },
+  "release_channels": {
+    "release": "",
+    "beta": "",
+    "alpha": ""
+  },
+  "roles": {
+    "developer": "",
+    "admin": "",
+    "moderator": ""
+  },
+  "stats": {
+    "joined": "Joined {ago}",
+    "notified": "",
+    "downloads": "",
+    "followers_of_projects": "",
+    "followers": "",
+    "user_id": "",
+    "created": "",
+    "updated": ""
+  },
+  "settings": {
+    "username": {
+      "text": "USERNAME",
+      "placeholder": "ADD USERNAME..."
+    },
+    "bio": {
+      "text": "",
+      "placeholder": ""
+    },
+    "email": {
+      "text": "",
+      "placeholder": "ADD AN EMAIL..."
+    },
+    "avatar": ""
+  },
+  "report": {
+    "singular": "",
+    "plural": "",
+    "type": {
+      "spam": "",
+      "copyright": "",
+      "inappropriate": "",
+      "malicious": "",
+      "name-squatting": "",
+      "other": ""
+    },
+    "new": {
+      "information": "ADDISHUNAL INFORMASHUN",
+      "description": "INCLUDE LINKZ AN IMAGEZ IF POSIBLE. MARKDOWN FORMATTIN IZ SUPPORTD."
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "LOADIN FOLLOWD PROJECTS...",
+      "none": "U HAVENT FOLLOWD ANY PROJECTS."
+    },
+    "delete": {
+      "title": "DELETE AKOWNT",
+      "body": "ONCE U DELETE UR AKOWNT, THAR IZ NO GOIN BAK. DELETIN UR AKOWNT WILL REMOOV ALL ATTACHD DATA, INCLUDIN PROJECTS, FRUM R SERVERS.",
+      "confirm_title": "R U SURE U WANTS 2 DELETE UR AKOWNT?",
+      "confirm_body": "DIS WILL **IMMEDIATELY DELETE ALL OV UR PROJECTS** AN FOLLOWS. DELETIN UR AKOWNT CANT BE REVERSD.\n\nIF U NED HALP WIF UR AKOWNT, GIT SUPPORT ON TEH [Modrinth Discord](/discord).",
+      "yes_I_want_to_do_this": "YEZ, IRRECOVERABLY DELETE MAH AKOWNT"
+    },
+    "auth": {
+      "title": "AUTHORIZASHUN TOKEN",
+      "body": "UR AUTHORIZASHUN TOKEN CAN BE USD WIF TEH MODRINTH API, TEH MINOTAUR GRADLE PLUGIN, AN OTHR APPLICASHUNS DAT INTERACT WIF MODRINTHS API. BE SURE 2 KEEP DIS SEEKRET!",
+      "copy": "COPY TOKEN 2 CLIPBORD",
+      "copied": "COPID TOKEN 2 CLIPBORD",
+      "revoke": "REVOKE TOKEN"
+    },
+    "revoke_token": {
+      "title": "REVOKE UR MODRINTH TOKEN",
+      "body": "REVOKIN UR MODRINTH TOKEN CAN HAS UNINTENDD CONSEQUENCEZ. PLZ BE AWARE DAT TEH FOLLOWIN CUD BREAK:\n - ANY APPLICASHUN DAT USEZ UR TOKEN 2 ACCES TEH API.\n - GRADLE - IF MINOTAUR IZ GIVEN INCORRECT TOKEN, UR GRADLE BUILDZ CUD FAIL.\n - GITHUB - IF U USE GITHUB ACSHUN DAT USEZ TEH MODRINTH API, IT WILL CAUSE ERRORS.\n\nIF U R WILLIN 2 CONTINUE, COMPLETE TEH FOLLOWIN STEPS:\n\n 1. HEAD 2 TEH [MODRINTH APPLICASHUN PAEG ON GITHUB](HTTPS://GITHUB.COM/SETTINGS/CONNECSHUNS/APPLICASHUNS/3ACFFB2E808D16D4B226). MAK SURE 2 BE LOGGD INTO TEH GITHUB AKOWNT U USD 4 MODRINTH!\n 2. PRES TEH HOOJ RED \"REVOKE ACCES\" BUTN NEXT 2 TEH \"PERMISHUNS\" HEADR.\n\nONCE U HAS COMPLETD DOSE STEPS, PRES TEH CONTINUE BUTN BELOW.\n\n**DIS WILL LOG U OUT OV MODRINTH, HOWEVR, WHEN U LOG BAK IN, UR TOKEN WILL BE REGENERATD.**",
+      "action": ""
+    }
+  },
+  "images": {
+    "replace": "",
+    "how_to": "DRAG AN DROP 2 UPLOAD OR CLICK 2 SELECT"
+  },
+  "ads": {
+    "privacy_respecting": "A PRIVACY-RESPECTIN AD WUD HAS BEEN SHOWN HER.",
+    "console": {
+      "line1": "U R USIN AN ADBLOCKR.",
+      "line2": "UR ADBLOCKR PREVENTD MODRINTH FRUM SHOWIN AN AD, R ONLY SOURCE OV INCOME.",
+      "line3": "IF U STILL WANTS 2 HALP MODRINTH WITHOUT VIEWIN ADZ, U CAN CONTRIBUTE 2 MODRINTH ON GITHUB!",
+      "line4": ""
+    }
+  },
+  "tags": {
+    "technology": "",
+    "adventure": "",
+    "magic": "",
+    "utility": "",
+    "decoration": "",
+    "library": "",
+    "cursed": "",
+    "worldgen": "",
+    "storage": "",
+    "food": "",
+    "equipment": "",
+    "miscellaneous": "",
+    "challenging": "",
+    "combat": "",
+    "kitchen-sink": "",
+    "lightweight": "",
+    "multiplayer": "",
+    "quests": "",
+    "optimization": "",
+    "fabric": "",
+    "forge": "",
+    "quilt": "",
+    "modloader": "",
+    "rift": "",
+    "server": "",
+    "client": "",
+    "good": "",
+    "trash": "",
+    "misc": ""
+  }
+}
