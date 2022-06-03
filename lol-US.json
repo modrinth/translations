@@ -48,15 +48,15 @@
     "resources": {
       "heading": "Resourcez",
       "blog": "Blog",
-      "docs": ""
+      "docs": "Docs"
     },
     "buttons": {
       "privacy": "SET PRIVACY PREFERENCEZ",
       "theme": {
         "label": "CHANGE THEME",
         "system": "SISTEM THEME",
-        "light": "",
-        "dark": "",
+        "light": "Light mode",
+        "dark": "Dark mode",
         "oled": "Super dark mode :0"
       },
       "language": {
@@ -97,7 +97,7 @@
         "singular": "License",
         "plural": "Licensez"
       },
-      "project_id": "",
+      "project_id": "Project ID",
       "project_status": "PROJECT STATUS",
       "minecraft_versions": "MINECRAFT VERSHUNS",
       "mod_loaders": "Mod loaderz",
@@ -106,20 +106,20 @@
       "files": "Filez"
     },
     "actions": {
-      "create": "",
+      "create": "Create",
       "edit": "Edit",
-      "follow": "",
-      "unfollow": "",
-      "feature": "",
-      "report": "",
+      "follow": "Follow",
+      "unfollow": "Unfollow",
+      "feature": "Feature",
+      "report": "Report",
       "new_project": "NEW PROJECT",
       "preview": "PREVIEW",
-      "download": "",
-      "save": "",
-      "confirm": "",
-      "remove": "",
-      "delete": "",
-      "cancel": "",
+      "download": "Download",
+      "save": "Save",
+      "confirm": "Confirm",
+      "remove": "Remove",
+      "delete": "Delete",
+      "cancel": "Cancel",
       "discard": "DISCARD CHANGEZ"
     },
     "popup": {
@@ -128,29 +128,29 @@
       "placeholder": "TYPE HER..."
     },
     "external": {
-      "github_profile": "",
-      "discord": "",
-      "github": "",
+      "github_profile": "GitHub profile",
+      "discord": "Discord",
+      "github": "GitHub",
       "issues": "Problemz",
       "source": "Source",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "BUY ME COFFEH",
-      "github_sponsors": "",
+      "github_sponsors": "GitHub Sponsors",
       "donate": "Giv money",
       "kofi": "Ko-Fi"
     },
     "environments": {
       "singular": "ENVIRONMENT",
-      "plural": "",
+      "plural": "Environments",
       "server_side": "Server side",
       "client_side": "Client side",
       "values": {
-        "required": "",
-        "unsupported": "",
-        "optional": "",
-        "unknown": ""
+        "required": "Required",
+        "unsupported": "Unsupported",
+        "optional": "Optional",
+        "unknown": "Unknown"
       }
     },
     "up_to_date": "U R UP 2 DATE!",
@@ -172,7 +172,7 @@
     "sidebar_headings": {
       "external_resources": "External resourcez",
       "featured_versions": "Featured vershuns",
-      "project_members": "",
+      "project_members": "Project members",
       "technical_information": "TECHNICAL INFORMASHUN"
     },
     "gallery": {
@@ -184,29 +184,29 @@
       }
     },
     "body": {
-      "editor": "",
-      "placeholder": "",
+      "editor": "Editor",
+      "placeholder": "Enter project body...",
       "empty": "DIS PROJECT DESCRIPSHUN IZ EMPTY."
     },
-    "members": "",
-    "permissions": "",
+    "members": "Members",
+    "permissions": "Permissions",
     "permission": {
-      "upload_version": "",
-      "delete_version": "",
-      "edit_details": "",
-      "edit_body": "",
+      "upload_version": "Upload version",
+      "delete_version": "Delete version",
+      "edit_details": "Edit details",
+      "edit_body": "Edit body",
       "manage_invites": "MANAGE INVITEZ",
       "remove_member": "REMOOV MEMBERS",
       "edit_member": "EDIT MEMBERS",
       "delete_project": "DELETE PROJECT"
     },
     "role": {
-      "text": "",
+      "text": "Role",
       "placeholder": "ENTR ROLEZ..."
     },
-    "advanced": "",
+    "advanced": "Advanced",
     "visibility": {
-      "title": "",
+      "title": "Visibility",
       "description": "DIS PROJECT IZ CURRENTLY {status}.",
       "action": "CHANGE VISIBILITY"
     },
@@ -216,68 +216,68 @@
       "action": "TRANZFR OWNERSHIP"
     },
     "delete": {
-      "title": "",
+      "title": "Delete project",
       "description": "DELETIN PROJECT ERASEZ ALL PROJECT DATA, INCLUDIN VERSHUNS.",
-      "action": ""
+      "action": "Delete project"
     }
   },
   "version": {
-    "featured": "",
-    "autofeatured": "",
-    "feature_action": "",
-    "dependencies": "",
-    "metadata": "",
-    "release_channel": "",
-    "number": "",
-    "publication_date": "",
-    "publisher": ""
+    "featured": "Featured",
+    "autofeatured": "Auto-featured",
+    "feature_action": "Feature",
+    "dependencies": "Dependencies",
+    "metadata": "Metadata",
+    "release_channel": "Release channel",
+    "number": "Version number",
+    "publication_date": "Publication date",
+    "publisher": "Publisher"
   },
   "search": {
     "filters": {
-      "clear": "",
-      "hide": "",
-      "show": "",
+      "clear": "Clear filters",
+      "hide": "Hide filters",
+      "show": "Show filters",
       "show_snapshots": "SHOW SNAPSHOTZ",
       "search_versions": "SEARCH VERSHUNS...",
       "licenses": "LICENSEZ"
     },
     "sort": {
-      "by": "",
-      "relevance": "",
-      "downloads": "",
-      "follows": "",
-      "newest": "",
-      "updated": ""
+      "by": "Sort by",
+      "relevance": "Relevance",
+      "downloads": "Download count",
+      "follows": "Follower count",
+      "newest": "Recently created",
+      "updated": "Recently updated"
     },
-    "per_page": ""
+    "per_page": "Show per page"
   },
   "status": {
     "approved": "Approvd :3",
     "rejected": "Rejected :(",
-    "draft": "",
-    "unlisted": "",
-    "processing": "",
-    "unknown": ""
+    "draft": "Draft",
+    "unlisted": "Unlisted",
+    "processing": "Under review",
+    "unknown": "Unknown"
   },
   "release_channels": {
-    "release": "",
-    "beta": "",
-    "alpha": ""
+    "release": "Release",
+    "beta": "Beta",
+    "alpha": "Alpha"
   },
   "roles": {
-    "developer": "",
-    "admin": "",
-    "moderator": ""
+    "developer": "Developer",
+    "admin": "Admin",
+    "moderator": "Moderator"
   },
   "stats": {
     "joined": "Joined {ago}",
-    "notified": "",
-    "downloads": "",
-    "followers_of_projects": "",
-    "followers": "",
-    "user_id": "",
-    "created": "",
-    "updated": ""
+    "notified": "Notified {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "user_id": "User ID: {id}",
+    "created": "Created {ago}",
+    "updated": "Updated {ago}"
   },
   "settings": {
     "username": {
@@ -285,25 +285,25 @@
       "placeholder": "ADD USERNAME..."
     },
     "bio": {
-      "text": "",
-      "placeholder": ""
+      "text": "Bio",
+      "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "",
+      "text": "<b>Private email</b> (visible only to moderators)",
       "placeholder": "ADD AN EMAIL..."
     },
-    "avatar": ""
+    "avatar": "Upload avatar"
   },
   "report": {
-    "singular": "",
-    "plural": "",
+    "singular": "Report",
+    "plural": "Reports",
     "type": {
-      "spam": "",
-      "copyright": "",
-      "inappropriate": "",
-      "malicious": "",
-      "name-squatting": "",
-      "other": ""
+      "spam": "Spam",
+      "copyright": "Copyright",
+      "inappropriate": "Inappropriate",
+      "malicious": "Malicious",
+      "name-squatting": "Name-squatting",
+      "other": "Other"
     },
     "new": {
       "information": "ADDISHUNAL INFORMASHUN",
@@ -332,11 +332,11 @@
     "revoke_token": {
       "title": "REVOKE UR MODRINTH TOKEN",
       "body": "REVOKIN UR MODRINTH TOKEN CAN HAS UNINTENDD CONSEQUENCEZ. PLZ BE AWARE DAT TEH FOLLOWIN CUD BREAK:\n - ANY APPLICASHUN DAT USEZ UR TOKEN 2 ACCES TEH API.\n - GRADLE - IF MINOTAUR IZ GIVEN INCORRECT TOKEN, UR GRADLE BUILDZ CUD FAIL.\n - GITHUB - IF U USE GITHUB ACSHUN DAT USEZ TEH MODRINTH API, IT WILL CAUSE ERRORS.\n\nIF U R WILLIN 2 CONTINUE, COMPLETE TEH FOLLOWIN STEPS:\n\n 1. HEAD 2 TEH [MODRINTH APPLICASHUN PAEG ON GITHUB](HTTPS://GITHUB.COM/SETTINGS/CONNECSHUNS/APPLICASHUNS/3ACFFB2E808D16D4B226). MAK SURE 2 BE LOGGD INTO TEH GITHUB AKOWNT U USD 4 MODRINTH!\n 2. PRES TEH HOOJ RED \"REVOKE ACCES\" BUTN NEXT 2 TEH \"PERMISHUNS\" HEADR.\n\nONCE U HAS COMPLETD DOSE STEPS, PRES TEH CONTINUE BUTN BELOW.\n\n**DIS WILL LOG U OUT OV MODRINTH, HOWEVR, WHEN U LOG BAK IN, UR TOKEN WILL BE REGENERATD.**",
-      "action": ""
+      "action": "Log out"
     }
   },
   "images": {
-    "replace": "",
+    "replace": "Replace image",
     "how_to": "DRAG AN DROP 2 UPLOAD OR CLICK 2 SELECT"
   },
   "ads": {
@@ -345,38 +345,38 @@
       "line1": "U R USIN AN ADBLOCKR.",
       "line2": "UR ADBLOCKR PREVENTD MODRINTH FRUM SHOWIN AN AD, R ONLY SOURCE OV INCOME.",
       "line3": "IF U STILL WANTS 2 HALP MODRINTH WITHOUT VIEWIN ADZ, U CAN CONTRIBUTE 2 MODRINTH ON GITHUB!",
-      "line4": ""
+      "line4": "https://github.com/modrinth/"
     }
   },
   "tags": {
-    "technology": "",
-    "adventure": "",
-    "magic": "",
-    "utility": "",
-    "decoration": "",
-    "library": "",
-    "cursed": "",
-    "worldgen": "",
-    "storage": "",
-    "food": "",
-    "equipment": "",
-    "miscellaneous": "",
-    "challenging": "",
-    "combat": "",
-    "kitchen-sink": "",
-    "lightweight": "",
-    "multiplayer": "",
-    "quests": "",
-    "optimization": "",
-    "fabric": "",
-    "forge": "",
-    "quilt": "",
-    "modloader": "",
-    "rift": "",
-    "server": "",
-    "client": "",
-    "good": "",
-    "trash": "",
-    "misc": ""
+    "technology": "Technology",
+    "adventure": "Adventure",
+    "magic": "Magic",
+    "utility": "Utility",
+    "decoration": "Decoration",
+    "library": "Library",
+    "cursed": "Cursed",
+    "worldgen": "World generation",
+    "storage": "Storage",
+    "food": "Food",
+    "equipment": "Equipment",
+    "miscellaneous": "Miscellaneous",
+    "challenging": "Challenging",
+    "combat": "Combat",
+    "kitchen-sink": "Kitchen Sink",
+    "lightweight": "Lightweight",
+    "multiplayer": "Multiplayer",
+    "quests": "Quests",
+    "optimization": "Optimization",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Server",
+    "client": "Client",
+    "good": "Good",
+    "trash": "Trash",
+    "misc": "Miscellaneous"
   }
 }
