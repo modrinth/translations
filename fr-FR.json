@@ -85,7 +85,7 @@
     "moderation": "Modération",
     "notifications": "Notifications",
     "about": "À propos",
-    "following": "Suivi",
+    "following": "Abonnements",
     "terms": "Termes et conditions",
     "privacy": "Politique de confidentialité",
     "rules": "Règles du projet",
@@ -109,7 +109,7 @@
       "create": "Créer",
       "edit": "Modifier",
       "follow": "Suivre",
-      "unfollow": "Ne plus suivre",
+      "unfollow": "Se désabonner",
       "feature": "Fonctionnalité",
       "report": "Signaler",
       "new_project": "Nouveau projet",
@@ -245,7 +245,7 @@
       "by": "Trier par",
       "relevance": "Pertinence",
       "downloads": "Nombre de téléchargements",
-      "follows": "Nombre de suiveurs",
+      "follows": "Nombre d'abonnés",
       "newest": "Récemment créé",
       "updated": "Récemment mis à jour"
     },
@@ -273,8 +273,8 @@
     "joined": "À rejoint {ago}",
     "notified": "Notifié {ago}",
     "downloads": "{downloads, plural, one {<b>1</b> téléchargement} other {<b>#</b> téléchargements}}",
-    "followers_of_projects": "{followers, plural, one {<b>1</b> suiveur de projets} other {<b>#</b> suiveurs de projets}}",
-    "followers": "{followers, plural, one {<b>1</b> suiveur} other {<b>#</b> suiveurs}}",
+    "followers_of_projects": "{followers, plural, one {<b>1</b> abonné} other {<b>#</b> abonnés}}",
+    "followers": "{followers, plural, one {<b>1</b> abonné} other {<b>#</b> abonnés}}",
     "user_id": "ID utilisateur : {id}",
     "created": "Créé {ago}",
     "updated": "Mis à jour {ago}"
@@ -313,7 +313,7 @@
   "user": {
     "following": {
       "loading": "Chargement des projets suivis...",
-      "none": "Vous n'avez suivi aucun projet."
+      "none": "Vous ne suivez aucun projet."
     },
     "delete": {
       "title": "Supprimer le compte",

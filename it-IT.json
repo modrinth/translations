@@ -1,0 +1,382 @@
+{
+  "locale": {
+    "no_translation": "A causa della natura di questa pagina, l'unica versione ufficiale di questo contenuto è in lingua inglese."
+  },
+  "index": {
+    "tagline": "Scopri, gioca, e crea contenuti per Minecraft",
+    "description": "Trova contenuti divertenti e di qualità attraverso la nostra piattaforma di modding open-source costruita per la comunità. Crea contenuti, guadagna*, e distribuisci il tuo progetto con la nostra API completamente documentata!",
+    "features": {
+      "book": {
+        "title": "API facile da utilizzare",
+        "description": "Supportato da un'API completamente documentata che facilita la crescita di integrazioni e launcher di terze parti."
+      },
+      "coin": {
+        "title": "Guadagni per il creatore",
+        "description": "Contiamo di dare ai creatori il 100% degli introiti pubblicitari delle loro pagine progetto. *I pagamenti sono attualmente in fase di sviluppo."
+      },
+      "speedometer": {
+        "title": "Ricerca ultra veloce",
+        "description": "Alimentato da algoritmi di ricerca veloci e adattabili, in modo da non dover aspettare."
+      },
+      "chat": {
+        "title": "Gruppo di supporto",
+        "description": "Cerca aiuto, sviluppa e fatti un giro sul nostro server Discord con oltre 1.500 membri."
+      },
+      "puzzle": {
+        "title": "Estensibile per design",
+        "description": "Si integra con build tools, repository, launcher e applicazioni personalizzate."
+      },
+      "tools": {
+        "title": "Completamente open source",
+        "description": "Un progetto open source gestito da una comunità attiva che accoglie i contributi."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Vai al profilo",
+    "logout": "Esci",
+    "github": "Accedi con GitHub"
+  },
+  "footer": {
+    "description": "Modrinth è un software open source.",
+    "legal": {
+      "heading": "Note Legali",
+      "terms": "Termini di servizio",
+      "privacy": "Informativa sulla Privacy",
+      "rules": "Regolamento"
+    },
+    "resources": {
+      "heading": "Risorse",
+      "blog": "Blog",
+      "docs": "Documentazione"
+    },
+    "buttons": {
+      "privacy": "Preferenze per la privacy",
+      "theme": {
+        "label": "Cambia tema",
+        "system": "Tema di sistema",
+        "light": "Tema chiaro",
+        "dark": "Tema scuro",
+        "oled": "Tema nero"
+      },
+      "language": {
+        "label": "Seleziona lingua"
+      }
+    }
+  },
+  "error": {
+    "status": "Errore {status}",
+    "message": {
+      "404": "Uh oh, sembra che ti sia perso nel [Labyrinth](https://github.com/modrinth/labrinth).<br />La pagina che stai cercando non è stata trovata.",
+      "project_missing": "L'oggetto {type} che cercavi non è stato trovato.",
+      "default": "Si è verificato un errore imprevisto."
+    },
+    "actions": {
+      "home": "Vai alla Home",
+      "discord": "Ottieni aiuto su Discord"
+    }
+  },
+  "pages": {
+    "description": "Descrizione",
+    "gallery": "Immagini",
+    "changelog": "Elenco modifiche",
+    "versions": "Versioni",
+    "settings": "Impostazioni",
+    "moderation": "Moderazione",
+    "notifications": "Notifiche",
+    "about": "Chi siamo",
+    "following": "Segui",
+    "terms": "Termini e condizioni",
+    "privacy": "Informativa sulla privacy",
+    "rules": "Regole progetto",
+    "all": "Tutto"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Licenza",
+        "plural": "Licenze"
+      },
+      "project_id": "ID Progetto",
+      "project_status": "Stato del progetto",
+      "minecraft_versions": "Versioni di Minecraft",
+      "mod_loaders": "Mod loader",
+      "categories": "Categorie",
+      "downloads": "Numero download",
+      "files": "File"
+    },
+    "actions": {
+      "create": "Crea",
+      "edit": "Modifica",
+      "follow": "Segui",
+      "unfollow": "Smetti di seguire",
+      "feature": "Metti in evidenza",
+      "report": "Segnala",
+      "new_project": "Nuovo progetto",
+      "preview": "Anteprima",
+      "download": "Scarica",
+      "save": "Salva",
+      "confirm": "Conferma",
+      "remove": "Rimuovi",
+      "delete": "Elimina",
+      "cancel": "Annulla",
+      "discard": "Annulla modifiche"
+    },
+    "popup": {
+      "verify": "Per verificare, digita <i>{content}</i>:",
+      "important": "Questo è un messaggio estremamente importante.",
+      "placeholder": "Digita qui..."
+    },
+    "external": {
+      "github_profile": "Profilo di GitHub",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Problemi",
+      "source": "Sorgenti",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Comprami un caffè",
+      "github_sponsors": "Sponsor GitHub",
+      "donate": "Dona",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Ambiente",
+      "plural": "Ambienti",
+      "server_side": "Lato server",
+      "client_side": "Lato client",
+      "values": {
+        "required": "Obbligatorio",
+        "unsupported": "Non supportato",
+        "optional": "Facoltativo",
+        "unknown": "Sconosciuto"
+      }
+    },
+    "up_to_date": "Nulla di nuovo!",
+    "byline": "di <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Mod",
+        "plural": "Mod",
+        "search": "Cerca mod..."
+      },
+      "modpack": {
+        "singular": "Modpack",
+        "plural": "Modpack",
+        "search": "Cerca modpack..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Risorse esterne",
+      "featured_versions": "Versioni in evidenza",
+      "project_members": "Membri del progetto",
+      "technical_information": "Informazioni tecniche"
+    },
+    "gallery": {
+      "upload": "Carica un'immagine",
+      "confirm": "Sei sicuro/a di voler eliminare questa collezione?",
+      "placeholder": {
+        "title": "Inserisci un titolo per l'immagine...",
+        "description": "Inserisci una descrizione per l'immagine..."
+      }
+    },
+    "body": {
+      "editor": "Editor",
+      "placeholder": "Inserisci la descrizione del progetto...",
+      "empty": "Questa descrizione del progetto è vuota."
+    },
+    "members": "Membri",
+    "permissions": "Permessi",
+    "permission": {
+      "upload_version": "Caricare nuove versioni",
+      "delete_version": "Eliminare una versione",
+      "edit_details": "Modificare i dettagli",
+      "edit_body": "Modificare la descrizione",
+      "manage_invites": "Gestire gli inviti",
+      "remove_member": "Rimuovere i membri",
+      "edit_member": "Modificare i membri",
+      "delete_project": "Eliminare il progetto"
+    },
+    "role": {
+      "text": "Ruolo",
+      "placeholder": "Inserisci i ruoli..."
+    },
+    "advanced": "Avanzate",
+    "visibility": {
+      "title": "Visibilità",
+      "description": "Questo progetto è attualmente {status}.",
+      "action": "Cambia visibilità"
+    },
+    "ownership": {
+      "title": "Proprietà",
+      "description": "Trasferisci la proprietà di questo progetto a un altro utente.",
+      "action": "Trasferisci proprietà"
+    },
+    "delete": {
+      "title": "Elimina progetto",
+      "description": "L'eliminazione di un progetto cancella tutti i dati del progetto, comprese le versioni.",
+      "action": "Elimina progetto"
+    }
+  },
+  "version": {
+    "featured": "In evidenza",
+    "autofeatured": "Evidenziata automaticamente",
+    "feature_action": "Evidenzia",
+    "dependencies": "Dipendenze",
+    "metadata": "Informazioni",
+    "release_channel": "Tipo di pubblicazione",
+    "number": "Versione",
+    "publication_date": "Data di pubblicazione",
+    "publisher": "Pubblicato da"
+  },
+  "search": {
+    "filters": {
+      "clear": "Azzera filtri",
+      "hide": "Nascondi filtri",
+      "show": "Mostra filtri",
+      "show_snapshots": "Mostra versioni sperimentali",
+      "search_versions": "Cerca versioni...",
+      "licenses": "Licenze"
+    },
+    "sort": {
+      "by": "Ordina per",
+      "relevance": "Pertinenza",
+      "downloads": "Numero di download",
+      "follows": "Numero di seguaci",
+      "newest": "Data di creazione",
+      "updated": "Data di caricamento"
+    },
+    "per_page": "Risultati per pagina"
+  },
+  "status": {
+    "approved": "Approvato",
+    "rejected": "Rifiutato",
+    "draft": "Bozza",
+    "unlisted": "Non in elenco",
+    "processing": "In revisione",
+    "unknown": "Sconosciuto"
+  },
+  "release_channels": {
+    "release": "Stabile",
+    "beta": "Beta",
+    "alpha": "Alpha"
+  },
+  "roles": {
+    "developer": "Sviluppatore",
+    "admin": "Amministratore",
+    "moderator": "Moderatore"
+  },
+  "stats": {
+    "joined": "Iscritto {ago}",
+    "notified": "Notificato {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> download}}",
+    "followers_of_projects": "{followers, plural, one {Solo <b>#</b> segue il progetto} other {In <b>#</b> seguono il progetto}}",
+    "followers": "{followers, plural, one {<b>#</b> seguace} other {<b>#</b> seguaci}}",
+    "user_id": "ID utente: {id}",
+    "created": "Creato {ago}",
+    "updated": "Aggiornato {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Nome Utente",
+      "placeholder": "Aggiungi un nome utente..."
+    },
+    "bio": {
+      "text": "Su di me",
+      "placeholder": "Aggiungi dettagli su di te..."
+    },
+    "email": {
+      "text": "<b>Email personale</b> (visibile solo ai moderatori)",
+      "placeholder": "Aggiungi un indirizzo email..."
+    },
+    "avatar": "Carica un'immagine del profilo"
+  },
+  "report": {
+    "singular": "Segnalazione",
+    "plural": "Segnalazioni",
+    "type": {
+      "spam": "Indesiderato",
+      "copyright": "Diritto d'autore",
+      "inappropriate": "Inappropriato",
+      "malicious": "Dannoso",
+      "name-squatting": "Impersonazione",
+      "other": "Altro"
+    },
+    "new": {
+      "information": "Informazioni aggiuntive",
+      "description": "Includi link e immagini se possibile. È supportata la formattazione Markdown."
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Caricamento progetti seguiti...",
+      "none": "Non segui nessun progetto."
+    },
+    "delete": {
+      "title": "Elimina account",
+      "body": "Una volta eliminato il tuo account, non si torna indietro. L'eliminazione del tuo account rimuoverà tutti i dati allegati, compresi i progetti, dai nostri server.",
+      "confirm_title": "Sei sicuro di voler eliminare il tuo account?",
+      "confirm_body": "Questo **eliminerà immediatamente tutti i tuoi progetti** e seguirà. L'eliminazione del tuo account non può essere annullata.\n\nSe hai bisogno di aiuto con il tuo account, ottieni supporto su [Modrinth Discord](/discord).",
+      "yes_I_want_to_do_this": "Sì, cancella irrimediabilmente il mio account"
+    },
+    "auth": {
+      "title": "Token di autorizzazione",
+      "body": "Il token di autorizzazione può essere utilizzato con l'API Modrinth, il plugin Minotaur di Gradle e altre applicazioni che interagiscono con l'API di Modrinth. Assicurati di mantenerlo segreto!",
+      "copy": "Copia il token negli appunti",
+      "copied": "Token copiato negli appunti",
+      "revoke": "Revoca token"
+    },
+    "revoke_token": {
+      "title": "Revoca il tuo token Modrinth",
+      "body": "Revocare il tuo token Modrinth può avere conseguenze indesiderate. Tra le cose che potrebbero subire malfunzionamenti hai:\n - Qualsiasi applicazione che utilizza il token per accedere all'API.\n - Gradle - se a Minotaur viene dato un token errato, le tue build di Gradle potrebbero fallire.\n - GitHub - se usi una GitHub action che utilizza l'API Modrinth, causerà errori.\n\nSe sei disposto a continuare, completa i seguenti passaggi:\n\n 1. Vai alla [pagina applicazione Modrinth su GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assicurati di essere connesso all'account GitHub usato per Modrinth!\n 2. Premi il pulsante rosso \"Revoke Access\" accanto all'intestazione \"Permissions\".\n\nUna volta completati questi passaggi, premi il pulsante continua qui sotto.\n\n**Questo ti disconnetterà da Modrinth, tuttavia, quando accedi di nuovo, il tuo token sarà rigenerato.**",
+      "action": "Disconnettiti"
+    }
+  },
+  "images": {
+    "replace": "Sostituisci immagine",
+    "how_to": "Trascina e rilascia per caricare o clicca per selezionare"
+  },
+  "ads": {
+    "privacy_respecting": "Un annuncio rispettoso della tua privacy sarebbe stato mostrato qui.",
+    "console": {
+      "line1": "Stai usando un adblocker.",
+      "line2": "Il tuo adblocker ha impedito a Modrinth di mostrare una pubblicità, la nostra unica fonte di reddito.",
+      "line3": "Se vuoi ancora aiutare Modrinth senza visualizzare gli annunci, puoi contribuire a Modrinth su GitHub!",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "tags": {
+    "technology": "Tecnologia",
+    "adventure": "Avventura",
+    "magic": "Magia",
+    "utility": "Utilità",
+    "decoration": "Decorazione",
+    "library": "Libreria",
+    "cursed": "Maledette",
+    "worldgen": "Generazione del mondo",
+    "storage": "Immagazzinamento",
+    "food": "Cibo",
+    "equipment": "Equipaggiamento",
+    "miscellaneous": "Varie",
+    "challenging": "Difficili",
+    "combat": "Combattimento",
+    "kitchen-sink": "Di tutto un po'",
+    "lightweight": "Leggeri",
+    "multiplayer": "Multigiocatore",
+    "quests": "Missioni",
+    "optimization": "Ottimizzazione",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Server",
+    "client": "Client",
+    "good": "Buono",
+    "trash": "Terribile",
+    "misc": "Varie"
+  }
+}
