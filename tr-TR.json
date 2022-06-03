@@ -302,7 +302,7 @@
       "copyright": "Telif Hakkı",
       "inappropriate": "Uygunsuz",
       "malicious": "Kötü Niyetli",
-      "name-squatting": "",
+      "name-squatting": "Name-squatting",
       "other": "Diğer"
     },
     "new": {
@@ -345,7 +345,7 @@
       "line1": "Bir reklam engelleyici kullanıyorsunuz.",
       "line2": "Reklam engelleyiciniz Modrinth'in tek gelir kaynağı olan bir reklamın göstermesinin önüne geçti.",
       "line3": "Eğer hala reklamları görmeden Modrinth'e yardım etmek istersen, GitHub üzerinden Modrinth'e katkıda bulunabilirsin!",
-      "line4": ""
+      "line4": "https://github.com/modrinth/"
     }
   },
   "tags": {
