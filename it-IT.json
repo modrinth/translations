@@ -68,7 +68,7 @@
     "status": "Errore {status}",
     "message": {
       "404": "Uh oh, sembra che ti sia perso nel [Labyrinth](https://github.com/modrinth/labrinth).<br />La pagina che stai cercando non è stata trovata.",
-      "project_missing": "L'oggetto {type} che cercavi non può essere trovato.",
+      "project_missing": "L'oggetto {type} che cercavi non è stato trovato.",
       "default": "Si è verificato un errore imprevisto."
     },
     "actions": {
@@ -123,37 +123,37 @@
       "discard": "Annulla modifiche"
     },
     "popup": {
-      "verify": "To verify, type <i>{content}</i> below:",
-      "important": "This is extremely important.",
-      "placeholder": "Type here..."
+      "verify": "Per verificare, digita <i>{content}</i>:",
+      "important": "Questo è un messaggio estremamente importante.",
+      "placeholder": "Digita qui..."
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "Profilo di GitHub",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
-      "source": "Source",
+      "issues": "Problemi",
+      "source": "Sorgenti",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "buy_me_a_coffee": "Comprami un caffè",
+      "github_sponsors": "Sponsor GitHub",
+      "donate": "Dona",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "singular": "Ambiente",
+      "plural": "Ambienti",
+      "server_side": "Lato server",
+      "client_side": "Lato client",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Obbligatorio",
+        "unsupported": "Non supportato",
+        "optional": "Facoltativo",
+        "unknown": "Sconosciuto"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "Nulla di nuovo!",
     "byline": "di <u>{author}</u>"
   },
   "project": {
