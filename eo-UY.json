@@ -145,15 +145,15 @@
       "singular": "Medio",
       "plural": "Medioj",
       "server_side": "Servilflanka",
-      "client_side": "Client side",
+      "client_side": "Klientflanka",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Bezonata",
+        "unsupported": "Nesubtenata",
+        "optional": "Nedeviga",
+        "unknown": "Nekonata"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "Vi estas ĝisdatigita!",
     "byline": "de <u>{author}</u>"
   },
   "project": {
@@ -170,10 +170,10 @@
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
-      "featured_versions": "Featured versions",
-      "project_members": "Project members",
-      "technical_information": "Technical information"
+      "external_resources": "Eksteraj rimedoj",
+      "featured_versions": "Elstaraj versioj",
+      "project_members": "Membroj de projekta",
+      "technical_information": "Teknikaj informoj"
     },
     "gallery": {
       "upload": "Upload gallery image",
