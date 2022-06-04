@@ -302,7 +302,7 @@
       "copyright": "Kopirajto",
       "inappropriate": "Nekonvena",
       "malicious": "Malica",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "Nom-kaŭrado",
       "other": "Io alia"
     },
     "new": {
@@ -340,11 +340,11 @@
     "how_to": "Trenu kaj faligi por alŝuti aŭ klaku por elekti"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Reklamo pri privateco estus montrita tie ĉi.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Vi uziĝas reklamblokilon.",
+      "line2": "Via reklambokilo preventis Modrinth montri reklamon, nia sola fonto de enspezo.",
+      "line3": "Se vi ankoraŭ volas helpi Modrinth sen vidi reklamojn, vi povas kontribui al Modrinth ĉe GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -363,7 +363,7 @@
     "miscellaneous": "Diversaj",
     "challenging": "Defia",
     "combat": "Batalo",
-    "kitchen-sink": "Kitchen Sink",
+    "kitchen-sink": "Kuireja lavujo",
     "lightweight": "Malpeza",
     "multiplayer": "Plurludanta",
     "quests": "Serĉoj",
