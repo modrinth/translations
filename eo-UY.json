@@ -176,57 +176,57 @@
       "technical_information": "Teknikaj informoj"
     },
     "gallery": {
-      "upload": "Upload gallery image",
-      "confirm": "Are you sure you want to delete this gallery image?",
+      "upload": "Alŝutu galerian bildon",
+      "confirm": "Ĉu vi certas ke vi volas forigi ĉi tiun galerian bildon?",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "Enskribu bildan titolon...",
+        "description": "Enskribu bildan priskribon..."
       }
     },
     "body": {
-      "editor": "Editor",
-      "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "editor": "Redaktilo",
+      "placeholder": "Enskribu pojektan korpon...",
+      "empty": "Tiu ĉi projekta priskribo estas malplenan."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Membroj",
+    "permissions": "Permesoj",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit body",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "Alŝutu version",
+      "delete_version": "Forigu version",
+      "edit_details": "Redaktu detalojn",
+      "edit_body": "Redaktu korpon",
+      "manage_invites": "Administru invitaĵojn",
+      "remove_member": "Forigu membroj",
+      "edit_member": "Redaktu membrojn",
+      "delete_project": "Forigu projekton"
     },
     "role": {
-      "text": "Role",
-      "placeholder": "Enter roles..."
+      "text": "Rolo",
+      "placeholder": "Enskribu rolojn..."
     },
-    "advanced": "Advanced",
+    "advanced": "Progresinta",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "Videbleco",
+      "description": "Tiu ĉi projekto estas nuntempe {status}.",
+      "action": "Ŝanĝiĝu videbleco"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "title": "Proprieto",
+      "description": "Translokigu proprieton de tio ĉi projekto al alia uzanto.",
+      "action": "Translokigu proprieton"
     },
     "delete": {
-      "title": "Delete project",
-      "description": "Deleting a project erases all project data, including versions.",
-      "action": "Delete project"
+      "title": "Forigu projekton",
+      "description": "Forigi projekton viŝas ĉiujn projektajn datumojn, inkluzive versiojn.",
+      "action": "Forigu projekton"
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
+    "featured": "Elstaran",
+    "autofeatured": "Aŭtomate-elstaran",
+    "feature_action": "Elstarigu",
+    "dependencies": "Dependecoj",
+    "metadata": "Metadatenoj",
     "release_channel": "Release channel",
     "number": "Version number",
     "publication_date": "Publication date",
