@@ -1,61 +1,61 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "˙pnǝ ʇo ʇɥǝ uɐʇnɹǝ oɟ ʇɥᴉs dɐƃǝ' ʇɥǝ oulʎ oɟɟᴉɔᴉɐl ʌǝɹsᴉou oɟ ʇɥᴉs ɔouʇǝuʇ ᴉs ᴉu Ǝuƃlᴉsɥ˙"
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "pᴉsɔoʌǝɹ' dlɐʎ' ɐup ɔɹǝɐʇǝ Wᴉuǝɔɹɐɟʇ ɔouʇǝuʇ",
+    "description": "Ⅎᴉup ǝuɾoʎɐqlǝ ɐup bnɐlᴉʇʎ ɔouʇǝuʇ ʇɥɹonƃɥ onɹ odǝu-sonɹɔǝ ɯoppᴉuƃ dlɐʇɟoɹɯ qnᴉlʇ ɟoɹ ʇɥǝ ɔoɯɯnuᴉʇʎ˙ Ɔɹǝɐʇǝ sʇnɟɟ' ƃǝʇ dɐᴉp*' ɐup pǝdloʎ ʎonɹ dɹoɾǝɔʇ ʍᴉʇɥ onɹ ɟnllʎ poɔnɯǝuʇǝp ∀ԀI¡",
     "features": {
       "book": {
-        "title": "Easy to use API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "title": "Ǝɐsʎ ʇo nsǝ ∀ԀI",
+        "description": "qɐɔʞǝp qʎ ɐ ɟnllʎ poɔnɯǝuʇǝp ∀ԀI ɟɐɔᴉlᴉʇɐʇᴉuƃ ʇɥǝ ƃɹoʍʇɥ oɟ Ɛɹp dɐɹʇʎ ᴉuʇǝƃɹɐʇᴉous ⅋ lɐnuɔɥǝɹs"
       },
       "coin": {
-        "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "title": "Ɔɹǝɐʇoɹ ǝɐɹuᴉuƃs",
+        "description": "Ԁlɐuuᴉuƃ ʇo ƃᴉʌǝ ɔɹǝɐʇoɹs Ɩ00% oɟ ɐp ɹǝʌǝunǝ ɟɹoɯ ʇɥǝᴉɹ dɹoɾǝɔʇ dɐƃǝs˙ *Ԁɐʎonʇs ɐɹǝ ɔnɹɹǝuʇlʎ ᴉu pǝʌǝlodɯǝuʇ˙"
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "˥ᴉƃɥʇuᴉuƃ-ɟɐsʇ sǝɐɹɔɥ",
+        "description": "Ԁoʍǝɹǝp qʎ ɟɐsʇ ɐup ɐpɐdʇɐqlǝ sǝɐɹɔɥ ɐlƃoɹᴉʇɥɯs so ʎon pou,ʇ ɥɐʌǝ ʇo ʍɐᴉʇ˙"
       },
       "chat": {
         "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "description": "פǝʇ snddoɹʇ' pǝʌǝlod' ɐup ɥɐuƃ onʇ ou onɹ pᴉsɔoɹp sǝɹʌǝɹ ʍᴉʇɥ oʌǝɹ Ɩ'ϛ00 ɯǝɯqǝɹs˙"
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "Ǝxʇǝusᴉqlǝ qʎ pǝsᴉƃu",
+        "description": "Iuʇǝƃɹɐʇǝs ʍᴉʇɥ qnᴉlp ʇools' ɹǝdosᴉʇoɹᴉǝs' lɐnuɔɥǝɹs' ɐup ɔnsʇoɯ ɐddlᴉɔɐʇᴉous˙"
       },
       "tools": {
-        "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "title": "Ⅎnllʎ odǝu sonɹɔǝ",
+        "description": "∀u odǝu sonɹɔǝ dɹoɾǝɔʇ ɯɐᴉuʇɐᴉuǝp qʎ ɐu ɐɔʇᴉʌǝ ɔoɯɯnuᴉʇʎ ʇɥɐʇ ʍǝlɔoɯǝs ɔouʇɹᴉqnʇᴉous˙"
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "my_profile": "פo ʇo ɯʎ dɹoɟᴉlǝ",
+    "logout": "˥oƃ onʇ",
+    "github": "Sᴉƃu ᴉu ʍᴉʇɥ פᴉʇHnq"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Wopɹᴉuʇɥ ᴉs odǝu sonɹɔǝ soɟʇʍɐɹǝ˙",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "heading": "˥ǝƃɐl",
+      "terms": "┴ǝɹɯs",
+      "privacy": "Ԁɹᴉʌɐɔʎ",
+      "rules": "ɹnlǝs"
     },
     "resources": {
-      "heading": "Resources",
-      "blog": "Blog",
-      "docs": "Docs"
+      "heading": "ɹǝsonɹɔǝs",
+      "blog": "qloƃ",
+      "docs": "poɔs"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Sǝʇ dɹᴉʌɐɔʎ dɹǝɟǝɹǝuɔǝs\n",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
+        "label": "Ɔɥɐuƃǝ ʇɥǝɯǝ\n",
+        "system": "Sʎsʇǝɯ ʇɥǝɯǝ\n\n\n",
+        "light": "˥ᴉƃɥʇ ɯopǝ\n\n\n",
         "dark": "Dark mode",
         "oled": "OLED mode"
       },
