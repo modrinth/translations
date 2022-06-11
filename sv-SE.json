@@ -185,7 +185,7 @@
     },
     "body": {
       "editor": "Redigerare",
-      "placeholder": "Ange projektinnehåll…",
+      "placeholder": "Ange projektinnehåll...",
       "empty": "Denna projektbeskrivning är tom."
     },
     "members": "Medlemmar",
@@ -282,15 +282,15 @@
   "settings": {
     "username": {
       "text": "Användarnamn",
-      "placeholder": "Lägg till ett användarnamn…"
+      "placeholder": "Lägg till ett användarnamn..."
     },
     "bio": {
       "text": "Biografi",
-      "placeholder": "Lägg till en biografi…"
+      "placeholder": "Lägg till en biografi..."
     },
     "email": {
       "text": "<b>Privat e-post</b> (visas endast för moderatorer)",
-      "placeholder": "Lägg till en e-post…"
+      "placeholder": "Lägg till en e-post..."
     },
     "avatar": "Ladda upp avatar"
   },
