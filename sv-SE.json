@@ -125,7 +125,7 @@
     "popup": {
       "verify": "För att verifiera, skriv <i>{content}</i> nedan:",
       "important": "Detta är mycket viktigt.",
-      "placeholder": "Skriv här…"
+      "placeholder": "Skriv här..."
     },
     "external": {
       "github_profile": "GitHub-profil",
@@ -161,12 +161,12 @@
       "mod": {
         "singular": "Mod",
         "plural": "Mods",
-        "search": "Sök mods…"
+        "search": "Sök mods..."
       },
       "modpack": {
         "singular": "Modpack",
         "plural": "Modpacks",
-        "search": "Sök modpacks…"
+        "search": "Sök modpacks..."
       }
     },
     "sidebar_headings": {
@@ -179,8 +179,8 @@
       "upload": "Ladda upp galleribild",
       "confirm": "Är du säker på att du vill ta bort denna galleribild?",
       "placeholder": {
-        "title": "Ange bildtitel…",
-        "description": "Ange bildbeskrivning…"
+        "title": "Ange bildtitel...",
+        "description": "Ange bildbeskrivning..."
       }
     },
     "body": {
