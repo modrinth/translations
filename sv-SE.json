@@ -1,0 +1,382 @@
+{
+  "locale": {
+    "no_translation": "På grund av denna sidas syfte är det enda officiella innehållet på Engelska."
+  },
+  "index": {
+    "tagline": "Upptäcka, spela och skapa Minecraft-innehåll",
+    "description": "Hitta roligt och kvalitativt innehåll genom vår modding-plattform med öppen källkod, byggt för gemenskapen. Skapa saker, få betalt* och sprid ditt projekt med vårt helt dokumenterade API!",
+    "features": {
+      "book": {
+        "title": "API som är enkelt att använda",
+        "description": "Stöds av ett fullt dokumenterat API, som främjar tillväxten av integrationer och launchers från tredje part."
+      },
+      "coin": {
+        "title": "Utvecklarförtjänster",
+        "description": "Planerar att ge skaparna 100% av reklamintäkterna från deras projektsidor. *Utbetalningarna är för närvarande under utveckling."
+      },
+      "speedometer": {
+        "title": "Blixtsnabb sök",
+        "description": "Drivs av snabba och anpassningsbara sökalgoritmer så att du inte behöver vänta."
+      },
+      "chat": {
+        "title": "Hjälpsam gemenskap",
+        "description": "Få support, utveckla och häng i vår Discord-server med över 1500 medlemmar."
+      },
+      "puzzle": {
+        "title": "Utökningsbar enligt design",
+        "description": "Integrerar med byggverktyg, kodplatser, launchers och egna applikationer."
+      },
+      "tools": {
+        "title": "Helt öppen källkod",
+        "description": "Ett projekt med öppen källkod som underhålls av en aktiv gemenskap som välkomnar alla som vill bidra."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Gå till min profil",
+    "logout": "Logga ut",
+    "github": "Logga in med GitHub"
+  },
+  "footer": {
+    "description": "Modrinth är programvara med öppen källkod.",
+    "legal": {
+      "heading": "Rättsligt",
+      "terms": "Villkor",
+      "privacy": "Integritet",
+      "rules": "Regler"
+    },
+    "resources": {
+      "heading": "Resurser",
+      "blog": "Blogg",
+      "docs": "Dokumentation"
+    },
+    "buttons": {
+      "privacy": "Ställ in integritetsinställningar",
+      "theme": {
+        "label": "Ändra tema",
+        "system": "Systemtema",
+        "light": "Ljust läge",
+        "dark": "Mörkt läge",
+        "oled": "OLED-läge"
+      },
+      "language": {
+        "label": "Välj språk"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} Fel",
+    "message": {
+      "404": "Hoppsan, verkar som att du gick vilse i [Labyrinten](https://github.com/modrinth/labrinth).<br />Sidan du letar efter kunde inte hittas.",
+      "project_missing": "{type}et som du letade efter kunde inte hittas.",
+      "default": "Ett oväntat fel har uppstått."
+    },
+    "actions": {
+      "home": "Gå hem",
+      "discord": "Få hjälp på Discord"
+    }
+  },
+  "pages": {
+    "description": "Beskrivning",
+    "gallery": "Galleri",
+    "changelog": "Ändringslogg",
+    "versions": "Versioner",
+    "settings": "Inställningar",
+    "moderation": "Moderering",
+    "notifications": "Notifikationer",
+    "about": "Om",
+    "following": "Följer",
+    "terms": "Villkor",
+    "privacy": "Integritetspolicy",
+    "rules": "Projektregler",
+    "all": "Alla"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Licens",
+        "plural": "Licenser"
+      },
+      "project_id": "Projekt-ID",
+      "project_status": "Projektstatus",
+      "minecraft_versions": "Minecraft-versioner",
+      "mod_loaders": "Mod-laddare",
+      "categories": "Kategorier",
+      "downloads": "Nedladdningar",
+      "files": "Filer"
+    },
+    "actions": {
+      "create": "Skapa",
+      "edit": "Redigera",
+      "follow": "Följ",
+      "unfollow": "Avfölj",
+      "feature": "Framhäv",
+      "report": "Rapportera",
+      "new_project": "Nytt projekt",
+      "preview": "Förhandsvisa",
+      "download": "Ladda ner",
+      "save": "Spara",
+      "confirm": "Bekräfta",
+      "remove": "Ta bort",
+      "delete": "Radera",
+      "cancel": "Avbryt",
+      "discard": "Släng ändringar"
+    },
+    "popup": {
+      "verify": "För att verifiera, skriv <i>{content}</i> nedan:",
+      "important": "Detta är mycket viktigt.",
+      "placeholder": "Skriv här..."
+    },
+    "external": {
+      "github_profile": "GitHub-profil",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Fel",
+      "source": "Källkod",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Köp Mig Kaffe",
+      "github_sponsors": "GitHub-sponsorer",
+      "donate": "Donera",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Miljö",
+      "plural": "Miljöer",
+      "server_side": "Server-sida",
+      "client_side": "Klient-sida",
+      "values": {
+        "required": "Krävs",
+        "unsupported": "Stöds ej",
+        "optional": "Frivilligt",
+        "unknown": "Okänt"
+      }
+    },
+    "up_to_date": "Du är uppdaterad!",
+    "byline": "av <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Mod",
+        "plural": "Mods",
+        "search": "Sök mods..."
+      },
+      "modpack": {
+        "singular": "Modpack",
+        "plural": "Modpacks",
+        "search": "Sök modpacks..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Externa resurser",
+      "featured_versions": "Framhävda versioner",
+      "project_members": "Projektmedlemmar",
+      "technical_information": "Teknisk information"
+    },
+    "gallery": {
+      "upload": "Ladda upp galleribild",
+      "confirm": "Är du säker på att du vill ta bort denna galleribild?",
+      "placeholder": {
+        "title": "Ange bildtitel...",
+        "description": "Ange bildbeskrivning..."
+      }
+    },
+    "body": {
+      "editor": "Redigerare",
+      "placeholder": "Ange projektinnehåll...",
+      "empty": "Denna projektbeskrivning är tom."
+    },
+    "members": "Medlemmar",
+    "permissions": "Rättigheter",
+    "permission": {
+      "upload_version": "Ladda upp version",
+      "delete_version": "Radera version",
+      "edit_details": "Redigera detaljer",
+      "edit_body": "Redigera innehåll",
+      "manage_invites": "Hantera inbjudningar",
+      "remove_member": "Ta bort medlemmar",
+      "edit_member": "Redigera medlemmar",
+      "delete_project": "Radera projekt"
+    },
+    "role": {
+      "text": "Roll",
+      "placeholder": "Ange roller..."
+    },
+    "advanced": "Avancerat",
+    "visibility": {
+      "title": "Synlighet",
+      "description": "Detta projekt är just nu {status}.",
+      "action": "Ändra synlighet"
+    },
+    "ownership": {
+      "title": "Ägande",
+      "description": "Överför ägandeskapet av detta projekt till en annan användare.",
+      "action": "Överför ägandeskap"
+    },
+    "delete": {
+      "title": "Radera projekt",
+      "description": "Att radera ett projekt raderar all projektinformation, inklusive versioner.",
+      "action": "Radera projekt"
+    }
+  },
+  "version": {
+    "featured": "Framhävda",
+    "autofeatured": "Automatiskt framhävt",
+    "feature_action": "Framhäv",
+    "dependencies": "Beroenden",
+    "metadata": "Metadata",
+    "release_channel": "Utgåvekanal",
+    "number": "Versionsnummer",
+    "publication_date": "Utgivningsdatum",
+    "publisher": "Utgivare"
+  },
+  "search": {
+    "filters": {
+      "clear": "Rensa filter",
+      "hide": "Göm filter",
+      "show": "Visa filter",
+      "show_snapshots": "Visa snapshots",
+      "search_versions": "Sök versioner...",
+      "licenses": "Licenser"
+    },
+    "sort": {
+      "by": "Sortera efter",
+      "relevance": "Relevans",
+      "downloads": "Nedladdningsantal",
+      "follows": "Följarantal",
+      "newest": "Nyligen skapat",
+      "updated": "Nyligen uppdaterat"
+    },
+    "per_page": "Visa per sida"
+  },
+  "status": {
+    "approved": "Godkänt",
+    "rejected": "Avslaget",
+    "draft": "Utkast",
+    "unlisted": "Olistat",
+    "processing": "Under granskning",
+    "unknown": "Okänt"
+  },
+  "release_channels": {
+    "release": "Utgåva",
+    "beta": "Beta",
+    "alpha": "Alfa"
+  },
+  "roles": {
+    "developer": "Utvecklare",
+    "admin": "Administratör",
+    "moderator": "Moderator"
+  },
+  "stats": {
+    "joined": "Gick med {ago}",
+    "notified": "Notifierad {ago}",
+    "downloads": "{nedladdningar, plural, en {<b>#</b> nedladdning} övriga {<b>#</b> nedladdningar}}",
+    "followers_of_projects": "{följare, plural, en {<b>#</b> projektföljare} övriga {<b>#</b> projektföljare}}",
+    "followers": "{följare, plural, en {<b>#</b> följare} övriga {<b>#</b> följare}}",
+    "user_id": "Användar-ID: {id}",
+    "created": "Skapad {ago}",
+    "updated": "Uppdaterad {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Användarnamn",
+      "placeholder": "Lägg till ett användarnamn..."
+    },
+    "bio": {
+      "text": "Biografi",
+      "placeholder": "Lägg till en biografi..."
+    },
+    "email": {
+      "text": "<b>Privat e-post</b> (visas endast för moderatorer)",
+      "placeholder": "Lägg till en e-post..."
+    },
+    "avatar": "Ladda upp avatar"
+  },
+  "report": {
+    "singular": "Rapportera",
+    "plural": "Rapporteringar",
+    "type": {
+      "spam": "Spam",
+      "copyright": "Upphovsrätt",
+      "inappropriate": "Olämpligt",
+      "malicious": "Uppsåtligt",
+      "name-squatting": "Namn-ockupation",
+      "other": "Annat"
+    },
+    "new": {
+      "information": "Övrig information",
+      "description": "Inkludera länkar och bilder om möjligt. Markdown-formattering stöds."
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Laddar följda projekt...",
+      "none": "Du följer inga projekt."
+    },
+    "delete": {
+      "title": "Radera konto",
+      "body": "Efter att du har raderat ditt konto finns det ingen väg tillbaka. Att radera ditt konto tar bort all tillhörande data, inklusive projekt från våra servrar.",
+      "confirm_title": "Är du säker på att du vill ta bort ditt konto?",
+      "confirm_body": "Detta kommer **omedelbart ta bort alla dina projekt** och följningar. Att ta bort ditt konto kan inte återställas.\n\nOm du behöver hjälp med ditt konto, få support i [Modrinths Discord](/discord).",
+      "yes_I_want_to_do_this": "Ja, ta bort mitt konto utan ångerrätt"
+    },
+    "auth": {
+      "title": "Auktoriseringsnyckel",
+      "body": "Din auktoriseringsnyckel kan användas med Modrinths API, Gradle-pluginet Minotaur, och andra applikationer som interagerar med Modrinths API. Var noggrann med att hålla den hemlig!",
+      "copy": "Kopiera nyckel till urklippet",
+      "copied": "Kopierade nyckeln till urklippet",
+      "revoke": "Återkalla nyckeln"
+    },
+    "revoke_token": {
+      "title": "Återkalla din Modrinth-nyckel",
+      "body": "Att återkalla din Modrinth-nyckel kan få oanade konsekvenser. Vänligen var uppmärksam på att följande kan sluta fungera:\n - Alla applikationer som använder din nyckel för att komma åt API:et.\n - Gradle - om Minotaur får en felaktig nyckel kan dina Gradle-byggnationer inte fungera.\n - GitHub - om du använder en GitHub-action som använder Modrinths API kommer det att orsaka fel.\n\nOm du är villig att fortsätta, genomför följande steg:\n\n 1. Gå till [Modrinths applikationssida på GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Var säker på att du är inloggad på GitHub-kontot du använde för Modrinth!\n 2. Tryck på den stora röda \"Revoke Access\"-knappen bredvid \"Permissions\"-rubriken.\n\nNär du är klar med dessa steg, tryck på fortsätt-knappen nedan.\n\n**Detta kommer logga ut dig från Modrinth, men när du loggar in igen kommer din nyckel att återgenereras.**",
+      "action": "Logga ut"
+    }
+  },
+  "images": {
+    "replace": "Byt ut bild",
+    "how_to": "Dra och släpp för att ladda upp eller tryck för att välja"
+  },
+  "ads": {
+    "privacy_respecting": "En integritets-respekterande annons hade visats här.",
+    "console": {
+      "line1": "Du använder en reklamblockerare.",
+      "line2": "Din reklamblockerare förhindrade Modrinth från att visa en annons, vår enda inkomstkälla.",
+      "line3": "Om du fortfarande vill hjälpa Modrinth utan att visa reklam kan du bidra till Modrinth på GitHub!",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "tags": {
+    "technology": "Teknologi",
+    "adventure": "Äventyr",
+    "magic": "Magi",
+    "utility": "Verktyg",
+    "decoration": "Dekoration",
+    "library": "Bibliotek",
+    "cursed": "Förbannade",
+    "worldgen": "Världsgenerering",
+    "storage": "Förvaring",
+    "food": "Mat",
+    "equipment": "Utrustning",
+    "miscellaneous": "Diverse",
+    "challenging": "Utmanande",
+    "combat": "Strid",
+    "kitchen-sink": "Kitchen-sink",
+    "lightweight": "Lättvikt",
+    "multiplayer": "Flerspelare",
+    "quests": "Uppdrag",
+    "optimization": "Optimering",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Server",
+    "client": "Klient",
+    "good": "Bra",
+    "trash": "Skräp",
+    "misc": "Diverse"
+  }
+}
