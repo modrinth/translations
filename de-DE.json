@@ -270,14 +270,14 @@
     "moderator": "Moderator"
   },
   "stats": {
-    "joined": "Beigetreten vor {ago}",
-    "notified": "Benachrichtigt vor {ago}",
+    "joined": "Beigetreten {ago}",
+    "notified": "Benachrichtigt {ago}",
     "downloads": "{downloads, plural, one {<b>#</b> Download} other {<b>#</b> Downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> Abonnent von Projekten} other {<b>#</b> Abonnenten von Projekten}}",
     "followers": "{followers, plural, one {<b>#</b> Abonnent} other {<b>#</b> Abonnenten}}",
     "user_id": "Nutzer ID: {id}",
-    "created": "Erstellt vor {ago}",
-    "updated": "Aktualisiert vor {ago}"
+    "created": "Erstellt {ago}",
+    "updated": "Aktualisiert {ago}"
   },
   "settings": {
     "username": {
