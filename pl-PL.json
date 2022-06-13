@@ -333,29 +333,29 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
+        "important": "To jest bardzo ważne.",
+        "verify": "Aby zweryfikować, wprowadź <i>{key}</i> poniżej:",
         "placeholder": "Type here..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Usuwanie projektu",
+        "description": "Usunięcie projektu spowoduje usunięcie wszystkich danych projektu, w tym jego wersji.",
+        "action": "Usuń projekt"
       },
       "version": {
-        "title": "Delete version",
+        "title": "Usuwanie wersji",
         "description": "Deleting a version permanently deletes all version files and metadata.",
         "action": "Delete version"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "Czy na pewno chcesz to zrobić?",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "action": "Tak, nieodwracalnie usuń moje konto"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Usuń obraz z galerii",
+        "description": "Usunięcie obrazu z galerii trwale usuwa plik obrazu i metadane.",
+        "action": "Usuń obraz"
       }
     },
     "report": {
@@ -363,12 +363,12 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Powód"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Dodatkowe informacje",
+            "helper": "W miarę możliwości dołączaj linki i obrazy. Formatowanie Markdown jest obsługiwane.",
+            "placeholder": "Wprowadź dodatkowe informacje..."
           }
         }
       },
