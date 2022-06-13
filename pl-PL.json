@@ -335,7 +335,7 @@
       "generic": {
         "important": "To jest bardzo ważne.",
         "verify": "Aby zweryfikować, wprowadź <i>{key}</i> poniżej:",
-        "placeholder": "Type here..."
+        "placeholder": "Wprowadź tutaj..."
       },
       "project": {
         "title": "Usuwanie projektu",
@@ -344,23 +344,23 @@
       },
       "version": {
         "title": "Usuwanie wersji",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "description": "Usunięcie wersji trwale usuwa plik i metadane.",
+        "action": "Usuń wersję"
       },
       "account": {
         "title": "Czy na pewno chcesz to zrobić?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "description": "Spowoduje to **natychmiastowe usunięcie wszystkich Twoich projektów** i obserwacji. Usunięcie konta nie może być cofnięte.\n\nJeśli potrzebujesz pomocy ze swoim kontem, uzyskaj wsparcie na [Modrinth Discord](/discord).",
         "action": "Tak, nieodwracalnie usuń moje konto"
       },
       "image": {
         "title": "Usuń obraz z galerii",
-        "description": "Usunięcie obrazu z galerii trwale usuwa plik obrazu i metadane.",
+        "description": "Usunięcie obrazu z galerii trwale usuwa plik i metadane.",
         "action": "Usuń obraz"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modowanie powinno być bezpieczne dla wszystkich, więc na Modrinth poważnie traktujemy nadużycia i złośliwe zamiary. Chcemy usłyszeć o szkodliwych zachowaniach, które naruszają nasze [Warunki](/legal/terms) i [Zasady](/legal/rules). Zapewniamy, że Twoje dane identyfikacyjne pozostaną poufne.",
         "fields": {
           "reason": {
             "label": "Powód"
@@ -373,53 +373,53 @@
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Zgłoś projekt"
       },
       "version": {
-        "action": "Report version"
+        "action": "Zgłoś wersję"
       },
       "user": {
-        "action": "Report user"
+        "action": "Zgłoś użytkownika"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "Utwórz projekt",
+        "description": "Nowe projekty są tworzone jako szkice i można je znaleźć na stronie profilowej.",
+        "action": "Kontynuuj"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Dodaj obraz do galerii",
+        "action": "Dodaj obraz",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Tytuł",
+            "placeholder": "Wprowadź tytuł obrazu..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Opis",
+            "placeholder": "Wprowadź opis obrazu..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Zmień status projektu",
+        "action": "Potwierdź",
         "fields": {
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Zatwierdź",
+              "unlist": "Niewymieniony",
+              "reject": "Odrzuć"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Wiadomość moderatora",
+            "helper": "Opcjonalnie dołącz informacje do komunikowania problemów z członkami zespołu projektu. Formatowanie Markdown jest obsługiwane.",
+            "placeholder": "Wprowadź dodatkowe informacje..."
           }
         }
       }
