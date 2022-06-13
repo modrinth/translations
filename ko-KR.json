@@ -386,7 +386,7 @@
       "project": {
         "title": "Create project",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Contine"
+        "action": "Continue"
       },
       "image": {
         "title": "Add gallery image",
@@ -440,7 +440,7 @@
     "miscellaneous": "기타",
     "challenging": "도전",
     "combat": "전투",
-    "kitchen-sink": "키친 싱크",
+    "kitchen-sink": "잡탕",
     "lightweight": "가벼움",
     "multiplayer": "멀티플레이어",
     "quests": "퀘스트",
