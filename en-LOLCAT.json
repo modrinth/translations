@@ -122,11 +122,6 @@
       "cancel": "Stop it!",
       "discard": "DISCARD CHANGEZ"
     },
-    "popup": {
-      "verify": "2 VERIFY, TYPE <i>{content}</i> BELOW:",
-      "important": "DIS AR TEH EXTREMELY IMPORTANT.",
-      "placeholder": "TYPE HER..."
-    },
     "external": {
       "github_profile": "Scary code place",
       "discord": "Funny chat place",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Upload gallary image",
-      "confirm": "R U sure u wants 2 delete dis gallery image?",
       "placeholder": {
         "title": "Entr image title...",
         "description": "Entr image descripshun..."
@@ -214,11 +208,6 @@
       "title": "King",
       "description": "Tranzfr Kingnes ov dis project 2 anothr usr.",
       "action": "Tranfer Kingnes"
-    },
-    "delete": {
-      "title": "Be gone",
-      "description": "Deletin Project erasez all project data, includin vershuns.",
-      "action": "Be gone"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Doez bad thingz",
       "name-squatting": "Name got stowen",
       "other": "Other thingz"
-    },
-    "new": {
-      "information": "Addishunal Informashun",
-      "description": "Include Linkz an imagex if posible. Mardown formattin iz suportd."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Delete akownt",
-      "body": "Once u delete ur akownt, thar iz no goin bak. Deletin ur akownt will remoov all attachd dat, includin projects, frum r servers.",
-      "confirm_title": "R u sure u wants 2 delete ur akownt?",
-      "confirm_body": "Dis will **immediatly delete all ov ur projects** an follows. Deletin ur akownt cant be reversed.\n\nIf u ned halp wif ur akownt, Git suport on teh \n\nIf u ned halp wif ur akownt, git support on teh [Modrinth Discord](/discord).",
-      "yes_I_want_to_do_this": "Yez, irrecoverbaly delete mah akownt"
+      "body": "Once u delete ur akownt, thar iz no goin bak. Deletin ur akownt will remoov all attachd dat, includin projects, frum r servers."
     },
     "auth": {
       "title": "Autorizashun token",
@@ -346,6 +328,101 @@
       "line2": "Ur adblockr preventd Modrinth frum showin an ad, R only source ov mone.",
       "line3": "If u still wants 2 halp Modrinth without viewin adz, U can contribut 2 Modrinth on GitHub!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
