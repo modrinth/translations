@@ -185,14 +185,14 @@
     "members": "Liikmed",
     "permissions": "Õigused",
     "permission": {
-      "upload_version": "Versiooni üleslaadimine",
-      "delete_version": "Versiooni kustutamine",
+      "upload_version": "Versioonide üleslaadimine",
+      "delete_version": "Versioonide kustutamine",
       "edit_details": "Üksikasjade muutmine",
       "edit_body": "Sisu muutmine",
       "manage_invites": "Kutsete haldamine",
       "remove_member": "Liikmete eemaldamine",
       "edit_member": "Liikmete muutmine",
-      "delete_project": "Kustuta projekt"
+      "delete_project": "Projekti kustutamine"
     },
     "role": {
       "text": "Roll",
@@ -338,7 +338,7 @@
         "placeholder": "Kirjuta siia..."
       },
       "project": {
-        "title": "Kustuta projekt",
+        "title": "Projekti kustutamine",
         "description": "Projekti kustutamine kustutab kõik projekti andmed, sealhulgas versioonid.",
         "action": "Kustuta projekt"
       },
