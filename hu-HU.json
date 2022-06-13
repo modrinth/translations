@@ -333,9 +333,9 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Ez nagyon fontos.",
+        "verify": "A hitelesítéshez, írd be: <i>{key}<i>",
+        "placeholder": "Írj ide..."
       },
       "project": {
         "title": "Delete project",
