@@ -353,8 +353,8 @@
         "action": "Sim, exclua minha conta irreversivelmente"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "title": "Excluir imagem da galeria",
+        "description": "Excluir uma imagem da galeria apaga permanentemente o arquivo da imagem e seus metadados.",
         "action": "Excluir Imagem"
       }
     },
@@ -386,10 +386,10 @@
       "project": {
         "title": "Criar projeto",
         "description": "Novos projetos são criados como rascunhos, podendo ser encontrados em seu perfil.",
-        "action": "Continue"
+        "action": "Prosseguir"
       },
       "image": {
-        "title": "Add gallery image",
+        "title": "Adicionar imagem para a galeria",
         "action": "Adicionar imagem",
         "fields": {
           "title": {
@@ -412,12 +412,12 @@
             "label": "Status",
             "options": {
               "approve": "Aprovar",
-              "unlist": "Unlist",
+              "unlist": "Deslistar",
               "reject": "Rejeitar"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Mensagem da Moderação",
             "helper": "Opcionalmente, inclua informações para comunicar problemas com os membros da equipe do projeto. A formatação Markdown é suportada.",
             "placeholder": "Insira informações adicionais..."
           }
