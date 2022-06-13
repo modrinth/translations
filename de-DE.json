@@ -122,11 +122,6 @@
       "cancel": "Abbrechen",
       "discard": "Änderungen verwerfen"
     },
-    "popup": {
-      "verify": "Zur Bestätigung, tippe <i>{content}</i>:",
-      "important": "Das hier ist super wichtig.",
-      "placeholder": "Hier tippen..."
-    },
     "external": {
       "github_profile": "GitHub Profil",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Bild zur Galerie hinzufügen",
-      "confirm": "Bist du sicher, dass du dieses Bild aus der Galerie entfernen möchtest?",
       "placeholder": {
         "title": "Bildtitel eingeben...",
         "description": "Bildbeschreibung eingeben..."
@@ -214,11 +208,6 @@
       "title": "Besitz",
       "description": "Übertrage den Besitz dieses Projekts auf einen anderen Nutzer.",
       "action": "Besitz übertragen"
-    },
-    "delete": {
-      "title": "Projekt löschen",
-      "description": "Ein Projekt zu löschen führt zum Verlust aller Daten, einschließlich der Versionen.",
-      "action": "Projekt löschen"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Bösartige Software",
       "name-squatting": "Namensklau",
       "other": "Anderes"
-    },
-    "new": {
-      "information": "Weitere Informationen",
-      "description": "Gib Links und Bilder an (wenn möglich). Markdown Formatierung ist möglich."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Account löschen",
-      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte.",
-      "confirm_title": "Bist du sicher, dass du deinen Account löschen willst?",
-      "confirm_body": "Dies wird **sofort alle deine Projekte löschen**, einschließlich deren Abonnenten. Eine Accountlöschung kann nicht rückgängig gemacht werden.\n\nWenn du hilfe mit deinem Account brauchst, dann bekommst du Support auf dem [Modrinth Discord](/discord).",
-      "yes_I_want_to_do_this": "Ja, den Account unwiderruflich löschen."
+      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
     },
     "auth": {
       "title": "Authorization Token (für Authentifizierung)",
@@ -346,6 +328,101 @@
       "line2": "Dein Adblocker hält Modrinth davon ab Werbung - unsere einzige Einnahmequelle - anzuzeigen.",
       "line3": "Wenn du Modrinth trotzdem helfen willst ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
