@@ -360,7 +360,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modimine peaks olema kõigile turvaline, seega võtame Modrinthis väärkasutust ja pahatahtlikkust tõsiselt. Me soovime teada pahatahtlikkust käitumisest meie saidil, mis rikuvad meie [teenusetingimusi](/legal/terms) ja [reegleid](/legal/rules). Muretseda pole vaja, teataja isikuandmed hoiame saladuses.",
+        "description": "Modimine peaks olema turvaline kõigile, seega võtame Modrinthis väärkasutust ja pahatahtlikkust väga tõsiselt. Me soovime teada mistahes pahatahtlikkust sisust meie saidil, mis rikuvad meie [teenusetingimusi](/legal/terms) ja [reegleid](/legal/rules). Muretseda pole vaja, teataja isikuandmed hoiame saladuses.",
         "fields": {
           "reason": {
             "label": "Põhjus"
