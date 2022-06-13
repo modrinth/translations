@@ -126,7 +126,7 @@
       "github_profile": "GitHub profilo",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
+      "issues": "Biletoj",
       "source": "Fonto",
       "wiki": "Vikio",
       "patreon": "Patreon",
@@ -344,7 +344,7 @@
       },
       "version": {
         "title": "Forigu version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "description": "Forigo de versio konstante forigas ĉiujn versiodosierojn kaj metadatenojn.",
         "action": "Forigu version"
       },
       "account": {
@@ -354,13 +354,13 @@
       },
       "image": {
         "title": "Forigu galerian bildon",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "description": "Forigo de galeria bildo konstante forigas bildodosieron kaj metadatenojn.",
         "action": "Forigu bildon"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modifo devus esti sekura por ĉiuj, do ni prenas misuzon kaj malican intencon serioze ĉe Modrinth. Ni volas aŭdi pri malutila konduto en la retejo, kiu malobservas niajn [RdS](/legal/terms) kaj [Reguloj](/legal/rules). Estu certa, ni konservos viajn identigajn informojn privataj.",
         "fields": {
           "reason": {
             "label": "Kialo"
@@ -368,7 +368,7 @@
           "information": {
             "label": "Aldona informo",
             "helper": "Inkluzivu hiperligojn kaj bildojn se eblas. Markdown-formatado estas subtenata.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Enskribu aldonan informon..."
           }
         }
       },
@@ -385,7 +385,7 @@
     "creation": {
       "project": {
         "title": "Krei projekton",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "description": "Novaj projektoj estas kreitaj kiel skizoj, kaj povas troveblas sub vian profilan paĝon.",
         "action": "Daŭrigu"
       },
       "image": {
@@ -394,32 +394,32 @@
         "fields": {
           "title": {
             "label": "Titolo",
-            "placeholder": "Enter image title..."
+            "placeholder": "Enskribu bildan titolon..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Priskribo",
+            "placeholder": "Enskribu bildan priskribon..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Ŝanĝu projektan staton",
+        "action": "Konfirmu",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Stato",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Aprobu",
+              "unlist": "Mallistigu",
+              "reject": "Rifuzi"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Moderiga mesaĝo",
+            "helper": "Laŭvole inkluzivu informojn por komuniki problemojn kun la teamanoj de projekto. Markdown-formatado estas subtenata.",
+            "placeholder": "Enskribu aldonan informon..."
           }
         }
       }
