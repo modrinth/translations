@@ -333,93 +333,93 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "See on väga oluline.",
+        "verify": "Kinnitamiseks kirjuta alla <i>{key}</i>:",
+        "placeholder": "Kirjuta siia..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Kustuta projekt",
+        "description": "Projekti kustutamine kustutab kõik projekti andmed, sealhulgas versioonid.",
+        "action": "Kustuta projekt"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Versiooni kustutamine",
+        "description": "Versiooni kustutamine kustutab püsivalt kõik versiooni failid ja metaandmed.",
+        "action": "Kustuta versioon"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Kas soovid kindlasti seda teha?",
+        "description": "See **kustutab koheselt kõik su projektid** ja jälgimised. Konto kustutamist ei saa tagasi võtta.\n\nKui soovid kontoga abi, hangi tuge [Modrinthi Discordis](/discord).",
+        "action": "Jah, kustuta mu konto pöördumatult"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Kustuta galeriipilt",
+        "description": "Galeriipildi kustutamine kustutab püsivalt pildifaili ja selle metaandmed.",
+        "action": "Kustuta pilt"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modimine peaks olema kõigile turvaline, seega võtame Modrinthis väärkasutust ja pahatahtlikkust tõsiselt. Me soovime teada pahatahtlikkust käitumisest meie saidil, mis rikuvad meie [teenusetingimusi](/legal/terms) ja [reegleid](/legal/rules). Muretseda pole vaja, teataja isikuandmed hoiame saladuses.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Põhjus"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Lisateave",
+            "helper": "Lisa võimalusel linke ja pilte. Toetatud on Markdown-vorming.",
+            "placeholder": "Sisesta täiendav teave..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Teata projektist"
       },
       "version": {
-        "action": "Report version"
+        "action": "Teata versioonist"
       },
       "user": {
-        "action": "Report user"
+        "action": "Teata kasutajast"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Contine"
+        "title": "Loo projekt",
+        "description": "Uued projektid luuakse mustanditena ning need on leitavad sinu profiililehelt.",
+        "action": "Jätka"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Lisa galeriipilt",
+        "action": "Lisa pilt",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Pealkiri",
+            "placeholder": "Sisesta pildi pealkiri..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Kirjeldus",
+            "placeholder": "Sisesta pildi kirjeldus..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Muuda projekti olekut",
+        "action": "Kinnita",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Olek",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Kiida heaks",
+              "unlist": "Peida loendist",
+              "reject": "Lükka tagasi"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Haldussõnum",
+            "helper": "Vajadusel lisa teavet, mis kirjeldab projekti liikmetele selle probleeme. Toetatud on Markdown-vorming.",
+            "placeholder": "Lisa täiendavat teavet..."
           }
         }
       }
