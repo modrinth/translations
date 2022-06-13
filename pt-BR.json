@@ -333,18 +333,18 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
+        "important": "Isso é extremamente importante.",
         "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "placeholder": "Digite aqui..."
       },
       "project": {
         "title": "Delete project",
         "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "action": "Excluir projeto"
       },
       "version": {
         "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "description": "Excluir uma versão exclui permanentemente todos os arquivos da versão e seus metadados.",
         "action": "Delete version"
       },
       "account": {
@@ -355,7 +355,7 @@
       "image": {
         "title": "Delete gallery image",
         "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "action": "Excluir Imagem"
       }
     },
     "report": {
@@ -373,27 +373,27 @@
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Denunciar projeto"
       },
       "version": {
-        "action": "Report version"
+        "action": "Denunciar versão"
       },
       "user": {
-        "action": "Report user"
+        "action": "Denunciar usuário"
       }
     },
     "creation": {
       "project": {
         "title": "Create project",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Contine"
+        "action": "Continue"
       },
       "image": {
         "title": "Add gallery image",
         "action": "Add image",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Título",
             "placeholder": "Enter image title..."
           },
           "description": {
@@ -419,7 +419,7 @@
           "moderation_message": {
             "label": "Moderation message",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Insira informações adicionais..."
           }
         }
       }
