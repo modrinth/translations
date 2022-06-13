@@ -122,11 +122,6 @@
       "cancel": "Cancelar",
       "discard": "Descartar mudanças"
     },
-    "popup": {
-      "verify": "Para confirmar, digite <i>{content}</i> abaixo:",
-      "important": "Isso é extremamente importante.",
-      "placeholder": "Digite aqui..."
-    },
     "external": {
       "github_profile": "Perfil GitHub",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Carregar imagem para galeria",
-      "confirm": "Você tem certeza que quer apagar essa imagem da galeria?",
       "placeholder": {
         "title": "Insira o título da imagem...",
         "description": "Insira a descrição da imagem..."
@@ -214,11 +208,6 @@
       "title": "Proprietário",
       "description": "Transferir a posse deste projeto para outro usuário.",
       "action": "Mudar Proprietário"
-    },
-    "delete": {
-      "title": "Deletar projeto",
-      "description": "Deletar um projeto apaga todos os dados do projeto, incluindo as versões.",
-      "action": "Deletar projeto"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Malicioso",
       "name-squatting": "Roubo de identidade",
       "other": "Outro"
-    },
-    "new": {
-      "information": "Informações adicionais",
-      "description": "Inclua links e imagens, se possível. A formatação Markdown é suportada."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Excluir conta",
-      "body": "Depois de excluir sua conta, não tem pé atrás. Excluir sua conta irá remover todos os seus dados anexados, incluindo projetos, de nossos servidores.",
-      "confirm_title": "Você tem certeza que deseja excluir sua conta?",
-      "confirm_body": "Isso irá **apagar imediatamente todos os seus projetos** e seguidores. Esta ação não pode ser revertida.\n\nSe precisar de ajuda com sua conta, obtenha suporte no [Discord do Modrinth](/discord).",
-      "yes_I_want_to_do_this": "Sim, exclua minha conta irreversivelmente"
+      "body": "Depois de excluir sua conta, não tem pé atrás. Excluir sua conta irá remover todos os seus dados anexados, incluindo projetos, de nossos servidores."
     },
     "auth": {
       "title": "Token de autorização",
@@ -346,6 +328,101 @@
       "line2": "Seu adblocker impediu o Modrinth de mostrar um anúncio, nossa única fonte de renda.",
       "line3": "Se você ainda quer ajudar o Modrinth sem ver anúncios, você pode contribuir no GitHub!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
