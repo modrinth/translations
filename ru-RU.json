@@ -333,19 +333,19 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
+        "important": "Это крайне важно.",
         "verify": "To verify, type <i>{key}</i> below:",
         "placeholder": "Type here..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Удаление проекта",
+        "description": "Удаление проекта приведёт к уничтожению всех данных проекта, в том числе, его версий.",
+        "action": "Удалить проект"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Удаление версии",
+        "description": "Это навсегда уничтожит все файлы и метаданные версии.",
+        "action": "Удалить версию"
       },
       "account": {
         "title": "Are you sure you want to do this?",
@@ -353,9 +353,9 @@
         "action": "Yes, irrecoverably delete my account"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Удаление изображения из галереи",
+        "description": "Удаление изображения навсегда уничтожит его файл и метаданные.",
+        "action": "Удалить изображение"
       }
     },
     "report": {
@@ -363,28 +363,28 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Причина"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Дополнительная информация",
+            "helper": "По возможности приводите ссылки и скриншоты. Поддерживается форматирование Markdown.",
+            "placeholder": "Укажите дополнительную информацию..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Жалоба на проект"
       },
       "version": {
-        "action": "Report version"
+        "action": "Жалоба на версию"
       },
       "user": {
-        "action": "Report user"
+        "action": "Жалоба на пользователя"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
+        "title": "Создание проекта",
         "description": "New projects are created as drafts, and can be found under your profile page.",
         "action": "Contine"
       },
