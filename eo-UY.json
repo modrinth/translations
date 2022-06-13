@@ -333,27 +333,27 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Tio ĉi estas ekstreme gravan.",
+        "verify": "Kontroli, tajpu <i>{key}</i> sub:",
+        "placeholder": "Tajpu ĉi tie..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Forigu projekton",
+        "description": "Forigi projekton viŝas ĉiujn projektajn datumojn, inkluzive versiojn.",
+        "action": "Forigu projekton"
       },
       "version": {
-        "title": "Delete version",
+        "title": "Forigu version",
         "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "action": "Forigu version"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Ĉu vi certas ke vi volas fari ĉi tiun?",
+        "description": "Ĉi tio **tuj forigos ĉiujn de viaj projektoj** kaj sekvaĵoj. Forigi vian konton ne povas esti renversita.\n\nSe vi bezonas helpon pri via konto, ricevu subtenon ĉe la [Modrinth Discord](/discord).",
+        "action": "Jes, nerevokeble forigu mian konton"
       },
       "image": {
-        "title": "Delete gallery image",
+        "title": "Forigu galerian bildon",
         "description": "Deleting a gallery image permanently deletes the image file and metadata.",
         "action": "Delete image"
       }
@@ -363,11 +363,11 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Kialo"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "label": "Aldona informo",
+            "helper": "Inkluzivu hiperligojn kaj bildojn se eblas. Markdown-formatado estas subtenata.",
             "placeholder": "Enter additional information..."
           }
         }
