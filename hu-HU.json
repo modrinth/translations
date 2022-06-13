@@ -338,29 +338,29 @@
         "placeholder": "Írj ide..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Projekt törlése",
+        "description": "A projekt törlésével minden adat törlődik, még a verziók is.",
+        "action": "Projekt törlése"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Verzió törlése",
+        "description": "A verzió törlése véglegesen töröl minden fájlt és metaadatot.",
+        "action": "Verzió törlése"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Biztosan ezt akarod tenni?",
+        "description": "Ez **azonnal törölni fog minden projektedet** és követésedet. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
+        "action": "Igen, visszafordíthatatlanul törölni akarom a fiókomat"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Kép törlése a galériából",
+        "description": "A kép törlése a galériából visszafordíthatatlanul törli a képet és metaadatokat.",
+        "action": "Kép törlése"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "A modolásnak biztonságosnak kéne lennie mindenki számára, úgyhogy a kihasználást és rosszindulatúságot komolyan vesszük a Modrinth-en. Szeretnénk hallani az összes rosszindulatú tartalomról, ami szembe megy a [Felhasználási Feltételek](/legal/terms)-kel és a [Szabályzat](/legal/rules)-tal. A felderítő munkádat titokban tartjuk.",
         "fields": {
           "reason": {
             "label": "Reason"
