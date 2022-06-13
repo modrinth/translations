@@ -334,23 +334,23 @@
     "deletion": {
       "generic": {
         "important": "Isso é extremamente importante.",
-        "verify": "To verify, type <i>{key}</i> below:",
+        "verify": "Para confirmar, digite <i>{key}</i> abaixo:",
         "placeholder": "Digite aqui..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
+        "title": "Excluir projeto",
+        "description": "Excluir um projeto apaga todos os dados do projeto, incluindo as versões.",
         "action": "Excluir projeto"
       },
       "version": {
-        "title": "Delete version",
+        "title": "Excluir versão",
         "description": "Excluir uma versão exclui permanentemente todos os arquivos da versão e seus metadados.",
-        "action": "Delete version"
+        "action": "Excluir versão"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Você tem certeza que quer fazer isso?",
+        "description": "Isso irá **apagar imediatamente todos os seus projetos** e seguidores. Esta ação não pode ser revertida.\n\nSe precisar de ajuda com sua conta, obtenha suporte no [Discord do Modrinth](/discord).",
+        "action": "Sim, exclua minha conta irreversivelmente"
       },
       "image": {
         "title": "Delete gallery image",
@@ -360,15 +360,15 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modding deve ser seguro para todos, portanto levemos a sério abuso e intenções maliciosas no Modrinth. Queremos ouvir a respeito comportamentos prejudiciais no site que violam nossos [ToS](/legal/terms) e [Regras](/legal/rules). Fique tranquilo, manteremos em segredo suas informações identificaveis.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Motivo"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Informações adicionais",
+            "helper": "Inclua links e imagens, se possível. A formatação Markdown é suportada.",
+            "placeholder": "Insira informações adicionais..."
           }
         }
       },
@@ -384,41 +384,41 @@
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "title": "Criar projeto",
+        "description": "Novos projetos são criados como rascunhos, podendo ser encontrados em seu perfil.",
         "action": "Continue"
       },
       "image": {
         "title": "Add gallery image",
-        "action": "Add image",
+        "action": "Adicionar imagem",
         "fields": {
           "title": {
             "label": "Título",
-            "placeholder": "Enter image title..."
+            "placeholder": "Insira o título da imagem..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Descrição",
+            "placeholder": "Insira a descrição da imagem..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Mudar status do projeto",
+        "action": "Confirmar",
         "fields": {
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
+              "approve": "Aprovar",
               "unlist": "Unlist",
-              "reject": "Reject"
+              "reject": "Rejeitar"
             }
           },
           "moderation_message": {
             "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "helper": "Opcionalmente, inclua informações para comunicar problemas com os membros da equipe do projeto. A formatação Markdown é suportada.",
             "placeholder": "Insira informações adicionais..."
           }
         }
