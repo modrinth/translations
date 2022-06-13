@@ -122,11 +122,6 @@
       "cancel": "Annuleren",
       "discard": "Wijzigingen negeren"
     },
-    "popup": {
-      "verify": "Typ <i>{content}</i> hieronder om het te verifiëren:",
-      "important": "Dit is uiterst belangrijk.",
-      "placeholder": "Hier typen..."
-    },
     "external": {
       "github_profile": "GitHub profiel",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Upload een afbeelding",
-      "confirm": "Weet je zeker dat je deze afbeelding wil verwijderen?",
       "placeholder": {
         "title": "Voer een afbeelding titel in...",
         "description": "Voer een afbeeldingsbeschrijving in..."
@@ -214,11 +208,6 @@
       "title": "Eigendom",
       "description": "Geef eigendom van dit project over aan een andere gebruiker.",
       "action": "Eigendom overdragen"
-    },
-    "delete": {
-      "title": "Project verwijderen",
-      "description": "Een project verwijderen wist alle projectgegevens, inclusief versies.",
-      "action": "Project verwijderen"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Schadelijk",
       "name-squatting": "Naamkraken",
       "other": "Ander"
-    },
-    "new": {
-      "information": "Aanvullende informatie",
-      "description": "Voeg links en afbeeldingen toe indien mogelijk. Markdown opmaak wordt ondersteund."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Account verwijderen",
-      "body": "Als je je account verwijderd, is er geen weg meer terug. Bij het verwijderen van je account worden alle gekoppelde gegevens, waaronder projecten, van je account verwijderd.",
-      "confirm_title": "Weet je zeker dat je je account wilt verwijderen?",
-      "confirm_body": "Dit zal **al je projecten direct verwijderen**. Het verwijderen van je account kan niet ongedaan worden gemaakt.\n\nAls je hulp nodig hebt met je account, krijg dan ondersteuning op de [Modrinth Discord](/discord).",
-      "yes_I_want_to_do_this": "Ja, mijn account onherstelbaar verwijderen"
+      "body": "Als je je account verwijderd, is er geen weg meer terug. Bij het verwijderen van je account worden alle gekoppelde gegevens, waaronder projecten, van je account verwijderd."
     },
     "auth": {
       "title": "Autorisatie token",
@@ -346,6 +328,101 @@
       "line2": "Je adblocker heeft voorkomen dat Modrinth een advertentie weergeeft, onze enige bron van inkomen.",
       "line3": "Als je Modrinth nog wilt helpen zonder advertenties te bekijken, kun je bijdragen aan Modrinth op GitHub!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
