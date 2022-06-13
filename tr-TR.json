@@ -333,93 +333,93 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Bu son derece önemli.",
+        "verify": "Onaylamak için aşağıya <i>{key}</i> yazın:",
+        "placeholder": "Buraya yazın..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Proje sil",
+        "description": "Bir projeyi silmek, sürümler dahil olmak üzere tüm proje verisini kaldırır.",
+        "action": "Proje sil"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Sürüm sil",
+        "description": "Bir sürüm kaldırmak, tüm sürüm dosyalarını ve üst veriyi kaldırır.",
+        "action": "Sürüm sil"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Bunu yapmak istediğinden emin misin?",
+        "description": "Bu **bütün projelerinizi ve takip ettiklerinizi derhal kaldıracaktır**. Hesabın silinmesi geri alınamaz.\n\nHesabınızla ilgili yardıma ihtiyacınız varsa, [Modrinth Discord](/discord) üzerinden destek alın.",
+        "action": "Evet, geri alınamaz şekilde hesabımı sil"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Galeri görselini sil",
+        "description": "Bir galeri görselini silmek, kalıcı olarak görsel dosyasını ve üst verisini siler.",
+        "action": "Görsel sil"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modlama herkes için güvenli olmalı, bu yüzden Modrinth'te suistimal veya kötücül niyetleri ciddiye alıyoruz. [Hizmet Kullanım Şartları](/legal/terms)'mızı ve [Kurallar](/legal/rules)'ımızı ihlal eden sitedeki zararlı davranışlar hakkında haberdar olmak istiyoruz. Endişeniz olmasın, kimlik bilgilerinizi gizli tutacağız.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Sebep"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Ek bilgi",
+            "helper": "Mümkünse bağlantı ve görselleri dahil edin. Markdown formatı desteklidir.",
+            "placeholder": "Ek bilgi gir..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Projeyi bildir"
       },
       "version": {
-        "action": "Report version"
+        "action": "Sürümü bildir"
       },
       "user": {
-        "action": "Report user"
+        "action": "Kullanıcıyı bildir"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Contine"
+        "title": "Proje Yarat",
+        "description": "Yeni projeler taslak olarak yaratılır ve profil sayfanızın altında bulunabilir.",
+        "action": "Devam"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Galeri görseli ekle",
+        "action": "Görsel ekle",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Başlık",
+            "placeholder": "Görsel başlığı gir..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Açıklama",
+            "placeholder": "Görsel açıklaması gir..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Proje durumunu değiştir",
+        "action": "Onayla",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Durum",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Onaylı",
+              "unlist": "Liste dışı",
+              "reject": "Reddedildi"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Moderasyon mesajı",
+            "helper": "Bir projenin takım üyeleriyle sorunları iletmek için tercihen bilgi dahil edin. Markdown formatı desteklidir.",
+            "placeholder": "Ek bilgi gir..."
           }
         }
       }
