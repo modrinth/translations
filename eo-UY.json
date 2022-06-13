@@ -355,7 +355,7 @@
       "image": {
         "title": "Forigu galerian bildon",
         "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "action": "Forigu bildon"
       }
     },
     "report": {
@@ -373,27 +373,27 @@
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Raportu projekton"
       },
       "version": {
-        "action": "Report version"
+        "action": "Raportu version"
       },
       "user": {
-        "action": "Report user"
+        "action": "Raportu uzanton"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
+        "title": "Krei projekton",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "action": "Daŭrigu"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Aldonu galerian bildon",
+        "action": "Aldonu bildon",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Titolo",
             "placeholder": "Enter image title..."
           },
           "description": {
