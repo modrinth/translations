@@ -122,11 +122,6 @@
       "cancel": "취소",
       "discard": "변경 사항 취소"
     },
-    "popup": {
-      "verify": "계속하려면 <i>{content}</i>를 아래에 입력하세요.",
-      "important": "이것은 매우 중요합니다.",
-      "placeholder": "여기에 입력..."
-    },
     "external": {
       "github_profile": "GitHub 프로필",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "갤러리 이미지 업로드",
-      "confirm": "정말 이 갤러리 이미지를 삭제하시겠습니까?",
       "placeholder": {
         "title": "이미지의 제목을 입력하세요...",
         "description": "이미지의 설명을 입력하세요..."
@@ -214,11 +208,6 @@
       "title": "소유권",
       "description": "프로젝트의 소유권을 다른 유저에게 이전합니다.",
       "action": "소유권 이전"
-    },
-    "delete": {
-      "title": "프로젝트 삭제",
-      "description": "프로젝트를 지우는 것은 버전을 포함한 모든 프로젝트 데이터를 지웁니다.",
-      "action": "프로젝트 삭제"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "악의성",
       "name-squatting": "이름 도용",
       "other": "기타"
-    },
-    "new": {
-      "information": "추가 정보",
-      "description": "가능하다면 이미지와 링크를 포함하세요. 마크다운 형식을 지원합니다."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "계정 삭제",
-      "body": "계정을 삭제하면 되돌릴 수 없습니다. 계정을 삭제하는 것은 프로젝트를 포함한 모든 연관된 데이터를 서버에서 제거합니다.",
-      "confirm_title": "계정을 삭제하시겠습니까?",
-      "confirm_body": "이것은 **즉시 모든 프로젝트**와 팔로우를 **삭제**할 것입니다. 계정 삭제는 되돌릴 수 없습니다.\n계정에 대한 도움이 필요하시면 [Modrinth Discord](/discord)에서 도움을 받으세요.",
-      "yes_I_want_to_do_this": "예, 영원히 제 계정을 삭제하겠습니다"
+      "body": "계정을 삭제하면 되돌릴 수 없습니다. 계정을 삭제하는 것은 프로젝트를 포함한 모든 연관된 데이터를 서버에서 제거합니다."
     },
     "auth": {
       "title": "인증 토큰",
@@ -346,6 +328,101 @@
       "line2": "광고 차단 프로그램이 Modrinth의 유일한 수입원인 광고를 보여주는 것을 방지했습니다.",
       "line3": "광고를 보지 않고도 Modrinth를 돕길 원하신다면 Github에서 Modrinth에 기여하실 수 있습니다!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
