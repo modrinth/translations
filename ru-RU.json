@@ -334,8 +334,8 @@
     "deletion": {
       "generic": {
         "important": "Это крайне важно.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "verify": "Для подтверждения введите <i>{key}</i> ниже:",
+        "placeholder": "Вводите здесь..."
       },
       "project": {
         "title": "Удаление проекта",
@@ -348,9 +348,9 @@
         "action": "Удалить версию"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Вы уверены?",
+        "description": "Это **немедленно удалит все ваши проекты** и подписки. Удаление учётной записи необратимо.\n\nЕсли вам нужна помощь с учётной записью, обратитесь к нам в [Discord](/discord).",
+        "action": "Да, навсегда удалить мой профиль"
       },
       "image": {
         "title": "Удаление изображения из галереи",
@@ -360,7 +360,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Моддинг должен быть безопасным для каждого, поэтому мы серьёзно относимся к злонамеренному поведению и действиям на просторах Modrinth. Мы хотим знать об опасном поведении на сайте, которое нарушает наши [Правила](/legal/rules) и [Условия](/legal/terms). Не беспокойтесь, мы сохраним ваше обращение в тайне.",
         "fields": {
           "reason": {
             "label": "Причина"
@@ -385,41 +385,41 @@
     "creation": {
       "project": {
         "title": "Создание проекта",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Contine"
+        "description": "Новые проекты сохраняются в виде черновиков; их можно найти в вашем профиле.",
+        "action": "Продолжить"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Добавить изображение в галерею",
+        "action": "Добавить",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Заголовок",
+            "placeholder": "Введите название изображения..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Описание",
+            "placeholder": "Введите описание изображения..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Изменение статуса проекта",
+        "action": "Подтвердить",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Статус",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Одобрить",
+              "unlist": "Скрыть",
+              "reject": "Отклонить"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Сообщение модерации",
+            "helper": "Вы можете сообщить команде разработчиков о проблемах с их проектом. Поддерживается форматирование Markdown.",
+            "placeholder": "Введите дополнительную информацию..."
           }
         }
       }
