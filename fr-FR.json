@@ -122,11 +122,6 @@
       "cancel": "Annuler",
       "discard": "Annuler les modifications"
     },
-    "popup": {
-      "verify": "Pour vérifier, tapez <i>{content}</i> ci-dessous :",
-      "important": "Ceci est extrêmement important.",
-      "placeholder": "Saisir ici..."
-    },
     "external": {
       "github_profile": "Profil GitHub",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Upload une image dans la galerie",
-      "confirm": "Voulez-vous vraiment supprimer cette image de la galerie ?",
       "placeholder": {
         "title": "Saisir le titre de l'image...",
         "description": "Saisir la description de l'image..."
@@ -214,11 +208,6 @@
       "title": "Propriétaire",
       "description": "Transférer la propriété de ce projet à un autre utilisateur.",
       "action": "Transférer la propriété"
-    },
-    "delete": {
-      "title": "Supprimer le projet",
-      "description": "Supprimer un projet efface toutes les données du projet, y compris les versions.",
-      "action": "Supprimer le projet"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Malveillant",
       "name-squatting": "Vol de nom",
       "other": "Autre"
-    },
-    "new": {
-      "information": "Informations complémentaires",
-      "description": "Inclure des liens et des images si possible. Le formatage Markdown est pris en charge."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Supprimer mon compte",
-      "body": "Une fois que vous avez supprimé votre compte, vous ne pouvez plus revenir en arrière. La suppression de votre compte entraîne la suppression de toutes les données qui y sont attachées, y compris les projets, de nos serveurs.",
-      "confirm_title": "Êtes-vous sûr de vouloir supprimer votre compte ?",
-      "confirm_body": "Cela **supprimera immédiatement tous vos projets** et vos abonnements. La suppression de votre compte est irréversible.\n\nSi vous avez besoin d'aide pour votre compte, obtenez de l'aide sur le [Discord de Modrinth](/discord).",
-      "yes_I_want_to_do_this": "Oui, supprimer définitivement mon compte"
+      "body": "Une fois que vous avez supprimé votre compte, vous ne pouvez plus revenir en arrière. La suppression de votre compte entraîne la suppression de toutes les données qui y sont attachées, y compris les projets, de nos serveurs."
     },
     "auth": {
       "title": "Jeton d'autorisation",
@@ -346,6 +328,101 @@
       "line2": "Votre bloqueur de publicités a empêché Modrinth d'afficher une publicité, notre seule source de revenus.",
       "line3": "Si vous voulez quand même aider Modrinth sans voir de publicité, vous pouvez contribuer à Modrinth sur GitHub !",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
