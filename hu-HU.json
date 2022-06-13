@@ -122,11 +122,6 @@
       "cancel": "Mégsem",
       "discard": "Változások elvétése"
     },
-    "popup": {
-      "verify": "A megerősítéshez, írd be: <i>{content}</i>",
-      "important": "Ez nagyon fontos!",
-      "placeholder": "Írd ide..."
-    },
     "external": {
       "github_profile": "GitHub profil",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Tölts fel egy képet a galériába",
-      "confirm": "Biztos vagy benne, hogy törölni akarod ezt a képet a galériából?",
       "placeholder": {
         "title": "Írd be a kép címét...",
         "description": "Írd be a kép leírását..."
@@ -214,11 +208,6 @@
       "title": "Tulajdonjog",
       "description": "A projekt tulajdonjogának átadása másik felhasználónak.",
       "action": "Tulajdonjog átadása"
-    },
-    "delete": {
-      "title": "Projekt törlése",
-      "description": "A projekt törlése töröl minden adatot, még a verziókat is.",
-      "action": "Törlés mindenképpen"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Káros",
       "name-squatting": "Lopott név",
       "other": "Egyéb"
-    },
-    "new": {
-      "information": "Egyéb információ",
-      "description": "Adj hozzá linkeket és képeket, ha lehet. A Markdown formázás engedélyzett!"
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Fiók törlése",
-      "body": "Ha törlöd a fiókodat, minden adatod és minden projekted azonnal törlődni fog a szervereinkről.",
-      "confirm_title": "Biztosan ki akarod törölni a fiókodat?",
-      "confirm_body": "Ez **azonnal törölni fog minden projektedet** és követésedet. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
-      "yes_I_want_to_do_this": "Igen, visszafordíthatatlanul törölni akarom a fiókomat."
+      "body": "Ha törlöd a fiókodat, minden adatod és minden projekted azonnal törlődni fog a szervereinkről."
     },
     "auth": {
       "title": "Hitelesítő token",
@@ -346,6 +328,101 @@
       "line2": "Az Adblockered megakadályozta a Modrinth-et, hogy hirdetést jelenítsen meg, az egyetlen bevételi forrásunkat.",
       "line3": "Ha szeretnéd támogatni a Modrinth-et hirdetések megtekintése nélkül, segíts nekünk fejleszteni a Modrinth-et!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Delete project",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Delete project"
+      },
+      "version": {
+        "title": "Delete version",
+        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "action": "Delete version"
+      },
+      "account": {
+        "title": "Are you sure you want to do this?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Yes, irrecoverably delete my account"
+      },
+      "image": {
+        "title": "Delete gallery image",
+        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "action": "Delete image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Reason"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Report project"
+      },
+      "version": {
+        "action": "Report version"
+      },
+      "user": {
+        "action": "Report user"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Create project",
+        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "action": "Contine"
+      },
+      "image": {
+        "title": "Add gallery image",
+        "action": "Add image",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Enter image title..."
+          },
+          "description": {
+            "label": "Description",
+            "placeholder": "Enter image description..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Confirm",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
     }
   },
   "tags": {
