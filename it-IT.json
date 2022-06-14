@@ -334,16 +334,16 @@
     "deletion": {
       "generic": {
         "important": "Questo è un messaggio estremamente importante.",
-        "verify": "To verify, type <i>{key}</i> below:",
+        "verify": "Per verificare, digita <i>{key}</i> qui sotto:",
         "placeholder": "Digita qui..."
       },
       "project": {
         "title": "Elimina il progetto",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "Eliminare un progetto cancella tutti i dati del progetto, comprese le versioni.",
         "action": "Eliminare il progetto"
       },
       "version": {
-        "title": "Delete version",
+        "title": "Elimina una versione",
         "description": "Deleting a version permanently deletes all version files and metadata.",
         "action": "Delete version"
       },
