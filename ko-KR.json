@@ -106,7 +106,7 @@
       "files": "파일"
     },
     "actions": {
-      "create": "만들기",
+      "create": "생성",
       "edit": "편집",
       "follow": "팔로우",
       "unfollow": "언팔로우",
@@ -149,7 +149,7 @@
       }
     },
     "up_to_date": "최신 상태입니다!",
-    "byline": "<u>{author}</u>이(가) 만듦"
+    "byline": "개발자: <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -182,7 +182,7 @@
       "placeholder": "프로젝트의 본문을 입력하세요...",
       "empty": "이 프로젝트의 설명이 없습니다."
     },
-    "members": "구성원",
+    "members": "멤버",
     "permissions": "권한",
     "permission": {
       "upload_version": "버전 업로드",
@@ -216,7 +216,7 @@
     "feature_action": "추천",
     "dependencies": "의존성",
     "metadata": "부가 정보",
-    "release_channel": "릴리스 채널",
+    "release_channel": "출시 상태",
     "number": "버전 구분",
     "publication_date": "출시일",
     "publisher": "출시자"
@@ -235,8 +235,8 @@
       "relevance": "연관성",
       "downloads": "다운로드 수",
       "follows": "팔로워순",
-      "newest": "최근 생성",
-      "updated": "최근 갱신"
+      "newest": "최근 생성됨",
+      "updated": "최근 업데이트됨"
     },
     "per_page": "페이지 당 표시 수"
   },
@@ -259,14 +259,14 @@
     "moderator": "운영자"
   },
   "stats": {
-    "joined": "{ago} 전에 가입함",
-    "notified": "{ago} 전에 알림을 받음",
+    "joined": "{ago}에 가입함",
+    "notified": "{ago}에 알림을 받음",
     "downloads": "{downloads, plural, other {<b>#</b> 다운로드}}",
     "followers_of_projects": "{followers, plural, other {<b>#</b> 프로젝트 팔로워}}",
     "followers": "{followers, plural, other {<b>#</b> 팔로워}}",
     "user_id": "사용자 ID: {id}",
-    "created": "{ago} 전에 생성됨",
-    "updated": "{ago} 전에 업데이트됨"
+    "created": "{ago} 생성됨",
+    "updated": "{ago}에 업데이트됨"
   },
   "settings": {
     "username": {
@@ -344,7 +344,7 @@
       },
       "version": {
         "title": "버전 삭제",
-        "description": "버전을 지우는 것은 영원히 모든 버전 파일을 포함한 모든 메타데이터를 지웁니다.",
+        "description": "버전을 지우는 것은 영원히 모든 버전 파일과 추가 정보를 지웁니다.",
         "action": "버전 삭제"
       },
       "account": {
@@ -354,72 +354,72 @@
       },
       "image": {
         "title": "갤러리 이미지 삭제",
-        "description": "갤러리 이미지를 지우는 것은 영원히 이미지 파일과 메타데이터를 지웁니다.",
+        "description": "갤러리 이미지를 지우는 것은 영원히 이미지 파일과 추가 정보를 지웁니다.",
         "action": "이미지 삭제"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "모드 제작은 모두에게 안전해야하므로, Modrinth에서는 학대와 악의적인 의도를 진지하게 다룹니다. 저희는 사이트에서 일어나는 [이용약관](/legal/terms) 과 [규칙](/legal/rules)을 위반하는 행위를 들으려합니다. 안심하세요. 식별 정보는 비공개로 유지됩니다.",
         "fields": {
           "reason": {
             "label": "사유"
           },
           "information": {
             "label": "추가 정보",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "helper": "가능하다면 이미지와 링크를 포함해주세요. 마크다운 형식을 지원합니다.",
+            "placeholder": "추가 정보 입력..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "프로젝트 신고"
       },
       "version": {
-        "action": "Report version"
+        "action": "버전 신고"
       },
       "user": {
-        "action": "Report user"
+        "action": "사용자 신고"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "프로젝트 생성",
+        "description": "새 프로젝트는 초안으로 생성되며, 프로필 페이지에서 찾을 수 있습니다.",
+        "action": "계속"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "갤러리 이미지 추가",
+        "action": "이미지 추가",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "제목",
+            "placeholder": "이미지 제목 입력..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "설명",
+            "placeholder": "이미지 설명 입력..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "프로젝트 상태 변경",
+        "action": "확인",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "상태",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "승인",
+              "unlist": "비공개",
+              "reject": "거부"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "중재 메시지",
+            "helper": "추가적으로 프로젝트 멤버들과 문제 소통을 위한 정보를 적어주세요. 마크다운 형식을 지원합니다.",
+            "placeholder": "추가 정보 입력..."
           }
         }
       }
@@ -432,9 +432,9 @@
     "utility": "유틸",
     "decoration": "장식",
     "library": "라이브러리",
-    "cursed": "요상함",
+    "cursed": "이상함",
     "worldgen": "세계 생성",
-    "storage": "창고",
+    "storage": "저장소",
     "food": "음식",
     "equipment": "장비",
     "miscellaneous": "기타",
