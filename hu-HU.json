@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "Ezen származása miatt, az oldal tartalma csak az eredeti nyelven érhető el."
+    "no_translation": "Ezen oldal származása miatt, az oldal tartalma csak az eredeti nyelven érhető el."
   },
   "index": {
     "tagline": "Fedezz fel, játsz és készíts Minecraft tartalmat",
@@ -363,63 +363,63 @@
         "description": "A modolásnak biztonságosnak kéne lennie mindenki számára, úgyhogy a kihasználást és rosszindulatúságot komolyan vesszük a Modrinth-en. Szeretnénk hallani az összes rosszindulatú tartalomról, ami szembe megy a [Felhasználási Feltételek](/legal/terms)-kel és a [Szabályzat](/legal/rules)-tal. A felderítő munkádat titokban tartjuk.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Jelentés oka"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Egyéb információ",
+            "helper": "Adj hozzá linkeket és képeket ha lehetséges. A Markdown formázás engedélyezett.",
+            "placeholder": "Adj hozzá egyéb információt..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Projekt jelentése"
       },
       "version": {
-        "action": "Report version"
+        "action": "Verzió jelentése"
       },
       "user": {
-        "action": "Report user"
+        "action": "Felhasználó jelentése"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "Projekt létrehozása",
+        "description": "Az új projektek piszkozatként lesznek létrehozva és a felhasználói profilodnál találhatod meg őket.",
+        "action": "Folytatás"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Kép hozzáadása a galériához",
+        "action": "Kép hozzáadása",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Cím",
+            "placeholder": "Írd be a kép címét..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Leírás",
+            "placeholder": "Írd be a kép leírását..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Projekt állapotának megváltoztatása",
+        "action": "Megerősítés",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Állapot",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Jóváhagyás",
+              "unlist": "Nem listázottá tétel",
+              "reject": "Elutasítás"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Moderációs üzenet",
+            "helper": "Optcionálisan adj hozzá információkat hogy megossz problémákat a projekt tagjaival. A Markdown formázás engedélyezett.",
+            "placeholder": "Adj hozzá egyéb információt..."
           }
         }
       }
