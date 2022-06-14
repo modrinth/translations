@@ -333,29 +333,29 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "이것은 매우 중요합니다.",
+        "verify": "인증하려면 <i>{key}</i>를 아래에 입력하세요.",
+        "placeholder": "여기에 입력..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "프로젝트 삭제",
+        "description": "프로젝트를 지우는 것은 버전을 포함한 모든 프로젝트 데이터를 지웁니다.",
+        "action": "프로젝트 삭제"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "버전 삭제",
+        "description": "버전을 지우는 것은 영원히 모든 버전 파일을 포함한 모든 메타데이터를 지웁니다.",
+        "action": "버전 삭제"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "정말로 이 작업을 수행하시겠습니까?",
+        "description": "이것은 **즉시 모든 프로젝트**와 팔로우를 **삭제**할 것입니다. 계정 삭제는 되돌릴 수 없습니다.\n\n계정에 대한 도움이 필요하시면 [Modrinth Discord](/discord)에서 도움을 받으세요.",
+        "action": "예, 영원히 제 계정을 삭제하겠습니다"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "갤러리 이미지 삭제",
+        "description": "갤러리 이미지를 지우는 것은 영원히 이미지 파일과 메타데이터를 지웁니다.",
+        "action": "이미지 삭제"
       }
     },
     "report": {
@@ -363,10 +363,10 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "사유"
           },
           "information": {
-            "label": "Additional information",
+            "label": "추가 정보",
             "helper": "Include links and images if possible. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
