@@ -333,14 +333,14 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
+        "important": "Questo è un messaggio estremamente importante.",
         "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "placeholder": "Digita qui..."
       },
       "project": {
-        "title": "Delete project",
+        "title": "Elimina il progetto",
         "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "action": "Eliminare il progetto"
       },
       "version": {
         "title": "Delete version",
@@ -373,51 +373,51 @@
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Segnala progetto"
       },
       "version": {
-        "action": "Report version"
+        "action": "Segnala versione"
       },
       "user": {
-        "action": "Report user"
+        "action": "Segnala utente"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "Crea progetto",
+        "description": "I nuovi progetti sono creati come bozze e possono essere trovati sotto la pagina del tuo profilo.",
+        "action": "Continua"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Aggiungi un'immagine alla galleria",
+        "action": "Aggiungi immagine",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Titolo",
+            "placeholder": "Inserisci un titolo per l'immagine..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Descrizione",
+            "placeholder": "Inserisci una descrizione per l'immagine..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Modifica lo stato del progetto",
+        "action": "Confermato",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Stato",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Approvato",
+              "unlist": "Non elencato",
+              "reject": "Rifiutato"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Modera messaggi",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
