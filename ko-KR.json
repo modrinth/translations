@@ -266,7 +266,7 @@
     "followers": "{followers, plural, other {<b>#</b> 팔로워}}",
     "user_id": "사용자 ID: {id}",
     "created": "{ago} 생성됨",
-    "updated": "{ago}에 업데이트됨"
+    "updated": "마지막 업데이트: {ago}"
   },
   "settings": {
     "username": {
@@ -360,7 +360,7 @@
     },
     "report": {
       "generic": {
-        "description": "모드 제작은 모두에게 안전해야하므로, Modrinth에서는 학대와 악의적인 의도를 진지하게 다룹니다. 저희는 사이트에서 일어나는 [이용약관](/legal/terms) 과 [규칙](/legal/rules)을 위반하는 행위를 들으려합니다. 안심하세요. 식별 정보는 비공개로 유지됩니다.",
+        "description": "모드 제작은 모두에게 안전해야 하므로, Modrinth에서는 악용과 악의적 의도를 진지하게 다룹니다. 사이트에서 일어나는 [이용약관](/legal/terms) 과 [규칙](/legal/rules)을 위반하는 행위 제보에 귀 기울이고 싶습니다. 안심하세요. 식별 정보는 비공개로 유지됩니다.",
         "fields": {
           "reason": {
             "label": "사유"
