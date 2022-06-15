@@ -333,12 +333,12 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
+        "important": "Ceci est extrêmement important.",
         "verify": "To verify, type <i>{key}</i> below:",
         "placeholder": "Type here..."
       },
       "project": {
-        "title": "Delete project",
+        "title": "Supprimer le projet",
         "description": "Deleting a project erases all project data, including versions.",
         "action": "Delete project"
       },
@@ -353,17 +353,17 @@
         "action": "Yes, irrecoverably delete my account"
       },
       "image": {
-        "title": "Delete gallery image",
+        "title": "Supprimer l'image de la galerie",
         "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "action": "Supprimer l`image"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful behavior on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Raison"
           },
           "information": {
             "label": "Additional information",
@@ -405,19 +405,19 @@
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Modifier le statut du projet",
+        "action": "Confirmer",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Statut",
             "options": {
-              "approve": "Approve",
+              "approve": "Approuver",
               "unlist": "Unlist",
-              "reject": "Reject"
+              "reject": "Rejeter"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Message de modération",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
