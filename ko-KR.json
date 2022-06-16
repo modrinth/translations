@@ -206,7 +206,7 @@
     },
     "ownership": {
       "title": "소유권",
-      "description": "프로젝트의 소유권을 다른 유저에게 이전합니다.",
+      "description": "프로젝트의 소유권을 다른 사용자에게 이전합니다.",
       "action": "소유권 이전"
     }
   },
@@ -259,8 +259,8 @@
     "moderator": "운영자"
   },
   "stats": {
-    "joined": "{ago}에 가입함",
-    "notified": "{ago}에 알림을 받음",
+    "joined": "가입일: {ago}",
+    "notified": "알림일: {ago}",
     "downloads": "{downloads, plural, other {<b>#</b> 다운로드}}",
     "followers_of_projects": "{followers, plural, other {<b>#</b> 프로젝트 팔로워}}",
     "followers": "{followers, plural, other {<b>#</b> 팔로워}}",
@@ -429,7 +429,7 @@
     "technology": "기술",
     "adventure": "모험",
     "magic": "마법",
-    "utility": "유틸",
+    "utility": "유틸리티",
     "decoration": "장식",
     "library": "라이브러리",
     "cursed": "이상함",
