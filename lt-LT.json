@@ -4,31 +4,31 @@
   },
   "index": {
     "tagline": "Atraskite, žaiskite ir kurkite \"Minecraft\" turinį",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "description": "Ieškokite malonaus ir kokybiško turinio mūsų atviro kodo modifikavimo platformoje, sukurtoje bendruomenei. Kurkite medžiagą, gaukite atlyginimą* ir įgyvendinkite savo projektą naudodamiesi mūsų visiškai dokumentuota API!",
     "features": {
       "book": {
         "title": "Lengvai naudojama API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "Palaikoma visiškai dokumentuota API, palengvinanti trečiųjų šalių integracijos ir paleidiklių augimą."
       },
       "coin": {
-        "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "title": "Kūrėjų atlyginimai",
+        "description": "Planuojama kūrėjams skirti 100 % reklamos pajamų iš jų projektų puslapių. *Išmokos yra kuriamos šiuo metu."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "Žaibiškai greita paieška",
+        "description": "Naudojami greiti ir lengvai pritaikomi paieškos algoritmai, kad nereikėtų laukti."
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "Padedanti bendruomenė",
+        "description": "Gaukite palaikymą, tobulėkite ir bendraukite mūsų \"Discord\" serveryje, kuriame yra daugiau nei 1 500 narių."
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "Išplečiamas pagal dizainą",
+        "description": "Integruojasi su kūrimo įrankiais, saugyklomis, paleidikliais ir pasirinktinėmis programomis."
       },
       "tools": {
         "title": "Pilnai atviras kodas",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "description": "Atvirojo kodo projektas, palaikomas aktyvios bendruomenės, kuri mielai priima pasiūlymus."
       }
     }
   },
@@ -41,53 +41,53 @@
     "description": "\"Modrinth\" yra atvirojo kodo programinė įranga.",
     "legal": {
       "heading": "Teisinė informacija",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "terms": "Sąlygos",
+      "privacy": "Privatumas",
+      "rules": "Taisykles"
     },
     "resources": {
-      "heading": "Resources",
-      "blog": "Blog",
-      "docs": "Docs"
+      "heading": "Pagalbinė informacija",
+      "blog": "Tinklaraštis",
+      "docs": "Dokumentacija"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Nustatyti privatumo nustatymus",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Pakeisti temą",
+        "system": "Sistemos tema",
+        "light": "Šviesioji tema",
+        "dark": "Tamsioji tema",
+        "oled": "OLED tema"
       },
       "language": {
-        "label": "Select language"
+        "label": "Pasirinkti kalbą"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "{status} Klaida",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "O ne, atrodo, kad jūs pasiklydote [Labirinte](https://github.com/modrinth/labrinth).<br />Puslapio, kurio ieškote, nepavyko rasti.",
+      "project_missing": "{type}, kurio ieškote, nepavyko rasti.",
+      "default": "Įvyko nenumatyta klaida."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Eiti į pradžią",
+      "discord": "Gaukite pagalbos per \"Discord\""
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
-    "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
+    "description": "Aprašas",
+    "gallery": "Galerija",
+    "changelog": "Pakeitimų sąrašas",
+    "versions": "Versijos",
+    "settings": "Nustatymai",
+    "moderation": "Moderavimas",
+    "notifications": "Pranešimai",
+    "about": "Apie",
+    "following": "Sekama",
+    "terms": "Taisyklės ir Sąlygos",
+    "privacy": "Privatumo politika",
     "rules": "Project rules",
     "all": "All"
   },
@@ -427,33 +427,33 @@
   },
   "tags": {
     "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
-    "combat": "Combat",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "adventure": "Nuotykiai",
+    "magic": "Magija",
+    "utility": "Naudinga",
+    "decoration": "Apdaila",
+    "library": "Biblioteka",
+    "cursed": "Prakeikta",
+    "worldgen": "Pasaulio kūrimas",
+    "storage": "Saugykla",
+    "food": "Maistas",
+    "equipment": "Įranga",
+    "miscellaneous": "Įvairūs",
+    "challenging": "Sudėtinga",
+    "combat": "Kova",
+    "kitchen-sink": "Įvairių temų",
+    "lightweight": "Lengvas",
+    "multiplayer": "Kelių žaidėjų",
+    "quests": "Užduotys",
+    "optimization": "Optimizacija",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
-    "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "server": "Serveris",
+    "client": "Klientas",
+    "good": "Gera",
+    "trash": "Šiukšlės",
+    "misc": "Įvairūs"
   }
 }
