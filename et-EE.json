@@ -122,11 +122,6 @@
       "cancel": "Tühista",
       "discard": "Tühista muudatused"
     },
-    "popup": {
-      "verify": "Kinnitamiseks kirjuta alla <i>{content}</i>:",
-      "important": "See on väga oluline.",
-      "placeholder": "Kirjuta siia..."
-    },
     "external": {
       "github_profile": "GitHubi profiil",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Laadi üles galeriipilt",
-      "confirm": "Kas soovid kindlasti selle galeriipildi kustutada?",
       "placeholder": {
         "title": "Sisesta pildi pealkiri...",
         "description": "Sisesta pildi kirjeldus..."
@@ -191,14 +185,14 @@
     "members": "Liikmed",
     "permissions": "Õigused",
     "permission": {
-      "upload_version": "Versiooni üleslaadimine",
-      "delete_version": "Versiooni kustutamine",
+      "upload_version": "Versioonide üleslaadimine",
+      "delete_version": "Versioonide kustutamine",
       "edit_details": "Üksikasjade muutmine",
       "edit_body": "Sisu muutmine",
       "manage_invites": "Kutsete haldamine",
       "remove_member": "Liikmete eemaldamine",
       "edit_member": "Liikmete muutmine",
-      "delete_project": "Kustuta projekt"
+      "delete_project": "Projekti kustutamine"
     },
     "role": {
       "text": "Roll",
@@ -214,11 +208,6 @@
       "title": "Omandiõigus",
       "description": "Anna selle projekti omandiõigus teisele kasutajale üle.",
       "action": "Anna omandiõigus üle"
-    },
-    "delete": {
-      "title": "Kustuta projekt",
-      "description": "Projekti kustutamine kustutab kõik projekti andmed, sealhulgas versioonid.",
-      "action": "Kustuta projekt"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Pahatahtlik",
       "name-squatting": "Nimevargus",
       "other": "Muu"
-    },
-    "new": {
-      "information": "Lisateave",
-      "description": "Lisa võimalusel linke ja pilte. Toetatud on Markdown-vorming."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Kustuta konto",
-      "body": "Kui kustutad oma konto, siis tagasiteed enam pole. Konto kustutamisel eemaldatakse meie serveritest kõik sellega seonduvad andmed, sealhulgas projektid.",
-      "confirm_title": "Kas soovid kindlasti oma konto kustutada?",
-      "confirm_body": "See **kustutab koheselt kõik su projektid** ja jälgimised. Konto kustutamist ei saa tagasi võtta.\n\nKui soovid kontoga abi, hangi tuge [Modrinthi Discordis](/discord).",
-      "yes_I_want_to_do_this": "Jah, kustuta mu konto pöördumatult"
+      "body": "Kui kustutad oma konto, siis tagasiteed enam pole. Konto kustutamisel eemaldatakse meie serveritest kõik sellega seonduvad andmed, sealhulgas projektid."
     },
     "auth": {
       "title": "Pääsutõend",
@@ -346,6 +328,101 @@
       "line2": "Sinu reklaamiblokeerija tõkestas Modrinthil reklaami kuvamise, meie ainsa sissetulekuallika.",
       "line3": "Kui soovid Modrinthi siiski reklaamideta aidata, võid panustada Modrinthi arendusele GitHubis!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "See on väga oluline.",
+        "verify": "Kinnitamiseks kirjuta alla <i>{key}</i>:",
+        "placeholder": "Kirjuta siia..."
+      },
+      "project": {
+        "title": "Projekti kustutamine",
+        "description": "Projekti kustutamine kustutab kõik projekti andmed, sealhulgas versioonid.",
+        "action": "Kustuta projekt"
+      },
+      "version": {
+        "title": "Versiooni kustutamine",
+        "description": "Versiooni kustutamine kustutab püsivalt kõik versiooni failid ja metaandmed.",
+        "action": "Kustuta versioon"
+      },
+      "account": {
+        "title": "Kas soovid kindlasti seda teha?",
+        "description": "See **kustutab koheselt kõik su projektid** ja jälgimised. Konto kustutamist ei saa tagasi võtta.\n\nKui soovid kontoga abi, hangi tuge [Modrinthi Discordis](/discord).",
+        "action": "Jah, kustuta mu konto pöördumatult"
+      },
+      "image": {
+        "title": "Kustuta galeriipilt",
+        "description": "Galeriipildi kustutamine kustutab püsivalt pildifaili ja selle metaandmed.",
+        "action": "Kustuta pilt"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modimine peaks olema turvaline kõigile, seega võtame Modrinthis väärkasutust ja pahatahtlikkust väga tõsiselt. Me soovime teada mistahes pahatahtlikkust sisust meie saidil, mis rikuvad meie [teenusetingimusi](/legal/terms) ja [reegleid](/legal/rules). Muretseda pole vaja, teataja isikuandmed hoiame saladuses.",
+        "fields": {
+          "reason": {
+            "label": "Põhjus"
+          },
+          "information": {
+            "label": "Lisateave",
+            "helper": "Lisa võimalusel linke ja pilte. Toetatud on Markdown-vorming.",
+            "placeholder": "Sisesta täiendav teave..."
+          }
+        }
+      },
+      "project": {
+        "action": "Teata projektist"
+      },
+      "version": {
+        "action": "Teata versioonist"
+      },
+      "user": {
+        "action": "Teata kasutajast"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Loo projekt",
+        "description": "Uued projektid luuakse mustanditena ning need on leitavad sinu profiililehelt.",
+        "action": "Jätka"
+      },
+      "image": {
+        "title": "Lisa galeriipilt",
+        "action": "Lisa pilt",
+        "fields": {
+          "title": {
+            "label": "Pealkiri",
+            "placeholder": "Sisesta pildi pealkiri..."
+          },
+          "description": {
+            "label": "Kirjeldus",
+            "placeholder": "Sisesta pildi kirjeldus..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Muuda projekti olekut",
+        "action": "Kinnita",
+        "fields": {
+          "status": {
+            "label": "Olek",
+            "options": {
+              "approve": "Kiida heaks",
+              "unlist": "Peida loendist",
+              "reject": "Lükka tagasi"
+            }
+          },
+          "moderation_message": {
+            "label": "Haldussõnum",
+            "helper": "Vajadusel lisa teavet, mis kirjeldab projekti liikmetele selle probleeme. Toetatud on Markdown-vorming.",
+            "placeholder": "Lisa täiendavat teavet..."
+          }
+        }
+      }
     }
   },
   "tags": {

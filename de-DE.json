@@ -122,11 +122,6 @@
       "cancel": "Abbrechen",
       "discard": "Änderungen verwerfen"
     },
-    "popup": {
-      "verify": "Zur Bestätigung, tippe <i>{content}</i>:",
-      "important": "Das hier ist super wichtig.",
-      "placeholder": "Hier tippen..."
-    },
     "external": {
       "github_profile": "GitHub Profil",
       "discord": "Discord",
@@ -176,8 +171,7 @@
       "technical_information": "Technische Informationen"
     },
     "gallery": {
-      "upload": "Bild zur Galerie hinzufügen",
-      "confirm": "Bist du sicher, dass du dieses Bild aus der Galerie entfernen möchtest?",
+      "upload": "Galeriebild hochladen",
       "placeholder": {
         "title": "Bildtitel eingeben...",
         "description": "Bildbeschreibung eingeben..."
@@ -214,11 +208,6 @@
       "title": "Besitz",
       "description": "Übertrage den Besitz dieses Projekts auf einen anderen Nutzer.",
       "action": "Besitz übertragen"
-    },
-    "delete": {
-      "title": "Projekt löschen",
-      "description": "Ein Projekt zu löschen führt zum Verlust aller Daten, einschließlich der Versionen.",
-      "action": "Projekt löschen"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Bösartige Software",
       "name-squatting": "Namensklau",
       "other": "Anderes"
-    },
-    "new": {
-      "information": "Weitere Informationen",
-      "description": "Gib Links und Bilder an (wenn möglich). Markdown Formatierung ist möglich."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Account löschen",
-      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte.",
-      "confirm_title": "Bist du sicher, dass du deinen Account löschen willst?",
-      "confirm_body": "Dies wird **sofort alle deine Projekte löschen**, einschließlich deren Abonnenten. Eine Accountlöschung kann nicht rückgängig gemacht werden.\n\nWenn du hilfe mit deinem Account brauchst, dann bekommst du Support auf dem [Modrinth Discord](/discord).",
-      "yes_I_want_to_do_this": "Ja, den Account unwiderruflich löschen."
+      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
     },
     "auth": {
       "title": "Authorization Token (für Authentifizierung)",
@@ -346,6 +328,101 @@
       "line2": "Dein Adblocker hält Modrinth davon ab Werbung - unsere einzige Einnahmequelle - anzuzeigen.",
       "line3": "Wenn du Modrinth trotzdem helfen willst ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "Das hier ist äußerst wichtig.",
+        "verify": "Zur Bestätigung gebe <i>{key}</i> unten ein:",
+        "placeholder": "Hier tippen..."
+      },
+      "project": {
+        "title": "Projekt löschen",
+        "description": "Das Löschen eines Projekts löscht alle Projektdaten, einschließlich der Versionen.",
+        "action": "Projekt löschen"
+      },
+      "version": {
+        "title": "Version löschen",
+        "description": "Das Löschen einer Version löscht permanent alle Versionsdateien und Metadaten.",
+        "action": "Version löschen"
+      },
+      "account": {
+        "title": "Sind Sie sicher, dass Sie dies tun möchten?",
+        "description": "Dies wird **sofort alle deine Projekte löschen** und folgt. Das Löschen deines Kontos kann nicht rückgängig gemacht werden.\n\nWenn du Hilfe mit deinem Account benötigst, erhältst du Unterstützung auf den [Modrinth Discord](/discord).",
+        "action": "Ja, mein Konto unwiderruflich löschen"
+      },
+      "image": {
+        "title": "Galeriebild löschen",
+        "description": "Das Löschen eines Galeriebildes löscht dauerhaft die Bilddatei und Metadaten.",
+        "action": "Bild löschen"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding sollte für jeden sicher sein, so dass wir Missbrauch und böswillige Absichten bei Modrinth ernst nehmen. Wir möchten über schädliches Verhalten auf der Seite erfahren, das unsere [ToS](/legal/terms) und [Rules](/legal/rules) verletzt. Seien Sie sicher, wir werden Ihre persönlichen Daten vertraulich behandeln.",
+        "fields": {
+          "reason": {
+            "label": "Begründung"
+          },
+          "information": {
+            "label": "Zusätzliche Informationen",
+            "helper": "Wenn möglich, Links und Bilder hinzufügen. Markdown Formatierung wird unterstützt.",
+            "placeholder": "Zusätzliche Informationen eingeben..."
+          }
+        }
+      },
+      "project": {
+        "action": "Projekt melden"
+      },
+      "version": {
+        "action": "Version melden"
+      },
+      "user": {
+        "action": "Nutzer melden"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Projekt erstellen",
+        "description": "Neue Projekte werden als Entwurf erstellt und können auf Ihrer Profilseite gefunden werden.",
+        "action": "Weiter"
+      },
+      "image": {
+        "title": "Galeriebild hinzufügen",
+        "action": "Bild hinzufügen",
+        "fields": {
+          "title": {
+            "label": "Titel",
+            "placeholder": "Bildtitel eingeben..."
+          },
+          "description": {
+            "label": "Beschreibung",
+            "placeholder": "Bildbeschreibung eingeben..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Projektstatus ändern",
+        "action": "Bestätigen",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Bestätigen",
+              "unlist": "Nicht auflisten",
+              "reject": "Ablehnen"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderationsnachricht",
+            "helper": "Optional Informationen zur Kommunikation mit Teammitgliedern eines Projekts hinzufügen. Markdown Formatierung wird unterstützt.",
+            "placeholder": "Zusätzliche Informationen eingeben..."
+          }
+        }
+      }
     }
   },
   "tags": {

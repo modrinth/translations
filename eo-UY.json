@@ -122,16 +122,11 @@
       "cancel": "Nuligu",
       "discard": "Forĵetu ŝanĝoj"
     },
-    "popup": {
-      "verify": "Konfirmi, tajpu <i>{content}</i> sub:",
-      "important": "Tio ĉi estas ekstreme gravan.",
-      "placeholder": "Tajpu ĉi tie..."
-    },
     "external": {
       "github_profile": "GitHub profilo",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
+      "issues": "Biletoj",
       "source": "Fonto",
       "wiki": "Vikio",
       "patreon": "Patreon",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Alŝutu galerian bildon",
-      "confirm": "Ĉu vi certas ke vi volas forigi ĉi tiun galerian bildon?",
       "placeholder": {
         "title": "Enskribu bildan titolon...",
         "description": "Enskribu bildan priskribon..."
@@ -214,11 +208,6 @@
       "title": "Proprieto",
       "description": "Translokigu proprieton de tio ĉi projekto al alia uzanto.",
       "action": "Translokigu proprieton"
-    },
-    "delete": {
-      "title": "Forigu projekton",
-      "description": "Forigi projekton viŝas ĉiujn projektajn datumojn, inkluzive versiojn.",
-      "action": "Forigu projekton"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Malica",
       "name-squatting": "Nom-kaŭrado",
       "other": "Io alia"
-    },
-    "new": {
-      "information": "Aldona informo",
-      "description": "Inkluzivu hiperligojn kaj bildojn se eblas. Markdown-formatado estas subtenata."
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Forigu konton",
-      "body": "Unufoje vi forigas vian konton, ne eblas reveni. Forigas vian konton forigos ĉiujn alfiksitajn datumojn, inkluzive projektojn, de niaj serviloj.",
-      "confirm_title": "Ĉu vi certas ke vi volas forigi vian konton?",
-      "confirm_body": "Ĉi tio **tuj forigos ĉiujn de viaj projektoj** kaj sekvaĵoj. Forigi vian konton ne povas esti renversita.\n\nSe vi bezonas helpon pri via konto, ricevu subtenon ĉe la [Modrinth Discord](/discord).",
-      "yes_I_want_to_do_this": "Jes, nerevokeble forigu mian konton"
+      "body": "Unufoje vi forigas vian konton, ne eblas reveni. Forigas vian konton forigos ĉiujn alfiksitajn datumojn, inkluzive projektojn, de niaj serviloj."
     },
     "auth": {
       "title": "Rajto-ĵetono",
@@ -346,6 +328,101 @@
       "line2": "Via reklambokilo preventis Modrinth montri reklamon, nia sola fonto de enspezo.",
       "line3": "Se vi ankoraŭ volas helpi Modrinth sen vidi reklamojn, vi povas kontribui al Modrinth ĉe GitHub!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "Tio ĉi estas ekstreme gravan.",
+        "verify": "Kontroli, tajpu <i>{key}</i> sub:",
+        "placeholder": "Tajpu ĉi tie..."
+      },
+      "project": {
+        "title": "Forigu projekton",
+        "description": "Forigi projekton viŝas ĉiujn projektajn datumojn, inkluzive versiojn.",
+        "action": "Forigu projekton"
+      },
+      "version": {
+        "title": "Forigu version",
+        "description": "Forigo de versio konstante forigas ĉiujn versiodosierojn kaj metadatenojn.",
+        "action": "Forigu version"
+      },
+      "account": {
+        "title": "Ĉu vi certas ke vi volas fari ĉi tiun?",
+        "description": "Ĉi tio **tuj forigos ĉiujn de viaj projektoj** kaj sekvaĵoj. Forigi vian konton ne povas esti renversita.\n\nSe vi bezonas helpon pri via konto, ricevu subtenon ĉe la [Modrinth Discord](/discord).",
+        "action": "Jes, nerevokeble forigu mian konton"
+      },
+      "image": {
+        "title": "Forigu galerian bildon",
+        "description": "Forigo de galeria bildo konstante forigas bildodosieron kaj metadatenojn.",
+        "action": "Forigu bildon"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modifo devus esti sekura por ĉiuj, do ni prenas misuzon kaj malican intencon serioze ĉe Modrinth. Ni volas aŭdi pri malutila konduto en la retejo, kiu malobservas niajn [RdS](/legal/terms) kaj [Reguloj](/legal/rules). Estu certa, ni konservos viajn identigajn informojn privataj.",
+        "fields": {
+          "reason": {
+            "label": "Kialo"
+          },
+          "information": {
+            "label": "Aldona informo",
+            "helper": "Inkluzivu hiperligojn kaj bildojn se eblas. Markdown-formatado estas subtenata.",
+            "placeholder": "Enskribu aldonan informon..."
+          }
+        }
+      },
+      "project": {
+        "action": "Raportu projekton"
+      },
+      "version": {
+        "action": "Raportu version"
+      },
+      "user": {
+        "action": "Raportu uzanton"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Krei projekton",
+        "description": "Novaj projektoj estas kreitaj kiel skizoj, kaj povas troveblas sub vian profilan paĝon.",
+        "action": "Daŭrigu"
+      },
+      "image": {
+        "title": "Aldonu galerian bildon",
+        "action": "Aldonu bildon",
+        "fields": {
+          "title": {
+            "label": "Titolo",
+            "placeholder": "Enskribu bildan titolon..."
+          },
+          "description": {
+            "label": "Priskribo",
+            "placeholder": "Enskribu bildan priskribon..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Ŝanĝu projektan staton",
+        "action": "Konfirmu",
+        "fields": {
+          "status": {
+            "label": "Stato",
+            "options": {
+              "approve": "Aprobu",
+              "unlist": "Mallistigu",
+              "reject": "Rifuzi"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderiga mesaĝo",
+            "helper": "Laŭvole inkluzivu informojn por komuniki problemojn kun la teamanoj de projekto. Markdown-formatado estas subtenata.",
+            "placeholder": "Enskribu aldonan informon..."
+          }
+        }
+      }
     }
   },
   "tags": {

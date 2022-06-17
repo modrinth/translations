@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "Ezen származása miatt, az oldal tartalma csak az eredeti nyelven érhető el."
+    "no_translation": "Ezen oldal származása miatt, az oldal tartalma csak az eredeti nyelven érhető el."
   },
   "index": {
     "tagline": "Fedezz fel, játsz és készíts Minecraft tartalmat",
@@ -122,11 +122,6 @@
       "cancel": "Mégsem",
       "discard": "Változások elvétése"
     },
-    "popup": {
-      "verify": "A megerősítéshez, írd be: <i>{content}</i>",
-      "important": "Ez nagyon fontos!",
-      "placeholder": "Írd ide..."
-    },
     "external": {
       "github_profile": "GitHub profil",
       "discord": "Discord",
@@ -177,7 +172,6 @@
     },
     "gallery": {
       "upload": "Tölts fel egy képet a galériába",
-      "confirm": "Biztos vagy benne, hogy törölni akarod ezt a képet a galériából?",
       "placeholder": {
         "title": "Írd be a kép címét...",
         "description": "Írd be a kép leírását..."
@@ -214,11 +208,6 @@
       "title": "Tulajdonjog",
       "description": "A projekt tulajdonjogának átadása másik felhasználónak.",
       "action": "Tulajdonjog átadása"
-    },
-    "delete": {
-      "title": "Projekt törlése",
-      "description": "A projekt törlése töröl minden adatot, még a verziókat is.",
-      "action": "Törlés mindenképpen"
     }
   },
   "version": {
@@ -304,10 +293,6 @@
       "malicious": "Káros",
       "name-squatting": "Lopott név",
       "other": "Egyéb"
-    },
-    "new": {
-      "information": "Egyéb információ",
-      "description": "Adj hozzá linkeket és képeket, ha lehet. A Markdown formázás engedélyzett!"
     }
   },
   "user": {
@@ -317,10 +302,7 @@
     },
     "delete": {
       "title": "Fiók törlése",
-      "body": "Ha törlöd a fiókodat, minden adatod és minden projekted azonnal törlődni fog a szervereinkről.",
-      "confirm_title": "Biztosan ki akarod törölni a fiókodat?",
-      "confirm_body": "Ez **azonnal törölni fog minden projektedet** és követésedet. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
-      "yes_I_want_to_do_this": "Igen, visszafordíthatatlanul törölni akarom a fiókomat."
+      "body": "Ha törlöd a fiókodat, minden adatod és minden projekted azonnal törlődni fog a szervereinkről."
     },
     "auth": {
       "title": "Hitelesítő token",
@@ -346,6 +328,101 @@
       "line2": "Az Adblockered megakadályozta a Modrinth-et, hogy hirdetést jelenítsen meg, az egyetlen bevételi forrásunkat.",
       "line3": "Ha szeretnéd támogatni a Modrinth-et hirdetések megtekintése nélkül, segíts nekünk fejleszteni a Modrinth-et!",
       "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "Ez nagyon fontos.",
+        "verify": "A hitelesítéshez, írd be: <i>{key}<i>",
+        "placeholder": "Írj ide..."
+      },
+      "project": {
+        "title": "Projekt törlése",
+        "description": "A projekt törlésével minden adat törlődik, még a verziók is.",
+        "action": "Projekt törlése"
+      },
+      "version": {
+        "title": "Verzió törlése",
+        "description": "A verzió törlése véglegesen töröl minden fájlt és metaadatot.",
+        "action": "Verzió törlése"
+      },
+      "account": {
+        "title": "Biztosan ezt akarod tenni?",
+        "description": "Ez **azonnal törölni fog minden projektedet** és követésedet. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
+        "action": "Igen, visszafordíthatatlanul törölni akarom a fiókomat"
+      },
+      "image": {
+        "title": "Kép törlése a galériából",
+        "description": "A kép törlése a galériából visszafordíthatatlanul törli a képet és metaadatokat.",
+        "action": "Kép törlése"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "A modolásnak biztonságosnak kéne lennie mindenki számára, úgyhogy a kihasználást és rosszindulatúságot komolyan vesszük a Modrinth-en. Szeretnénk hallani az összes rosszindulatú tartalomról, ami szembe megy a [Felhasználási Feltételek](/legal/terms)-kel és a [Szabályzat](/legal/rules)-tal. A felderítő munkádat titokban tartjuk.",
+        "fields": {
+          "reason": {
+            "label": "Jelentés oka"
+          },
+          "information": {
+            "label": "Egyéb információ",
+            "helper": "Adj hozzá linkeket és képeket ha lehetséges. A Markdown formázás engedélyezett.",
+            "placeholder": "Adj hozzá egyéb információt..."
+          }
+        }
+      },
+      "project": {
+        "action": "Projekt jelentése"
+      },
+      "version": {
+        "action": "Verzió jelentése"
+      },
+      "user": {
+        "action": "Felhasználó jelentése"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Projekt létrehozása",
+        "description": "Az új projektek piszkozatként lesznek létrehozva és a felhasználói profilodnál találhatod meg őket.",
+        "action": "Folytatás"
+      },
+      "image": {
+        "title": "Kép hozzáadása a galériához",
+        "action": "Kép hozzáadása",
+        "fields": {
+          "title": {
+            "label": "Cím",
+            "placeholder": "Írd be a kép címét..."
+          },
+          "description": {
+            "label": "Leírás",
+            "placeholder": "Írd be a kép leírását..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Projekt állapotának megváltoztatása",
+        "action": "Megerősítés",
+        "fields": {
+          "status": {
+            "label": "Állapot",
+            "options": {
+              "approve": "Jóváhagyás",
+              "unlist": "Nem listázottá tétel",
+              "reject": "Elutasítás"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderációs üzenet",
+            "helper": "Optcionálisan adj hozzá információkat hogy megossz problémákat a projekt tagjaival. A Markdown formázás engedélyezett.",
+            "placeholder": "Adj hozzá egyéb információt..."
+          }
+        }
+      }
     }
   },
   "tags": {
