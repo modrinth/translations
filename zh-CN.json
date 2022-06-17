@@ -333,29 +333,29 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "此操作十分重要，请慎思而行。",
+        "verify": "请在下方输入 <i>{key}</i> 以确认操作。",
+        "placeholder": "在此输入……"
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "删除项目",
+        "description": "删除项目将删除项目的所有数据，包括各版本内容。",
+        "action": "删除项目"
       },
       "version": {
-        "title": "Delete version",
+        "title": "删除版本",
         "description": "Deleting a version permanently deletes all version files and metadata.",
         "action": "Delete version"
       },
       "account": {
         "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "description": "这将会**立即删除你所有的项目**及关注者。此操作无法撤销。\n\n如需获取账户相关的帮助，请前往[Modrinth Discord](/discord)提问。",
+        "action": "确定，我已知晓该操作不可撤销。"
       },
       "image": {
-        "title": "Delete gallery image",
+        "title": "上传图像至项目图库",
         "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "action": "删除图像"
       }
     },
     "report": {
@@ -363,7 +363,7 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "原因"
           },
           "information": {
             "label": "Additional information",
@@ -398,7 +398,7 @@
           },
           "description": {
             "label": "Description",
-            "placeholder": "Enter image description..."
+            "placeholder": "输入图像描述..."
           }
         }
       }
