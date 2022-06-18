@@ -344,17 +344,17 @@
       },
       "version": {
         "title": "删除版本",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "description": "删除版本号将导致其附随的所有文件和元数据一并被永久删除。",
+        "action": "删除版本号"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "您确定要执行该操作吗？",
         "description": "这将会**立即删除你所有的项目**及关注者。此操作无法撤销。\n\n如需获取账户相关的帮助，请前往[Modrinth Discord](/discord)提问。",
         "action": "确定，我已知晓该操作不可撤销。"
       },
       "image": {
         "title": "上传图像至项目图库",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "description": "删除项目图库将导致其中的图像文件和元数据一并被永久删除。",
         "action": "删除图像"
       }
     },
