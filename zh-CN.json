@@ -360,44 +360,44 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "模组开发对每个人来说都应该是安全的，因此我们对在 Modrinth 上滥用及投放病毒的行为决不姑息。同样，我们乐于听取帮助我们发现那些违反[服务条款](/legal/terms)及[社区准则](/legal/rules)的行为的举报者意见。请放心，我们将保障您的个人隐私得到保护。",
         "fields": {
           "reason": {
             "label": "原因"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "附加描述",
+            "helper": "有条件的话请尽可能提供链接和图像。编辑器支持 Markdown 格式。",
+            "placeholder": "在此输入附加描述……"
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "举报项目"
       },
       "version": {
-        "action": "Report version"
+        "action": "举报项目版本"
       },
       "user": {
-        "action": "Report user"
+        "action": "举报用户"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "新建项目",
+        "description": "新项目最初以草案的方式创建，您可以在您的个人资料页面中找到。",
+        "action": "继续"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "向图库添加图像",
+        "action": "添加图像",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "标题",
+            "placeholder": "在此输入图像标题……"
           },
           "description": {
-            "label": "Description",
+            "label": "描述",
             "placeholder": "输入图像描述..."
           }
         }
@@ -405,21 +405,21 @@
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "更改项目状态",
+        "action": "确认",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "状态",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "已通过审阅",
+              "unlist": "未列出",
+              "reject": "被驳回"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "审核附随信息",
+            "helper": "您可以通过附随信息来与项目团队成员进行交流。文本支持 Markdown 格式。",
+            "placeholder": "在此输入附加信息……"
           }
         }
       }
