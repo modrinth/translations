@@ -261,9 +261,9 @@
   "stats": {
     "joined": "Gick med {ago}",
     "notified": "Notifierad {ago}",
-    "downloads": "{nedladdningar, plural, en {<b>#</b> nedladdning} övriga {<b>#</b> nedladdningar}}",
-    "followers_of_projects": "{följare, plural, en {<b>#</b> projektföljare} övriga {<b>#</b> projektföljare}}",
-    "followers": "{följare, plural, en {<b>#</b> följare} övriga {<b>#</b> följare}}",
+    "downloads": "{downloads, plural, one {<b>#</b> nedladdning} other {<b>#</b> nedladdningar}}",
+    "followers_of_projects": "<b>{followers}</b> projektföljare",
+    "followers": "<b>{followers}</b> följare",
     "user_id": "Användar-ID: {id}",
     "created": "Skapad {ago}",
     "updated": "Uppdaterad {ago}"
