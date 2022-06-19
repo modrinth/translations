@@ -411,15 +411,15 @@
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
+              "approve": "Godkänn",
+              "unlist": "Avlista",
               "reject": "Reject"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Moderationsmeddelande",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Ange ytterligare information..."
           }
         }
       }
