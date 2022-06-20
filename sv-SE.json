@@ -333,29 +333,29 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Detta är mycket viktigt.",
+        "verify": "För att bekräfta, skriv <i>{key}</i> nedan:",
+        "placeholder": "Skriv här..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Radera projekt",
+        "description": "Raderandet av ett projekt raderar all projectdata, inklusive versioner.",
+        "action": "Radera projekt"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Radera version",
+        "description": "Raderandet av en version raderar permanent alla filer och metadata.",
+        "action": "Radera version"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "Är du säker att du vill göra detta?",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
         "action": "Yes, irrecoverably delete my account"
       },
       "image": {
-        "title": "Delete gallery image",
+        "title": "Ta bort galleribild",
         "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "action": "Ta bort bild"
       }
     },
     "report": {
@@ -363,63 +363,63 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Orsak"
           },
           "information": {
-            "label": "Additional information",
+            "label": "Övrig information",
             "helper": "Include links and images if possible. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Rapportera projekt"
       },
       "version": {
-        "action": "Report version"
+        "action": "Rapportera version"
       },
       "user": {
-        "action": "Report user"
+        "action": "Rapportera användare"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "Skapa projekt",
+        "description": "Nya projekt skapas som utkast och kan hittas på din profilsida.",
+        "action": "Fortsätt"
       },
       "image": {
         "title": "Add gallery image",
-        "action": "Add image",
+        "action": "Lägg till bild",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Titel",
+            "placeholder": "Ange bildtitel..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Beskrivning",
+            "placeholder": "Ange bildbeskrivning..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Ändra projektstatus",
+        "action": "Bekräfta",
         "fields": {
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
+              "approve": "Godkänn",
+              "unlist": "Avlista",
               "reject": "Reject"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Moderationsmeddelande",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Ange ytterligare information..."
           }
         }
       }

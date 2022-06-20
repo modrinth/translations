@@ -4,11 +4,11 @@
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
-    "description": "Finde spaßige und qualitativ hochwertige Minecraft Inhalte auf unserer quelloffenen Modplattform - gebaut für die Community. Zauber etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
+    "description": "Finde spaßige und qualitativ hochwertige Minecraft Inhalte auf unserer Open Source Modplattform - gebaut für die Community. Zauber etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
     "features": {
       "book": {
         "title": "Einfach verwendbare API",
-        "description": "Gestützt von einer vollständig dokumentierten API, was Launcher und weitere Integrationen von Dritten ermöglicht."
+        "description": "Gestützt von einer vollständig dokumentierten API, die Launcher und weitere Integrationen von Dritten ermöglicht."
       },
       "coin": {
         "title": "Autoren verdienen",
@@ -27,18 +27,18 @@
         "description": "Integriert in Entwicklungswerkzeuge, Repositories, Launcher und weitere Anwendungen."
       },
       "tools": {
-        "title": "Vollständig quelloffen",
-        "description": "Ein quelloffenes Projekt, entwickelt und gewartet von einer aktiven Community, das Beiträge von jedem willkommen heißt."
+        "title": "Vollständig Open Source",
+        "description": "Ein Open-Source-Projekt, entwickelt und gewartet von einer aktiven Community, das Beiträge von jedem willkommen heißt."
       }
     }
   },
   "header": {
     "my_profile": "Zu meinem Profil",
-    "logout": "Ausloggen",
+    "logout": "Abmelden",
     "github": "Mit GitHub anmelden"
   },
   "footer": {
-    "description": "Modrinth ist quelloffene Software.",
+    "description": "Modrinth ist Open-Source-Software.",
     "legal": {
       "heading": "Rechtliches",
       "terms": "AGB",
@@ -67,7 +67,7 @@
   "error": {
     "status": "{status} Fehler",
     "message": {
-      "404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verirrt.<br />Die gefragte Seite wurde nicht gefunden.",
+      "404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verirrt.<br />Die gefragte Seite konnte nicht gefunden werden.",
       "project_missing": "Das Project vom Typ {type}, nach dem du gesucht hast, wurde nicht gefunden.",
       "default": "Ein unerwarteter Fehler ist aufgetreten."
     },
@@ -262,7 +262,7 @@
     "joined": "Beigetreten {ago}",
     "notified": "Benachrichtigt {ago}",
     "downloads": "{downloads, plural, one {<b>#</b> Download} other {<b>#</b> Downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> Abonnent von Projekten} other {<b>#</b> Abonnenten von Projekten}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> Projektabonnent} other {<b>#</b> Projektabonnenten}}",
     "followers": "{followers, plural, one {<b>#</b> Abonnent} other {<b>#</b> Abonnenten}}",
     "user_id": "Nutzer ID: {id}",
     "created": "Erstellt {ago}",
@@ -314,7 +314,7 @@
     "revoke_token": {
       "title": "Modrinth Token invalidieren",
       "body": "Das Modrinth Token zu invalidieren kann unerwartete Folgen haben. Bitte sei dir bewusst, dass Folgendes kaputt gehen könnte:\n - jede Anwendung die dein Token nutzt um mit der API zu interagieren.\n - Gradle - wenn Minotaur ein falsches Token bekommt, dann könnte dein Gradle build fehlschlagen.\n - GitHub - wenn du eine GitHub Action nutzt, die die Modrinth API verwendet, dann kann dies zu Fehlern führen.\n\nWenn du fortfahren willst, dann führe die folgenden Schritte aus:\n\n 1. Gehe zur [Modrinth Application Seite auf GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Stell sicher, dass du mit dem GitHub Account angemeldet bist den du auch für Modrinth nutzt!\n 2. Drück den großen roten \"Revoke Access\" Knopf neben dem \"Permissions\" Titel.\n\nWenn du diese Schritte abgeschlossen hast, drück auf den \"Continue\" Knopf darunter.\n\n**Dies wird dich von Modrinth abmelden. Wenn du dich dann wieder anmeldest, wird ein neues Token generiert.**",
-      "action": "Ausloggen"
+      "action": "Abmelden"
     }
   },
   "images": {
@@ -363,7 +363,7 @@
         "description": "Modding sollte für jeden sicher sein, so dass wir Missbrauch und böswillige Absichten bei Modrinth ernst nehmen. Wir möchten über schädliches Verhalten auf der Seite erfahren, das unsere [ToS](/legal/terms) und [Rules](/legal/rules) verletzt. Seien Sie sicher, wir werden Ihre persönlichen Daten vertraulich behandeln.",
         "fields": {
           "reason": {
-            "label": "Begründung"
+            "label": "Grund"
           },
           "information": {
             "label": "Zusätzliche Informationen",
