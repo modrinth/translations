@@ -56,7 +56,7 @@
         "label": "變更主題",
         "system": "系統主題",
         "light": "淺色模式",
-        "dark": "黑暗模式",
+        "dark": "深色模式",
         "oled": "OLED 模式"
       },
       "language": {
@@ -111,12 +111,12 @@
       "follow": "追蹤",
       "unfollow": "取消追蹤",
       "feature": "推薦",
-      "report": "舉報",
+      "report": "檢舉",
       "new_project": "新的專案",
       "preview": "預覽",
       "download": "下載",
       "save": "儲存",
-      "confirm": "確認",
+      "confirm": "確定",
       "remove": "移除",
       "delete": "刪除",
       "cancel": "取消",
@@ -148,7 +148,7 @@
         "unknown": "未知"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "你是最新的！",
     "byline": "由 <u>{author}</u> 製作"
   },
   "project": {
@@ -201,7 +201,7 @@
     "advanced": "進階設定",
     "visibility": {
       "title": "專案能見度",
-      "description": "This project is currently {status}.",
+      "description": "該專案目前{status}",
       "action": "修改能見度"
     },
     "ownership": {
@@ -214,25 +214,25 @@
     "featured": "推薦版本",
     "autofeatured": "自動推薦",
     "feature_action": "推薦此版本",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
+    "dependencies": "前置模組",
+    "metadata": "更多資訊",
+    "release_channel": "發布版本",
     "number": "版本號碼",
     "publication_date": "發布日期",
     "publisher": "發行者"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
+      "clear": "清除篩選",
+      "hide": "隱藏篩選",
+      "show": "顯示篩選選項",
       "show_snapshots": "顯示快照版本",
-      "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "search_versions": "搜尋版本...",
+      "licenses": "許可證"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
+      "by": "排序方式",
+      "relevance": "關聯",
       "downloads": "下載次數",
       "follows": "追蹤人數",
       "newest": "最近建立的",
@@ -243,24 +243,24 @@
   "status": {
     "approved": "已核准",
     "rejected": "已拒絕",
-    "draft": "Draft",
+    "draft": "草稿",
     "unlisted": "Unlisted",
     "processing": "Under review",
     "unknown": "Unknown"
   },
   "release_channels": {
     "release": "Release",
-    "beta": "Beta",
-    "alpha": "Alpha"
+    "beta": "測試版",
+    "alpha": "早期開發版"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "開發人員",
+    "admin": "管理員",
+    "moderator": "審核人"
   },
   "stats": {
     "joined": "{ago} 前加入",
-    "notified": "Notified {ago}",
+    "notified": "通知{ago}",
     "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
@@ -373,53 +373,53 @@
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "檢舉專案"
       },
       "version": {
-        "action": "Report version"
+        "action": "檢舉版本"
       },
       "user": {
-        "action": "Report user"
+        "action": "檢舉用戶"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "title": "建立專案",
+        "description": "新項目作為草稿建立，可以在您的個人資料頁面下找到。",
         "action": "繼續"
       },
       "image": {
         "title": "新增圖庫照片",
-        "action": "Add image",
+        "action": "加入圖片",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "標題",
+            "placeholder": "輸入圖片標題…"
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "描述",
+            "placeholder": "輸入圖片描述…"
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
+        "title": "更改項目狀態",
         "action": "確認",
         "fields": {
           "status": {
             "label": "狀態",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "核准",
+              "unlist": "取消列出",
+              "reject": "拒絕"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "審核訊息",
+            "helper": "可選的包括與專案團隊成員溝通問題的資訊。 支援Markdown格式。",
+            "placeholder": "新增附加資訊"
           }
         }
       }
@@ -438,22 +438,22 @@
     "food": "食物",
     "equipment": "裝備",
     "miscellaneous": "雜項",
-    "challenging": "Challenging",
-    "combat": "Combat",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
+    "challenging": "副本戰鬥",
+    "combat": "戰鬥",
+    "kitchen-sink": "廚房水槽",
+    "lightweight": "輕量級",
+    "multiplayer": "多人遊戲",
+    "quests": "任務",
     "optimization": "最佳化",
-    "fabric": "Fabric",
-    "forge": "Forge",
-    "quilt": "Quilt",
-    "modloader": "ModLoader",
-    "rift": "Rift",
-    "server": "Server",
-    "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "fabric": "織物",
+    "forge": "鍛造",
+    "quilt": "被子",
+    "modloader": "模組載入器",
+    "rift": "裂痕",
+    "server": "伺服器",
+    "client": "客戶端",
+    "good": "良好",
+    "trash": "不佳",
+    "misc": "其他選項"
   }
 }
