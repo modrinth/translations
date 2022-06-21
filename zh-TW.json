@@ -34,11 +34,11 @@
   },
   "header": {
     "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "logout": "登出",
+    "github": "以 GitHub 登入"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth 是一個開源軟體。",
     "legal": {
       "heading": "Legal",
       "terms": "Terms",
