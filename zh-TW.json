@@ -249,7 +249,7 @@
     "unknown": "Unknown"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "穩定版",
     "beta": "測試版",
     "alpha": "早期開發版"
   },
@@ -360,15 +360,15 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "改裝對每個人都應該是安全的，所以我們在 Modrinth 認真對待濫用和惡意意圖。 我們希望了解網站上違反我們的 [ToS](/legal/terms) 和 [Rules](/legal/rules) 的有害內容。 請放心，我們會將您的辨識資訊保密。",
         "fields": {
           "reason": {
             "label": "原因"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "附加資訊",
+            "helper": "如果可以，包括連結和圖片。支援Markdown格式。",
+            "placeholder": "新增附加資訊"
           }
         }
       },
