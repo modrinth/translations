@@ -1,63 +1,63 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "由於本頁的性質，此內容僅提供以英文書寫的正式版本。"
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "發掘、遊玩、創造 Minecraft 內容",
+    "description": "透過我們為社群打造的開源模組平台，找到令人愉悅的優質內容。使用完整文檔的 API 建立內容、獲得報酬*並部署您的專案！",
     "features": {
       "book": {
         "title": "容易使用的API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "由完整文檔的 API 支援，促進發展第三方整合與啟動器。"
       },
       "coin": {
-        "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "title": "創作者收入",
+        "description": "計劃從專案頁面為創作者提供 100% 的廣告收益。*目前正在開發中。"
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "閃電般的搜尋",
+        "description": "由一個反應迅速與高效，情境適用廣泛的搜尋引擎所驅動，快速搜尋，無需等待。"
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "熱於幫助的社群",
+        "description": "在我們超過千名成員的 Discord 伺服器上，尋求支援、開發，甚至是閒聊，友善的社群總能讓您感到賓至如歸。"
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "極富擴充性",
+        "description": "與構建工具，程式碼儲存庫，啟動器，甚至是自訂的應用程式高效地整合。"
       },
       "tools": {
-        "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "title": "程式碼完全開源",
+        "description": "這是一個由活躍社群建立的開源平台，任何小貢獻都能匯聚成大力量，我們期待您的貢獻。"
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
+    "my_profile": "查看我的個人資料",
     "logout": "登出",
     "github": "以 GitHub 登入"
   },
   "footer": {
     "description": "Modrinth 是一個開源軟體。",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "heading": "法律",
+      "terms": "服務條款",
+      "privacy": "隱私權",
+      "rules": "規則"
     },
     "resources": {
-      "heading": "Resources",
-      "blog": "Blog",
-      "docs": "Docs"
+      "heading": "資源",
+      "blog": "部落格",
+      "docs": "文檔"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "設定隱私權偏好",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "變更主題",
+        "system": "系統主題",
+        "light": "淺色模式",
+        "dark": "黑暗模式",
+        "oled": "OLED 模式"
       },
       "language": {
         "label": "選擇語言"
@@ -67,50 +67,50 @@
   "error": {
     "status": "錯誤 {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
+      "404": "啊噗，看起來您在後端程序 [Labyrinth](https://github.com/modrinth/labrinth) 裡迷路了。<br />您所尋找的頁面並不存在喔。",
+      "project_missing": "找不到您要的{type}。",
       "default": "發生了未預期的錯誤。"
     },
     "actions": {
-      "home": "Go home",
+      "home": "回到首頁",
       "discord": "在 Discord 上尋求協助"
     }
   },
   "pages": {
     "description": "說明",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
+    "gallery": "圖庫",
+    "changelog": "更新日誌",
     "versions": "版本",
     "settings": "設定",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
+    "moderation": "管理",
+    "notifications": "通知",
     "about": "關於",
-    "following": "Following",
-    "terms": "Terms and conditions",
+    "following": "追蹤中",
+    "terms": "條款及細則",
     "privacy": "隱私權政策",
-    "rules": "Project rules",
+    "rules": "專案守則",
     "all": "全部"
   },
   "generic": {
     "labels": {
       "license": {
         "singular": "授權條款",
-        "plural": "Licenses"
+        "plural": "授權條款"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "project_id": "專案 ID",
+      "project_status": "專案狀態",
+      "minecraft_versions": "Minecraft 版本",
+      "mod_loaders": "模組載入器",
+      "categories": "類別",
+      "downloads": "下載次數",
+      "files": "檔案"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
-      "feature": "Feature",
+      "create": "建立",
+      "edit": "編輯",
+      "follow": "追蹤",
+      "unfollow": "取消追蹤",
+      "feature": "推薦",
       "report": "舉報",
       "new_project": "新的專案",
       "preview": "預覽",
@@ -126,9 +126,9 @@
       "github_profile": "GitHub 個人檔案",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
-      "source": "Source",
-      "wiki": "Wiki",
+      "issues": "議題",
+      "source": "原始碼",
+      "wiki": "維基",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "幫我買一杯咖啡",
@@ -137,8 +137,8 @@
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
+      "singular": "執行環境",
+      "plural": "執行環境",
       "server_side": "伺服器端",
       "client_side": "客戶端",
       "values": {
@@ -166,74 +166,74 @@
     },
     "sidebar_headings": {
       "external_resources": "外部資源",
-      "featured_versions": "Featured versions",
+      "featured_versions": "推薦版本",
       "project_members": "專案成員",
       "technical_information": "技術上的資訊"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "上傳圖片至圖庫",
       "placeholder": {
         "title": "輸入圖片標題…",
         "description": "輸入圖片說明…"
       }
     },
     "body": {
-      "editor": "Editor",
-      "placeholder": "Enter project body...",
+      "editor": "編輯器",
+      "placeholder": "在此輸入說明專案的正文...",
       "empty": "這個專案的說明是空的。"
     },
     "members": "成員",
-    "permissions": "Permissions",
+    "permissions": "權限",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "上傳新版本",
+      "delete_version": "刪除版本",
+      "edit_details": "編輯專案資訊",
+      "edit_body": "編輯說明",
+      "manage_invites": "管理專案邀請",
+      "remove_member": "移除成員",
+      "edit_member": "編輯成員",
+      "delete_project": "刪除專案"
     },
     "role": {
-      "text": "Role",
-      "placeholder": "Enter roles..."
+      "text": "身分",
+      "placeholder": "輸入成員在專案中的身分..."
     },
-    "advanced": "Advanced",
+    "advanced": "進階設定",
     "visibility": {
-      "title": "Visibility",
+      "title": "專案能見度",
       "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "action": "修改能見度"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "title": "所有權",
+      "description": "將此專案的所有權轉移給其他人。",
+      "action": "轉移所有權"
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
+    "featured": "推薦版本",
+    "autofeatured": "自動推薦",
+    "feature_action": "推薦此版本",
     "dependencies": "Dependencies",
     "metadata": "Metadata",
     "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "number": "版本號碼",
+    "publication_date": "發布日期",
+    "publisher": "發行者"
   },
   "search": {
     "filters": {
       "clear": "Clear filters",
       "hide": "Hide filters",
       "show": "Show filters",
-      "show_snapshots": "Show snapshots",
+      "show_snapshots": "顯示快照版本",
       "search_versions": "Search versions...",
       "licenses": "Licenses"
     },
     "sort": {
       "by": "Sort by",
       "relevance": "Relevance",
-      "downloads": "Download count",
+      "downloads": "下載次數",
       "follows": "追蹤人數",
       "newest": "最近建立的",
       "updated": "最近更新的"
@@ -259,7 +259,7 @@
     "moderator": "Moderator"
   },
   "stats": {
-    "joined": "Joined {ago}",
+    "joined": "{ago} 前加入",
     "notified": "Notified {ago}",
     "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
@@ -270,11 +270,11 @@
   },
   "settings": {
     "username": {
-      "text": "Username",
+      "text": "使用者名稱",
       "placeholder": "Add a username..."
     },
     "bio": {
-      "text": "Bio",
+      "text": "個人簡介",
       "placeholder": "Add a bio..."
     },
     "email": {
@@ -284,21 +284,21 @@
     "avatar": "Upload avatar"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "舉報",
+    "plural": "舉報",
     "type": {
-      "spam": "Spam",
-      "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
+      "spam": "垃圾訊息",
+      "copyright": "侵權",
+      "inappropriate": "內容不恰當",
+      "malicious": "惡意軟體",
       "name-squatting": "Name-squatting",
-      "other": "Other"
+      "other": "其他"
     }
   },
   "user": {
     "following": {
       "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "none": "你還沒有追蹤任何專案。"
     },
     "delete": {
       "title": "刪除帳號",
@@ -314,48 +314,48 @@
     "revoke_token": {
       "title": "Revoke your Modrinth token",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the continue button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "action": "登出"
     }
   },
   "images": {
-    "replace": "Replace image",
+    "replace": "替換圖片",
     "how_to": "Drag and drop to upload or click to select"
   },
   "ads": {
     "privacy_respecting": "A privacy-respecting ad would have been shown here.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "你正在使用廣告阻擋器。",
+      "line2": "您的廣告攔截器攔截了 Modrinth 向您展示的廣告，這是我們唯一的收入來源。",
+      "line3": "幫助 Modrinth 不只有觀看廣告這種方式；你也可以在 GitHub 上為 Modrinth 做出貢獻：",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
+        "important": "此動作十分重要，請三思而後行。",
         "verify": "To verify, type <i>{key}</i> below:",
         "placeholder": "Type here..."
       },
       "project": {
-        "title": "Delete project",
+        "title": "刪除專案",
         "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "action": "刪除專案"
       },
       "version": {
-        "title": "Delete version",
+        "title": "刪除版本",
         "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "action": "刪除版本"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "你確定要這樣做？",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "action": "是的，不可回復地刪除我的帳號"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "刪除圖庫照片",
+        "description": "刪除圖庫中的圖片會永久刪除圖檔與相關資料。",
+        "action": "刪除圖片"
       }
     },
     "report": {
@@ -363,7 +363,7 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "原因"
           },
           "information": {
             "label": "Additional information",
@@ -386,10 +386,10 @@
       "project": {
         "title": "Create project",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "action": "繼續"
       },
       "image": {
-        "title": "Add gallery image",
+        "title": "新增圖庫照片",
         "action": "Add image",
         "fields": {
           "title": {
@@ -406,10 +406,10 @@
     "moderation": {
       "project_status": {
         "title": "Change project status",
-        "action": "Confirm",
+        "action": "確認",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "狀態",
             "options": {
               "approve": "Approve",
               "unlist": "Unlist",
@@ -426,25 +426,25 @@
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
+    "technology": "科技",
+    "adventure": "冒險",
+    "magic": "魔法",
+    "utility": "實用",
+    "decoration": "裝飾",
+    "library": "前置",
+    "cursed": "奇怪的",
+    "worldgen": "世界生成",
+    "storage": "儲存",
+    "food": "食物",
+    "equipment": "裝備",
+    "miscellaneous": "雜項",
     "challenging": "Challenging",
     "combat": "Combat",
     "kitchen-sink": "Kitchen Sink",
     "lightweight": "Lightweight",
     "multiplayer": "Multiplayer",
     "quests": "Quests",
-    "optimization": "Optimization",
+    "optimization": "最佳化",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
