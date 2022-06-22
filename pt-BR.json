@@ -4,7 +4,7 @@
   },
   "index": {
     "tagline": "Descubra, jogue e crie conteúdo de Minecraft",
-    "description": "Ache conteúdo de qualidade através da nossa plataforma de modding de código aberto construída para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto com nossa API totalmente documentada!",
+    "description": "Encontre conteúdo de qualidade através da nossa plataforma de modding de código aberto construída para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto com nossa API totalmente documentada!",
     "features": {
       "book": {
         "title": "API fácil de usar",
@@ -23,8 +23,8 @@
         "description": "Consiga suporte, desenvolva e divirta-se em nosso servidor do Discord com mais de 1.500 membros."
       },
       "puzzle": {
-        "title": "Extensível por design",
-        "description": "Integra-se com ferramentas de compilação, repositórios, launchers e aplicações personalizadas."
+        "title": "Ampliável por design",
+        "description": "Integração com ferramentas de compilação, repositórios, launchers e aplicações personalizadas."
       },
       "tools": {
         "title": "100% código-aberto",
@@ -131,7 +131,7 @@
       "wiki": "Documentação",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Me compre um café",
+      "buy_me_a_coffee": "Me pague um café",
       "github_sponsors": "Patrocinadores GitHub",
       "donate": "Doar",
       "kofi": "Ko-Fi"

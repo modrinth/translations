@@ -1,10 +1,10 @@
 {
   "locale": {
-    "no_translation": "Aufgrund dessen wie diese Seite entstanden ist, gibt es sie nur auf Englisch."
+    "no_translation": "Aufgrund des Inhalts dieser Seite ist sie nur in Englisch verfügbar."
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
-    "description": "Finde spaßige und qualitativ hochwertige Minecraft Inhalte auf unserer Open Source Modplattform - gebaut für die Community. Zauber etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
+    "description": "Finde spaßige und hochwertige Minecraft Inhalte auf unserer Open Source Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
     "features": {
       "book": {
         "title": "Einfach verwendbare API",
@@ -68,7 +68,7 @@
     "status": "{status} Fehler",
     "message": {
       "404": "Oh oh, sieht aus als hättest du dich im [Labyrinth](https://github.com/modrinth/labrinth) verirrt.<br />Die gefragte Seite konnte nicht gefunden werden.",
-      "project_missing": "Das Project vom Typ {type}, nach dem du gesucht hast, wurde nicht gefunden.",
+      "project_missing": "Das Projekt vom Typ {type}, nach dem du gesucht hast, wurde nicht gefunden.",
       "default": "Ein unerwarteter Fehler ist aufgetreten."
     },
     "actions": {
