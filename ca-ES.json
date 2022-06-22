@@ -77,7 +77,7 @@
     }
   },
   "pages": {
-    "description": "Description",
+    "description": "Descripció",
     "gallery": "Gallery",
     "changelog": "Changelog",
     "versions": "Versions",
@@ -188,7 +188,7 @@
       "upload_version": "Pujar versió",
       "delete_version": "Eliminar versió",
       "edit_details": "Editar detalls",
-      "edit_body": "Editar cos",
+      "edit_body": "Editar descripció",
       "manage_invites": "Gestionar invitacions",
       "remove_member": "Eliminar membres",
       "edit_member": "Editar membres",
