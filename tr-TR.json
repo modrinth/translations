@@ -3,7 +3,7 @@
     "no_translation": "Bu sayfanın doğasından ötürü, bu içeriğin tek resmi hali İngilizce'dir."
   },
   "index": {
-    "tagline": "Keşfet, oyna ve Minecraft içeriği yarat",
+    "tagline": "Minecraft içeriklerini keşfet, oyna ve yarat",
     "description": "Topluluk için yapılan açık kaynak modlama platformumuz üzerinden eğlenceli ve kaliteli içerik bulun. Bir şey yaratın, ödeme alın* ve tamamen belgelenmiş API'miz ile projenizi yükleyin!",
     "features": {
       "book": {
@@ -27,7 +27,7 @@
         "description": "Yapım araçları, depolar, başlatıcılar ve özel uygulamalar ile entegreli."
       },
       "tools": {
-        "title": "Tamamen açık kaynak",
+        "title": "Tamamen açık kaynaklı",
         "description": "Katkıları hoş karşılayan aktif bir topluluk tarafından sürdürülen bir açık kaynak projesi."
       }
     }
@@ -38,7 +38,7 @@
     "github": "GitHub ile giriş yap"
   },
   "footer": {
-    "description": "Modrinth bir açık kaynak yazılımıdır.",
+    "description": "Modrinth açık kaynaklı bir yazılımdır.",
     "legal": {
       "heading": "Yasal",
       "terms": "Şartlar",
@@ -55,9 +55,9 @@
       "theme": {
         "label": "Tema değiştir",
         "system": "Sistem teması",
-        "light": "Aydınlık modu",
-        "dark": "Karanlık modu",
-        "oled": "OLED modu"
+        "light": "Aydınlık",
+        "dark": "Karanlık",
+        "oled": "OLED (Siyah)"
       },
       "language": {
         "label": "Dil seç"
@@ -79,7 +79,7 @@
   "pages": {
     "description": "Açıklama",
     "gallery": "Galeri",
-    "changelog": "Değişiklik Kaydı",
+    "changelog": "Değişiklikler",
     "versions": "Sürümler",
     "settings": "Ayarlar",
     "moderation": "Moderasyon",
@@ -87,9 +87,9 @@
     "about": "Hakkında",
     "following": "Takip Edilen",
     "terms": "Şartlar ve Koşullar",
-    "privacy": "Gizlillik politikası",
+    "privacy": "Gizlillik ilkesi",
     "rules": "Proje kuralları",
-    "all": "Tüm"
+    "all": "Tümü"
   },
   "generic": {
     "labels": {
@@ -97,7 +97,7 @@
         "singular": "Lisans",
         "plural": "Lisanslar"
       },
-      "project_id": "Proje ID",
+      "project_id": "Proje Kimliği",
       "project_status": "Proje durumu",
       "minecraft_versions": "Minecraft sürümleri",
       "mod_loaders": "Mod yükleyicileri",
@@ -111,7 +111,7 @@
       "follow": "Takip Et",
       "unfollow": "Takibi Bırak",
       "feature": "Öne Çıkar",
-      "report": "Rapor Et",
+      "report": "Bildir",
       "new_project": "Yeni proje",
       "preview": "Önizleme",
       "download": "İndir",
@@ -128,22 +128,22 @@
       "github": "GitHub",
       "issues": "Sorunlar",
       "source": "Kaynak",
-      "wiki": "Wiki",
+      "wiki": "Viki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Bana Bir Çay Ismarla",
+      "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsorları",
       "donate": "Bağış Yap",
       "kofi": "Ko-Fi"
     },
     "environments": {
-      "singular": "Çevre",
-      "plural": "Çevreler",
-      "server_side": "Sunucu tarafı",
-      "client_side": "İstemci tarafı",
+      "singular": "Bağlam",
+      "plural": "Bağlamlar",
+      "server_side": "Sunucuya bağlı",
+      "client_side": "İstemciye bağlı",
       "values": {
         "required": "Zorunlu",
-        "unsupported": "Desteksiz",
+        "unsupported": "Desteklenmiyor",
         "optional": "İsteğe Bağlı",
         "unknown": "Bilinmiyor"
       }
