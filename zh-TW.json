@@ -306,7 +306,7 @@
     },
     "auth": {
       "title": "授權權杖",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
+      "body": "你的授權權杖可以用於使用 Modrinth API ， Minotaur Gradle 插件，以及其它會用到 Modrinth 的 API 的應用程式。",
       "copy": "將 token 複製到剪貼簿",
       "copied": "已將 token 複製至剪貼簿",
       "revoke": "移除 token"
@@ -334,8 +334,8 @@
     "deletion": {
       "generic": {
         "important": "此動作十分重要，請三思而後行。",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "verify": "如果要繼續的話，在下面輸入 <i>{key}</i> ：",
+        "placeholder": "在這裡輸入……"
       },
       "project": {
         "title": "刪除專案",
