@@ -302,10 +302,10 @@
     },
     "delete": {
       "title": "刪除帳號",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "當你刪除了你的帳號，就不可能回去了。刪除你的帳號會把所有附加的所有資料（包含專案） 從我們的伺服器上移除。"
     },
     "auth": {
-      "title": "Authorization token",
+      "title": "授權權杖",
       "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
       "copy": "將 token 複製到剪貼簿",
       "copied": "已將 token 複製至剪貼簿",
