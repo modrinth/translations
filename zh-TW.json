@@ -278,8 +278,8 @@
       "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "<b>Private email</b> (visible only to moderators)",
-      "placeholder": "Add an email..."
+      "text": "<b>私人信箱</b> (只有管理員才看得到)",
+      "placeholder": "新增電子郵件……"
     },
     "avatar": "上傳頭像"
   },
@@ -291,7 +291,7 @@
       "copyright": "侵權",
       "inappropriate": "內容不恰當",
       "malicious": "惡意軟體",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "搶名",
       "other": "其他"
     }
   },
