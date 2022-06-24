@@ -338,88 +338,88 @@
         "placeholder": "ここに入力..."
       },
       "project": {
-        "title": "プロジェクトの削除",
-        "description": "Deleting a project erases all project data, including versions.",
+        "title": "プロジェクトを削除",
+        "description": "プロジェクトを削除すると、バージョンを含むすべてのプロジェクトデータが消去されます。",
         "action": "プロジェクトを削除"
       },
       "version": {
         "title": "バージョンを削除",
         "description": "バージョンを削除すると、すべてのバージョンファイルとメタデータが完全に削除されます。",
-        "action": "Delete version"
+        "action": "バージョンを削除"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "実行してもよろしいですか？",
+        "description": "これにより、**あなたのプロジェクトとフォローがすべて完全に削除**されます。アカウントの削除は元に戻すことができません。\n\nアカウントに関するヘルプが必要な場合は、 [Modrinth Discord](/discord) でサポートを受けてください。",
+        "action": "はい、復元不能に私のアカウントを削除します"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "ギャラリーの画像を削除",
+        "description": "ギャラリーの画像を削除すると、画像ファイルとメタデータが完全に削除されます。",
+        "action": "画像を削除"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Moddingは誰にとっても安全であるべきなので、Modrinthでは虐待や悪意ある行為を真剣に受け止めています。私たちは、 [ToS](/legal/terms) 及び [Rules](/legal/rules) に違反するサイト上の有害なコンテンツについて聞きたいです。個人を特定できる情報は非公開にしますので、ご安心ください。",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "理由"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "追加情報",
+            "helper": "可能であればリンクや画像も含めてください。Markdown形式がサポートされています。",
+            "placeholder": "追加情報を入力..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "プロジェクトを報告"
       },
       "version": {
-        "action": "Report version"
+        "action": "バージョンを報告"
       },
       "user": {
-        "action": "Report user"
+        "action": "ユーザーを報告"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "プロジェクトを作成",
+        "description": "新しいプロジェクトは下書きとして作成され、プロフィールページの下で確認できます。",
+        "action": "続行"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "ギャラリーの画像を追加",
+        "action": "画像を追加",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "タイトル",
+            "placeholder": "画像のタイトルを入力..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "説明",
+            "placeholder": "画像の説明を入力..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "プロジェクトの状態を変更",
+        "action": "確認",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "状態",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "承認",
+              "unlist": "非公開",
+              "reject": "拒否"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "モデレーションメッセージ",
+            "helper": "必要に応じて、プロジェクトのチームメンバーと問題を伝えるための情報を含めることができます。Markdown形式がサポートされています。",
+            "placeholder": "追加情報を入力..."
           }
         }
       }
