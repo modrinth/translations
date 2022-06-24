@@ -333,18 +333,18 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "これは非常に重要です。",
+        "verify": "確認するには、<i>{key}</i>と入力してください:",
+        "placeholder": "ここに入力..."
       },
       "project": {
-        "title": "Delete project",
+        "title": "プロジェクトの削除",
         "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "action": "プロジェクトを削除"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "title": "バージョンを削除",
+        "description": "バージョンを削除すると、すべてのバージョンファイルとメタデータが完全に削除されます。",
         "action": "Delete version"
       },
       "account": {
