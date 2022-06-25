@@ -335,7 +335,7 @@
       "generic": {
         "important": "This is extremely important.",
         "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "placeholder": "Tip hre..."
       },
       "project": {
         "title": "Delete project",
