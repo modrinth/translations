@@ -249,7 +249,7 @@
     "unknown": "Onbekend"
   },
   "release_channels": {
-    "release": "Uitgeven",
+    "release": "Uitgegeven",
     "beta": "Beta",
     "alpha": "Alpha"
   },
@@ -333,93 +333,93 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Dit is uiterst belangrijk.",
+        "verify": "Typ <i>{key}</i> hieronder om het te verifiëren:",
+        "placeholder": "Typ hier..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Project verwijderen",
+        "description": "Een project verwijderen wist alle projectgegevens, inclusief versies.",
+        "action": "Project verwijderen"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Versie verwijderen",
+        "description": "Een versie verwijderen verwijdert pernament alle versie bestanden en metadata.",
+        "action": "Versie verwijderen"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Weet je zeker dat je dit wilt doen?",
+        "description": "Dit zal **al je projecten direct verwijderen**. Het verwijderen van je account kan niet ongedaan worden gemaakt.\n\nAls je hulp nodig hebt met je account, krijg dan ondersteuning op de [Modrinth Discord](/discord).",
+        "action": "Ja, mijn account onherstelbaar verwijderen"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Verwijder galerij afbeelding",
+        "description": "Een galerij afbeelding verwijderen verwijdert pernament alle afbeeldingsbestanden en metadata.",
+        "action": "Verwijder afbeelding"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modden moet voor iedereen veilig zijn, dus nemen we misbruik en slechte bedoelingen Sirius hier bij Modrinth. Wij willen horen over onveilige content op de site dat onze [ToS](/legal/terms) en [Rules](/legal/rules) overtreed. Wees gerustgesteld, wij houden je persoonlijke gegevens Privé.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Reden"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Aanvullende informatie",
+            "helper": "Voeg links en afbeeldingen toe indien mogelijk. Markdown opmaak wordt ondersteund.",
+            "placeholder": "Aanvullende informatie toevoegen..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Rapporteer project"
       },
       "version": {
-        "action": "Report version"
+        "action": "Rapporteer versie"
       },
       "user": {
-        "action": "Report user"
+        "action": "Rapporteer gebruiker"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "Project aanmaken",
+        "description": "Nieuwe projecten zijn gemaakt als klad, en kunnen gevonden worden onder je profiel pagina.",
+        "action": "Doorgaan"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Galerij afbeelding toevoegen",
+        "action": "Afbeelding toevoegen",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Titel",
+            "placeholder": "Afbeelding titel toevoegen..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Omschrijving",
+            "placeholder": "Voer een afbeeldingsbeschrijving in..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Project status wijzigen",
+        "action": "Bevestigen",
         "fields": {
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Goedkeuren",
+              "unlist": "Niet openbaar",
+              "reject": "Afkeuren"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Moderatie bericht",
+            "helper": "Keuze om informatie te communiceren met een project´s team lid. Markdown format word ondersteund.",
+            "placeholder": "Aanvullende informatie toevoegen..."
           }
         }
       }

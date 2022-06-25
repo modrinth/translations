@@ -179,7 +179,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Introduce el cuerpo del proyecto...",
+      "placeholder": "Introduce la descripción del proyecto...",
       "empty": "La descripción del proyecto está vacía."
     },
     "members": "Miembros",
@@ -188,7 +188,7 @@
       "upload_version": "Subir versión",
       "delete_version": "Eliminar versión",
       "edit_details": "Editar detalles",
-      "edit_body": "Editar cuerpo",
+      "edit_body": "Editar descripción",
       "manage_invites": "Gestionar invitaciones",
       "remove_member": "Eliminar miembros",
       "edit_member": "Editar miembros",

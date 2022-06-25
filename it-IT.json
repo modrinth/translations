@@ -344,31 +344,31 @@
       },
       "version": {
         "title": "Elimina una versione",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "description": "Eliminando una versione permanentemente vengono eliminati tutti i file di versione e i metadati.",
+        "action": "Elimina versione"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Sei sicuro di volerlo fare?",
+        "description": "Questo **cancellerà immediatamente tutti i tuoi progetti** e i seguiti. L'eliminazione dell'account non può essere annullata.\n\nSe hai bisogno di aiuto con il tuo account, puoi ottenere supporto sul [Discord di Modrinth](/discord).",
+        "action": "Si, elimina il mio account irrimediabilmente"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Elimina immagine dalla galleria",
+        "description": "Eliminando un immagine dalla galleria viene eliminato permanentemente il file dell'immagine e i metadati.",
+        "action": "Elimina immagine"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Il modding dovrebbe essere sicuro per tutti, quindi prendiamo sul serio l'abuso e gli intenti malevoli su Modrinth. Vogliamo sapere del contenuto dannoso presente sul sito che viola i nostri [ToS](/legal/terms) e le [Regole](/legal/rules). Stai tranquillo, terremo le tue informazioni identificative private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Motivo"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Informazioni aggiuntive",
+            "helper": "Se possibile includi link e immagini. La formattazione Markdown è supportata.",
+            "placeholder": "Inserisci informazioni aggiuntive..."
           }
         }
       },
@@ -418,8 +418,8 @@
           },
           "moderation_message": {
             "label": "Modera messaggi",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "helper": "Opzionalmente includi informazioni per comunicare problemi con i membri del team del progetto. La formattazione Markdown è supportata.",
+            "placeholder": "Inserisci informazioni aggiuntive..."
           }
         }
       }

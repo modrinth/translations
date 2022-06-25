@@ -3,8 +3,8 @@
     "no_translation": "Bu sayfanın doğasından ötürü, bu içeriğin tek resmi hali İngilizce'dir."
   },
   "index": {
-    "tagline": "Keşfet, oyna ve Minecraft içeriği yarat",
-    "description": "Topluluk için yapılan açık kaynak modlama platformumuz üzerinden eğlenceli ve kaliteli içerik bulun. Bir şey yaratın, ödeme alın* ve tamamen belgelenmiş API'miz ile projenizi yükleyin!",
+    "tagline": "Minecraft içeriklerini keşfet, oyna ve oluştur",
+    "description": "Topluluk için yapılan açık kaynak modlama platformumuz üzerinden eğlenceli ve kaliteli içerik bulun. Bir şey oluşturun, ödeme alın* ve tamamen belgelenmiş API'miz ile projenizi yükleyin!",
     "features": {
       "book": {
         "title": "Kullanması kolay API",
@@ -27,7 +27,7 @@
         "description": "Yapım araçları, depolar, başlatıcılar ve özel uygulamalar ile entegreli."
       },
       "tools": {
-        "title": "Tamamen açık kaynak",
+        "title": "Tamamen açık kaynaklı",
         "description": "Katkıları hoş karşılayan aktif bir topluluk tarafından sürdürülen bir açık kaynak projesi."
       }
     }
@@ -38,7 +38,7 @@
     "github": "GitHub ile giriş yap"
   },
   "footer": {
-    "description": "Modrinth bir açık kaynak yazılımıdır.",
+    "description": "Modrinth açık kaynaklı bir yazılımdır.",
     "legal": {
       "heading": "Yasal",
       "terms": "Şartlar",
@@ -55,9 +55,9 @@
       "theme": {
         "label": "Tema değiştir",
         "system": "Sistem teması",
-        "light": "Aydınlık modu",
-        "dark": "Karanlık modu",
-        "oled": "OLED modu"
+        "light": "Aydınlık",
+        "dark": "Karanlık",
+        "oled": "OLED (Siyah)"
       },
       "language": {
         "label": "Dil seç"
@@ -68,7 +68,7 @@
     "status": "{status} Hatası",
     "message": {
       "404": "Hay aksi, görünüşe göre [Labyrinth](https://github.com/modrinth/labrinth)'te mahsur kaldınız.<br/>Aradığınız sayfa bulunamıyor.",
-      "project_missing": "Aramış olduğunuz {type} bulunamıyor.",
+      "project_missing": "Aradığınız {type} bulunamıyor.",
       "default": "Beklenmeyen bir hata oluştu."
     },
     "actions": {
@@ -79,7 +79,7 @@
   "pages": {
     "description": "Açıklama",
     "gallery": "Galeri",
-    "changelog": "Değişiklik Kaydı",
+    "changelog": "Değişiklikler",
     "versions": "Sürümler",
     "settings": "Ayarlar",
     "moderation": "Moderasyon",
@@ -87,9 +87,9 @@
     "about": "Hakkında",
     "following": "Takip Edilen",
     "terms": "Şartlar ve Koşullar",
-    "privacy": "Gizlillik politikası",
+    "privacy": "Gizlillik ilkesi",
     "rules": "Proje kuralları",
-    "all": "Tüm"
+    "all": "Tümü"
   },
   "generic": {
     "labels": {
@@ -97,7 +97,7 @@
         "singular": "Lisans",
         "plural": "Lisanslar"
       },
-      "project_id": "Proje ID",
+      "project_id": "Proje Kimliği",
       "project_status": "Proje durumu",
       "minecraft_versions": "Minecraft sürümleri",
       "mod_loaders": "Mod yükleyicileri",
@@ -111,7 +111,7 @@
       "follow": "Takip Et",
       "unfollow": "Takibi Bırak",
       "feature": "Öne Çıkar",
-      "report": "Rapor Et",
+      "report": "Bildir",
       "new_project": "Yeni proje",
       "preview": "Önizleme",
       "download": "İndir",
@@ -128,28 +128,28 @@
       "github": "GitHub",
       "issues": "Sorunlar",
       "source": "Kaynak",
-      "wiki": "Wiki",
+      "wiki": "Viki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Bana Bir Çay Ismarla",
+      "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsorları",
       "donate": "Bağış Yap",
       "kofi": "Ko-Fi"
     },
     "environments": {
-      "singular": "Çevre",
-      "plural": "Çevreler",
-      "server_side": "Sunucu tarafı",
-      "client_side": "İstemci tarafı",
+      "singular": "Bağlam",
+      "plural": "Bağlamlar",
+      "server_side": "Sunucuya bağlı",
+      "client_side": "İstemciye bağlı",
       "values": {
         "required": "Zorunlu",
-        "unsupported": "Desteksiz",
+        "unsupported": "Desteklenmiyor",
         "optional": "İsteğe Bağlı",
         "unknown": "Bilinmiyor"
       }
     },
     "up_to_date": "Güncelsiniz!",
-    "byline": "<u>{author}</u>"
+    "byline": "yapımcı <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -168,7 +168,7 @@
       "external_resources": "Dış kaynaklar",
       "featured_versions": "Öne çıkan sürümler",
       "project_members": "Proje üyeleri",
-      "technical_information": "Teknik bilgi"
+      "technical_information": "Teknik bilgiler"
     },
     "gallery": {
       "upload": "Galeri görseli yükle",
@@ -185,14 +185,14 @@
     "members": "Üyeler",
     "permissions": "İzinler",
     "permission": {
-      "upload_version": "Sürüm yükle",
-      "delete_version": "Sürüm sil",
-      "edit_details": "Detayları düzenle",
-      "edit_body": "Metni düzenle",
-      "manage_invites": "Davetleri yönet",
-      "remove_member": "Üye kaldır",
-      "edit_member": "Üye düzenle",
-      "delete_project": "Projeyi sil"
+      "upload_version": "Sürüm yükleme",
+      "delete_version": "Sürüm silme",
+      "edit_details": "Detayları düzenleme",
+      "edit_body": "Açıklamayı düzenleme",
+      "manage_invites": "Davetleri yönetme",
+      "remove_member": "Üyeleri kaldırma",
+      "edit_member": "Üyeleri düzenleme",
+      "delete_project": "Projeyi silme"
     },
     "role": {
       "text": "Rol",
@@ -201,20 +201,20 @@
     "advanced": "Gelişmiş",
     "visibility": {
       "title": "Görünürlük",
-      "description": "Bu proje şu an {status}",
+      "description": "Bu proje şu an {status}.",
       "action": "Görünürlüğü değiştir"
     },
     "ownership": {
       "title": "Sahiplik",
-      "description": "Bu projenin sahipliğini başka kullanıcıya devret.",
+      "description": "Bu projenin sahipliğini başka bir kullanıcıya devret.",
       "action": "Sahiplik devret"
     }
   },
   "version": {
     "featured": "Öne Çıkan",
-    "autofeatured": "Otomatik Öne Çıkan",
-    "feature_action": "Öne Çıkar",
-    "dependencies": "Bağımlılıklar",
+    "autofeatured": "Otomatik öne çıkarılan",
+    "feature_action": "Öne çıkar",
+    "dependencies": "Bağlılıklar",
     "metadata": "Üstveri",
     "release_channel": "Yayın kanalı",
     "number": "Sürüm numarası",
@@ -231,27 +231,27 @@
       "licenses": "Lisanslar"
     },
     "sort": {
-      "by": "Şuna göre sırala",
+      "by": "Sıralama",
       "relevance": "Alaka düzeyi",
       "downloads": "İndirme sayısı",
       "follows": "Takipçi sayısı",
-      "newest": "Yeni yaratılmış",
-      "updated": "Yeni güncellenen"
+      "newest": "Yeni oluşturulmuş",
+      "updated": "Yeni güncellenmiş"
     },
-    "per_page": "Sayfa başı göster"
+    "per_page": "Öğe sayısı"
   },
   "status": {
     "approved": "Onaylı",
     "rejected": "Reddedildi",
     "draft": "Taslak",
-    "unlisted": "Liste Dışı",
+    "unlisted": "Liste dışı",
     "processing": "İncelemede",
     "unknown": "Bilinmiyor"
   },
   "release_channels": {
     "release": "Yayın",
     "beta": "Beta",
-    "alpha": "Alfa"
+    "alpha": "Alpha"
   },
   "roles": {
     "developer": "Geliştirici",
@@ -259,14 +259,14 @@
     "moderator": "Moderatör"
   },
   "stats": {
-    "joined": "{ago} önce katıldı",
-    "notified": "{ago} önce bildirildi",
-    "downloads": "{downloads, plural, bir {<b>1</b> indirme} other {<b>#</b> indirme}}",
-    "followers_of_projects": "{followers, plural, one {<b>1</b> projenin takipçisi} other {<b>#</b> projenin takipçisi}}",
+    "joined": "{ago} katıldı",
+    "notified": "{ago} bildirildi",
+    "downloads": "{downloads, plural, one {<b>#</b> indirme} other {<b>#</b> indirme}}",
+    "followers_of_projects": "{followers, plural, one {<b>1</b> proje takipçisi} other {<b>#</b> proje takipçisi}}",
     "followers": "{followers, plural, one {<b>1</b> takipçi} other {<b>#</b> takipçi}}",
-    "user_id": "Kullanıcı ID: {id}",
-    "created": "{ago} önce yaratıldı",
-    "updated": "{ago} önce güncellendi"
+    "user_id": "Kullanıcı Kimliği: {id}",
+    "created": "{ago} oluşturuldu",
+    "updated": "{ago} güncellendi"
   },
   "settings": {
     "username": {
@@ -278,20 +278,20 @@
       "placeholder": "Bir özgeçmiş ekle..."
     },
     "email": {
-      "text": "<b>Özel email</b> (sadece moderatörlere görünür)",
-      "placeholder": "Bir email ekle..."
+      "text": "<b>Gizli e-posta</b> (sadece moderatörlere görünür)",
+      "placeholder": "Bir e-posta ekle..."
     },
     "avatar": "Avatar yükle"
   },
   "report": {
-    "singular": "Rapor",
-    "plural": "Raporlar",
+    "singular": "Bildiri",
+    "plural": "Bildiriler",
     "type": {
       "spam": "Spam",
       "copyright": "Telif Hakkı",
       "inappropriate": "Uygunsuz",
-      "malicious": "Kötü Niyetli",
-      "name-squatting": "İsme çökmek",
+      "malicious": "Kötü niyetli",
+      "name-squatting": "İsim hırsızlığı",
       "other": "Diğer"
     }
   },
@@ -384,9 +384,9 @@
     },
     "creation": {
       "project": {
-        "title": "Proje Yarat",
-        "description": "Yeni projeler taslak olarak yaratılır ve profil sayfanızın altında bulunabilir.",
-        "action": "Devam"
+        "title": "Proje oluştur",
+        "description": "Yeni projeler taslak olarak oluşturulur ve profil sayfanızın altında bulunabilir.",
+        "action": "Devam et"
       },
       "image": {
         "title": "Galeri görseli ekle",

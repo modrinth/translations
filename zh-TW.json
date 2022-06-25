@@ -244,9 +244,9 @@
     "approved": "已核准",
     "rejected": "已拒絕",
     "draft": "草稿",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "unlisted": "未列出",
+    "processing": "正在審核中",
+    "unknown": "未知"
   },
   "release_channels": {
     "release": "穩定版",
@@ -261,9 +261,9 @@
   "stats": {
     "joined": "{ago} 前加入",
     "notified": "通知{ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "downloads": "{downloads, plural, other {<b>#</b> 次下載}}",
+    "followers_of_projects": "{followers, plural, other {這個作者的專案總共有 <b>#</b> 個追蹤者}}",
+    "followers": "{followers, plural, other {<b>#</b> 個追蹤者}}",
     "user_id": "使用者 ID：{id}",
     "created": "{ago} 前建立",
     "updated": "{ago} 前更新"
@@ -271,17 +271,17 @@
   "settings": {
     "username": {
       "text": "使用者名稱",
-      "placeholder": "Add a username..."
+      "placeholder": "新增使用者名稱……"
     },
     "bio": {
       "text": "個人簡介",
       "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "<b>Private email</b> (visible only to moderators)",
-      "placeholder": "Add an email..."
+      "text": "<b>私人信箱</b> (只有管理員才看得到)",
+      "placeholder": "新增電子郵件……"
     },
-    "avatar": "Upload avatar"
+    "avatar": "上傳頭像"
   },
   "report": {
     "singular": "舉報",
@@ -291,22 +291,22 @@
       "copyright": "侵權",
       "inappropriate": "內容不恰當",
       "malicious": "惡意軟體",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "搶名",
       "other": "其他"
     }
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
+      "loading": "載入追蹤的專案中……",
       "none": "你還沒有追蹤任何專案。"
     },
     "delete": {
       "title": "刪除帳號",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "當你刪除了你的帳號，就不可能回去了。刪除你的帳號會把所有附加的所有資料（包含專案） 從我們的伺服器上移除。"
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
+      "title": "授權權杖",
+      "body": "你的授權權杖可以用於使用 Modrinth API ， Minotaur Gradle 插件，以及其它會用到 Modrinth 的 API 的應用程式。",
       "copy": "將 token 複製到剪貼簿",
       "copied": "已將 token 複製至剪貼簿",
       "revoke": "移除 token"
@@ -334,8 +334,8 @@
     "deletion": {
       "generic": {
         "important": "此動作十分重要，請三思而後行。",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "verify": "如果要繼續的話，在下面輸入 <i>{key}</i> ：",
+        "placeholder": "在這裡輸入……"
       },
       "project": {
         "title": "刪除專案",
