@@ -278,7 +278,8 @@
       "placeholder": "Aldonu bion..."
     },
     "email": {
-      "text": "<b>Privata retpoŝto</b> (videblas nur por moderantoj)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Aldonu retpoŝton..."
     },
     "avatar": "Alŝutu profilbildon"
