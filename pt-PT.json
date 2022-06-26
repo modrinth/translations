@@ -278,7 +278,8 @@
       "placeholder": "Adicionar uma bio..."
     },
     "email": {
-      "text": "<b>Endereço eletrónico privado</b> (apenas visível para moderadores)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Adicionar um endereço eletrónico..."
     },
     "avatar": "Carregar uma imagem de perfil"
