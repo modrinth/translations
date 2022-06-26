@@ -278,7 +278,8 @@
       "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "<b>私人信箱</b> (只有管理員才看得到)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "新增電子郵件……"
     },
     "avatar": "上傳頭像"
