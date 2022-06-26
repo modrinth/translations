@@ -87,39 +87,39 @@
     "about": "About",
     "following": "Following",
     "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
+    "privacy": "Chính sách quyền riêng tư",
     "rules": "Project rules",
-    "all": "All"
+    "all": "Tất cả"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Giấy phép",
+        "plural": "Giấy phép"
       },
       "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
+      "project_status": "Trạng thái dự án",
+      "minecraft_versions": "Phiên bản minecraft",
       "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "categories": "Thể loại",
+      "downloads": "Lượt tải",
+      "files": "Các tập tin"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
+      "create": "Tạo",
+      "edit": "Sửa",
+      "follow": "Theo dõi",
+      "unfollow": "Huỷ theo dõi",
       "feature": "Feature",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
+      "report": "Báo cáo",
+      "new_project": "Dự án mới",
+      "preview": "Xem trước",
       "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
+      "save": "Lưu",
+      "confirm": "Xác nhận",
+      "remove": "Xóa",
       "delete": "Delete",
-      "cancel": "Cancel",
+      "cancel": "Hủy",
       "discard": "Discard changes"
     },
     "external": {
