@@ -278,7 +278,8 @@
       "placeholder": "Lisa elulugu..."
     },
     "email": {
-      "text": "<b>Privaatne e-post</b> (nähtav vaid moderaatoritele)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Lisa e-post..."
     },
     "avatar": "Laadi üles profiilipilt"
