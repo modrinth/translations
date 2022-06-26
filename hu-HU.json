@@ -278,7 +278,8 @@
       "placeholder": "Mutatkozz be!"
     },
     "email": {
-      "text": "<b>Privát E-Mail</b> (csak Moderátorok láthatják)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Adj hozzá E-Mailt..."
     },
     "avatar": "Profilkép feltöltése"
