@@ -278,7 +278,8 @@
       "placeholder": "Adicionar bio..."
     },
     "email": {
-      "text": "<b>E-mail privado</b> (visível somente para moderadores)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Adicione um e-mail..."
     },
     "avatar": "Carregar avatar"
