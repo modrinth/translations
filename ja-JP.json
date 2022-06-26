@@ -278,7 +278,8 @@
       "placeholder": "Bioを追加..."
     },
     "email": {
-      "text": "<b>プライベートメール</b> (モデレーターのみに表示)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "電子メールを追加..."
     },
     "avatar": "アバターをアップロード"
