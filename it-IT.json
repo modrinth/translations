@@ -278,7 +278,8 @@
       "placeholder": "Aggiungi dettagli su di te..."
     },
     "email": {
-      "text": "<b>Email personale</b> (visibile solo ai moderatori)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Aggiungi un indirizzo email..."
     },
     "avatar": "Carica un'immagine del profilo"
