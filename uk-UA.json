@@ -278,7 +278,8 @@
       "placeholder": "Розкажіть про себе..."
     },
     "email": {
-      "text": "<b>Особиста електронна пошта</b> (показуватися лише для модераторів)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Додати е-пошту..."
     },
     "avatar": "Завантажити аватар"
