@@ -278,7 +278,8 @@
       "placeholder": "Dodaj informacje o mnie..."
     },
     "email": {
-      "text": "<b>Prywatny e-mail</b> (widoczny tylko dla moderatorów)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Dodaj e-mail..."
     },
     "avatar": "Prześlij awatar"
