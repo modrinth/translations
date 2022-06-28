@@ -1,9 +1,9 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Devido à natureza desta página, a única versão oficial deste conteúdo está em Inglês."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
+    "tagline": "Descubra, jogue e crie conteúdo no Minecraft",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
