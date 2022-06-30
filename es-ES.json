@@ -345,82 +345,82 @@
       },
       "version": {
         "title": "Eliminar versión",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "description": "Eliminar una versión permanentemente elimina los archivos de versión y metadata.",
+        "action": "Eliminar versión"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "¿Está seguro que quieres hacer esto?",
+        "description": "Esto **inmediatamente eliminará todos tus proyectos** y seguidores. Este proceso es irreversible.\n\nSi necesitas ayuda con tu cuenta, la puedes conseguir en [Modrinth Discord](/discord).",
+        "action": "Sí, quiero borrar mi cuenta permanentemente"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
-        "action": "Delete image"
+        "title": "Eliminar imagen de la galería",
+        "description": "Eliminar una imagen de la galería permanentemente elimina los archivos de versión y metadata.",
+        "action": "Eliminar imagen"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "El desarrollo de mods debería ser seguro para todos, así que nos tomamos el abuso y el contenido malicioso con seriedad aquí en Modrinth. Queremos saber sobre el contenido malicioso que viola nuestro [ToS](/legal/terms) y [Rules](/legal/rules). No te preocupes, mantendremos tu información de identificación en privado.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Razón"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Información adicional",
+            "helper": "Incluya enlaces e imágenes si es posible. El formato Markdown está soportado.",
+            "placeholder": "Introducir información adicional..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Reportar proyecto"
       },
       "version": {
-        "action": "Report version"
+        "action": "Reportar versión"
       },
       "user": {
-        "action": "Report user"
+        "action": "Reportar usuario"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue"
+        "title": "Crear proyecto",
+        "description": "Los nuevos proyectos se crean como borradores, y se pueden encontrar en tu página de perfil.",
+        "action": "Continuar"
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Agregar imagen de la galería",
+        "action": "Agregar imagen",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Título",
+            "placeholder": "Introducir el título de la imagen..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Descripción",
+            "placeholder": "Introducir la descripción de la imagen..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Cambiar el estado del proyecto",
+        "action": "Confirmar",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Estado",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Aprobar",
+              "unlist": "Deslistar",
+              "reject": "Rechazar"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Mensaje de moderación",
+            "helper": "Opcionalmente, incluya información para comunicar problemas con los miembros del equipo del proyecto. El formato Markdown es soportado.",
+            "placeholder": "Introducir información adicional..."
           }
         }
       }
