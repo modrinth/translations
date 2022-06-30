@@ -278,8 +278,8 @@
       "placeholder": "Agregar una biografía..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "Email privado",
+      "helper": "Solo visible para los moderadores.",
       "placeholder": "Agrega un correo electrónico..."
     },
     "avatar": "Subir avatar"
@@ -334,17 +334,17 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Esto es extremadamente importante.",
+        "verify": "Para verificar, escribe <i>{key}</i> a continuación:",
+        "placeholder": "Escribe aquí..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Eliminar proyecto",
+        "description": "Eliminar un proyecto elimina todos los datos del proyecto, incluidas las versiones.",
+        "action": "Eliminar proyecto"
       },
       "version": {
-        "title": "Delete version",
+        "title": "Eliminar versión",
         "description": "Deleting a version permanently deletes all version files and metadata.",
         "action": "Delete version"
       },
