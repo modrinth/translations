@@ -4,11 +4,11 @@
   },
   "index": {
     "tagline": "發掘、遊玩、創造 Minecraft 內容",
-    "description": "透過我們為社群打造的開源模組平台，找到令人愉悅的優質內容。使用完整文檔的 API 建立內容、獲得報酬*並部署您的專案！",
+    "description": "透過我們為社群打造的開源模組平台，找到令人愉悅的優質內容。使用完整的文件 API 建立內容、獲得報酬*並部署您的專案！",
     "features": {
       "book": {
-        "title": "容易使用的API",
-        "description": "由完整文檔的 API 支援，促進發展第三方整合與啟動器。"
+        "title": "簡單易用的 API",
+        "description": "由完整的文件 API 支援，促進第三方整合與啟動器的發展。"
       },
       "coin": {
         "title": "創作者收入",
@@ -112,15 +112,15 @@
       "unfollow": "取消追蹤",
       "feature": "推薦",
       "report": "檢舉",
-      "new_project": "新的專案",
+      "new_project": "新增專案",
       "preview": "預覽",
       "download": "下載",
       "save": "儲存",
-      "confirm": "確定",
+      "confirm": "確認",
       "remove": "移除",
       "delete": "刪除",
       "cancel": "取消",
-      "discard": "放棄修改"
+      "discard": "放棄變更"
     },
     "external": {
       "github_profile": "GitHub 個人檔案",
@@ -140,16 +140,16 @@
       "singular": "執行環境",
       "plural": "執行環境",
       "server_side": "伺服器端",
-      "client_side": "客戶端",
+      "client_side": "用戶端",
       "values": {
         "required": "需要",
         "unsupported": "不支援",
-        "optional": "可選的",
+        "optional": "可選",
         "unknown": "未知"
       }
     },
     "up_to_date": "你是最新的！",
-    "byline": "由 <u>{author}</u> 製作"
+    "byline": "作者 <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -179,11 +179,11 @@
     },
     "body": {
       "editor": "編輯器",
-      "placeholder": "在此輸入說明專案的正文...",
+      "placeholder": "在此輸入專案說明的正文...",
       "empty": "這個專案的說明是空的。"
     },
     "members": "成員",
-    "permissions": "權限",
+    "permissions": "取用權",
     "permission": {
       "upload_version": "上傳新版本",
       "delete_version": "刪除版本",
@@ -202,7 +202,7 @@
     "visibility": {
       "title": "專案能見度",
       "description": "該專案目前{status}",
-      "action": "修改能見度"
+      "action": "變更能見度"
     },
     "ownership": {
       "title": "所有權",
@@ -214,9 +214,9 @@
     "featured": "推薦版本",
     "autofeatured": "自動推薦",
     "feature_action": "推薦此版本",
-    "dependencies": "前置模組",
-    "metadata": "更多資訊",
-    "release_channel": "發布版本",
+    "dependencies": "相依關係",
+    "metadata": "後設資料",
+    "release_channel": "發布通道",
     "number": "版本號碼",
     "publication_date": "發布日期",
     "publisher": "發行者"
@@ -228,17 +228,17 @@
       "show": "顯示篩選選項",
       "show_snapshots": "顯示快照版本",
       "search_versions": "搜尋版本...",
-      "licenses": "許可證"
+      "licenses": "授權條款"
     },
     "sort": {
       "by": "排序方式",
       "relevance": "關聯",
       "downloads": "下載次數",
       "follows": "追蹤人數",
-      "newest": "最近建立的",
-      "updated": "最近更新的"
+      "newest": "最近建立",
+      "updated": "最近更新"
     },
-    "per_page": "每頁顯示頁數："
+    "per_page": "每頁筆數："
   },
   "status": {
     "approved": "已核准",
@@ -256,14 +256,14 @@
   "roles": {
     "developer": "開發人員",
     "admin": "管理員",
-    "moderator": "審核人"
+    "moderator": "版主"
   },
   "stats": {
     "joined": "{ago} 前加入",
-    "notified": "通知{ago}",
+    "notified": "於 {ago} 通知",
     "downloads": "{downloads, plural, other {<b>#</b> 次下載}}",
-    "followers_of_projects": "{followers, plural, other {這個作者的專案總共有 <b>#</b> 個追蹤者}}",
-    "followers": "{followers, plural, other {<b>#</b> 個追蹤者}}",
+    "followers_of_projects": "{followers, plural, other {該作者的專案共有 <b>#</b> 名追蹤者}}",
+    "followers": "{followers, plural, other {<b>#</b> 名追蹤者}}",
     "user_id": "使用者 ID：{id}",
     "created": "{ago} 前建立",
     "updated": "{ago} 前更新"
@@ -279,26 +279,26 @@
     },
     "email": {
       "text": "私人 email",
-      "helper": "只有管理員才看得到。",
+      "helper": "僅版主可見。",
       "placeholder": "新增電子郵件……"
     },
     "avatar": "上傳頭像"
   },
   "report": {
-    "singular": "舉報",
-    "plural": "舉報",
+    "singular": "檢舉",
+    "plural": "檢舉",
     "type": {
       "spam": "垃圾訊息",
       "copyright": "侵權",
       "inappropriate": "內容不恰當",
       "malicious": "惡意軟體",
-      "name-squatting": "搶名",
+      "name-squatting": "名稱搶註",
       "other": "其他"
     }
   },
   "user": {
     "following": {
-      "loading": "載入追蹤的專案中……",
+      "loading": "正在載入追蹤中的專案……",
       "none": "你還沒有追蹤任何專案。"
     },
     "delete": {
@@ -314,18 +314,18 @@
     },
     "revoke_token": {
       "title": "撤銷你的 Modrinth 權杖",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the continue button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "撤銷您的 Modrinth 權杖可能會產生意想不到的後果。\n請注意，以下情況可能會失效：\n - 任何使用您的權杖來查詢 API 的應用程式\n - Gradle - 如果 Minotaur 被設定一個不正確的權杖，您的 Gradle 建置可能會失敗\n - GitHub - 如果您使用需要 Modrinth API 的 GitHub Action，將無法正常執行\n\n如果您願意繼續執行，請完成以下步驟：\n\n 1. 前往 [GitHub 上的 Modrinth 應用程式頁面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，並確定有登入正確的帳號。\n2. 按下「Permissions」標題旁邊的紅色 「Revoke Access」按鈕。\n\n一旦完成了這些步驟，請按下面的繼續按鈕。\n\n**這將會使您登出 Modrinth，然而，當你重新登入時，您的權杖將重新生成。**",
       "action": "登出"
     }
   },
   "images": {
     "replace": "替換圖片",
-    "how_to": "Drag and drop to upload or click to select"
+    "how_to": "拖曳檔案以上傳或點擊選擇檔案"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "尊重隱私的廣告會在此顯示。",
     "console": {
-      "line1": "你正在使用廣告阻擋器。",
+      "line1": "你正在使用廣告攔截器。",
       "line2": "您的廣告攔截器攔截了 Modrinth 向您展示的廣告，這是我們唯一的收入來源。",
       "line3": "幫助 Modrinth 不只有觀看廣告這種方式；你也可以在 GitHub 上為 Modrinth 做出貢獻：",
       "line4": "https://github.com/modrinth/"
@@ -340,17 +340,17 @@
       },
       "project": {
         "title": "刪除專案",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "刪除專案會清除所有專案資料，以及版本。",
         "action": "刪除專案"
       },
       "version": {
         "title": "刪除版本",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "description": "刪除版本將會永久刪除所有包含在其中的檔案與相關資料。",
         "action": "刪除版本"
       },
       "account": {
         "title": "你確定要這樣做？",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "description": "這將會**立即刪除您所有的專案**及追蹤者。此動作無法撤銷。\n\n如需尋求帳號相關的協助，請前往 [Modrinth Discord](/discord) 詢問。",
         "action": "是的，不可回復地刪除我的帳號"
       },
       "image": {
@@ -368,8 +368,8 @@
           },
           "information": {
             "label": "附加資訊",
-            "helper": "如果可以，包括連結和圖片。支援Markdown格式。",
-            "placeholder": "新增附加資訊"
+            "helper": "如果可以，包括連結和圖片。支援 Markdown 格式。",
+            "placeholder": "輸入附加資訊…"
           }
         }
       },
@@ -380,33 +380,33 @@
         "action": "檢舉版本"
       },
       "user": {
-        "action": "檢舉用戶"
+        "action": "檢舉使用者"
       }
     },
     "creation": {
       "project": {
         "title": "建立專案",
-        "description": "新項目作為草稿建立，可以在您的個人資料頁面下找到。",
+        "description": "新專案將作為草稿建立，可以在您的個人檔案頁面下找到。",
         "action": "繼續"
       },
       "image": {
         "title": "新增圖庫照片",
-        "action": "加入圖片",
+        "action": "新增圖片",
         "fields": {
           "title": {
             "label": "標題",
             "placeholder": "輸入圖片標題…"
           },
           "description": {
-            "label": "描述",
-            "placeholder": "輸入圖片描述…"
+            "label": "說明",
+            "placeholder": "輸入圖片說明…"
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "更改項目狀態",
+        "title": "變更專案狀態",
         "action": "確認",
         "fields": {
           "status": {
@@ -419,8 +419,8 @@
           },
           "moderation_message": {
             "label": "審核訊息",
-            "helper": "可選的包括與專案團隊成員溝通問題的資訊。 支援Markdown格式。",
-            "placeholder": "新增附加資訊"
+            "helper": "可選擇是否包含與專案團隊成員溝通問題的資訊。支援 Markdown 格式。",
+            "placeholder": "輸入附加資訊…"
           }
         }
       }
@@ -432,13 +432,13 @@
     "magic": "魔法",
     "utility": "實用",
     "decoration": "裝飾",
-    "library": "前置",
+    "library": "函式庫",
     "cursed": "奇怪的",
     "worldgen": "世界生成",
     "storage": "儲存",
     "food": "食物",
     "equipment": "裝備",
-    "miscellaneous": "雜項",
+    "miscellaneous": "其他",
     "challenging": "副本戰鬥",
     "combat": "戰鬥",
     "kitchen-sink": "廚房水槽",
@@ -446,13 +446,13 @@
     "multiplayer": "多人遊戲",
     "quests": "任務",
     "optimization": "最佳化",
-    "fabric": "織物",
-    "forge": "鍛造",
-    "quilt": "被子",
-    "modloader": "模組載入器",
-    "rift": "裂痕",
-    "server": "伺服器",
-    "client": "客戶端",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "伺服器端",
+    "client": "用戶端",
     "good": "良好",
     "trash": "不佳",
     "misc": "其他選項"
