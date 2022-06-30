@@ -278,7 +278,8 @@
       "placeholder": "在这里输入个人简介..."
     },
     "email": {
-      "text": "<b>私人邮箱地址</b>（仅管理员可见）",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "在这里输入邮箱地址……"
     },
     "avatar": "上传头像"

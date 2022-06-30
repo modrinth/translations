@@ -278,7 +278,8 @@
       "placeholder": "Voeg een bio toe..."
     },
     "email": {
-      "text": "<b>Privé e-mailadres</b> (alleen zichtbaar voor moderatoren)",
+      "text": "Privé e-mail",
+      "helper": "Alleen zichtbaar voor moderators.",
       "placeholder": "Voeg een e-mailadres toe..."
     },
     "avatar": "Upload een profielfoto"

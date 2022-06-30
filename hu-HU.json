@@ -3,7 +3,7 @@
     "no_translation": "Ezen oldal származása miatt, az oldal tartalma csak az eredeti nyelven érhető el."
   },
   "index": {
-    "tagline": "Fedezz fel, játsz és készíts Minecraft tartalmat",
+    "tagline": "Fedezz fel, játssz és készíts Minecraft tartalmat",
     "description": "Keress érdekes és minőségi tartalmat a nyílt forráskódú mod platformon keresztül, amely a közösségért készült. Hozz létre, keress pénzt* és fejleszd a saját projektedet a teljesen dokumentált API-val!",
     "features": {
       "book": {
@@ -278,7 +278,8 @@
       "placeholder": "Mutatkozz be!"
     },
     "email": {
-      "text": "<b>Privát E-Mail</b> (csak Moderátorok láthatják)",
+      "text": "Privát email",
+      "helper": "Csak a moderátorok számára látható.",
       "placeholder": "Adj hozzá E-Mailt..."
     },
     "avatar": "Profilkép feltöltése"

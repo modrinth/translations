@@ -278,7 +278,8 @@
       "placeholder": "Lägg till en biografi..."
     },
     "email": {
-      "text": "<b>Privat e-post</b> (visas endast för moderatorer)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Lägg till en e-post..."
     },
     "avatar": "Ladda upp avatar"

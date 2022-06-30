@@ -1,29 +1,29 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Devido à natureza desta página, a única versão oficial deste conteúdo está em Inglês."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
+    "tagline": "Descobre, joga e cria conteúdo no Minecraft",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
-        "title": "Easy to use API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "title": "API fácil de usar",
+        "description": "Apoiado por uma API totalmente documentada, que facilita o crescimento de launchers e integrações de terceiros."
       },
       "coin": {
         "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "Planos para dar aos criadores 100% da receita dos anúncios exibidos nas páginas dos seus projetos. *Pagamentos ainda em desenvolvimento."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "Pesquisa ultrarrápida",
+        "description": "Desenvolvido com algoritmos de busca rápidos e adaptáveis para não precisares de esperar."
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "Comunidade prestável",
+        "description": "Obtém ajuda, desenvolve e diverte-te no nosso servidor de Discord com mais de 1500 membros."
       },
       "puzzle": {
-        "title": "Extensible by design",
+        "title": "Desenhado para ser extendível",
         "description": "Integra com ferramentas de compilação, repositórios, lançadores e aplicações customizadas."
       },
       "tools": {
@@ -57,66 +57,66 @@
         "system": "Tema do Sistema",
         "light": "Modo claro",
         "dark": "Modo escuro",
-        "oled": "OLED mode"
+        "oled": "Modo OLED"
       },
       "language": {
-        "label": "Select language"
+        "label": "Selecionar idioma"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "Erro {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Uh oh, parece que te perdeste no [Labyrinth](https://github.com/modrinth/labrinth).<br />A página que procuras não pode ser encontrada.",
+      "project_missing": "O {type} que procuras não foi encontrado.",
+      "default": "Ocorreu um erro inesperado."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Voltar",
+      "discord": "Obtém ajuda do Discord"
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
-    "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
+    "description": "Descrição",
+    "gallery": "Galeria",
+    "changelog": "Modificações",
+    "versions": "Versões",
+    "settings": "Definições",
+    "moderation": "Moderação",
+    "notifications": "Notificações",
+    "about": "Sobre",
+    "following": "A seguir",
+    "terms": "Termos e condições",
     "privacy": "Política de Privacidade",
-    "rules": "Project rules",
-    "all": "All"
+    "rules": "Regras do projeto",
+    "all": "Tudo"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Licença",
+        "plural": "Licenças"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
+      "project_id": "ID do projeto",
+      "project_status": "Estado do projeto",
+      "minecraft_versions": "Versões de Minecraft",
       "mod_loaders": "Mod loaders",
-      "categories": "Categories",
+      "categories": "Caregorias",
       "downloads": "Downloads",
-      "files": "Files"
+      "files": "Ficheiros"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
-      "feature": "Feature",
-      "report": "Report",
-      "new_project": "New project",
+      "create": "Criar",
+      "edit": "Editar",
+      "follow": "Seguir",
+      "unfollow": "Deixar de seguir",
+      "feature": "Destacar",
+      "report": "Denunciar",
+      "new_project": "Novo projeto",
       "preview": "Pré-Visualizar",
       "download": "Descarregar",
-      "save": "Save",
-      "confirm": "Confirm",
+      "save": "Guardar",
+      "confirm": "Confirmar",
       "remove": "Remover",
       "delete": "Eliminar",
       "cancel": "Cancelar",
@@ -278,7 +278,8 @@
       "placeholder": "Adicionar uma bio..."
     },
     "email": {
-      "text": "<b>Endereço eletrónico privado</b> (apenas visível para moderadores)",
+      "text": "Private email",
+      "helper": "Visível apenas para moderadores.",
       "placeholder": "Adicionar um endereço eletrónico..."
     },
     "avatar": "Carregar uma imagem de perfil"
@@ -291,28 +292,28 @@
       "copyright": "Direitos de Autor",
       "inappropriate": "Inapropriado",
       "malicious": "Malicioso",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "Ocupação de nome",
       "other": "Outro"
     }
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "A carregar projetos seguidos...",
+      "none": "Não seguiste nenhum projeto."
     },
     "delete": {
-      "title": "Delete account",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "title": "Eliminar conta",
+      "body": "Assim que apagues a conta, não é possível voltar atrás. Apagar a tua conta irá remover todos os dados anexados, incluindo projetos, dos nossos servidores."
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
-      "revoke": "Revoke token"
+      "title": "Token de autorização",
+      "body": "O teu token de autorização pode ser usado com a API do Modrinth, o plugin Minotaur Gradle e outras aplicações que interagem com a API do Modrinth. Não te esqueças de guardar este segredo!",
+      "copy": "Copiar token",
+      "copied": "Token copiado",
+      "revoke": "Revogar token"
     },
     "revoke_token": {
-      "title": "Revoke your Modrinth token",
+      "title": "Revogar o teu token Modrinth",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the continue button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "Log out"
     }

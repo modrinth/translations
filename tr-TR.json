@@ -278,7 +278,8 @@
       "placeholder": "Bir özgeçmiş ekle..."
     },
     "email": {
-      "text": "<b>Gizli e-posta</b> (sadece moderatörlere görünür)",
+      "text": "Özel e-posta",
+      "helper": "Sadece moderatörlere görünür.",
       "placeholder": "Bir e-posta ekle..."
     },
     "avatar": "Avatar yükle"

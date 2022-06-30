@@ -278,7 +278,8 @@
       "placeholder": "Rite interestin thingz bout yoo..."
     },
     "email": {
-      "text": "<b>Onwy scawy peopl see dis email</b>",
+      "text": "Privát email",
+      "helper": "Csak a moderátorok számára látható.",
       "placeholder": "Add an email..."
     },
     "avatar": "Put picter"

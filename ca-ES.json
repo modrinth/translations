@@ -278,7 +278,8 @@
       "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "<b>Private email</b> (visible only to moderators)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "Add an email..."
     },
     "avatar": "Pujar avatar"

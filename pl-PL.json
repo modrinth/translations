@@ -188,11 +188,11 @@
       "upload_version": "Przesyłanie wersji",
       "delete_version": "Usuwanie wersji",
       "edit_details": "Edytowanie szczegółów",
-      "edit_body": "Edytowanie treść",
+      "edit_body": "Edytuj opis",
       "manage_invites": "Zarządzanie zaproszeniami",
       "remove_member": "Usuwanie członków",
       "edit_member": "Edytowanie członków",
-      "delete_project": "Usuwanie projektu"
+      "delete_project": "Usuń projekt"
     },
     "role": {
       "text": "Rola",
@@ -218,7 +218,7 @@
     "metadata": "Metadane",
     "release_channel": "Wydanie",
     "number": "Numer wersji",
-    "publication_date": "Data publikacji",
+    "publication_date": "Data wydania",
     "publisher": "Wydawca"
   },
   "search": {
@@ -233,8 +233,8 @@
     "sort": {
       "by": "Sortuj według",
       "relevance": "Trafność",
-      "downloads": "Liczba pobrań",
-      "follows": "Liczba obserwujących",
+      "downloads": "Ilość pobrań",
+      "follows": "Ilość obserwujących",
       "newest": "Ostatnio dodane",
       "updated": "Ostatnio zaktualizowane"
     },
@@ -278,7 +278,8 @@
       "placeholder": "Dodaj informacje o mnie..."
     },
     "email": {
-      "text": "<b>Prywatny e-mail</b> (widoczny tylko dla moderatorów)",
+      "text": "Prywatny e-mail",
+      "helper": "Widoczny tylko dla moderatorów.",
       "placeholder": "Dodaj e-mail..."
     },
     "avatar": "Prześlij awatar"

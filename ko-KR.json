@@ -190,8 +190,8 @@
       "edit_details": "세부 정보 수정",
       "edit_body": "본문 수정",
       "manage_invites": "초대 관리",
-      "remove_member": "구성원 제거",
-      "edit_member": "구성원 편집",
+      "remove_member": "멤버 제거",
+      "edit_member": "멤버 편집",
       "delete_project": "프로젝트 삭제"
     },
     "role": {
@@ -236,7 +236,7 @@
       "downloads": "다운로드 수",
       "follows": "팔로워순",
       "newest": "최근 생성됨",
-      "updated": "최근 업데이트됨"
+      "updated": "최근 갱신"
     },
     "per_page": "페이지 당 표시 수"
   },
@@ -259,13 +259,13 @@
     "moderator": "운영자"
   },
   "stats": {
-    "joined": "가입일: {ago}",
-    "notified": "알림일: {ago}",
+    "joined": "{ago}에 가입함",
+    "notified": "{ago}에 알림을 받음",
     "downloads": "{downloads, plural, other {<b>#</b> 다운로드}}",
     "followers_of_projects": "{followers, plural, other {<b>#</b> 프로젝트 팔로워}}",
     "followers": "{followers, plural, other {<b>#</b> 팔로워}}",
     "user_id": "사용자 ID: {id}",
-    "created": "{ago} 생성됨",
+    "created": "{ago}에 생성됨",
     "updated": "마지막 업데이트: {ago}"
   },
   "settings": {
@@ -278,7 +278,8 @@
       "placeholder": "자기소개 추가..."
     },
     "email": {
-      "text": "<b>비공개 이메일</b> (운영자에게만 보임)",
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
       "placeholder": "이메일 추가..."
     },
     "avatar": "아바타 업로드"
@@ -452,7 +453,7 @@
     "rift": "Rift",
     "server": "서버",
     "client": "클라이언트",
-    "good": "좋음",
+    "good": "양호함",
     "trash": "쓰레기",
     "misc": "기타"
   }
