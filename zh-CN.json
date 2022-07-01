@@ -387,7 +387,21 @@
       "project": {
         "title": "新建项目",
         "description": "新项目最初以草案的方式创建，您可以在您的个人资料页面中找到。",
-        "action": "继续"
+        "action": "继续",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "向图库添加图像",
