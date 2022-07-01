@@ -390,16 +390,16 @@
         "action": "Weiter",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projekttyp"
           },
           "name": {
             "label": "Name",
-            "placeholder": "Enter project name..."
+            "placeholder": "Projektnamen eingeben..."
           },
           "summary": {
             "label": "Kurzbeschreibung",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "helper": "Dies erscheint in Suchergebnissen und in der Seitenleiste Ihres Projekts.",
+            "placeholder": "Geben Sie eine kurze Zusammenfassung ihres Projekts ein..."
           }
         }
       },
