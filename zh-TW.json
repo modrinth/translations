@@ -133,7 +133,7 @@
       "paypal": "PayPal",
       "buy_me_a_coffee": "幫我買一杯咖啡",
       "github_sponsors": "GitHub 贊助者",
-      "donate": "斗內",
+      "donate": "贊助",
       "kofi": "Ko-fi"
     },
     "environments": {
@@ -148,7 +148,7 @@
         "unknown": "未知"
       }
     },
-    "up_to_date": "你是最新的！",
+    "up_to_date": "沒有最新通知！",
     "byline": "作者 <u>{author}</u>"
   },
   "project": {
