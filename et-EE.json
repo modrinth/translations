@@ -390,16 +390,16 @@
         "action": "Jätka",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projekti tüüp"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nimi",
+            "placeholder": "Sisesta projekti nimi..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Kokkuvõte",
+            "helper": "See kuvatakse otsingus ja projekti külgribal.",
+            "placeholder": "Sisesta projekti lühikirjeldus..."
           }
         }
       },
