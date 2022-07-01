@@ -387,7 +387,21 @@
       "project": {
         "title": "プロジェクトを作成",
         "description": "新しいプロジェクトは下書きとして作成され、プロフィールページの下で確認できます。",
-        "action": "続行"
+        "action": "続行",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "ギャラリーの画像を追加",
