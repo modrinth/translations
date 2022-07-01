@@ -387,7 +387,21 @@
       "project": {
         "title": "Crea progetto",
         "description": "I nuovi progetti sono creati come bozze e possono essere trovati sotto la pagina del tuo profilo.",
-        "action": "Continua"
+        "action": "Continua",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "Aggiungi un'immagine alla galleria",
