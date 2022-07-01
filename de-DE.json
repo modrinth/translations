@@ -397,7 +397,7 @@
             "placeholder": "Enter project name..."
           },
           "summary": {
-            "label": "Summary",
+            "label": "Kurzbeschreibung",
             "helper": "This appears in search and on the sidebar of your project's page.",
             "placeholder": "Enter short summary of project..."
           }
@@ -456,7 +456,7 @@
     "challenging": "Herausfordernd",
     "combat": "Kampf",
     "kitchen-sink": "Von allem etwas",
-    "lightweight": "Anspruchslos",
+    "lightweight": "Leichtgewicht",
     "multiplayer": "Mehrspieler",
     "quests": "Aufgaben",
     "optimization": "Optimierung",
