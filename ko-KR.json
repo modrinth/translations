@@ -390,16 +390,16 @@
         "action": "계속",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "프로젝트 유형"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "이름",
+            "placeholder": "프로젝트 이름을 입력하세요..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "요약",
+            "helper": "프로젝트 페이지의 사이드바와 검색에 보여집니다.",
+            "placeholder": "프로젝트의 짧은 요약을 입력하세요..."
           }
         }
       },
