@@ -390,16 +390,16 @@
         "action": "Folytatás",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projekt típusa"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Név",
+            "placeholder": "Írd be a projekt nevét..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Összegzés",
+            "helper": "Ez a keresőben és a projekted oldalán fog megjelenni.",
+            "placeholder": "Írj be egy rövid összegzést a projektedhez..."
           }
         }
       },
