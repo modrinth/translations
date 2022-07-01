@@ -393,13 +393,13 @@
             "label": "Project type"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Naam",
+            "placeholder": "Voer project naam in..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Samenvatting",
+            "helper": "Dit verschijnt in de zoekopdracht en op de zijbalk van de projectpagina.",
+            "placeholder": "Voer een korte samenvatting van het project in..."
           }
         }
       },
