@@ -390,16 +390,16 @@
         "action": "Devam et",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Proje türü"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "İsim",
+            "placeholder": "Proje ismi girin..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Özet",
+            "helper": "Bu aramada ve proje sayfanızın kenar çubuğunda gözüküyor.",
+            "placeholder": "Projenin kısa özetini gir..."
           }
         }
       },
