@@ -387,7 +387,21 @@
       "project": {
         "title": "Loo projekt",
         "description": "Uued projektid luuakse mustanditena ning need on leitavad sinu profiililehelt.",
-        "action": "Jätka"
+        "action": "Jätka",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "Lisa galeriipilt",
