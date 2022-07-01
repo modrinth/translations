@@ -433,7 +433,7 @@
     "utility": "實用",
     "decoration": "裝飾",
     "library": "函式庫",
-    "cursed": "奇怪的",
+    "cursed": "惡搞",
     "worldgen": "世界生成",
     "storage": "儲存",
     "food": "食物",
@@ -455,6 +455,6 @@
     "client": "用戶端",
     "good": "良好",
     "trash": "不佳",
-    "misc": "其他選項"
+    "misc": "其他"
   }
 }
