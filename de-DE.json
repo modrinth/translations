@@ -387,7 +387,21 @@
       "project": {
         "title": "Projekt erstellen",
         "description": "Neue Projekte werden als Entwurf erstellt und können auf Ihrer Profilseite gefunden werden.",
-        "action": "Weiter"
+        "action": "Weiter",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "Galeriebild hinzufügen",
