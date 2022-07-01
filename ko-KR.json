@@ -278,8 +278,8 @@
       "placeholder": "자기소개 추가..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "개인 이메일",
+      "helper": "운영자에게만 보입니다.",
       "placeholder": "이메일 추가..."
     },
     "avatar": "아바타 업로드"
