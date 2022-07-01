@@ -387,7 +387,21 @@
       "project": {
         "title": "Crear proyecto",
         "description": "Los nuevos proyectos se crean como borradores, y se pueden encontrar en tu página de perfil.",
-        "action": "Continuar"
+        "action": "Continuar",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "Agregar imagen de la galería",
