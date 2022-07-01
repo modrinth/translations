@@ -387,7 +387,21 @@
       "project": {
         "title": "建立專案",
         "description": "新專案將作為草稿建立，可以在您的個人檔案頁面下找到。",
-        "action": "繼續"
+        "action": "繼續",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "新增圖庫照片",
