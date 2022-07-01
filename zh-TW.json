@@ -390,14 +390,14 @@
         "action": "繼續",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "專案類型"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "名稱",
+            "placeholder": "請輸入專案的名稱..."
           },
           "summary": {
-            "label": "Summary",
+            "label": "簡介",
             "helper": "This appears in search and on the sidebar of your project's page.",
             "placeholder": "Enter short summary of project..."
           }
