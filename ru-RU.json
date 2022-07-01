@@ -390,16 +390,16 @@
         "action": "Продолжить",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Тип проекта"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Название",
+            "placeholder": "Придумайте название проекта..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Краткое описание",
+            "helper": "Отображается в результатах поиска и боковой панели проекта.",
+            "placeholder": "Добавьте краткое описание проекта..."
           }
         }
       },
