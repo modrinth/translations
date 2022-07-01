@@ -387,7 +387,21 @@
       "project": {
         "title": "Criar projeto",
         "description": "Novos projetos são criados como rascunhos, podendo ser encontrados em seu perfil.",
-        "action": "Prosseguir"
+        "action": "Prosseguir",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "Adicionar imagem para a galeria",
