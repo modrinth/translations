@@ -278,7 +278,7 @@
       "placeholder": "Ajouter une biographie..."
     },
     "email": {
-      "text": "Private email",
+      "text": "E-mail privé",
       "helper": "Only visible to moderators.",
       "placeholder": "Ajouter une adresse e-mail..."
     },
@@ -377,17 +377,17 @@
         "action": "Report project"
       },
       "version": {
-        "action": "Report version"
+        "action": "Signaler la version"
       },
       "user": {
-        "action": "Report user"
+        "action": "Signaler l'utilisateur"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
+        "title": "Créer un projet",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "action": "Continuer",
         "fields": {
           "project_type": {
             "label": "Project type"
@@ -404,11 +404,11 @@
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Ajouter une image dans la galerie",
+        "action": "Ajouter une image",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Titre",
             "placeholder": "Enter image title..."
           },
           "description": {
@@ -434,7 +434,7 @@
           "moderation_message": {
             "label": "Message de modération",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Entrer des informations supplémentaires..."
           }
         }
       }
