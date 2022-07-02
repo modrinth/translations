@@ -278,8 +278,8 @@
       "placeholder": "Bioを追加..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "プライベートメール",
+      "helper": "モデレータのみに表示されます。",
       "placeholder": "電子メールを追加..."
     },
     "avatar": "アバターをアップロード"
@@ -390,16 +390,16 @@
         "action": "続行",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "プロジェクトの種類"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "名前",
+            "placeholder": "プロジェクトの名前を入力..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "概要",
+            "helper": "検索やプロジェクトのページのサイドバーに表示されます。",
+            "placeholder": "プロジェクトの短い概要を入力..."
           }
         }
       },
