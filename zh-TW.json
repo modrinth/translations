@@ -398,8 +398,8 @@
           },
           "summary": {
             "label": "簡介",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "helper": "這會顯示在搜尋和專案頁面的側邊欄上。",
+            "placeholder": "輸入專案的簡短摘要…"
           }
         }
       },
