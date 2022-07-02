@@ -278,8 +278,8 @@
       "placeholder": "자기소개 추가..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "개인 이메일",
+      "helper": "운영자에게만 보입니다.",
       "placeholder": "이메일 추가..."
     },
     "avatar": "아바타 업로드"
@@ -387,7 +387,21 @@
       "project": {
         "title": "프로젝트 생성",
         "description": "새 프로젝트는 초안으로 생성되며, 프로필 페이지에서 찾을 수 있습니다.",
-        "action": "계속"
+        "action": "계속",
+        "fields": {
+          "project_type": {
+            "label": "프로젝트 유형"
+          },
+          "name": {
+            "label": "이름",
+            "placeholder": "프로젝트 이름을 입력하세요..."
+          },
+          "summary": {
+            "label": "요약",
+            "helper": "프로젝트 페이지의 사이드바와 검색에 보여집니다.",
+            "placeholder": "프로젝트의 짧은 요약을 입력하세요..."
+          }
+        }
       },
       "image": {
         "title": "갤러리 이미지 추가",

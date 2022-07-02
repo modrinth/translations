@@ -387,7 +387,21 @@
       "project": {
         "title": "Skapa projekt",
         "description": "Nya projekt skapas som utkast och kan hittas på din profilsida.",
-        "action": "Fortsätt"
+        "action": "Fortsätt",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Enter project name..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
       },
       "image": {
         "title": "Add gallery image",

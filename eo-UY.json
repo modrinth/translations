@@ -179,7 +179,7 @@
     },
     "body": {
       "editor": "Redaktilo",
-      "placeholder": "Enskribu pojektan korpon...",
+      "placeholder": "Enskribu projektan korpon...",
       "empty": "Tiu ĉi projekta priskribo estas malplenan."
     },
     "members": "Membroj",
@@ -387,7 +387,21 @@
       "project": {
         "title": "Krei projekton",
         "description": "Novaj projektoj estas kreitaj kiel skizoj, kaj povas troveblas sub vian profilan paĝon.",
-        "action": "Daŭrigu"
+        "action": "Daŭrigu",
+        "fields": {
+          "project_type": {
+            "label": "Projekta tipo"
+          },
+          "name": {
+            "label": "Nomo",
+            "placeholder": "Enskribu projektan nomon..."
+          },
+          "summary": {
+            "label": "Resumo",
+            "helper": "Ĉi tio aperas serĉante kaj sur la flanka stango de la paĝo de via projekto.",
+            "placeholder": "Enskribu mallongan resumon de projekto..."
+          }
+        }
       },
       "image": {
         "title": "Aldonu galerian bildon",

@@ -387,7 +387,21 @@
       "project": {
         "title": "Project aanmaken",
         "description": "Nieuwe projecten zijn gemaakt als klad, en kunnen gevonden worden onder je profiel pagina.",
-        "action": "Doorgaan"
+        "action": "Doorgaan",
+        "fields": {
+          "project_type": {
+            "label": "Project type"
+          },
+          "name": {
+            "label": "Naam",
+            "placeholder": "Voer project naam in..."
+          },
+          "summary": {
+            "label": "Samenvatting",
+            "helper": "Dit verschijnt in de zoekopdracht en op de zijbalk van de projectpagina.",
+            "placeholder": "Voer een korte samenvatting van het project in..."
+          }
+        }
       },
       "image": {
         "title": "Galerij afbeelding toevoegen",

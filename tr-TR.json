@@ -387,7 +387,21 @@
       "project": {
         "title": "Proje oluştur",
         "description": "Yeni projeler taslak olarak oluşturulur ve profil sayfanızın altında bulunabilir.",
-        "action": "Devam et"
+        "action": "Devam et",
+        "fields": {
+          "project_type": {
+            "label": "Proje türü"
+          },
+          "name": {
+            "label": "İsim",
+            "placeholder": "Proje ismi girin..."
+          },
+          "summary": {
+            "label": "Özet",
+            "helper": "Bu aramada ve proje sayfanızın kenar çubuğunda gözüküyor.",
+            "placeholder": "Projenin kısa özetini gir..."
+          }
+        }
       },
       "image": {
         "title": "Galeri görseli ekle",

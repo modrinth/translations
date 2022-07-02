@@ -387,7 +387,21 @@
       "project": {
         "title": "Projekt erstellen",
         "description": "Neue Projekte werden als Entwurf erstellt und können auf Ihrer Profilseite gefunden werden.",
-        "action": "Weiter"
+        "action": "Weiter",
+        "fields": {
+          "project_type": {
+            "label": "Projekttyp"
+          },
+          "name": {
+            "label": "Name",
+            "placeholder": "Projektnamen eingeben..."
+          },
+          "summary": {
+            "label": "Kurzbeschreibung",
+            "helper": "Dies erscheint in Suchergebnissen und in der Seitenleiste Ihres Projekts.",
+            "placeholder": "Geben Sie eine kurze Zusammenfassung ihres Projekts ein..."
+          }
+        }
       },
       "image": {
         "title": "Galeriebild hinzufügen",
@@ -442,7 +456,7 @@
     "challenging": "Herausfordernd",
     "combat": "Kampf",
     "kitchen-sink": "Von allem etwas",
-    "lightweight": "Anspruchslos",
+    "lightweight": "Leichtgewicht",
     "multiplayer": "Mehrspieler",
     "quests": "Aufgaben",
     "optimization": "Optimierung",

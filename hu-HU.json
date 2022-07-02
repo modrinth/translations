@@ -387,7 +387,21 @@
       "project": {
         "title": "Projekt létrehozása",
         "description": "Az új projektek piszkozatként lesznek létrehozva és a felhasználói profilodnál találhatod meg őket.",
-        "action": "Folytatás"
+        "action": "Folytatás",
+        "fields": {
+          "project_type": {
+            "label": "Projekt típusa"
+          },
+          "name": {
+            "label": "Név",
+            "placeholder": "Írd be a projekt nevét..."
+          },
+          "summary": {
+            "label": "Összegzés",
+            "helper": "Ez a keresőben és a projekted oldalán fog megjelenni.",
+            "placeholder": "Írj be egy rövid összegzést a projektedhez..."
+          }
+        }
       },
       "image": {
         "title": "Kép hozzáadása a galériához",

@@ -387,7 +387,21 @@
       "project": {
         "title": "Utwórz projekt",
         "description": "Nowe projekty są tworzone jako szkice i można je znaleźć na stronie profilowej.",
-        "action": "Kontynuuj"
+        "action": "Kontynuuj",
+        "fields": {
+          "project_type": {
+            "label": "Typ projektu"
+          },
+          "name": {
+            "label": "Nazwa",
+            "placeholder": "Wprowadź nazwę projektu..."
+          },
+          "summary": {
+            "label": "Podsumowanie",
+            "helper": "To pojawia się w wyszukiwarce i na pasku bocznym strony projektu.",
+            "placeholder": "Wprowadź krótkie podsumowanie projektu..."
+          }
+        }
       },
       "image": {
         "title": "Dodaj obraz do galerii",

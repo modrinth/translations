@@ -387,7 +387,21 @@
       "project": {
         "title": "Loo projekt",
         "description": "Uued projektid luuakse mustanditena ning need on leitavad sinu profiililehelt.",
-        "action": "Jätka"
+        "action": "Jätka",
+        "fields": {
+          "project_type": {
+            "label": "Projekti tüüp"
+          },
+          "name": {
+            "label": "Nimi",
+            "placeholder": "Sisesta projekti nimi..."
+          },
+          "summary": {
+            "label": "Kokkuvõte",
+            "helper": "See kuvatakse otsingus ja projekti külgribal.",
+            "placeholder": "Sisesta projekti lühikirjeldus..."
+          }
+        }
       },
       "image": {
         "title": "Lisa galeriipilt",
