@@ -278,8 +278,8 @@
       "placeholder": "Ajouter une biographie..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "E-mail privé",
+      "helper": "Visible uniquement aux modérateurs.",
       "placeholder": "Ajouter une adresse e-mail..."
     },
     "avatar": "Charger un avatar"
@@ -335,80 +335,80 @@
     "deletion": {
       "generic": {
         "important": "Ceci est extrêmement important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "verify": "Pour vérifier, tapez <i>{key}</i> ci-dessous :",
+        "placeholder": "Saisir ici..."
       },
       "project": {
         "title": "Supprimer le projet",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "description": "Supprimer un projet efface toutes les données du projet, y compris les versions.",
+        "action": "Supprimer le projet"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
-        "action": "Delete version"
+        "title": "Supprimer la version",
+        "description": "Supprimer une version supprime définitivement tous les fichiers et métadonnées de la version.",
+        "action": "Supprimer la version"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Êtes-vous sûr(e) de vouloir effectuer cette opération?",
+        "description": "Cela supprimera **immédiatement tous vos projets** et vos suivis. La suppression de votre compte ne peut être annulée.\n\nSi vous avez besoin d'aide avec votre compte, demandez de l'aide sur le [Discord de Modrinth](/discord).",
+        "action": "Oui, supprimer définitivement mon compte"
       },
       "image": {
         "title": "Supprimer l'image de la galerie",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "description": "Supprimer une image de la galerie supprime définitivement le fichier image et les métadonnées.",
         "action": "Supprimer l`image"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Le modding devrait être sûr pour tout le monde, c'est pourquoi nous prenons les abus et les intentions malveillantes au sérieux chez Modrinth. Nous voulons être informés de tout contenu préjudiciable sur le site qui viole nos [CGU](/légal/termes) et [Règles](/légal/règles). Soyez assuré que vos informations d'identification resteront confidentielles.",
         "fields": {
           "reason": {
             "label": "Raison"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "label": "Informations complémentaires",
+            "helper": "Incluez des liens et des images si possible. Le formatage Markdown est pris en charge.",
             "placeholder": "Enter additional information..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Signaler le projet"
       },
       "version": {
-        "action": "Report version"
+        "action": "Signaler la version"
       },
       "user": {
-        "action": "Report user"
+        "action": "Signaler l'utilisateur"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Créer un projet",
+        "description": "Les nouveaux projets sont créés en tant que brouillons, et peuvent être trouvés sous votre page de profil.",
+        "action": "Continuer",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Type de projet"
           },
           "name": {
-            "label": "Name",
+            "label": "Nom",
             "placeholder": "Enter project name..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
+            "label": "Résumé",
+            "helper": "Cela apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
             "placeholder": "Enter short summary of project..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Ajouter une image dans la galerie",
+        "action": "Ajouter une image",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Titre",
             "placeholder": "Enter image title..."
           },
           "description": {
@@ -434,7 +434,7 @@
           "moderation_message": {
             "label": "Message de modération",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Entrer des informations supplémentaires..."
           }
         }
       }

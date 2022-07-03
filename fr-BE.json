@@ -278,8 +278,8 @@
       "placeholder": "Ajouter une biographie..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "Adresse e-mail privée",
+      "helper": "Visible uniquement par les modérateurs.",
       "placeholder": "Ajouter une adresse e-mail..."
     },
     "avatar": "Charger un avatar"
@@ -386,29 +386,29 @@
     "creation": {
       "project": {
         "title": "Créer un projet",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "description": "Les nouveaux projets sont créés en tant que brouillons, et peuvent être trouvés sous votre page de profil.",
         "action": "Continuer",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Type de projet"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nom",
+            "placeholder": "Saisir le nom du projet..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Résumé",
+            "helper": "Ceci apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
+            "placeholder": "Entrez un court résumé du projet..."
           }
         }
       },
       "image": {
         "title": "Ajouter une image pour la galerie",
-        "action": "Add image",
+        "action": "Ajouter une image",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Titre",
             "placeholder": "Saisir le titre de l'image..."
           },
           "description": {
