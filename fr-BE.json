@@ -278,8 +278,8 @@
       "placeholder": "Ajouter une biographie..."
     },
     "email": {
-      "text": "E-mail privé",
-      "helper": "Visible uniquement aux modérateurs.",
+      "text": "Adresse e-mail privée",
+      "helper": "Visible uniquement par les modérateurs.",
       "placeholder": "Ajouter une adresse e-mail..."
     },
     "avatar": "Charger un avatar"
@@ -394,11 +394,11 @@
           },
           "name": {
             "label": "Nom",
-            "placeholder": "Enter project name..."
+            "placeholder": "Saisir le nom du projet..."
           },
           "summary": {
             "label": "Résumé",
-            "helper": "Cela apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
+            "helper": "Ceci apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
             "placeholder": "Enter short summary of project..."
           }
         }
