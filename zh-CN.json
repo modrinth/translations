@@ -397,9 +397,9 @@
             "placeholder": "在此输入项目名称..."
           },
           "summary": {
-            "label": "项目简介",
-            "helper": "这些信息将显示在搜索及您项目页面的侧边栏中。",
-            "placeholder": "Enter short summary of project..."
+            "label": "项目概述",
+            "helper": "这些信息将显示在搜索结果及项目页面的侧边栏中。",
+            "placeholder": "在此输入项目的概述..."
           }
         }
       },
