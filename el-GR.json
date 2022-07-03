@@ -34,15 +34,15 @@
   },
   "header": {
     "my_profile": "Go to my profile",
-    "logout": "Log out",
+    "logout": "Αποσύνδεση",
     "github": "Σύνδεση μέσω GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Το Modrinth είναι λογισμικό ανοιχτού κώδικα.",
     "legal": {
       "heading": "Legal",
       "terms": "Όροι",
-      "privacy": "Ιδιωτικότητα",
+      "privacy": "Απόρρητο",
       "rules": "Κανόνες"
     },
     "resources": {
@@ -51,45 +51,45 @@
       "docs": "Docs"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Ορισμός προτιμήσεων απορρήτου",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Αλλαγή θέματος",
+        "system": "Θέμα συστήματος",
+        "light": "Ανοιχτόχρωμο θέμα",
+        "dark": "Σκουρόχρωμο θέμα",
+        "oled": "Θέμα OLED"
       },
       "language": {
-        "label": "Select language"
+        "label": "Επιλογή γλώσσας"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "{status} Σφάλμα",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Ωχ, φαίνεται πως χάθηκες μέσα στον [Λαβύρινθο](https://github.com/modrinth/labrinth).<br />Η σελίδα που ψάχνεις δε βρέθηκε.",
+      "project_missing": "Το {type} που ψάχνεις δε βρέθηκε.",
+      "default": "Παρουσιάστηκε ένα απρόβλεπτο σφάλμα."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Επιστροφή στην αρχική σελίδα",
+      "discord": "Ζήτα βοήθεια στο Discord"
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
-    "about": "About",
+    "description": "Περιγραφή",
+    "gallery": "Συλλογή",
+    "changelog": "Κατάλογος αλλαγών",
+    "versions": "Εκδόσεις",
+    "settings": "Ρυθμίσεις",
+    "moderation": "Διοίκηση",
+    "notifications": "Ειδοποιήσεις",
+    "about": "Σχετικά με εμάς",
     "following": "Following",
     "terms": "Terms and conditions",
     "privacy": "Privacy policy",
     "rules": "Project rules",
-    "all": "All"
+    "all": "Όλα"
   },
   "generic": {
     "labels": {
@@ -132,41 +132,41 @@
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "github_sponsors": "Χορηγοί του GitHub",
+      "donate": "Δωρεά",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "singular": "Περιβάλλον",
+      "plural": "Περιβάλλοντα",
+      "server_side": "Πλευρά διακομιστή",
+      "client_side": "Πλευρά πελάτη",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Απαιτείται",
+        "unsupported": "Μη υποστηριζόμενη",
+        "optional": "Προαιρετική",
+        "unknown": "Άγνωστη"
       }
     },
-    "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "up_to_date": "Είσαι ενημερωμένος!",
+    "byline": "από <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "singular": "Τροποποίηση",
+        "plural": "Τροποποιήσεις",
+        "search": "Αναζήτηση τροποποιήσεων..."
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "Πακέτο τροποποιήσεων",
+        "plural": "Πακέτα τροποποιήσεων",
+        "search": "Αναζήτηση πακέτων τροποποιήσεων..."
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
-      "featured_versions": "Featured versions",
+      "external_resources": "Εξωτερικές πηγές",
+      "featured_versions": "Προτεινόμενες εκδόσεις",
       "project_members": "Project members",
       "technical_information": "Technical information"
     },
