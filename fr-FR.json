@@ -427,7 +427,7 @@
             "label": "Statut",
             "options": {
               "approve": "Approuver",
-              "unlist": "Unlist",
+              "unlist": "Non répertorié",
               "reject": "Rejeter"
             }
           },
