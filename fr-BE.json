@@ -399,7 +399,7 @@
           "summary": {
             "label": "Résumé",
             "helper": "Ceci apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
-            "placeholder": "Enter short summary of project..."
+            "placeholder": "Entrez un court résumé du projet..."
           }
         }
       },
