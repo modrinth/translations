@@ -369,7 +369,7 @@
           "information": {
             "label": "Informations complémentaires",
             "helper": "Incluez des liens et des images si possible. Le formatage Markdown est pris en charge.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Saisir des informations supplémentaires..."
           }
         }
       },
@@ -394,12 +394,12 @@
           },
           "name": {
             "label": "Nom",
-            "placeholder": "Enter project name..."
+            "placeholder": "Saisir le nom du projet..."
           },
           "summary": {
             "label": "Résumé",
             "helper": "Cela apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
-            "placeholder": "Enter short summary of project..."
+            "placeholder": "Saisir un court résumé du projet..."
           }
         }
       },
@@ -409,11 +409,11 @@
         "fields": {
           "title": {
             "label": "Titre",
-            "placeholder": "Enter image title..."
+            "placeholder": "Saisir le titre de l'image..."
           },
           "description": {
             "label": "Description",
-            "placeholder": "Enter image description..."
+            "placeholder": "Saisir la description de l'image..."
           }
         }
       }
