@@ -278,8 +278,8 @@
       "placeholder": "在这里输入个人简介..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "私人邮箱",
+      "helper": "仅对管理员可见。",
       "placeholder": "在这里输入邮箱地址……"
     },
     "avatar": "上传头像"
@@ -390,15 +390,15 @@
         "action": "继续",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "项目类型"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "项目名称",
+            "placeholder": "在此输入项目名称..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
+            "label": "项目简介",
+            "helper": "这些信息将显示在搜索及您项目页面的侧边栏中。",
             "placeholder": "Enter short summary of project..."
           }
         }
