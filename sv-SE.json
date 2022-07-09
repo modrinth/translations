@@ -110,7 +110,7 @@
       "edit": "Redigera",
       "follow": "Följ",
       "unfollow": "Avfölj",
-      "feature": "Framhäv",
+      "feature": "Feature version",
       "report": "Rapportera",
       "new_project": "Nytt projekt",
       "preview": "Förhandsvisa",
@@ -176,6 +176,9 @@
         "title": "Ange bildtitel...",
         "description": "Ange bildbeskrivning..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Redigerare",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Radera version",
-        "description": "Raderandet av en version raderar permanent alla filer och metadata.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Radera version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Ta bort galleribild",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Ta bort bild"
       }
     },
