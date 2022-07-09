@@ -110,7 +110,7 @@
       "edit": "Edytuj",
       "follow": "Obserwuj",
       "unfollow": "Przestań obserwować",
-      "feature": "Wyróżnij",
+      "feature": "Feature version",
       "report": "Zgłoś",
       "new_project": "Nowy projekt",
       "preview": "Podgląd",
@@ -176,6 +176,9 @@
         "title": "Wprowadź tytuł obrazu...",
         "description": "Wprowadź opis obrazu..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Edytor",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Usuwanie wersji",
-        "description": "Usunięcie wersji trwale usuwa plik i metadane.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Usuń wersję"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Usuń obraz z galerii",
-        "description": "Usunięcie obrazu z galerii trwale usuwa plik i metadane.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Usuń obraz"
       }
     },
