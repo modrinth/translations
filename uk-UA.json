@@ -110,7 +110,7 @@
       "edit": "Редагувати",
       "follow": "Підписатися",
       "unfollow": "Відписатися",
-      "feature": "Рекомендувати",
+      "feature": "Feature version",
       "report": "Поскаржитися",
       "new_project": "Новий проект",
       "preview": "Переглянути",
@@ -176,6 +176,9 @@
         "title": "Введіть назву зображення...",
         "description": "Введіть опис зображення..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Редактор",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Delete version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Delete image"
       }
     },
