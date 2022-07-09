@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "上傳新版本"
     },
     "body": {
       "editor": "編輯器",
