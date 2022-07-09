@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Neue Version hochladen"
     },
     "body": {
       "editor": "Editor",
