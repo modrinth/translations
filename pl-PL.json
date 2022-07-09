@@ -110,7 +110,7 @@
       "edit": "Edytuj",
       "follow": "Obserwuj",
       "unfollow": "Przestań obserwować",
-      "feature": "Feature version",
+      "feature": "Wyróżnij wersję",
       "report": "Zgłoś",
       "new_project": "Nowy projekt",
       "preview": "Podgląd",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Prześlij nową wersję"
     },
     "body": {
       "editor": "Edytor",
@@ -226,7 +226,7 @@
   },
   "search": {
     "filters": {
-      "clear": "Wyszyść filtry",
+      "clear": "Wyczyść",
       "hide": "Ukryj filtry",
       "show": "Pokaż filtry",
       "show_snapshots": "Pokazuj snapshoty",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Usuwanie wersji",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Czy na pewno chcesz usunąć tę wersję? Wszystkie pliki i metadane zostaną nieodwracalnie utracone.",
         "action": "Usuń wersję"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Usuń obraz z galerii",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Czy na pewno chcesz usunąć ten plik obrazu i metadane? Tej akcji nie można cofnąć.",
         "action": "Usuń obraz"
       }
     },
