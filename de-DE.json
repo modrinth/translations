@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Autoren verdienen",
-        "description": "Es ist geplant Autoren 100% der Werbeeinnahmen durch ihre Projektseite auszuzahlen. *Auszahlungen sind aktuell in der Entwicklung."
+        "description": "Es ist geplant, Autoren 100% der Werbeeinnahmen ihrer Projektseiten auszuzahlen. *Auszahlungen sind aktuell in der Entwicklung."
       },
       "speedometer": {
         "title": "Blitzschnelle Suche",
@@ -110,7 +110,7 @@
       "edit": "Bearbeiten",
       "follow": "Folgen",
       "unfollow": "Entfolgen",
-      "feature": "Hervorheben",
+      "feature": "Feature version",
       "report": "Melden",
       "new_project": "Neues Projekt",
       "preview": "Vorschau",
@@ -176,6 +176,9 @@
         "title": "Bildtitel eingeben...",
         "description": "Bildbeschreibung eingeben..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Editor",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Version löschen",
-        "description": "Das Löschen einer Version löscht permanent alle Versionsdateien und Metadaten.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Version löschen"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Galeriebild löschen",
-        "description": "Das Löschen eines Galeriebildes löscht dauerhaft die Bilddatei und Metadaten.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Bild löschen"
       }
     },
