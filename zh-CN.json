@@ -110,7 +110,7 @@
       "edit": "编辑",
       "follow": "关注",
       "unfollow": "取消关注",
-      "feature": "推荐",
+      "feature": "Feature version",
       "report": "举报",
       "new_project": "新建项目",
       "preview": "预览",
@@ -176,6 +176,9 @@
         "title": "输入图像标题...",
         "description": "输入图像描述..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "文本编辑器",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "删除版本",
-        "description": "删除版本号将导致其附随的所有文件和元数据一并被永久删除。",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "删除版本号"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "上传图像至项目图库",
-        "description": "删除项目图库将导致其中的图像文件和元数据一并被永久删除。",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "删除图像"
       }
     },
