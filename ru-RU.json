@@ -86,7 +86,7 @@
     "notifications": "Уведомления",
     "about": "О проекте",
     "following": "Подписки",
-    "terms": "Условия",
+    "terms": "Условия и положения",
     "privacy": "Политика конфиденциальности",
     "rules": "Требования к проектам",
     "all": "Всё"
@@ -110,7 +110,7 @@
       "edit": "Изменить",
       "follow": "Подписаться",
       "unfollow": "Отписаться",
-      "feature": "Рекомендовать",
+      "feature": "Feature version",
       "report": "Жалоба",
       "new_project": "Новый проект",
       "preview": "Просмотр",
@@ -120,7 +120,7 @@
       "remove": "Исключить",
       "delete": "Удалить",
       "cancel": "Отмена",
-      "discard": "Сбросить"
+      "discard": "Отменить изменения"
     },
     "external": {
       "github_profile": "Профиль GitHub",
@@ -176,6 +176,9 @@
         "title": "Введите название изображения...",
         "description": "Введите описание изображения..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Редактор",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Удаление версии",
-        "description": "Это навсегда уничтожит все файлы и метаданные версии.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Удалить версию"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Удаление изображения из галереи",
-        "description": "Удаление изображения навсегда уничтожит его файл и метаданные.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Удалить изображение"
       }
     },
