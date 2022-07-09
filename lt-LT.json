@@ -110,7 +110,7 @@
       "edit": "Edit",
       "follow": "Follow",
       "unfollow": "Unfollow",
-      "feature": "Feature",
+      "feature": "Feature version",
       "report": "Report",
       "new_project": "New project",
       "preview": "Preview",
@@ -176,6 +176,9 @@
         "title": "Enter image title...",
         "description": "Enter image description..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Editor",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Delete version",
-        "description": "Deleting a version permanently deletes all version files and metadata.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Delete version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Delete gallery image",
-        "description": "Deleting a gallery image permanently deletes the image file and metadata.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Delete image"
       }
     },
