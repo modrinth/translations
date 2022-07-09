@@ -110,7 +110,7 @@
       "edit": "Modifier",
       "follow": "Suivre",
       "unfollow": "Ne plus suivre",
-      "feature": "Fonctionnalité",
+      "feature": "Feature version",
       "report": "Signaler",
       "new_project": "Nouveau projet",
       "preview": "Aperçu",
@@ -176,6 +176,9 @@
         "title": "Saisir le titre de l'image...",
         "description": "Saisir la description de l'image..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Éditeur",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Supprimer la version",
-        "description": "Supprimer une version supprime définitivement tous les fichiers et métadonnées de la version.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Supprimer la version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Supprimer l'image de la galerie",
-        "description": "Supprimer une image de la galerie supprime définitivement le fichier image et les métadonnées.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Supprimer l`image"
       }
     },
@@ -369,7 +372,7 @@
           "information": {
             "label": "Informations complémentaires",
             "helper": "Incluez des liens et des images si possible. Le formatage Markdown est pris en charge.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Saisir des informations supplémentaires..."
           }
         }
       },
@@ -394,12 +397,12 @@
           },
           "name": {
             "label": "Nom",
-            "placeholder": "Enter project name..."
+            "placeholder": "Saisir le nom du projet..."
           },
           "summary": {
             "label": "Résumé",
             "helper": "Cela apparaît dans la recherche et sur la barre latérale de la page de votre projet.",
-            "placeholder": "Enter short summary of project..."
+            "placeholder": "Saisir un court résumé du projet..."
           }
         }
       },
@@ -409,11 +412,11 @@
         "fields": {
           "title": {
             "label": "Titre",
-            "placeholder": "Enter image title..."
+            "placeholder": "Saisir le titre de l'image..."
           },
           "description": {
             "label": "Description",
-            "placeholder": "Enter image description..."
+            "placeholder": "Saisir la description de l'image..."
           }
         }
       }
@@ -427,7 +430,7 @@
             "label": "Statut",
             "options": {
               "approve": "Approuver",
-              "unlist": "Unlist",
+              "unlist": "Non répertorié",
               "reject": "Rejeter"
             }
           },
