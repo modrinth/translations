@@ -110,7 +110,7 @@
       "edit": "Szerkesztés",
       "follow": "Követés",
       "unfollow": "Követés törlése",
-      "feature": "Funkció",
+      "feature": "Feature version",
       "report": "Jelentés",
       "new_project": "Új projekt",
       "preview": "Előnézet",
@@ -176,6 +176,9 @@
         "title": "Írd be a kép címét...",
         "description": "Írd be a kép leírását..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Szerkesztő",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Verzió törlése",
-        "description": "A verzió törlése véglegesen töröl minden fájlt és metaadatot.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Verzió törlése"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Kép törlése a galériából",
-        "description": "A kép törlése a galériából visszafordíthatatlanul törli a képet és metaadatokat.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Kép törlése"
       }
     },
