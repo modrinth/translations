@@ -110,7 +110,7 @@
       "edit": "Muuda",
       "follow": "Jälgi",
       "unfollow": "Tühista jälgimine",
-      "feature": "Too esile",
+      "feature": "Feature version",
       "report": "Teavita",
       "new_project": "Uus projekt",
       "preview": "Eelvaade",
@@ -176,6 +176,9 @@
         "title": "Sisesta pildi pealkiri...",
         "description": "Sisesta pildi kirjeldus..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Redaktor",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Versiooni kustutamine",
-        "description": "Versiooni kustutamine kustutab püsivalt kõik versiooni failid ja metaandmed.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Kustuta versioon"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Kustuta galeriipilt",
-        "description": "Galeriipildi kustutamine kustutab püsivalt pildifaili ja selle metaandmed.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Kustuta pilt"
       }
     },
