@@ -110,7 +110,7 @@
       "edit": "編輯",
       "follow": "追蹤",
       "unfollow": "取消追蹤",
-      "feature": "推薦",
+      "feature": "Feature version",
       "report": "檢舉",
       "new_project": "新增專案",
       "preview": "預覽",
@@ -176,6 +176,9 @@
         "title": "輸入圖片標題…",
         "description": "輸入圖片說明…"
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "編輯器",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "刪除版本",
-        "description": "刪除版本將會永久刪除所有包含在其中的檔案與相關資料。",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "刪除版本"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "刪除圖庫照片",
-        "description": "刪除圖庫中的圖片會永久刪除圖檔與相關資料。",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "刪除圖片"
       }
     },
