@@ -110,7 +110,7 @@
       "edit": "Modifu",
       "follow": "Sekvu",
       "unfollow": "Malsekvu",
-      "feature": "Elstarigu",
+      "feature": "Feature version",
       "report": "Denuncu",
       "new_project": "Nova projekto",
       "preview": "Antaŭrigardu",
@@ -176,6 +176,9 @@
         "title": "Enskribu bildan titolon...",
         "description": "Enskribu bildan priskribon..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Redaktilo",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Forigu version",
-        "description": "Forigo de versio konstante forigas ĉiujn versiodosierojn kaj metadatenojn.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Forigu version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Forigu galerian bildon",
-        "description": "Forigo de galeria bildo konstante forigas bildodosieron kaj metadatenojn.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Forigu bildon"
       }
     },
