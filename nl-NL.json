@@ -110,7 +110,7 @@
       "edit": "Bewerk",
       "follow": "Volgen",
       "unfollow": "Ontvolgen",
-      "feature": "Feature version",
+      "feature": "Toekomstige versie",
       "report": "Rapporteer",
       "new_project": "Nieuw project",
       "preview": "Voorbeeld",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Nieuwe versie uploaden"
     },
     "body": {
       "editor": "Bewerker",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Versie verwijderen",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Weet u zeker dat u deze versie wilt verwijderen? Alle bestanden en metadata zullen onherstelbaar verloren gaan.",
         "action": "Versie verwijderen"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Verwijder galerij afbeelding",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Weet je zeker dat u deze afbeelding en metadata wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden.",
         "action": "Verwijder afbeelding"
       }
     },
