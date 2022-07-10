@@ -110,7 +110,7 @@
       "edit": "Editar",
       "follow": "Seguir",
       "unfollow": "Parar de seguir",
-      "feature": "Feature version",
+      "feature": "Destacar versão",
       "report": "Reportar",
       "new_project": "Novo projeto",
       "preview": "Pré-visualização",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Enviar uma nova versão"
     },
     "body": {
       "editor": "Editor",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Excluir versão",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Você tem certeza que quer deletar esta versão? Todos os arquivos e seus metadados serão perdidos irreversivelmente.",
         "action": "Excluir versão"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Excluir imagem da galeria",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Você tem certeza que quer deletar o arquivo dessa imagem e seus metadados? Esta ação não pode ser desfeita.",
         "action": "Excluir Imagem"
       }
     },
