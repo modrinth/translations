@@ -4,7 +4,7 @@
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
-    "description": "Finde spaßige und hochwertige Minecraft Inhalte auf unserer Open Source Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
+    "description": "Finde spaßige und hochwertige Minecraft Inhalte auf unserer Quelloffenen Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
     "features": {
       "book": {
         "title": "Einfach verwendbare API",
@@ -27,8 +27,8 @@
         "description": "Integriert in Entwicklungswerkzeuge, Repositories, Launcher und weitere Anwendungen."
       },
       "tools": {
-        "title": "Vollständig Open Source",
-        "description": "Ein Open-Source-Projekt, entwickelt und gewartet von einer aktiven Community, das Beiträge von jedem willkommen heißt."
+        "title": "VollständigQuelloffen",
+        "description": "Ein Quelloffenes Projekt, entwickelt von einer aktiven Community, welche Beiträge von jedem willkommen heißt."
       }
     }
   },
@@ -38,7 +38,7 @@
     "github": "Mit GitHub anmelden"
   },
   "footer": {
-    "description": "Modrinth ist Open-Source-Software.",
+    "description": "Modrinth ist Quelloffene Software.",
     "legal": {
       "heading": "Rechtliches",
       "terms": "AGB",
@@ -84,12 +84,12 @@
     "settings": "Einstellungen",
     "moderation": "Moderation",
     "notifications": "Benachrichtigungen",
-    "about": "Über",
+    "about": "Über uns",
     "following": "Abonniert",
     "terms": "Nutzungsbedingungen",
     "privacy": "Datenschutzerklärung",
     "rules": "Projektregeln",
-    "all": "Alle Projekte"
+    "all": "Alle"
   },
   "generic": {
     "labels": {
@@ -98,9 +98,9 @@
         "plural": "Lizenzen"
       },
       "project_id": "Projekt ID",
-      "project_status": "Projekt Status",
+      "project_status": "Projektstatus",
       "minecraft_versions": "Minecraft Versionen",
-      "mod_loaders": "Modloader",
+      "mod_loaders": "Modlader",
       "categories": "Kategorien",
       "downloads": "Downloads",
       "files": "Dateien"
@@ -131,7 +131,7 @@
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Buy me a coffee",
+      "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
       "donate": "Spenden",
       "kofi": "Ko-fi"
