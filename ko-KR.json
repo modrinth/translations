@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "새 버전 올리기"
     },
     "body": {
       "editor": "편집기",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "버전 삭제",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "이 버전을 삭제하시겠습니까? 모든 파일과 부가 정보가 완전히 사라질 것입니다.",
         "action": "버전 삭제"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "갤러리 이미지 삭제",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "이 이미지 파일과 부가 정보를 삭제하시겠습니까? 이 행동은 되돌릴 수 없습니다.",
         "action": "이미지 삭제"
       }
     },
