@@ -110,7 +110,7 @@
       "edit": "Изменить",
       "follow": "Подписаться",
       "unfollow": "Отписаться",
-      "feature": "Feature version",
+      "feature": "Рекомендовать",
       "report": "Жалоба",
       "new_project": "Новый проект",
       "preview": "Просмотр",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Загрузить версию"
     },
     "body": {
       "editor": "Редактор",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Удаление версии",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Вы уверены, что хотите удалить эту версию? Все файлы и метаданные будут безвозвратно утеряны.",
         "action": "Удалить версию"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Удаление изображения из галереи",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Вы уверены, что хотите удалить это изображение и метаданные? Это действие нельзя будет отменить.",
         "action": "Удалить изображение"
       }
     },
