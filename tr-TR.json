@@ -110,7 +110,7 @@
       "edit": "Düzenle",
       "follow": "Takip Et",
       "unfollow": "Takibi Bırak",
-      "feature": "Feature version",
+      "feature": "Sürümü öne çıkar",
       "report": "Bildir",
       "new_project": "Yeni proje",
       "preview": "Önizleme",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Yeni sürüm yükle"
     },
     "body": {
       "editor": "Düzenleyici",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Sürüm sil",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Bu sürümü silmek istediğinizden emin misiniz? Tüm dosyalar ve üstveriler geri dönülemez bir şekilde kaybolacak.",
         "action": "Sürüm sil"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Galeri görselini sil",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Bu görsel dosyasını ve üstveriyi silmek istediğinizden emin misiniz? Bu eylem geriye alınamaz.",
         "action": "Görsel sil"
       }
     },
