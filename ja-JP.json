@@ -110,7 +110,7 @@
       "edit": "編集",
       "follow": "フォロー",
       "unfollow": "フォロー解除",
-      "feature": "Feature version",
+      "feature": "注目のバージョン",
       "report": "報告",
       "new_project": "新しいプロジェクト",
       "preview": "プレビュー",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "新しいバージョンをアップロード"
     },
     "body": {
       "editor": "エディター",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "バージョンを削除",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "本当にこのバージョンを削除しますか？すべてのファイルとメタデータは完全に削除されます。",
         "action": "バージョンを削除"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "ギャラリーの画像を削除",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "この画像ファイルとメタデータを本当に削除しますか？この操作は取り消すことができません。",
         "action": "画像を削除"
       }
     },
