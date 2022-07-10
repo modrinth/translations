@@ -194,17 +194,17 @@
       "edit_body": "Beschreibung bearbeiten",
       "manage_invites": "Einladungen verwalten",
       "remove_member": "Mitglieder entfernen",
-      "edit_member": "Mitglieder verwalten",
+      "edit_member": "Mitglieder bearbeiten",
       "delete_project": "Projekt löschen"
     },
     "role": {
       "text": "Rolle",
-      "placeholder": "Rollen eingeben..."
+      "placeholder": "Rolle eingeben..."
     },
-    "advanced": "Fortgeschritten",
+    "advanced": "Erweitert",
     "visibility": {
       "title": "Sichtbarkeit",
-      "description": "Dieses Projekt ist aktuell {status}.",
+      "description": "Dieses Projekt ist actuell {status}.",
       "action": "Sichtbarkeit ändern"
     },
     "ownership": {
@@ -219,17 +219,17 @@
     "feature_action": "Hervorheben",
     "dependencies": "Abhängigkeiten",
     "metadata": "Metadaten",
-    "release_channel": "Release Kanal",
-    "number": "Versionsnummer",
+    "release_channel": "Veröffentlichungskanal",
+    "number": "Versionsnumme",
     "publication_date": "Veröffentlichungsdatum",
-    "publisher": "Autor"
+    "publisher": "Veröffentlicher"
   },
   "search": {
     "filters": {
       "clear": "Filter löschen",
       "hide": "Filter verstecken",
-      "show": "Filter anzeigen",
-      "show_snapshots": "Snapshots anzeigen",
+      "show": "Filter zeigen",
+      "show_snapshots": "Zeige Snapshots",
       "search_versions": "Versionen durchsuchen...",
       "licenses": "Lizenzen"
     },
@@ -238,13 +238,13 @@
       "relevance": "Relevanz",
       "downloads": "Downloads",
       "follows": "Abonnenten",
-      "newest": "Kürzlich erstellte",
-      "updated": "Kürzlich aktualisierte"
+      "newest": "Kürzlich erstellt",
+      "updated": "Kürzlich aktualisiert"
     },
-    "per_page": "Projekte pro Seite"
+    "per_page": "Pro Seite zeigen"
   },
   "status": {
-    "approved": "Angenommen",
+    "approved": "Bestätigt",
     "rejected": "Abgelehnt",
     "draft": "Entwurf",
     "unlisted": "Nicht gelistet",
@@ -258,7 +258,7 @@
   },
   "roles": {
     "developer": "Entwickler",
-    "admin": "Administrator",
+    "admin": "Admin",
     "moderator": "Moderator"
   },
   "stats": {
@@ -269,7 +269,7 @@
     "followers": "{followers, plural, one {<b>#</b> Abonnent} other {<b>#</b> Abonnenten}}",
     "user_id": "Nutzer ID: {id}",
     "created": "Erstellt {ago}",
-    "updated": "Aktualisiert {ago}"
+    "updated": "Aktualisier {ago}"
   },
   "settings": {
     "username": {
@@ -283,96 +283,96 @@
     "email": {
       "text": "Private E-Mail",
       "helper": "Nur für Moderatoren sichtbar.",
-      "placeholder": "E-Mail hinzufügen ..."
+      "placeholder": "E-Mail hinzufügen..."
     },
     "avatar": "Avatar hochladen"
   },
   "report": {
-    "singular": "Melden",
+    "singular": "Meldung",
     "plural": "Meldungen",
     "type": {
       "spam": "Spam",
       "copyright": "Urheberrecht",
       "inappropriate": "Unangemessen",
-      "malicious": "Bösartige Software",
+      "malicious": "Schädlich",
       "name-squatting": "Namensklau",
       "other": "Anderes"
     }
   },
   "user": {
     "following": {
-      "loading": "Abonnierte Projekte werden geladen...",
-      "none": "Du hast bisher keine Projekte abonniert."
+      "loading": "Lade abonnierte Projekte...",
+      "none": "Du folgst keinem Projekt."
     },
     "delete": {
       "title": "Account löschen",
-      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
+      "body": "Sobald du deinen Account gelöscht hast, gibt es kein zurück mehr. Das löschen deines Accounts entfernt sämtliche verbundenen Daten, inklusive Projekte von unseren Servern."
     },
     "auth": {
-      "title": "Authorization Token (für Authentifizierung)",
-      "body": "Dein Authorization Token kann für Anwendungen genutzt werden, die mit der Modrinth API interagieren, z.B. das Minotaur Gradle Plugin. Pass auf, dass du dieses Token immer geheim hältst!",
+      "title": "Berechtigungstoken",
+      "body": "Dein Berechtigungstoken kann für die Modrinth API, das Minotaur Gradle Plugin, und anderen Applikationen, welche mit der Modrinth API kommunizieren verwendet werden. Stell sicher, dass du diesen Token geheim hälst!",
       "copy": "Token in die Zwischenablage kopieren",
-      "copied": "Token kopiert",
-      "revoke": "Token zurückrufen und invalidieren"
+      "copied": "Token in die Zwischenablage kopiert",
+      "revoke": "Token invalidieren"
     },
     "revoke_token": {
       "title": "Modrinth Token invalidieren",
-      "body": "Das Modrinth Token zu invalidieren kann unerwartete Folgen haben. Bitte sei dir bewusst, dass Folgendes kaputt gehen könnte:\n - jede Anwendung die dein Token nutzt um mit der API zu interagieren.\n - Gradle - wenn Minotaur ein falsches Token bekommt, dann könnte dein Gradle build fehlschlagen.\n - GitHub - wenn du eine GitHub Action nutzt, die die Modrinth API verwendet, dann kann dies zu Fehlern führen.\n\nWenn du fortfahren willst, dann führe die folgenden Schritte aus:\n\n 1. Gehe zur [Modrinth Application Seite auf GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Stell sicher, dass du mit dem GitHub Account angemeldet bist den du auch für Modrinth nutzt!\n 2. Drück den großen roten \"Revoke Access\" Knopf neben dem \"Permissions\" Titel.\n\nWenn du diese Schritte abgeschlossen hast, drück auf den \"Continue\" Knopf darunter.\n\n**Dies wird dich von Modrinth abmelden. Wenn du dich dann wieder anmeldest, wird ein neues Token generiert.**",
+      "body": "Das invalidieren deines Modrinth Token kann unerwartete Konsequenzen haben. Sei dir bewusst, dass die folgenden Dinge eventuell nicht mehr funktionieren:\n - Jegliche Anwendung, welche deinen Token für das verwenden der API verwendet.\n - Gradle - Wenn Minotaur einen ungültigen Token erhält, werden deine Gradle builds fehlschlagen.\n - GitHub - Wenn du eine GitHub Action verwendest, welche deinen Token nutzt um mit der Modrinth API zu kommunizieren, wird es fehler geben.\n\nWenn du bereit bist, weiter zu machen, schliesse die folgenden Schritte ab:\n\n 1. Gehe zur [Modrinth Anwendung auf GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Stell sicher, dass du mit dem GitHub Account angemeldet bist, welchen du für Modrinth verwendest!\n 2. Drücke auf den grossen roten \"Revoke Access\" Knopf neben dem \"Permissions\" Titel.\n\nSobald du diese Schritte beendet hast, klicke auf den \"Abmelden\" knopf weiter unten.\n\n**Dies wird dich aus Modrinth abmelden. Solltest du dich jedoch wieder anmelden, wird dein Token neu erstellt.**",
       "action": "Abmelden"
     }
   },
   "images": {
     "replace": "Bild ersetzen",
-    "how_to": "Drag and Drop zum Hochladen oder zum Auswählen klicken"
+    "how_to": "Drag-and-drop zum Hochladen oder klicke zum Auswählen"
   },
   "ads": {
-    "privacy_respecting": "Datenschutzfreundliche Werbung würde hier angezeigt werden.",
+    "privacy_respecting": "Eine Privatsphäre respektierende Werbung wäre hier gezeigt worden.",
     "console": {
-      "line1": "Du nutzt einen Adblocker.",
-      "line2": "Dein Adblocker hält Modrinth davon ab Werbung - unsere einzige Einnahmequelle - anzuzeigen.",
-      "line3": "Wenn du Modrinth trotzdem helfen willst ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
+      "line1": "Du verwendest einen Adblocker.",
+      "line2": "Dein Adblocker hat verhindert, das Modrinth eine Werbung - unsere einzige Einnahmequelle - zeigen konnte.",
+      "line3": "Wenn du Modrinth helfen willst, ohen Werbung zu sehen, kannst du zu Modrinth auf GitHub beitragen!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "Das hier ist äußerst wichtig.",
-        "verify": "Zur Bestätigung gebe <i>{key}</i> unten ein:",
-        "placeholder": "Hier tippen..."
+        "important": "Dies ist ziemlich wichtig.",
+        "verify": "Zum bestätigen, schreibe <i>{key}</i> unten:",
+        "placeholder": "Schreibe hier..."
       },
       "project": {
         "title": "Projekt löschen",
-        "description": "Das Löschen eines Projekts löscht alle Projektdaten, einschließlich der Versionen.",
+        "description": "Das löschen eines Projekts entfernt sämtliche Projektdaten, inklusive versionen.",
         "action": "Projekt löschen"
       },
       "version": {
         "title": "Version löschen",
-        "description": "Sind Sie sicher, dass Sie diese Version löschen möchten? Alle Dateien und Metadaten werden unwiederbringlich verloren gehen.",
+        "description": "Bist du dir sicher, dass du diese Version löschen willst? Sämtliche Dateien und Metadaten werden unwiederuflich verloren gehen.",
         "action": "Version löschen"
       },
       "account": {
-        "title": "Sind Sie sicher, dass Sie dies tun möchten?",
-        "description": "Dies wird **sofort alle deine Projekte löschen** und folgt. Das Löschen deines Kontos kann nicht rückgängig gemacht werden.\n\nWenn du Hilfe mit deinem Account benötigst, erhältst du Unterstützung auf den [Modrinth Discord](/discord).",
-        "action": "Ja, mein Konto unwiderruflich löschen"
+        "title": "Bist du dir sicher, dass du das tun willst?",
+        "description": "Dies wird **alle deine Projekte sofort löschen**, inklusive Abonnenten. Das löschen deines Accounts kann nicht ungeschehen gemacht werden\n\nWenn du hilfe mit deinem Account brauchstm kannst du auf dem [englischen Modrinth Discord](/discord) fragen.",
+        "action": "Ja, mein Account unwiederruflich löschen"
       },
       "image": {
         "title": "Galeriebild löschen",
-        "description": "Sind Sie sicher, dass Sie diese Bilddatei und -metadaten löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",
+        "description": "Bist du dir sicher, dass du dieses Bild und seine Metadaten löschen willst? Diese Aktion kann nicht rückgangig gemacht werden.",
         "action": "Bild löschen"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding sollte für jeden sicher sein, so dass wir Missbrauch und böswillige Absichten bei Modrinth ernst nehmen. Wir möchten über schädliches Verhalten auf der Seite erfahren, das unsere [ToS](/legal/terms) und [Rules](/legal/rules) verletzt. Seien Sie sicher, wir werden Ihre persönlichen Daten vertraulich behandeln.",
+        "description": "Modden sollte sicher für jeden sein, darum nehmen wir bei Modrinth Missbrauch und schädliche Absichten ernst. Wir möchten über schädlichen Content auf unserer Seite, welche unsere [AGB](/legal/terms) und [Regeln](/legal/rules) verletzt hören. Sei versichert, dass wir deine Identität geheim halten werden.",
         "fields": {
           "reason": {
             "label": "Grund"
           },
           "information": {
-            "label": "Zusätzliche Informationen",
-            "helper": "Wenn möglich, Links und Bilder hinzufügen. Markdown Formatierung wird unterstützt.",
-            "placeholder": "Zusätzliche Informationen eingeben..."
+            "label": "Weitere Informationen",
+            "helper": "Wenn möglich, füge Links und Bilder hinzu. Markdown Formattierung wird unterstützt.",
+            "placeholder": "Füge weitere Informationen hinzu..."
           }
         }
       },
@@ -389,20 +389,20 @@
     "creation": {
       "project": {
         "title": "Projekt erstellen",
-        "description": "Neue Projekte werden als Entwurf erstellt und können auf Ihrer Profilseite gefunden werden.",
+        "description": "Neue Projekte werden als Entwurf erstellt und können auf deiner Profilseite gefunden werden.",
         "action": "Weiter",
         "fields": {
           "project_type": {
-            "label": "Projekttyp"
+            "label": "Projetktyp"
           },
           "name": {
             "label": "Name",
             "placeholder": "Projektnamen eingeben..."
           },
           "summary": {
-            "label": "Kurzbeschreibung",
-            "helper": "Dies erscheint in Suchergebnissen und in der Seitenleiste Ihres Projekts.",
-            "placeholder": "Geben Sie eine kurze Zusammenfassung ihres Projekts ein..."
+            "label": "Zusammenfassung",
+            "helper": "Dies erscheint in Suchergebnissen und in der Seitenleiste deines Projekts.",
+            "placeholder": "Zusammenfassung eingeben..."
           }
         }
       },
@@ -436,8 +436,8 @@
           },
           "moderation_message": {
             "label": "Moderationsnachricht",
-            "helper": "Optional Informationen zur Kommunikation mit Teammitgliedern eines Projekts hinzufügen. Markdown Formatierung wird unterstützt.",
-            "placeholder": "Zusätzliche Informationen eingeben..."
+            "helper": "Füge optionale informationen hinzu um das Problem mit dem Team eines Projekts zu besprechen. Markdown formattierung wird unterstützt.",
+            "placeholder": "Füge weitere informationen hinzu..."
           }
         }
       }
