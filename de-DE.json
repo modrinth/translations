@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "Aufgrund des Inhalts dieser Seite ist sie nur in Englisch verfügbar."
+    "no_translation": "Aufgrund des Inhalts dieser Seite ist die offizielle Version nur in English verfügbar."
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
@@ -110,7 +110,7 @@
       "edit": "Bearbeiten",
       "follow": "Folgen",
       "unfollow": "Entfolgen",
-      "feature": "Feature version",
+      "feature": "Empfohlene Version",
       "report": "Melden",
       "new_project": "Neues Projekt",
       "preview": "Vorschau",
