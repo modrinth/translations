@@ -110,7 +110,7 @@
       "edit": "Bearbeiten",
       "follow": "Folgen",
       "unfollow": "Entfolgen",
-      "feature": "Empfohlene Version",
+      "feature": "Hebe Version hervor",
       "report": "Melden",
       "new_project": "Neues Projekt",
       "preview": "Vorschau",
@@ -166,7 +166,7 @@
     },
     "sidebar_headings": {
       "external_resources": "Externe Ressourcen",
-      "featured_versions": "Empfohlene Versionen",
+      "featured_versions": "Hervorgehobene Versionen",
       "project_members": "Projektmitglieder",
       "technical_information": "Technische Informationen"
     },
