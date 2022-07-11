@@ -110,7 +110,7 @@
       "edit": "Modifica",
       "follow": "Segui",
       "unfollow": "Smetti di seguire",
-      "feature": "Metti in evidenza",
+      "feature": "Feature version",
       "report": "Segnala",
       "new_project": "Nuovo progetto",
       "preview": "Anteprima",
@@ -176,6 +176,9 @@
         "title": "Inserisci un titolo per l'immagine...",
         "description": "Inserisci una descrizione per l'immagine..."
       }
+    },
+    "versions": {
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Editor",
@@ -314,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Revoca il tuo token Modrinth",
-      "body": "Revocare il tuo token Modrinth può avere conseguenze indesiderate. Tra le cose che potrebbero subire malfunzionamenti hai:\n - Qualsiasi applicazione che utilizza il token per accedere all'API.\n - Gradle - se a Minotaur viene dato un token errato, le tue build di Gradle potrebbero fallire.\n - GitHub - se usi una GitHub action che utilizza l'API Modrinth, causerà errori.\n\nSe sei disposto a continuare, completa i seguenti passaggi:\n\n 1. Vai alla [pagina applicazione Modrinth su GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assicurati di essere connesso all'account GitHub usato per Modrinth!\n 2. Premi il pulsante rosso \"Revoke Access\" accanto all'intestazione \"Permissions\".\n\nUna volta completati questi passaggi, premi il pulsante continua qui sotto.\n\n**Questo ti disconnetterà da Modrinth, tuttavia, quando accedi di nuovo, il tuo token sarà rigenerato.**",
+      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "Disconnettiti"
     }
   },
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Elimina una versione",
-        "description": "Eliminando una versione permanentemente vengono eliminati tutti i file di versione e i metadati.",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
         "action": "Elimina versione"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Elimina immagine dalla galleria",
-        "description": "Eliminando un immagine dalla galleria viene eliminato permanentemente il file dell'immagine e i metadati.",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Elimina immagine"
       }
     },

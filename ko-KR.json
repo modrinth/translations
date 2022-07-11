@@ -110,7 +110,7 @@
       "edit": "편집",
       "follow": "팔로우",
       "unfollow": "언팔로우",
-      "feature": "추천",
+      "feature": "출시 버전",
       "report": "신고",
       "new_project": "새 프로젝트",
       "preview": "미리보기",
@@ -176,6 +176,9 @@
         "title": "이미지의 제목을 입력하세요...",
         "description": "이미지의 설명을 입력하세요..."
       }
+    },
+    "versions": {
+      "upload": "새 버전 올리기"
     },
     "body": {
       "editor": "편집기",
@@ -314,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Modrinth 토큰 취소",
-      "body": "Modrinth 토큰을 취소하는 것은 의도치 않은 결과를 초래할 수 있습니다. 다음과 같은 것들이 망가질 수 있다는 것을 상기하세요:\n - API에 접근하기 위해 토큰을 사용하는 모든 응용 프로그램.\n - Gradle - Minotaur가 잘못된 토큰을 받는다면 Gradle 빌드가 실패할 수 있습니다.\n - GitHub - Modrinth API를 사용하는 GitHub 액션을 사용한다면 에러가 발생할 것입니다.\n\n계속할 용의가 있다면 다음과 같은 단계를 완료하세요:\n\n 1. [GitHub의 Modrinth 응용 프로그램 페이지] 방문하기(https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Modrinth에서 사용한 GitHub 계정으로 로그인했는지 확인하세요!\n 2. \"Permissions\" 헤더 옆에 있는 크고 빨간 \"Revoke Access\" 버튼을 누르기\n\n이러한 단계를 완료했으면 아래의 계속 버튼을 누르세요.\n\n**이렇게 하면 Modrinth에서 로그아웃되지만 다시 로그인하면 토큰이 다시 생성됩니다.**",
+      "body": "Modrinth 토큰을 취소하는 것은 의도치 않은 결과를 초래할 수 있습니다. 다음과 같은 것들이 망가질 수 있다는 것을 상기하세요:\n - API에 접근하기 위해 토큰을 사용하는 모든 응용 프로그램.\n - Gradle - Minotaur가 잘못된 토큰을 받는다면 Gradle 빌드가 실패할 수 있습니다.\n - GitHub - Modrinth API를 사용하는 GitHub 액션을 사용한다면 에러가 발생할 것입니다.\n\n계속할 용의가 있다면 다음과 같은 단계를 완료하세요:\n\n 1. [GitHub의 Modrinth 응용 프로그램 페이지] 방문하기(https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Modrinth에서 사용한 GitHub 계정으로 로그인했는지 확인하세요!\n 2. \"Permissions\" 헤더 옆에 있는 크고 빨간 \"Revoke Access\" 버튼을 누르기\n\n이러한 단계를 완료했으면 로그아웃 버튼을 누르세요.\n\n**이렇게 하면 Modrinth에서 로그아웃되지만 다시 로그인하면 토큰이 다시 생성됩니다.**",
       "action": "로그아웃"
     }
   },
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "버전 삭제",
-        "description": "버전을 지우는 것은 영원히 모든 버전 파일과 추가 정보를 지웁니다.",
+        "description": "이 버전을 삭제하시겠습니까? 모든 파일과 부가 정보가 완전히 사라질 것입니다.",
         "action": "버전 삭제"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "갤러리 이미지 삭제",
-        "description": "갤러리 이미지를 지우는 것은 영원히 이미지 파일과 추가 정보를 지웁니다.",
+        "description": "이 이미지 파일과 부가 정보를 삭제하시겠습니까? 이 행동은 되돌릴 수 없습니다.",
         "action": "이미지 삭제"
       }
     },

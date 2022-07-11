@@ -110,7 +110,7 @@
       "edit": "Modifier",
       "follow": "S'abonner",
       "unfollow": "Se désabonner",
-      "feature": "Fonctionnalité",
+      "feature": "Recommander cette version",
       "report": "Signaler",
       "new_project": "Nouveau projet",
       "preview": "Aperçu",
@@ -171,11 +171,14 @@
       "technical_information": "Informations techniques"
     },
     "gallery": {
-      "upload": "Upload une image dans la galerie",
+      "upload": "Importer une image dans la galerie",
       "placeholder": {
         "title": "Saisir le titre de l'image...",
         "description": "Saisir la description de l'image..."
       }
+    },
+    "versions": {
+      "upload": "Importer une nouvelle version"
     },
     "body": {
       "editor": "Éditeur",
@@ -185,7 +188,7 @@
     "members": "Membres",
     "permissions": "Permissions",
     "permission": {
-      "upload_version": "Upload une version",
+      "upload_version": "Importer une version",
       "delete_version": "Supprimer une version",
       "edit_details": "Modifier les détails",
       "edit_body": "Modifier le corps",
@@ -314,13 +317,13 @@
     },
     "revoke_token": {
       "title": "Révoquer votre jeton Modrinth",
-      "body": "Révoquer votre jeton Modrinth peut avoir des conséquences inattendues. Veuillez noter que ce qui suit pourrait casser:\n - N'importe quelle application qui utilise votre jeton pour accéder à l'API.\n - Gradle - si Minotaur a un jeton incorrect, vos versions Gradle pourraient échouer.\n - GitHub - si vous utilisez une action GitHub qui utilise l'API Modrinth, cela causera des erreurs.\n\nSi vous êtes prêt à continuer, suivez les étapes suivantes :\n\n 1. Rendez-vous sur la [page de l'application Modrinth sur GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assurez-vous d'être connecté au compte GitHub que vous avez utilisé pour Modrinth !\n 2. Appuyez sur le gros bouton rouge \"Révoquer l'accès\" à côté de l'en-tête \"Autorisations\".\n\nUne fois que vous avez terminé ces étapes, appuyez sur le bouton continuer ci-dessous.\n\n**Cela vous déconnectera de Modrinth, cependant, lorsque vous vous reconnecterez, votre jeton sera régénéré.**",
+      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "Se déconnecter"
     }
   },
   "images": {
     "replace": "Remplacer l'image",
-    "how_to": "Glisser et déposer pour upload ou cliquer pour sélectionner"
+    "how_to": "Glisser et déposer pour importer ou cliquer pour sélectionner"
   },
   "ads": {
     "privacy_respecting": "Une annonce respectueuse de la vie privée aurait été affichée ici.",
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Supprimer la version",
-        "description": "Supprimer une version supprime définitivement tous les fichiers et métadonnées de la version.",
+        "description": "Êtes-vous sûr de vouloir supprimer cette version ? Tous les fichiers et métadonnées seront irrémédiablement perdus.",
         "action": "Supprimer la version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Supprimer l'image de la galerie",
-        "description": "Supprimer une image de la galerie supprime définitivement le fichier image et les métadonnées.",
+        "description": "Êtes-vous sûr de vouloir supprimer cette image et ses métadonnées ? Cette action ne peut être annulée.",
         "action": "Supprimer l`image"
       }
     },
@@ -433,7 +436,7 @@
           },
           "moderation_message": {
             "label": "Message de modération",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "helper": "Incluez éventuellement des informations pour communiquer les problèmes aux membres de l'équipe du projet. Le formatage Markdown est pris en charge.",
             "placeholder": "Entrer des informations supplémentaires..."
           }
         }

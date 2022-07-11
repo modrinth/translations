@@ -110,7 +110,7 @@
       "edit": "Düzenle",
       "follow": "Takip Et",
       "unfollow": "Takibi Bırak",
-      "feature": "Öne Çıkar",
+      "feature": "Sürümü öne çıkar",
       "report": "Bildir",
       "new_project": "Yeni proje",
       "preview": "Önizleme",
@@ -176,6 +176,9 @@
         "title": "Görsel başlığı gir...",
         "description": "Görsel açıklaması gir..."
       }
+    },
+    "versions": {
+      "upload": "Yeni sürüm yükle"
     },
     "body": {
       "editor": "Düzenleyici",
@@ -314,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Modrinth tokeninizi iptal edin",
-      "body": "Modrinth tokeninizi iptal etmek, istenmeyen sonuçlara yol açabilir. Lütfen aşağıdakilerin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a yanlış token verilirse, Gradle yapımlarınız hata verebilir.\n - GitHub - eğer Modrinth API'si kullanan bir GitHub Action'ı kullanıyorsanız, hataya neden olacaktır.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub'taki Modrinth Uygulama sayfasının](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) başına gelin. Modrinth için kullandığınız GitHub hesabınızla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kere bu adımları tamamladıktan sonra, aşağıdaki devam etme tuşuna tıklayın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracaktır ancak tekrar giriş yaparsanız tokeniniz yeniden oluşturulacak.**",
+      "body": "Modrinth tokeninizi iptal etmenin istenmeyen sonuçları olabilir. Lütfen aşağıdakilerinin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a geçersiz token verildiyse, Gradle yapılarınızda hata oluşabilir.\n - GitHub - eğer Modrinth API'sini kullanan bir GitHub Action'ı kullanıyorsanız, hataya sebep verecek.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub üzerinden Modrinth Uygulama sayfasına](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) geçin. Modrinth için kullanmış olduğunuz GitHub hesabıyla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kez bu adımları tamamladığınızda, aşağıdaki \"Çıkış yap\" tuşuna basın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracak, ancak geri giriş yaptığınızda, tokeniniz yeniden oluşturulacak.**",
       "action": "Çıkış yap"
     }
   },
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Sürüm sil",
-        "description": "Bir sürüm kaldırmak, tüm sürüm dosyalarını ve üst veriyi kaldırır.",
+        "description": "Bu sürümü silmek istediğinizden emin misiniz? Tüm dosyalar ve üstveriler geri dönülemez bir şekilde kaybolacak.",
         "action": "Sürüm sil"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Galeri görselini sil",
-        "description": "Bir galeri görselini silmek, kalıcı olarak görsel dosyasını ve üst verisini siler.",
+        "description": "Bu görsel dosyasını ve üstveriyi silmek istediğinizden emin misiniz? Bu eylem geriye alınamaz.",
         "action": "Görsel sil"
       }
     },

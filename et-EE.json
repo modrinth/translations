@@ -110,7 +110,7 @@
       "edit": "Muuda",
       "follow": "Jälgi",
       "unfollow": "Tühista jälgimine",
-      "feature": "Too esile",
+      "feature": "Too versioon esile",
       "report": "Teavita",
       "new_project": "Uus projekt",
       "preview": "Eelvaade",
@@ -176,6 +176,9 @@
         "title": "Sisesta pildi pealkiri...",
         "description": "Sisesta pildi kirjeldus..."
       }
+    },
+    "versions": {
+      "upload": "Laadi uus versioon üles"
     },
     "body": {
       "editor": "Redaktor",
@@ -314,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Muuda Modrinthi pääsutõend kehtetuks",
-      "body": "Modrinthi pääsutõendi kehtetuks muutmisel võivad olla soovimatud tagajärjed. Pane tähele, et järgnevad asjad võivad katki minna:\n - Mistahes rakendus, mis kasutab rakendusliidesele ligipääsemiseks sinu pääsutõendit.\n - Gradle - kui Minotauril on kehtetu pääsutõend, võivad ebaõnnestuda sinu Gradle'i ehitustööd.\n - GitHub - kui kasutad GitHub Action'it, mis kasutab Modrinthi rakendusliidest, hakkab see veateateid tagastama.\n\nKui soovid jätkata, teosta järgnevad sammud:\n\n 1. Mine [GitHubis Modrinthi rakenduse lehele](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Veendu, et oled sisse logitud sama GitHubi kontoga, mida kasutasid Modrinthi jaoks!\n 2. Vajuta suurt punast \"Revoke Access\" (\"tühista ligipääs\") nuppu \"Permissions\" päise kõrval.\n\nKui oled need sammud täitnud, vajuta allpool jätkamisnuppu.\n\n**See logib sind Modrinthist välja, ent kui tagasi sisse logid, luuakse sulle uus pääsutõend.**",
+      "body": "Modrinthi pääsutõendi kehtetuks muutmisel võivad olla soovimatud tagajärjed. Pane tähele, et järgnevad asjad võivad katki minna:\n - Mistahes rakendus, mis kasutab rakendusliidesele ligipääsemiseks sinu pääsutõendit.\n - Gradle - kui Minotauril on kehtetu pääsutõend, võivad ebaõnnestuda sinu Gradle'i ehitustööd.\n - GitHub - kui kasutad GitHub Action'it, mis kasutab Modrinthi rakendusliidest, hakkab see veateateid tagastama.\n\nKui soovid jätkata, teosta järgnevad sammud:\n\n 1. Mine [GitHubis Modrinthi rakenduse lehele](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Veendu, et oled sisse logitud sama GitHubi kontoga, mida kasutasid Modrinthi jaoks!\n 2. Vajuta suurt punast \"Revoke Access\" (\"tühista ligipääs\") nuppu \"Permissions\" päise kõrval.\n\nKui oled need sammud täitnud, vajuta allpool nuppu \"Logi välja\".\n\n**See logib sind Modrinthist välja, ent kui tagasi sisse logid, luuakse sulle uus pääsutõend.**",
       "action": "Logi välja"
     }
   },
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Versiooni kustutamine",
-        "description": "Versiooni kustutamine kustutab püsivalt kõik versiooni failid ja metaandmed.",
+        "description": "Kas soovid kindlasti selle versiooni kustutada? Kõik failid ja metaandmed kaovad jäädavalt.",
         "action": "Kustuta versioon"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Kustuta galeriipilt",
-        "description": "Galeriipildi kustutamine kustutab püsivalt pildifaili ja selle metaandmed.",
+        "description": "Kas soovid kindlasti selle pildifaili ja metaandmed kustutada? Seda tegevust ei saa tagasi võtta.",
         "action": "Kustuta pilt"
       }
     },

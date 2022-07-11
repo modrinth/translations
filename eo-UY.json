@@ -110,7 +110,7 @@
       "edit": "Modifu",
       "follow": "Sekvu",
       "unfollow": "Malsekvu",
-      "feature": "Elstarigu",
+      "feature": "Elstara versio",
       "report": "Denuncu",
       "new_project": "Nova projekto",
       "preview": "Antaŭrigardu",
@@ -176,6 +176,9 @@
         "title": "Enskribu bildan titolon...",
         "description": "Enskribu bildan priskribon..."
       }
+    },
+    "versions": {
+      "upload": "Alŝutu novan version"
     },
     "body": {
       "editor": "Redaktilo",
@@ -314,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Revoku vian Modrinth ĵetonon",
-      "body": "Revoki vian Modrith-ĵetonon povas havi neintencitajn sekvojn. Bonvolu konscii, ke la jenaj povus rompiĝi:\n - Ajna apliko ke uzas vian ĵetonon por aliri la API.\n - Gradle - se Minotaur ricevas malĝustan ĵetonon, biaj Gradle-konstruaĵoj povus malsukcesi.\n - GitHub - se vi uzas GitHub-ago kiu uzas la Modrinth API, ĝi kaŭzos erarojn.\n\nSe vi volas daŭrigi, plenumu la sekvajn paŝojn:\n\n 1. Iru al la [Modrinth Apliko paĝo sur GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Certiĝu esit ensalutina en la GitHub-konton, kiun vi uzis por Modrinth!\n 2. Premu la grandan ruĝan \"Revoku Aliron\" butonon apud la \"Permesoj\" kaplinio.\n\nPost kiam vi plenumis tiujn paŝojn, premu la butonon daŭrigi sube.\n\n**Tio ĉi elsalutos vin el Modrinth. tamen, kiam vi reensalutos, via ĵetono estos regenerita.**",
+      "body": "Revoki vian Modrith-ĵetonon povas havi neintencitajn sekvojn. Bonvolu konscii, ke la jenaj povus rompiĝi:\n - Ajna apliko ke uzas vian ĵetonon por aliri la API.\n - Gradle - se Minotaur ricevas malĝustan ĵetonon, biaj Gradle-konstruaĵoj povus malsukcesi.\n - GitHub - se vi uzas GitHub-ago kiu uzas la Modrinth API, ĝi kaŭzos erarojn.\n\nSe vi volas daŭrigi, plenumu la sekvajn paŝojn:\n\n 1. Iru al la [Modrinth Apliko paĝo sur GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Certiĝu esit ensalutina en la GitHub-konton, kiun vi uzis por Modrinth!\n 2. Premu la grandan ruĝan \"Revoku Aliron\" butonon apud la \"Permesoj\" kaplinio.\n\nPost kiam vi plenumis tiujn paŝojn, premu la butonon \"elsalutu\" sube.\n\n**Tio ĉi elsalutos vin el Modrinth. tamen, kiam vi reensalutos, via ĵetono estos regenerita.**",
       "action": "Ensalutu"
     }
   },
@@ -345,7 +348,7 @@
       },
       "version": {
         "title": "Forigu version",
-        "description": "Forigo de versio konstante forigas ĉiujn versiodosierojn kaj metadatenojn.",
+        "description": "Ĉu vi certas, ke vi volas forigi ĉi tiun version? Ĉiuj dosieroj kaj metadatumoj estos neregeble perditaj.",
         "action": "Forigu version"
       },
       "account": {
@@ -355,7 +358,7 @@
       },
       "image": {
         "title": "Forigu galerian bildon",
-        "description": "Forigo de galeria bildo konstante forigas bildodosieron kaj metadatenojn.",
+        "description": "Ĉu vi certas, ke vi volas forigi ĉi tiun bilddosiero kaj metadatumo? Vi ne povos malfari tion.",
         "action": "Forigu bildon"
       }
     },
