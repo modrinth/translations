@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "撤銷你的 Modrinth 權杖",
-      "body": "撤銷您的 Modrinth 權杖可能會產生意想不到的後果。\n請注意，以下情況可能會失效：\n - 任何使用您的權杖來查詢 API 的應用程式\n - Gradle - 如果 Minotaur 被設定一個不正確的權杖，您的 Gradle 建置可能會失敗\n - GitHub - 如果您使用需要 Modrinth API 的 GitHub Action，將無法正常執行\n\n如果您願意繼續執行，請完成以下步驟：\n\n 1. 前往 [GitHub 上的 Modrinth 應用程式頁面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，並確定有登入正確的帳號。\n2. 按下「Permissions」標題旁邊的紅色 「Revoke Access」按鈕。\n\n一旦完成了這些步驟，請按下面的繼續按鈕。\n\n**這將會使您登出 Modrinth，然而，當你重新登入時，您的權杖將重新生成。**",
+      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "登出"
     }
   },
