@@ -110,7 +110,7 @@
       "edit": "Modifier",
       "follow": "S'abonner",
       "unfollow": "Se désabonner",
-      "feature": "Feature version",
+      "feature": "Recommander cette version",
       "report": "Signaler",
       "new_project": "Nouveau projet",
       "preview": "Aperçu",
@@ -171,14 +171,14 @@
       "technical_information": "Informations techniques"
     },
     "gallery": {
-      "upload": "Upload une image dans la galerie",
+      "upload": "Importer une image dans la galerie",
       "placeholder": {
         "title": "Saisir le titre de l'image...",
         "description": "Saisir la description de l'image..."
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Importer une nouvelle version"
     },
     "body": {
       "editor": "Éditeur",
@@ -188,7 +188,7 @@
     "members": "Membres",
     "permissions": "Permissions",
     "permission": {
-      "upload_version": "Upload une version",
+      "upload_version": "Importer une version",
       "delete_version": "Supprimer une version",
       "edit_details": "Modifier les détails",
       "edit_body": "Modifier le corps",
@@ -323,7 +323,7 @@
   },
   "images": {
     "replace": "Remplacer l'image",
-    "how_to": "Glisser et déposer pour upload ou cliquer pour sélectionner"
+    "how_to": "Glisser et déposer pour importer ou cliquer pour sélectionner"
   },
   "ads": {
     "privacy_respecting": "Une annonce respectueuse de la vie privée aurait été affichée ici.",
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Supprimer la version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Êtes-vous sûr de vouloir supprimer cette version ? Tous les fichiers et métadonnées seront irrémédiablement perdus.",
         "action": "Supprimer la version"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Supprimer l'image de la galerie",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Êtes-vous sûr de vouloir supprimer cette image et ses métadonnées ? Cette action ne peut être annulée.",
         "action": "Supprimer l`image"
       }
     },
@@ -436,7 +436,7 @@
           },
           "moderation_message": {
             "label": "Message de modération",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "helper": "Incluez éventuellement des informations pour communiquer les problèmes aux membres de l'équipe du projet. Le formatage Markdown est pris en charge.",
             "placeholder": "Entrer des informations supplémentaires..."
           }
         }
