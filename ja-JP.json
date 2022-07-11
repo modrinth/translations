@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Modrinthトークンを破棄",
-      "body": "Modrinthトークンを破棄すると、意図しない結果が生じる可能性があります。以下が破損する可能性がありますのでご注意ください:\n - トークンを使用してAPIにアクセスするアプリケーション。\n - Gradle - Minotaurに不正なトークンが与えられた場合、Gradleビルドが失敗する可能性があります。\n - GitHub - Modrinth APIを利用するGitHubアクションを使用すると、エラーが発生します。\n\n続行する場合は、次の手順を実行してください:\n\n 1. [GitHubのModrinthアプリケーションページ](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)へ移動してください。 Modrinthに使用したGitHubのアカウントに必ずログインしてください！\n 2. \"Permissions\" ヘッダーの横にある大きな赤い \"Revoke Access\" ボタンを押します。\n\nこれらの手順を完了したら、下の続行ボタンを押してください。\n\n**これにより、Modrinthからログアウトされますが、再度ログインすると、トークンが再生成されます。**",
+      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "ログアウト"
     }
   },
