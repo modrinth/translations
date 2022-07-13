@@ -77,7 +77,7 @@
     }
   },
   "pages": {
-    "description": "說明",
+    "description": "描述",
     "gallery": "圖庫",
     "changelog": "更新日誌",
     "versions": "版本",
