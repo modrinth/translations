@@ -353,7 +353,7 @@
       },
       "account": {
         "title": "Biztosan ezt akarod tenni?",
-        "description": "Ez **azonnal törölni fog minden projektedet** és követésedet. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
+        "description": "Ez **azonnal törölni fogja az összes projektedet** és azoknak követőit. Ez nem visszavonható!\n\nHa segítségre van szükséged a fiókoddal, írj nekünk a [Modrinth Discord](/discord)-on.",
         "action": "Igen, visszafordíthatatlanul törölni akarom a fiókomat"
       },
       "image": {
