@@ -235,38 +235,38 @@
     },
     "sort": {
       "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "relevance": "Aktualumas",
+      "downloads": "Parsisiuntimų kiekis",
+      "follows": "Stebėtojų kiekis",
+      "newest": "Neseniai sukurta",
+      "updated": "Neseniai atnaujinta"
     },
-    "per_page": "Show per page"
+    "per_page": "Rodyti per puslapį"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "approved": "Patvirtinta",
+    "rejected": "Atmesta",
+    "draft": "Juodraštis",
+    "unlisted": "Nėra sąraše",
+    "processing": "Peržiūrima",
+    "unknown": "Nežinoma"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "Išleidimas",
     "beta": "Beta",
-    "alpha": "Alpha"
+    "alpha": "Alfa"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "Kūrėjas",
+    "admin": "Administratorius",
+    "moderator": "Moderatorius"
   },
   "stats": {
-    "joined": "Joined {ago}",
-    "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "joined": "Prisijungta {ago}",
+    "notified": "Pranešta {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> Atsisiuntimas} few {<b>#</b> Atsisiuntimai} many {<b>#</b> Atsisiuntimai} other {<b>#</b> Atsisiuntimai}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> Projektų stebėtojas} few {<b>#</b> Projektų stebėtojai} many {<b>#</b> Projektų stebėtojai} other {<b>#</b> Projektų stebėtojai}}",
+    "followers": "{followers, plural, one {<b>#</b> Stebėtojas} few {<b>#</b> Stebėtojai} many {<b>#</b> Stebėtojai} other {<b>#</b> Stebėtojai}}",
     "user_id": "User ID: {id}",
     "created": "Created {ago}",
     "updated": "Updated {ago}"
