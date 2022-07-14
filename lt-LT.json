@@ -88,74 +88,74 @@
     "following": "Sekama",
     "terms": "Taisyklės ir Sąlygos",
     "privacy": "Privatumo politika",
-    "rules": "Project rules",
-    "all": "All"
+    "rules": "Projekto taisyklės",
+    "all": "Visi"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Licencija",
+        "plural": "Licencijos"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "project_id": "Projekto ID",
+      "project_status": "Projekto statusas",
+      "minecraft_versions": "\"Minecraft\" versijos",
+      "mod_loaders": "Mod loaderiai",
+      "categories": "Kategorijos",
+      "downloads": "Atsisiuntimai",
+      "files": "Failai"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
-      "feature": "Feature version",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
-      "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
-      "cancel": "Cancel",
-      "discard": "Discard changes"
+      "create": "Sukurti",
+      "edit": "Redaguoti",
+      "follow": "Stebėti",
+      "unfollow": "Nebestebėti",
+      "feature": "Funkcijos versija",
+      "report": "Skundas",
+      "new_project": "Naujas projektas",
+      "preview": "Peržiūra",
+      "download": "Atsisiųsti",
+      "save": "Išsaugoti",
+      "confirm": "Patvirtinti",
+      "remove": "Pašalinti",
+      "delete": "Ištrinti",
+      "cancel": "Atšaukti",
+      "discard": "Atmesti pakeitimus"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "GitHub profilis",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
-      "source": "Source",
-      "wiki": "Wiki",
+      "issues": "Problemos",
+      "source": "Šaltinis",
+      "wiki": "Viki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "github_sponsors": "GitHub Rėmėjai",
+      "donate": "Paaukoti",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "singular": "Aplinka",
+      "plural": "Aplinkos",
+      "server_side": "Serverio pusė",
+      "client_side": "Kliento pusė",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Privaloma",
+        "unsupported": "Nepalaikoma",
+        "optional": "Pasirinktina",
+        "unknown": "Nežinoma"
       }
     },
-    "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "up_to_date": "Esate viską peržiūrėjęs!",
+    "byline": "pagal <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
+        "singular": "Modas",
+        "plural": "Modai",
         "search": "Search mods..."
       },
       "modpack": {
