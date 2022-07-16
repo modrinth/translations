@@ -73,17 +73,17 @@
     },
     "actions": {
       "home": "Tornar al inici",
-      "discord": "Get help on Discord"
+      "discord": "Aconsegueix ajuda al Discord"
     }
   },
   "pages": {
     "description": "Descripció",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
+    "gallery": "Galeria",
+    "changelog": "Registre de canvis",
     "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
+    "settings": "Configuració",
+    "moderation": "Moderació",
+    "notifications": "Notificacions",
     "about": "About",
     "following": "Following",
     "terms": "Terms and conditions",
