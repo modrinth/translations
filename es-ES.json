@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Introduce la descripción del proyecto...",
+      "placeholder": "Introducir la descripción del proyecto...",
       "empty": "La descripción del proyecto está vacía."
     },
     "members": "Miembros",
