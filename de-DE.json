@@ -27,7 +27,7 @@
         "description": "Integriert in Entwicklungswerkzeuge, Repositories, Launcher und weitere Anwendungen."
       },
       "tools": {
-        "title": "VollständigQuelloffen",
+        "title": "Vollständig Quelloffen",
         "description": "Ein Quelloffenes Projekt, entwickelt von einer aktiven Community, welche Beiträge von jedem willkommen heißt."
       }
     }
@@ -309,8 +309,8 @@
       "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
     },
     "auth": {
-      "title": "Authorization Token (für Authentifizierung)",
-      "body": "Dein Authorization Token kann für Anwendungen genutzt werden, die mit der Modrinth API interagieren, z.B. das Minotaur Gradle Plugin. Pass auf, dass du dieses Token immer geheim hältst!",
+      "title": "Authentifizierungs-Token",
+      "body": "Dein Authentifizierungs-Token kann für Anwendungen genutzt werden, die mit der Modrinth API interagieren, z.B. das Minotaur Gradle Plugin. Pass auf, dass du dieses Token immer geheim hältst!",
       "copy": "Token in die Zwischenablage kopieren",
       "copied": "Token kopiert",
       "revoke": "Token zurückrufen und invalidieren"
@@ -330,7 +330,7 @@
     "console": {
       "line1": "Du nutzt einen Adblocker.",
       "line2": "Dein Adblocker hält Modrinth davon ab Werbung - unsere einzige Einnahmequelle - anzuzeigen.",
-      "line3": "Wenn du Modrinth trotzdem helfen willst ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
+      "line3": "Wenn du Modrinth trotzdem helfen willst, ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -436,7 +436,7 @@
           },
           "moderation_message": {
             "label": "Moderationsnachricht",
-            "helper": "Optional Informationen zur Kommunikation mit Teammitgliedern eines Projekts hinzufügen. Markdown Formatierung wird unterstützt.",
+            "helper": "Optionale Informationen zur Kommunikation mit Teammitgliedern eines Projekts hinzufügen. Markdown Formatierung wird unterstützt.",
             "placeholder": "Zusätzliche Informationen eingeben..."
           }
         }
