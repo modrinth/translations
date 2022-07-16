@@ -173,8 +173,8 @@
     "gallery": {
       "upload": "Subir una imagen a la galería",
       "placeholder": {
-        "title": "Introduce el título de la imagen...",
-        "description": "Introduce la descripción de la imagen..."
+        "title": "Introducir el título de la imagen...",
+        "description": "Introducir la descripción de la imagen..."
       }
     },
     "versions": {
