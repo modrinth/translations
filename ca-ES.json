@@ -67,23 +67,23 @@
   "error": {
     "status": "Error {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Oh oh, sembla que t'has perdut en el [Laberint](https://github.com/modrinth/labrinth).<br />. La pàgina que busques no s'ha trobat,.",
+      "project_missing": "El {type} que busques no s'ha trobat.",
+      "default": "S'ha produït un error inesperat."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Tornar al inici",
+      "discord": "Aconsegueix ajuda al Discord"
     }
   },
   "pages": {
     "description": "Descripció",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
+    "gallery": "Galeria",
+    "changelog": "Registre de canvis",
     "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
+    "settings": "Configuració",
+    "moderation": "Moderació",
+    "notifications": "Notificacions",
     "about": "About",
     "following": "Following",
     "terms": "Terms and conditions",

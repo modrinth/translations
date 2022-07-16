@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "Aufgrund des Inhalts dieser Seite ist die offizielle Version nur in English verfügbar."
+    "no_translation": "Aufgrund des Inhalts dieser Seite ist die offizielle Version nur in Englisch verfügbar."
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
@@ -27,7 +27,7 @@
         "description": "Integriert in Entwicklungswerkzeuge, Repositories, Launcher und weitere Anwendungen."
       },
       "tools": {
-        "title": "VollständigQuelloffen",
+        "title": "Vollständig Quelloffen",
         "description": "Ein Quelloffenes Projekt, entwickelt von einer aktiven Community, welche Beiträge von jedem willkommen heißt."
       }
     }
@@ -110,7 +110,7 @@
       "edit": "Bearbeiten",
       "follow": "Folgen",
       "unfollow": "Entfolgen",
-      "feature": "Empfohlene Version",
+      "feature": "Hebe Version hervor",
       "report": "Melden",
       "new_project": "Neues Projekt",
       "preview": "Vorschau",
@@ -166,7 +166,7 @@
     },
     "sidebar_headings": {
       "external_resources": "Externe Ressourcen",
-      "featured_versions": "Empfohlene Versionen",
+      "featured_versions": "Hervorgehobene Versionen",
       "project_members": "Projektmitglieder",
       "technical_information": "Technische Informationen"
     },
@@ -309,15 +309,15 @@
       "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
     },
     "auth": {
-      "title": "Authorization Token (für Authentifizierung)",
-      "body": "Dein Authorization Token kann für Anwendungen genutzt werden, die mit der Modrinth API interagieren, z.B. das Minotaur Gradle Plugin. Pass auf, dass du dieses Token immer geheim hältst!",
+      "title": "Authentifizierungs-Token",
+      "body": "Dein Authentifizierungs-Token kann für Anwendungen genutzt werden, die mit der Modrinth API interagieren, z.B. das Minotaur Gradle Plugin. Pass auf, dass du dieses Token immer geheim hältst!",
       "copy": "Token in die Zwischenablage kopieren",
       "copied": "Token kopiert",
       "revoke": "Token zurückrufen und invalidieren"
     },
     "revoke_token": {
       "title": "Modrinth Token invalidieren",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Das Modrinth Token zu invalidieren kann unerwartete Folgen haben. Bitte sei dir bewusst, dass Folgendes nicht mehr funktionieren könnte:\n - jede Anwendung die deinen Token nutzt, um mit der API zu interagieren.\n - Gradle - wenn Minotaur einen falschen Token bekommt, dann könnte deine Gradle builds fehlschlagen.\n - GitHub - wenn du eine GitHub Action nutzt, die die Modrinth API verwendet, dann kann dies zu Fehlern führen.\n\nWenn du fortfahren willst, dann führe die folgenden Schritte aus:\n\n 1. Gehe zur [Modrinth Application Seite auf GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Stell sicher, dass du mit dem GitHub Account angemeldet bist den du auch für Modrinth nutzt!\n 2. Drück den großen roten \"Zugang widerrufen\" Knopf neben dem \"Berechtigungen\" Titel.\n\nWenn du diese Schritte abgeschlossen hast, drücke auf den \"Weiter\" Knopf darunter.\n\n**Dies wird dich von Modrinth abmelden. Wenn du dich dann wieder anmeldest, wird ein neuer Token generiert.**",
       "action": "Abmelden"
     }
   },
@@ -330,7 +330,7 @@
     "console": {
       "line1": "Du nutzt einen Adblocker.",
       "line2": "Dein Adblocker hält Modrinth davon ab Werbung - unsere einzige Einnahmequelle - anzuzeigen.",
-      "line3": "Wenn du Modrinth trotzdem helfen willst ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
+      "line3": "Wenn du Modrinth trotzdem helfen willst, ohne Werbung anzusehen, dann kannst du auf GitHub etwas zum Projekt beitragen!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -436,7 +436,7 @@
           },
           "moderation_message": {
             "label": "Moderationsnachricht",
-            "helper": "Optional Informationen zur Kommunikation mit Teammitgliedern eines Projekts hinzufügen. Markdown Formatierung wird unterstützt.",
+            "helper": "Optionale Informationen zur Kommunikation mit Teammitgliedern eines Projekts hinzufügen. Markdown Formatierung wird unterstützt.",
             "placeholder": "Zusätzliche Informationen eingeben..."
           }
         }
