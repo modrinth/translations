@@ -16,7 +16,7 @@
       },
       "speedometer": {
         "title": "Αστραπιαία γρήγορη αναζήτηση",
-        "description": "Τροφοδοτημένη από γρήγορους και προσαρμόσιμους αλγόριθμους αναζήτησης ώστε να μη χρειάζεται να περιμένετε."
+        "description": "Τροφοδοτημένη από γρήγορους και προσαρμόσιμους αλγόριθμους αναζήτησης ώστε να μη χρειαστεί να περιμένεις."
       },
       "chat": {
         "title": "Βοηθητική κοινότητα",
@@ -68,7 +68,7 @@
     "status": "{status} Σφάλμα",
     "message": {
       "404": "Ωχ, φαίνεται πως χάθηκες μέσα στον [Λαβύρινθο](https://github.com/modrinth/labrinth).<br />Η σελίδα που ψάχνεις δε βρέθηκε.",
-      "project_missing": "Το {type} που αναζητάς δε βρέθηκε.",
+      "project_missing": "Το {type} που ψάχνεις δε βρέθηκε.",
       "default": "Παρουσιάστηκε ένα απρόβλεπτο σφάλμα."
     },
     "actions": {
@@ -310,168 +310,168 @@
     },
     "auth": {
       "title": "Token εξουσιοδότησης",
-      "body": "Το token εξουσιοδότησης μπορεί να χρησιμοποιηθεί με το Modrinth API, το πρόσθετο Minotaur για Gradle, και άλλες εφαρμογές που αλληλεπιδρούν με το API του Modrinth. Κράτησε το μυστικό!",
+      "body": "Το token εξουσιοδότησης σου μπορεί να χρησιμοποιηθεί με το Modrinth API, το πρόσθετο Minotaur για Gradle, και άλλες εφαρμογές που αλληλεπιδρούν με το API του Modrinth. Σιγουρέψου ότι θα το κρατήσεις μυστικό!",
       "copy": "Αντιγραφή token στο πρόχειρο",
       "copied": "Αντιγράφηκε το token στο πρόχειρο",
       "revoke": "Ανάκληση token"
     },
     "revoke_token": {
       "title": "Ανάκληση Modrinth token",
-      "body": "Η ανάκληση του Modrinth token μπορεί να έχει απρόβλεπτες συνέπειες. Λάβετε υπόψη ότι τα ακόλουθα μπορεί να χαλάσουν:\n - Όποια εφαρμογή που χρησιμοποιεί το token σας για πρόσβαση στο API.\n - Gradle - αν δοθεί στο Minotaur ένα λανθασμένο token, οι κατασκευές Gradle θα μπορούσαν να αποτύχουν.\n - GitHub - αν χρησιμοποιήσετε μια ενέργεια του GitHub που χρησιμοποιεί το API του Modrinth, θα προκληθούν σφάλματα.\n\nΕάν είστε πρόθυμοι να συνεχίσετε, ολοκληρώστε τα ακόλουθα βήματα:\n\n 1. Μεταβείτε στη σελίδα [εφαρμογής Modrinth στο GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Βεβαιωθείτε ότι έχετε συνδεθεί στο λογαριασμό GitHub που χρησιμοποιήσατε για το Modrinth!\n 2. Πατήστε το μεγάλο κόκκινο κουμπί \"Revoke Access\" (Ανάκληση Πρόσβασης) δίπλα στην επικεφαλίδα \"Permissions\" (Δικαιώματα).\n\nΑφού ολοκληρώσετε αυτά τα βήματα, πατήστε το κουμπί \"Αποσύνδεση\" παρακάτω.\n\n**Αυτό θα σας αποσυνδέσει από το Modrinth, ωστόσο, όταν συνδεθείτε ξανά, το token σας θα αναδημιουργηθεί.**",
+      "body": "Η ανάκληση του Modrinth token μπορεί να έχει απρόβλεπτες συνέπειες. Λάβε υπόψη ότι τα ακόλουθα μπορεί να χαλάσουν:\n - Όποια εφαρμογή που χρησιμοποιεί το token σου για πρόσβαση στο API.\n - Gradle - αν δοθεί στο Minotaur ένα λανθασμένο token, οι κατασκευές Gradle θα μπορούσαν να αποτύχουν.\n - GitHub - αν χρησιμοποιείς μια ενέργεια του GitHub που χρησιμοποιεί το API του Modrinth, θα προκληθούν σφάλματα.\n\nΕάν θέλεις να συνεχίσεις, ολοκλήρωσε τα ακόλουθα βήματα:\n\n 1. Μεταβάσου στη σελίδα [εφαρμογής Modrinth στο GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Βεβαιώσου ότι έχεις συνδεθεί στο λογαριασμό GitHub που χρησιμοποίησες για το Modrinth!\n 2. Πάτα το μεγάλο κόκκινο κουμπί \"Revoke Access\" (Ανάκληση Πρόσβασης) δίπλα στην επικεφαλίδα \"Permissions\" (Δικαιώματα).\n\nΑφού ολοκληρώσεις αυτά τα βήματα, πάτα το κουμπί \"Αποσύνδεση\" παρακάτω.\n\n**Αυτό θα σε αποσυνδέσει από το Modrinth, ωστόσο, όταν συνδεθείς ξανά, το token σου θα αναδημιουργηθεί.**",
       "action": "Αποσύνδεση"
     }
   },
   "images": {
     "replace": "Αντικατάσταση εικόνας",
-    "how_to": "Drag and drop to upload or click to select"
+    "how_to": "Σύρετε και αποθέστε για να ανεβάσετε ή κάντε κλικ για να επιλέξετε"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Εδώ θα είχε παρουσιαστεί μια διαφήμιση με σεβασμό προς το απόρρητο.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Χρησιμοποιείς ένα adblocker.",
+      "line2": "Το adblocker σου απέτρεψε το Modrinth απ' το να δείξει μια διαφήμιση, τη μόνη πηγή εισοδήματος μας.",
+      "line3": "Αν εξακολουθείς να θέλεις να βοηθήσεις το Modrinth χωρίς διαφημίσεις, μπορείς να συνεισφέρεις στο Modrinth στο GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Αυτό είναι άκρως σημαντικό.",
+        "verify": "Για επαλήθευση, πληκτρολόγησε<i>{key}</i> παρακάτω:",
+        "placeholder": "Εισαγωγή εδώ..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Διαγραφή έργου",
+        "description": "Η διαγραφή ενός έργου διαγράφει όλα τα δεδομένα του έργου, συμπεριλαμβανομένων των εκδόσεων.",
+        "action": "Διαγραφή έργου"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Διαγραφή έκδοσης",
+        "description": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν την έκδοση? Όλα τα αρχεία και τα μεταδεδομένα θα χαθούν ανεπανόρθωτα.",
+        "action": "Διαγραφή έκδοσης"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Είστε βέβαιοι ότι θέλετε να το κάνετε αυτό;",
+        "description": "Αυτό θα **διαγράψει αμέσως όλα τα έργα σου** και τις ακολουθίες. Η διαγραφή του λογαριασμού σου δεν μπορεί να αντιστραφεί.\n\nΕάν χρειάζεσε βοήθεια με τον λογαριασμό σου, ζήτα υποστήριξη από στο [Modrinth Discord](/discord).",
+        "action": "Ναι, να διαγραφεί ανεπανόρθωτα ο λογαριασμός μου"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Διαγραφή εικόνας συλλογής",
+        "description": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το αρχείο εικόνας και μεταδεδομένων? Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.",
+        "action": "Διαγραφή εικόνας"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Το modding θα πρέπει να είναι ασφαλής για όλους, έτσι παίρνουμε σοβαρά την κακοποίηση και την κακόβουλη πρόθεση στο Modrinth. Θέλουμε να ακούσουμε για επιβλαβές περιεχόμενο στην ιστοσελίδα που παραβιάζει το [ToS](/legal/terms) μας και τους [Κανόνες](/legal/rules). Οι πληροφορίες ταυτοποίησής σου θα κρατηθούν ιδιωτικές.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Αιτία"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Επιπρόσθετες πληροφορίες",
+            "helper": "Συμπεριλάβετε συνδέσμους και εικόνες αν είναι εφικτό. Υποστηρίζεται μορφοποίηση Markdown.",
+            "placeholder": "Εισαγωγή επιπρόσθετων πληροφοριών..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Αναφορά έργου"
       },
       "version": {
-        "action": "Report version"
+        "action": "Αναφορά έκδοσης"
       },
       "user": {
-        "action": "Report user"
+        "action": "Αναφορά χρήστη"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Δημιουργία έργου",
+        "description": "Τα νέα έργα δημιουργούνται ως πρόχειρα και μπορούν να βρεθούν στη σελίδα του προφίλ.",
+        "action": "Συνέχεια",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Τύπος έργου"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Όνομα",
+            "placeholder": "Εισαγωγή ονόματος έργου..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Σύνοψη",
+            "helper": "Αυτό εμφανίζεται στην αναζήτηση και στην πλαϊνή μπάρα της σελίδας του έργου.",
+            "placeholder": "Εισαγωγή σύντομης περίληψης του έργου..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Προσθήκη εικόνας συλλογής",
+        "action": "Προσθήκη εικόνας",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Τίτλος",
+            "placeholder": "Εισαγωγή τίτλου εικόνας..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Περιγραφή",
+            "placeholder": "Εισαγωγή περιγραφής εικόνας..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Αλλαγή κατάστασης έργου",
+        "action": "Επιβεβαίωση",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Κατάσταση",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Έγκριση",
+              "unlist": "Κατάργηση καταχώρισης",
+              "reject": "Απόρριψη"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Μήνυμα συντονισμού",
+            "helper": "Προαιρετικά να συμπεριληφθούν πληροφορίες για την επικοινωνία προβλημάτων με τα μέλη της ομάδας ενός έργου. Η μορφοποίηση Markdown υποστηρίζεται.",
+            "placeholder": "Εισαγωγή επιπρόσθετων πληροφοριών..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
-    "combat": "Combat",
+    "technology": "Τεχνολογία",
+    "adventure": "Περιπέτεια",
+    "magic": "Μαγεία",
+    "utility": "Χρησιμότητα",
+    "decoration": "Διακόσμηση",
+    "library": "Βιβλιοθήκη",
+    "cursed": "Καταραμένο",
+    "worldgen": "Δημιουργία κόσμου",
+    "storage": "Αποθήκευση",
+    "food": "Τρόφιμα",
+    "equipment": "Εξοπλισμός",
+    "miscellaneous": "Διάφορα",
+    "challenging": "Πρόκληση",
+    "combat": "Μάχη",
     "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "lightweight": "Ελαφρύ",
+    "multiplayer": "Πολλαπλών παικτών",
+    "quests": "Αποστολές",
+    "optimization": "Βελτιστοποίηση",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
-    "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "server": "Διακομιστής",
+    "client": "Πελάτης",
+    "good": "Καλό",
+    "trash": "Άχρηστο",
+    "misc": "Διάφορα"
   }
 }
