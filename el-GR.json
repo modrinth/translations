@@ -65,7 +65,7 @@
     }
   },
   "error": {
-    "status": "{status} Σφάλμα",
+    "status": "Σφάλμα {status}",
     "message": {
       "404": "Ωχ, φαίνεται πως χάθηκες μέσα στον [Λαβύρινθο](https://github.com/modrinth/labrinth).<br />Η σελίδα που ψάχνεις δε βρέθηκε.",
       "project_missing": "Το {type} που ψάχνεις δε βρέθηκε.",
