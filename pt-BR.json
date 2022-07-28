@@ -4,41 +4,41 @@
   },
   "index": {
     "tagline": "Descubra, jogue e crie conteúdo de Minecraft",
-    "description": "Encontre conteúdo de qualidade através da nossa plataforma de modding de código aberto construída para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto com nossa API totalmente documentada!",
+    "description": "Encontre conteúdo de qualidade através da nossa plataforma open source de modding construída para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto com nossa API completamente documentada!",
     "features": {
       "book": {
         "title": "API fácil de usar",
-        "description": "Estruturado por uma API 100% documentada, facilitando launchers e outras integrações de terceiros."
+        "description": "Estruturado por uma API completamente documentada, facilitando integrações em launchers e outras integrações de terceiros."
       },
       "coin": {
-        "title": "Receita dos Autores",
-        "description": "Planos para dar aos criadores 100% da receita dos anúncios exibidos nas páginas de seus projetos. *Receita dos Autores ainda em desenvolvimento."
+        "title": "Receita dos Criadores",
+        "description": "Planejamos dar aos criadores 100% da receita dos anúncios exibidos nas páginas de seus projetos. *Receita dos Criadores ainda em desenvolvimento."
       },
       "speedometer": {
         "title": "Pesquisa ultrarrápida",
-        "description": "Desenvolvido com algoritmos de busca rápidos para que você não precise esperar."
+        "description": "Desenvolvido com algoritmos de busca rápidos e para que você mal precise esperar."
       },
       "chat": {
         "title": "Comunidade prestativa",
-        "description": "Consiga suporte, desenvolva e divirta-se em nosso servidor do Discord com mais de 1.500 membros."
+        "description": "Receba suporte, desenvolva e divirta-se em nosso servidor do Discord com mais de 1.500 membros."
       },
       "puzzle": {
         "title": "Ampliável por design",
         "description": "Integração com ferramentas de compilação, repositórios, launchers e aplicações personalizadas."
       },
       "tools": {
-        "title": "100% código-aberto",
+        "title": "Completamente open source",
         "description": "Um projeto de código-aberto mantido por uma comunidade ativa que acolhe contribuições."
       }
     }
   },
   "header": {
-    "my_profile": "Ir ao meu perfil",
+    "my_profile": "Ir pro meu perfil",
     "logout": "Sair",
     "github": "Entrar com GitHub"
   },
   "footer": {
-    "description": "Modrinth é software de código-aberto.",
+    "description": "Modrinth é software open source.",
     "legal": {
       "heading": "Jurídico",
       "terms": "Termos",
@@ -51,7 +51,7 @@
       "docs": "Documentação"
     },
     "buttons": {
-      "privacy": "Definir preferências de privacidade",
+      "privacy": "Definir configurações de privacidade",
       "theme": {
         "label": "Mudar tema",
         "system": "Tema do sistema",
@@ -67,8 +67,8 @@
   "error": {
     "status": "Erro {status}",
     "message": {
-      "404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não pôde ser encontrada.",
-      "project_missing": "O {type} que você estava procurando não pôde ser encontrado.",
+      "404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não foi encontrada.[Labyrinth].",
+      "project_missing": "O {type} que você estava procurando não foi encontrado.",
       "default": "Um erro inesperado aconteceu."
     },
     "actions": {
@@ -89,7 +89,7 @@
     "terms": "Termos e condições",
     "privacy": "Política de privacidade",
     "rules": "Regras do projeto",
-    "all": "Todos"
+    "all": "Tudo"
   },
   "generic": {
     "labels": {
@@ -123,24 +123,24 @@
       "discard": "Descartar mudanças"
     },
     "external": {
-      "github_profile": "Perfil GitHub",
+      "github_profile": "Perfil do GitHub",
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Problemas",
       "source": "Código-fonte",
-      "wiki": "Documentação",
+      "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Me pague um café",
-      "github_sponsors": "Patrocinadores GitHub",
+      "github_sponsors": "Patrocinadores no GitHub",
       "donate": "Doar",
       "kofi": "Ko-Fi"
     },
     "environments": {
       "singular": "Ambiente",
       "plural": "Ambientes",
-      "server_side": "Servidor",
-      "client_side": "Cliente",
+      "server_side": "Parte do servidor",
+      "client_side": "Parte do Cliente",
       "values": {
         "required": "Obrigatório",
         "unsupported": "Sem suporte",
