@@ -40,7 +40,7 @@
   "footer": {
     "description": "Το Modrinth είναι λογισμικό ανοιχτού κώδικα.",
     "legal": {
-      "heading": "Νομικό περιεχόμενο",
+      "heading": "Νομικά",
       "terms": "Όροι",
       "privacy": "Απόρρητο",
       "rules": "Κανόνες"
@@ -82,7 +82,7 @@
     "changelog": "Κατάλογος αλλαγών",
     "versions": "Εκδόσεις",
     "settings": "Ρυθμίσεις",
-    "moderation": "Συντονισμός",
+    "moderation": "Διοίκηση",
     "notifications": "Ειδοποιήσεις",
     "about": "Σχετικά με εμάς",
     "following": "Ακολουθούμενα",
