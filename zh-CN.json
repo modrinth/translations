@@ -79,7 +79,7 @@
   "pages": {
     "description": "描述",
     "gallery": "图库",
-    "changelog": "变更日志",
+    "changelog": "更新日志",
     "versions": "版本",
     "settings": "设置",
     "moderation": "管理",
@@ -134,7 +134,7 @@
       "buy_me_a_coffee": "赞助我一杯咖啡",
       "github_sponsors": "GitHub Sponsors",
       "donate": "捐助",
-      "kofi": "Ko-Fi"
+      "kofi": "科幻"
     },
     "environments": {
       "singular": "运行环境",
@@ -142,7 +142,7 @@
       "server_side": "服务端",
       "client_side": "客户端",
       "values": {
-        "required": "必装",
+        "required": "必需的",
         "unsupported": "不支持",
         "optional": "可选",
         "unknown": "未知"
