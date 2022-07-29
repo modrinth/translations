@@ -1,40 +1,40 @@
 {
   "locale": {
-    "no_translation": "由于本页的性质有别，此内容仅提供以英文书写的正式版本。"
+    "no_translation": "由于本页的法律性质，英文是唯一的官方版本。"
   },
   "index": {
-    "tagline": "探寻、游玩并创作有关 Minecraft 的内容",
-    "description": "在我们为社区打造的开源模组平台上寻找愉悦身心的优质内容。或是通过我们文档齐备的 API 来发布作品并获取报酬!",
+    "tagline": "发现、游玩并创建Minecraft相关内容",
+    "description": "通过我们为社区建立的开源模组平台，来提供令人愉快的高质量的内容。创建模组，获得报酬*，并通过我们完整的API来发布你的项目",
     "features": {
       "book": {
-        "title": "清晰易用的 API",
-        "description": "通过文档齐备的 API 为第三方集成与启动器的发展赋能。"
+        "title": "易于使用的API",
+        "description": "通过一个完整的 API 来促进第三方集成和启动器的发展。"
       },
       "coin": {
-        "title": "创作者收益回馈",
+        "title": "创作者收益",
         "description": "我们计划让项目页面中 100% 的广告收入均归创作者所有。*结算系统正在开发中。"
       },
       "speedometer": {
-        "title": "极速搜索 快如闪电",
-        "description": "由一个响应迅速高效，情境适用广泛的搜索引擎所驱动，极速检索，无需等待。"
+        "title": "这个搜索比闪电还快！",
+        "description": "由一个快速且适应性强的搜索算法提供支持，因此你不必等待。"
       },
       "chat": {
         "title": "互帮互助的社区",
-        "description": "在我们超过千名成员的 Discord 服务器上，或寻求支持，或开发研讨，甚至是互娱吹水，友善的社区总能让您感到宾至如归。"
+        "description": "在我们拥有超过1500名成员的Discord服务器上获取支持、开发讨论或者进行友善交流。"
       },
       "puzzle": {
         "title": "与生俱来的可拓展性",
         "description": "与构建工具，代码仓库，启动器，甚至是自定义应用快捷高效地集成。"
       },
       "tools": {
-        "title": "程序完全开源",
-        "description": "这是一个由活跃社区构建的开源平台，任何小贡献都能汇聚成大力量，我们期待您的贡献。"
+        "title": "完全开放源代码",
+        "description": "这是一个由活跃的社区维护的开源项目，我们期待您的贡献。"
       }
     }
   },
   "header": {
     "my_profile": "前往我的个人主页",
-    "logout": "登出",
+    "logout": "退出登录",
     "github": "通过 GitHub 登录"
   },
   "footer": {
@@ -46,18 +46,18 @@
       "rules": "社区守则"
     },
     "resources": {
-      "heading": "资源库",
+      "heading": "相关链接",
       "blog": "博客",
       "docs": "文档"
     },
     "buttons": {
-      "privacy": "设置隐私管理偏好",
+      "privacy": "设置隐私偏好",
       "theme": {
-        "label": "更改界面主题",
+        "label": "改变modrinth主题",
         "system": "跟随系统设置",
-        "light": "浅色模式",
-        "dark": "深色模式",
-        "oled": "OLED 模式"
+        "light": "明亮模式",
+        "dark": "暗夜模式",
+        "oled": "荧光模式"
       },
       "language": {
         "label": "选择语言"
@@ -65,14 +65,14 @@
     }
   },
   "error": {
-    "status": "错误 {status}",
+    "status": "{status} 错误",
     "message": {
-      "404": "啊噗，看起来您在后端程序 [迷宫](https://github.com/modrinth/labrinth) 里迷路了。<br />您所寻找的页面并不存在哦。",
+      "404": "啊噗，看样子你好像被困在[迷宫]中了(https://github.com/modrinth/labrinth)。<br />这里没有你寻找的页面哦~",
       "project_missing": "未找到您想要的 {type} 。",
       "default": "发生了一个意外的错误。"
     },
     "actions": {
-      "home": "返回主页",
+      "home": "回到主页",
       "discord": "在Discord上寻求帮助"
     }
   },
@@ -83,12 +83,12 @@
     "versions": "版本",
     "settings": "设置",
     "moderation": "管理",
-    "notifications": "消息提醒",
+    "notifications": "通知",
     "about": "相关信息",
     "following": "关注中",
-    "terms": "条款及细则",
+    "terms": "服务条款与条件",
     "privacy": "隐私政策",
-    "rules": "项目守则",
+    "rules": "项目规则",
     "all": "全部"
   },
   "generic": {
@@ -99,7 +99,7 @@
       },
       "project_id": "项目 ID",
       "project_status": "项目状态",
-      "minecraft_versions": "Minecraft 版本",
+      "minecraft_versions": "我的世界版本",
       "mod_loaders": "模组加载器",
       "categories": "类别",
       "downloads": "下载量",
@@ -120,21 +120,21 @@
       "remove": "移除",
       "delete": "删除",
       "cancel": "取消",
-      "discard": "舍弃更改"
+      "discard": "放弃修改"
     },
     "external": {
       "github_profile": "GitHub 个人资料",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "问题跟踪器",
+      "issues": "问题反馈",
       "source": "源代码",
-      "wiki": "维基",
-      "patreon": "Patreon",
-      "paypal": "PayPal",
-      "buy_me_a_coffee": "赞助我一杯咖啡",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "捐助",
-      "kofi": "科幻"
+      "wiki": "百科",
+      "patreon": "通过\"Patreon\"赞助",
+      "paypal": "通过\"PayPal\"赞助",
+      "buy_me_a_coffee": "通过\"Buy Me a Coffee\"赞助",
+      "github_sponsors": "通过\"GitHub Sponsors\"赞助",
+      "donate": "捐款",
+      "kofi": "通过\"Ko-fi\"赞助"
     },
     "environments": {
       "singular": "运行环境",
@@ -143,13 +143,13 @@
       "client_side": "客户端",
       "values": {
         "required": "必需的",
-        "unsupported": "不支持",
+        "unsupported": "无效的",
         "optional": "可选",
         "unknown": "未知"
       }
     },
-    "up_to_date": "你已在使用最新版！",
-    "byline": "由 <u>{author}</u> 创作"
+    "up_to_date": "你的版本是最新的!",
+    "byline": "制作者： <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -181,20 +181,20 @@
       "upload": "上传新版本"
     },
     "body": {
-      "editor": "文本编辑器",
+      "editor": "编辑",
       "placeholder": "在此输入描述项目的正文...",
       "empty": "此项目尚未提供项目描述。"
     },
     "members": "成员",
-    "permissions": "权限",
+    "permissions": "项目权限",
     "permission": {
-      "upload_version": "上传新版本",
+      "upload_version": "更新版本",
       "delete_version": "删除版本",
       "edit_details": "编辑项目信息",
-      "edit_body": "编辑描述正文",
-      "manage_invites": "管理项目邀请",
-      "remove_member": "移除项目成员",
-      "edit_member": "编辑成员权限",
+      "edit_body": "编辑项目描述",
+      "manage_invites": "管理邀请",
+      "remove_member": "移除成员",
+      "edit_member": "编辑成员",
       "delete_project": "删除项目"
     },
     "role": {
@@ -209,32 +209,32 @@
     },
     "ownership": {
       "title": "所有权",
-      "description": "将此项目的所有权转移给其他用户。",
-      "action": "转移所有权"
+      "description": "将这个项目的所有权转移给另一个用户。",
+      "action": "转让所有权"
     }
   },
   "version": {
-    "featured": "官方推荐",
-    "autofeatured": "自动推荐",
-    "feature_action": "推荐该版本",
-    "dependencies": "依赖项",
+    "featured": "精选",
+    "autofeatured": "自动精选",
+    "feature_action": "推荐",
+    "dependencies": "依赖",
     "metadata": "元数据",
-    "release_channel": "发行通道",
+    "release_channel": "发布渠道",
     "number": "版本号",
     "publication_date": "发布日期",
-    "publisher": "发布者"
+    "publisher": "著作人"
   },
   "search": {
     "filters": {
-      "clear": "清除筛选条件",
+      "clear": "清空筛选",
       "hide": "隐藏筛选条件",
-      "show": "展开筛选条件",
-      "show_snapshots": "显示快照版本",
-      "search_versions": "搜索指定版本...",
-      "licenses": "许可证"
+      "show": "展开筛选",
+      "show_snapshots": "显示快照",
+      "search_versions": "搜索版本...",
+      "licenses": "许可协议"
     },
     "sort": {
-      "by": "按...排序",
+      "by": "排序方式",
       "relevance": "相关性",
       "downloads": "下载量",
       "follows": "关注数",
@@ -244,26 +244,26 @@
     "per_page": "每页显示数量"
   },
   "status": {
-    "approved": "已通过",
+    "approved": "已批准",
     "rejected": "被驳回",
     "draft": "草稿",
-    "unlisted": "未列出",
-    "processing": "正在审核",
+    "unlisted": "未上架",
+    "processing": "审核中",
     "unknown": "未知"
   },
   "release_channels": {
-    "release": "稳定发行版",
-    "beta": "Beta 测试版",
-    "alpha": "Alpha 测试版"
+    "release": "正式版",
+    "beta": "测试版",
+    "alpha": "开发版"
   },
   "roles": {
-    "developer": "开发者",
-    "admin": "总管理员",
-    "moderator": "管理者"
+    "developer": "开发人员",
+    "admin": "管理员",
+    "moderator": "版主"
   },
   "stats": {
-    "joined": "加入于 {ago}",
-    "notified": "通知接收于 {ago}",
+    "joined": "于 {ago} 加入",
+    "notified": "于 {ago} 收到通知",
     "downloads": "<b>{downloads, number}</b> 次下载",
     "followers_of_projects": "<b>{followers, number}</b> 名关注者",
     "followers": "<b>{followers, number}</b> 名粉丝",
