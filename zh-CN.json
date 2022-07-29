@@ -264,25 +264,25 @@
   "stats": {
     "joined": "于 {ago} 加入",
     "notified": "于 {ago} 收到通知",
-    "downloads": "<b>{downloads, number}</b> 次下载",
-    "followers_of_projects": "<b>{followers, number}</b> 名关注者",
-    "followers": "<b>{followers, number}</b> 名粉丝",
+    "downloads": "{downloads, plural, one {被下载了<b>#</b> 次} other {被下载了<b>#</b> 次}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> 所有项目的追随者} other {<b>#</b> 所有项目的追随者}}",
+    "followers": "{followers, plural, one {<b>#</b> 追随者} other {<b>#</b> 追随者}}",
     "user_id": "用户 ID：{id}",
-    "created": "创建于 {ago}",
-    "updated": "更新于 {ago}"
+    "created": "于 {ago} 创建",
+    "updated": "于 {ago} 更新"
   },
   "settings": {
     "username": {
       "text": "用户名",
-      "placeholder": "在这里输入用户名……"
+      "placeholder": "输入一个用户名……"
     },
     "bio": {
-      "text": "个人简介",
-      "placeholder": "在这里输入个人简介..."
+      "text": "简介",
+      "placeholder": "在这里输入简介..."
     },
     "email": {
       "text": "私人邮箱",
-      "helper": "仅对管理员可见。",
+      "helper": "仅对版主可见。",
       "placeholder": "在这里输入邮箱地址……"
     },
     "avatar": "上传头像"
@@ -291,10 +291,10 @@
     "singular": "举报",
     "plural": "举报",
     "type": {
-      "spam": "骚扰诈骗",
-      "copyright": "侵权",
-      "inappropriate": "内容不恰当",
-      "malicious": "恶意软件",
+      "spam": "垃圾信息",
+      "copyright": "侵犯版权",
+      "inappropriate": "不合适的内容",
+      "malicious": "恶意行为",
       "name-squatting": "抢注名称",
       "other": "其它原因"
     }
@@ -310,15 +310,15 @@
     },
     "auth": {
       "title": "授权令牌",
-      "body": "我们的授权令牌可以应用到 Modrinth API、Minotaur Gradle插件及其他与 Modrinth 的 API 有交互的应用程序。请自行保障自身数据安全!",
-      "copy": "将授权令牌复制到剪贴板",
+      "body": "你的的授权令牌可以应用到 Modrinth API、Minotaur Gradle插件和其他与 Modrinth 的 API 交互的应用程序。请务必保守这个秘密!",
+      "copy": "复制令牌到剪贴板",
       "copied": "已复制令牌至剪贴板",
-      "revoke": "吊销该令牌"
+      "revoke": "撤销令牌"
     },
     "revoke_token": {
-      "title": "吊销您的 Modrinth 授权令牌",
-      "body": "吊销您的 Modrinth 令牌可能会产生意料之外的后果。请注意以下服务可能会出现问题:\n - 任何通过您的令牌交互 API 的应用程序。\n - Gradle - 如果 Minotaur 未检测到可用令牌，Gradle 构建将失败。\n - GitHub - 如果您在 GitHub action 使用该令牌来交互 Modrinth API，将出现错误。\n\n如果您愿意继续，请完成以下步骤:\n\n 1. 前往 [Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，并登录您与 Modrinth 绑定的 GitHub 账户！\n 2. 点击位于 \"Permissions\" 上方的红色按钮 \"Revoke Access\" 。\n\n完成这些步骤后，请按下方的 “Log out” 按钮。\n\n**这将使您退出 Modrinth，但是，当您重新登录时，您的令牌将重新生成。**",
-      "action": "登出"
+      "title": "撤销你的Modrinth令牌",
+      "body": "撤销你的Modrinth令牌会产生意想不到的后果。请注意，以下相关的服务可能会出现问题：\n - 任何使用你的令牌来访问API的应用程序。\n - Gradle - 如果Minotaur被赋予一个不正确的令牌，你的Gradle构建可能会失败。\n - GitHub - 如果你使用一个与Modrinth API进行交互的GitHub action，将导致错误。\n\n如果你愿意继续，请完成以下步骤：\n\n 1. 前往[Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，确保登录到你所绑定的GitHub账户!\n 2. 按下 \"Permissions \"标题旁边的红色 \"Revoke Access \" 按钮。\n\n一旦你完成了这些步骤，请点击下方的 \"Log out \"按钮。\n\n**这将使你退出Modrinth，然而，当你重新登录时，你的令牌将被重新生成**。",
+      "action": "退出登录"
     }
   },
   "images": {
@@ -337,7 +337,7 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "此操作十分重要，请慎思而行。",
+        "important": "此操作十分重要，请三思而后行。",
         "verify": "请在下方输入 <i>{key}</i> 以确认操作。",
         "placeholder": "在此输入……"
       },
@@ -349,30 +349,30 @@
       "version": {
         "title": "删除版本",
         "description": "您确定要删除此版本吗？所有文件和元数据都将丢失且无法恢复。",
-        "action": "删除版本号"
+        "action": "删除版本"
       },
       "account": {
-        "title": "您确定要执行该操作吗？",
+        "title": "你确定你想这样做吗？",
         "description": "这将会**立即删除你所有的项目**及关注者。此操作无法撤销。\n\n如需获取账户相关的帮助，请前往[Modrinth Discord](/discord)提问。",
-        "action": "确定，我已知晓该操作不可撤销。"
+        "action": "是的，请彻底删除我的账户。"
       },
       "image": {
-        "title": "上传图像至项目图库",
+        "title": "删除图库图像",
         "description": "您确定要删除此图像和元数据吗？此操作无法撤消。",
         "action": "删除图像"
       }
     },
     "report": {
       "generic": {
-        "description": "模组开发对每个人来说都应该是安全的，因此我们对在 Modrinth 上滥用及投放病毒的行为决不姑息。同样，我们乐于听取帮助我们发现那些违反[服务条款](/legal/terms)及[社区准则](/legal/rules)的行为的举报者意见。请放心，我们将保障您的个人隐私得到保护。",
+        "description": "模组开发对每个人来说都应该是安全的，因此我们决不姑息在 Modrinth 上滥用及投放病毒的行为。同样，我们十分乐于听取帮助我们发现那些违反[ToS](/legal/terms) 和 [Rules](/legal/rules) 行为的举报者意见。请放心，我们会对您的身份信息保密。",
         "fields": {
           "reason": {
             "label": "原因"
           },
           "information": {
-            "label": "附加描述",
+            "label": "其他信息",
             "helper": "有条件的话请尽可能提供链接和图像。编辑器支持 Markdown 格式。",
-            "placeholder": "在此输入附加描述……"
+            "placeholder": "在此输入其他信息..."
           }
         }
       },
@@ -380,7 +380,7 @@
         "action": "举报项目"
       },
       "version": {
-        "action": "举报项目版本"
+        "action": "举报版本"
       },
       "user": {
         "action": "举报用户"
@@ -388,7 +388,7 @@
     },
     "creation": {
       "project": {
-        "title": "新建项目",
+        "title": "创建项目",
         "description": "新项目最初以草案的方式创建，您可以在您的个人资料页面中找到。",
         "action": "继续",
         "fields": {
@@ -400,9 +400,9 @@
             "placeholder": "在此输入项目名称..."
           },
           "summary": {
-            "label": "项目概述",
+            "label": "项目简介",
             "helper": "这些信息将显示在搜索结果及项目页面的侧边栏中。",
-            "placeholder": "在此输入项目的概述..."
+            "placeholder": "在此输入项目的简介..."
           }
         }
       },
@@ -429,13 +429,13 @@
           "status": {
             "label": "状态",
             "options": {
-              "approve": "已通过审阅",
-              "unlist": "未列出",
+              "approve": "已批准",
+              "unlist": "未发布",
               "reject": "被驳回"
             }
           },
           "moderation_message": {
-            "label": "审核附随信息",
+            "label": "审核信息",
             "helper": "您可以通过附随信息来与项目团队成员进行交流。文本支持 Markdown 格式。",
             "placeholder": "在此输入附加信息……"
           }
@@ -447,21 +447,21 @@
     "technology": "科技",
     "adventure": "冒险",
     "magic": "魔法",
-    "utility": "实用工具",
+    "utility": "实用",
     "decoration": "装饰",
-    "library": "程序库",
-    "cursed": "怪异",
+    "library": "库",
+    "cursed": "奇怪",
     "worldgen": "世界生成",
     "storage": "存储",
     "food": "食物",
     "equipment": "装备",
     "miscellaneous": "杂项",
-    "challenging": "高难度",
+    "challenging": "具有挑战性的",
     "combat": "战斗",
-    "kitchen-sink": "杂烩",
+    "kitchen-sink": "综合性的",
     "lightweight": "轻量",
     "multiplayer": "多人游戏",
-    "quests": "任务",
+    "quests": "探索",
     "optimization": "优化",
     "fabric": "Fabric",
     "forge": "Forge",
@@ -470,8 +470,8 @@
     "rift": "Rift",
     "server": "服务端",
     "client": "客户端",
-    "good": "优质内容",
-    "trash": "垃圾内容",
+    "good": "优质作品",
+    "trash": "拙劣作品",
     "misc": "杂项"
   }
 }
