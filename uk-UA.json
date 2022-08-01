@@ -411,8 +411,8 @@
         "action": "Додати зображення",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Заголовок",
+            "placeholder": "Введіть заголовок зображення..."
           },
           "description": {
             "label": "Опис",
@@ -435,7 +435,7 @@
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Повідомлення модерації",
             "helper": "Додатково додайте інформацію, щоб повідомити про проблеми учасникам команди проєкту. Підтримується форматування розмітки.",
             "placeholder": "Введіть додаткову інформацію..."
           }
