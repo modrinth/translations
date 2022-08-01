@@ -20,11 +20,11 @@
       },
       "chat": {
         "title": "Корисна спільнота",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "description": "Отримуйте підтримку, розвивайтеся та спілкуйтеся на нашому сервері Discord із понад 1500 учасниками."
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "Розширюваний за дизайном",
+        "description": "Інтегрується з інструментами збірки, репозиторіями, лаунчерами та користувацькими програмами."
       },
       "tools": {
         "title": "Повністю відкритий вихідний код",
@@ -57,7 +57,7 @@
         "system": "Системна тема",
         "light": "Світла тема",
         "dark": "Темна тема",
-        "oled": "OLED-тема"
+        "oled": "OLED режим"
       },
       "language": {
         "label": "Виберіть мову"
@@ -110,7 +110,7 @@
       "edit": "Редагувати",
       "follow": "Підписатися",
       "unfollow": "Відписатися",
-      "feature": "Feature version",
+      "feature": "Версія функції",
       "report": "Поскаржитися",
       "new_project": "Новий проект",
       "preview": "Переглянути",
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Завантажити нову версію"
     },
     "body": {
       "editor": "Редактор",
@@ -281,8 +281,8 @@
       "placeholder": "Розкажіть про себе..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "Приватна електронна пошта",
+      "helper": "Видно лише модераторам.",
       "placeholder": "Додати е-пошту..."
     },
     "avatar": "Завантажити аватар"
@@ -337,29 +337,29 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Це дуже важливо.",
+        "verify": "Щоб підтвердити, напишіть <i>{key}</i> нижче:",
+        "placeholder": "Напишіть тут..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Видалити проєкт",
+        "description": "Видалення проєкту видалить всі дані проєкту, включно версії.",
+        "action": "Видалити проєкт"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Видалити версію",
+        "description": "Ви впевнені, що хочете видалити цю версію? Усі файли та дані буде безповоротно втрачено.",
+        "action": "Видалити версію"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Ви впевнені, що хочете зробити це?",
+        "description": "Це **негайно видалить усі ваші проєкти** і підписки. Видалення облікового запису не можна скасувати.\n\nЯкщо вам потрібна допомога з обліковим записом, отримайте підтримку на [Modrinth Discord](/discord).",
+        "action": "Так, безповоротно видалити мій обліковий запис"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Видалити зображення галереї",
+        "description": "Ви впевнені що хочете видалити це зображення? Цю дію не можна скасувати.",
+        "action": "Видалити зображення"
       }
     },
     "report": {
@@ -367,77 +367,77 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Причина"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Додаткова інформація",
+            "helper": "Додайте посилання та зображення, якщо можливо. Підтримується форматування розмітки.",
+            "placeholder": "Введіть доповнену інформацію..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Поскаржитись на проєкт"
       },
       "version": {
-        "action": "Report version"
+        "action": "Поскаржитися на версію"
       },
       "user": {
-        "action": "Report user"
+        "action": "Поскаржитися на користувача"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Створити проєкт",
+        "description": "Нові проєкти створюються як чернетки, і їх можна знайти під вашою сторінкою профілю.",
+        "action": "Продовжити",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Тип проєкту"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Назва",
+            "placeholder": "Введіть назву проєкту..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Резюме",
+            "helper": "Це відображається в пошуку та на бічній панелі сторінки вашого проєкту.",
+            "placeholder": "Введіть коротке резюме проєкту..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Додати зображення з галереї",
+        "action": "Додати зображення",
         "fields": {
           "title": {
             "label": "Title",
             "placeholder": "Enter image title..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Опис",
+            "placeholder": "Введіть опис зображення..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Змінити статус проєкту",
+        "action": "Підтвердити",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Статус",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Підтвердити",
+              "unlist": "Вилучити зі списку",
+              "reject": "Відхилити"
             }
           },
           "moderation_message": {
             "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "helper": "Додатково додайте інформацію, щоб повідомити про проблеми учасникам команди проєкту. Підтримується форматування розмітки.",
+            "placeholder": "Введіть додаткову інформацію..."
           }
         }
       }
