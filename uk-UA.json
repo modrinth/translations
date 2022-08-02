@@ -88,7 +88,7 @@
     "following": "Підписки",
     "terms": "Правила та умови",
     "privacy": "Політика конфіденційності",
-    "rules": "Правила проекту",
+    "rules": "Правила проєкту",
     "all": "Все"
   },
   "generic": {
@@ -97,8 +97,8 @@
         "singular": "Ліцензія",
         "plural": "Ліцензії"
       },
-      "project_id": "ID проекту",
-      "project_status": "Статус проекту",
+      "project_id": "ID проєкту",
+      "project_status": "Статус проєкту",
       "minecraft_versions": "Версії Minecraft",
       "mod_loaders": "Завантажувачі модів",
       "categories": "Категорії",
@@ -109,15 +109,15 @@
       "create": "Створити",
       "edit": "Редагувати",
       "follow": "Підписатися",
-      "unfollow": "Відписатися",
-      "feature": "Версія функції",
+      "unfollow": "Не стежити",
+      "feature": "Рекомендовані версії",
       "report": "Поскаржитися",
-      "new_project": "Новий проект",
-      "preview": "Переглянути",
+      "new_project": "Новий проєкт",
+      "preview": "Попередній перегляд",
       "download": "Завантажити",
       "save": "Зберегти",
       "confirm": "Підтвердити",
-      "remove": "Виключити",
+      "remove": "Видалити",
       "delete": "Видалити",
       "cancel": "Скасувати",
       "discard": "Скасувати зміни"
@@ -126,9 +126,9 @@
       "github_profile": "Профіль GitHub",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Проблеми",
-      "source": "Вихідний код",
-      "wiki": "Вікі",
+      "issues": "Помилки",
+      "source": "Відкритий код",
+      "wiki": "Вікіпедія",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
@@ -139,16 +139,16 @@
     "environments": {
       "singular": "Середовище",
       "plural": "Середовища",
-      "server_side": "Сервер",
+      "server_side": "Для сервера",
       "client_side": "Клієнт",
       "values": {
         "required": "Потрібно",
         "unsupported": "Не підтримується",
-        "optional": "Опціонально",
+        "optional": "Оптимально",
         "unknown": "Невідомо"
       }
     },
-    "up_to_date": "Ви в курсі всіх оновлень!",
+    "up_to_date": "У вас найновіша версія!",
     "byline": "від <u>{author}</u>"
   },
   "project": {
@@ -167,7 +167,7 @@
     "sidebar_headings": {
       "external_resources": "Зовнішні ресурси",
       "featured_versions": "Рекомендовані версії",
-      "project_members": "Учасники проекту",
+      "project_members": "Учасники проєкту",
       "technical_information": "Технічна інформація"
     },
     "gallery": {
