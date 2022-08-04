@@ -133,7 +133,7 @@
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
-      "donate": "Поддержать",
+      "donate": "Пожертвовать",
       "kofi": "Ko-fi"
     },
     "environments": {
