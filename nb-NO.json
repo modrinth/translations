@@ -79,31 +79,31 @@
   "pages": {
     "description": "Beskrivelse",
     "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versjonar",
-    "settings": "Innstillingar",
+    "changelog": "Endringslogg",
+    "versions": "Versjoner",
+    "settings": "Innstillinger",
     "moderation": "Moderation",
-    "notifications": "Varslingar",
-    "about": "About",
-    "following": "Følgjer",
+    "notifications": "Varslinger",
+    "about": "Om",
+    "following": "Følger",
     "terms": "Bruksvilkår",
     "privacy": "Personvern",
-    "rules": "Project rules",
-    "all": "All"
+    "rules": "Prosjektregler",
+    "all": "Alle"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Lisens",
+        "plural": "Lisenser"
       },
-      "project_id": "Project ID",
+      "project_id": "Prosjekt-ID",
       "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
+      "minecraft_versions": "Minecraft-versjoner",
       "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "categories": "Kategorier",
+      "downloads": "Nedlastinger",
+      "files": "Filer"
     },
     "actions": {
       "create": "Create",
@@ -114,12 +114,12 @@
       "report": "Report",
       "new_project": "New project",
       "preview": "Preview",
-      "download": "Download",
-      "save": "Save",
+      "download": "Last ned",
+      "save": "Lagre",
       "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
-      "cancel": "Cancel",
+      "remove": "Fjern",
+      "delete": "Slett",
+      "cancel": "Avbryt",
       "discard": "Discard changes"
     },
     "external": {
@@ -133,7 +133,7 @@
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "donate": "Doner",
       "kofi": "Ko-fi"
     },
     "environments": {
@@ -144,12 +144,12 @@
       "values": {
         "required": "Required",
         "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "optional": "Valgfritt",
+        "unknown": "Ukjent"
       }
     },
-    "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "up_to_date": "Du er oppdatert.",
+    "byline": "av <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -165,7 +165,7 @@
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
+      "external_resources": "Eksterne ressurser",
       "featured_versions": "Featured versions",
       "project_members": "Project members",
       "technical_information": "Technical information"
@@ -185,25 +185,25 @@
       "placeholder": "Enter project body...",
       "empty": "This project description is empty."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Medlemmer",
+    "permissions": "Tillatelser",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
+      "upload_version": "Laste opp versjoner",
+      "delete_version": "Slette versjoner",
+      "edit_details": "Redigere detaljer",
+      "edit_body": "Rediger beskrivelsen",
       "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
+      "remove_member": "Fjerne medlemmer",
       "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "delete_project": "Slette prosjektet"
     },
     "role": {
-      "text": "Role",
-      "placeholder": "Enter roles..."
+      "text": "Rolle",
+      "placeholder": "Oppgi roller …"
     },
-    "advanced": "Advanced",
+    "advanced": "Avansert",
     "visibility": {
-      "title": "Visibility",
+      "title": "Synlighet",
       "description": "This project is currently {status}.",
       "action": "Change visibility"
     },
@@ -231,13 +231,13 @@
       "show": "Show filters",
       "show_snapshots": "Show snapshots",
       "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "licenses": "Lisenser"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
+      "by": "Sorter etter",
+      "relevance": "Relevanse",
+      "downloads": "Nedlastinger",
+      "follows": "Følgere",
       "newest": "Recently created",
       "updated": "Recently updated"
     },
@@ -249,16 +249,16 @@
     "draft": "Draft",
     "unlisted": "Unlisted",
     "processing": "Under review",
-    "unknown": "Unknown"
+    "unknown": "Ukjent"
   },
   "release_channels": {
     "release": "Release",
     "beta": "Beta",
-    "alpha": "Alpha"
+    "alpha": "Alfa"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
+    "developer": "Utvikler",
+    "admin": "Administrator",
     "moderator": "Moderator"
   },
   "stats": {
@@ -267,23 +267,23 @@
     "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
+    "user_id": "Bruker-ID: {id}",
     "created": "Created {ago}",
     "updated": "Updated {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Brukernavn",
+      "placeholder": "Legg til et brukernavn …"
     },
     "bio": {
       "text": "Bio",
       "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "Privat e-postadresse",
+      "helper": "Kun synlig for moderatorer.",
+      "placeholder": "Legg til en e-postadresse …"
     },
     "avatar": "Upload avatar"
   },
@@ -293,10 +293,10 @@
     "type": {
       "spam": "Spam",
       "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
+      "inappropriate": "Upassende",
       "malicious": "Malicious",
       "name-squatting": "Name-squatting",
-      "other": "Other"
+      "other": "Andre"
     }
   },
   "user": {
@@ -359,7 +359,7 @@
       "image": {
         "title": "Delete gallery image",
         "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "action": "Slett bilde"
       }
     },
     "report": {
@@ -367,40 +367,40 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Grunn"
           },
           "information": {
-            "label": "Additional information",
+            "label": "Mer informasjon",
             "helper": "Include links and images if possible. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Rapporter prosjekt"
       },
       "version": {
-        "action": "Report version"
+        "action": "Rapporter versjon"
       },
       "user": {
-        "action": "Report user"
+        "action": "Rapporter bruker"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
+        "title": "Opprett prosjekt",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "action": "Fortsett",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Prosjekttype"
           },
           "name": {
-            "label": "Name",
+            "label": "Navn",
             "placeholder": "Enter project name..."
           },
           "summary": {
-            "label": "Summary",
+            "label": "Oppsummering",
             "helper": "This appears in search and on the sidebar of your project's page.",
             "placeholder": "Enter short summary of project..."
           }
@@ -411,11 +411,11 @@
         "action": "Add image",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Tittel",
             "placeholder": "Enter image title..."
           },
           "description": {
-            "label": "Description",
+            "label": "Beskrivelse",
             "placeholder": "Enter image description..."
           }
         }
@@ -444,16 +444,16 @@
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
+    "technology": "Teknologi",
+    "adventure": "Eventyr",
+    "magic": "Magi",
     "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
+    "decoration": "Dekorasjon",
+    "library": "Bibliotek",
     "cursed": "Cursed",
     "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
+    "storage": "Lagring",
+    "food": "Mat",
     "equipment": "Equipment",
     "miscellaneous": "Miscellaneous",
     "challenging": "Challenging",
