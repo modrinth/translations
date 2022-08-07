@@ -69,7 +69,7 @@
     "message": {
       "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
       "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "default": "Det oppsto en uventet feil."
     },
     "actions": {
       "home": "Go home",
@@ -77,17 +77,17 @@
     }
   },
   "pages": {
-    "description": "Description",
+    "description": "Beskrivelse",
     "gallery": "Gallery",
     "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
+    "versions": "Versjonar",
+    "settings": "Innstillingar",
     "moderation": "Moderation",
-    "notifications": "Notifications",
+    "notifications": "Varslingar",
     "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
+    "following": "Følgjer",
+    "terms": "Bruksvilkår",
+    "privacy": "Personvern",
     "rules": "Project rules",
     "all": "All"
   },
