@@ -120,19 +120,19 @@
       "remove": "Fjern",
       "delete": "Slett",
       "cancel": "Avbryt",
-      "discard": "Discard changes"
+      "discard": "Forkast endringene"
     },
     "external": {
       "github_profile": "GitHub profile",
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Issues",
-      "source": "Source",
+      "source": "Kildekode",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
+      "github_sponsors": "GitHub-sponsorer",
       "donate": "Doner",
       "kofi": "Ko-fi"
     },
@@ -226,9 +226,9 @@
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
+      "clear": "Fjern filtre",
+      "hide": "Skjul filtre",
+      "show": "Vis filtre",
       "show_snapshots": "Show snapshots",
       "search_versions": "Search versions...",
       "licenses": "Lisenser"
