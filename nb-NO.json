@@ -166,7 +166,7 @@
     },
     "sidebar_headings": {
       "external_resources": "Eksterne ressurser",
-      "featured_versions": "Featured versions",
+      "featured_versions": "Framheva versjoner",
       "project_members": "Prosjektmedlemmer",
       "technical_information": "Teknisk informasjon"
     },
@@ -214,12 +214,12 @@
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
+    "featured": "Framheva",
+    "autofeatured": "Framheva automatisk",
     "feature_action": "Feature",
     "dependencies": "Avhengigheter",
     "metadata": "Metadata",
-    "release_channel": "Release channel",
+    "release_channel": "Utgivelsestype",
     "number": "Versjonsnummer",
     "publication_date": "Utgivelsesdato",
     "publisher": "Utgiver"
