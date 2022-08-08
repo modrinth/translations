@@ -7,7 +7,7 @@
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
-        "title": "Easy to use API",
+        "title": "API som er lett å bruke",
         "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
       },
       "coin": {
@@ -248,7 +248,7 @@
     "rejected": "Avvist",
     "draft": "Utkast",
     "unlisted": "Unlisted",
-    "processing": "Under review",
+    "processing": "Under vurdering",
     "unknown": "Ukjent"
   },
   "release_channels": {
@@ -265,8 +265,8 @@
     "joined": "Ble med for {ago}",
     "notified": "Varsla for {ago}",
     "downloads": "{downloads, plural, one {<b>#</b> nedlasting} other {<b>#</b> nedlastinger}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "followers_of_projects": "<b>{followers}</b> følger prosjektene",
+    "followers": "{followers, plural, one {<b>#</b> følger} other {<b>#</b> følgere}}",
     "user_id": "Bruker-ID: {id}",
     "created": "Oppretta for {ago}",
     "updated": "Oppdatert for {ago}"
@@ -292,7 +292,7 @@
     "plural": "Rapporter",
     "type": {
       "spam": "Spam",
-      "copyright": "Copyright",
+      "copyright": "Opphavsrett",
       "inappropriate": "Upassende",
       "malicious": "Ondsinna",
       "name-squatting": "Name-squatting",
@@ -301,12 +301,12 @@
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
+      "loading": "Laster inn fulgte prosjekt …",
       "none": "Du følger ingen prosjekter."
     },
     "delete": {
       "title": "Slett kontoen",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "Når du sletter kontoen kan du ikke angre. Å slette kontoen din vil fjerne alle tilknytta data, inkludert alle prosjektene dine, fra tjenerene våre."
     },
     "auth": {
       "title": "Autoriseringssymbol",
@@ -343,12 +343,12 @@
       },
       "project": {
         "title": "Slett posjektet",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "Å slette et prosjekt vil slette alle dataene til prosjektet, inkludert versjonene.",
         "action": "Slett prosjektet"
       },
       "version": {
         "title": "Slett versjonen",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Er du sikker på at du vil slette denne versjonen? Alle filene og metadataene vil bli borte for alltid.",
         "action": "Slett versjon"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Slett galleribildet",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Er du sikker på at du vil slette denne bildefila og metadataen? Dette kan ikke angres.",
         "action": "Slett bilde"
       }
     },
