@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "Planlegger å gi skaperene 100% av annonseintektene fra prosjektsidene deres. *Betaling er fremdeles under utvikling."
       },
       "speedometer": {
         "title": "Lightning-fast search",
@@ -110,7 +110,7 @@
       "edit": "Rediger",
       "follow": "Følg",
       "unfollow": "Ikke følg",
-      "feature": "Feature version",
+      "feature": "Framhev versjon",
       "report": "Rapporter",
       "new_project": "Nytt prosjekt",
       "preview": "Forhåndsvis",
@@ -216,7 +216,7 @@
   "version": {
     "featured": "Framheva",
     "autofeatured": "Framheva automatisk",
-    "feature_action": "Feature",
+    "feature_action": "Framhev",
     "dependencies": "Avhengigheter",
     "metadata": "Metadata",
     "release_channel": "Utgivelsestype",
