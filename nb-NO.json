@@ -3,7 +3,7 @@
     "no_translation": "Due to the nature of this page, the only official version of this content is in English."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
+    "tagline": "Oppdag, spill og skap innhold for Minecraft",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
@@ -27,40 +27,40 @@
         "description": "Integrates with build tools, repositories, launchers, and custom applications."
       },
       "tools": {
-        "title": "Fully open source",
+        "title": "Helt åpen kildekode",
         "description": "An open source project maintained by an active community that welcomes contributions."
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "my_profile": "Gå til profilen min",
+    "logout": "Logg ut",
+    "github": "Logg inn med GitHub"
   },
   "footer": {
     "description": "Modrinth is open source software.",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "heading": "Lovlig",
+      "terms": "Vilkår",
+      "privacy": "Personvern",
+      "rules": "Regler"
     },
     "resources": {
-      "heading": "Resources",
-      "blog": "Blog",
-      "docs": "Docs"
+      "heading": "Ressurser",
+      "blog": "Blogg",
+      "docs": "Dokumentasjon"
     },
     "buttons": {
       "privacy": "Set privacy preferences",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Endre tema",
+        "system": "Systemtema",
+        "light": "Lyst tema",
+        "dark": "Mørkt tema",
+        "oled": "OLED-modus"
       },
       "language": {
-        "label": "Select language"
+        "label": "Velg språk"
       }
     }
   },
@@ -73,7 +73,7 @@
     },
     "actions": {
       "home": "Go home",
-      "discord": "Get help on Discord"
+      "discord": "Få hjelp på Discord"
     }
   },
   "pages": {
@@ -106,14 +106,14 @@
       "files": "Filer"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
+      "create": "Opprett",
+      "edit": "Rediger",
+      "follow": "Følg",
+      "unfollow": "Ikke følg",
       "feature": "Feature version",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
+      "report": "Rapporter",
+      "new_project": "Nytt prosjekt",
+      "preview": "Forhåndsvis",
       "download": "Last ned",
       "save": "Lagre",
       "confirm": "Confirm",
@@ -194,7 +194,7 @@
       "edit_body": "Rediger beskrivelsen",
       "manage_invites": "Manage invites",
       "remove_member": "Fjerne medlemmer",
-      "edit_member": "Edit members",
+      "edit_member": "Redigere medlemmer",
       "delete_project": "Slette prosjektet"
     },
     "role": {
@@ -204,33 +204,33 @@
     "advanced": "Avansert",
     "visibility": {
       "title": "Synlighet",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "description": "Dette prosjektet er foreløpig {status}.",
+      "action": "Endre synlighet"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "title": "Eierskap",
+      "description": "Overfør eierskapet av dette prosjektet til en annen bruker.",
+      "action": "Overfør eierskap"
     }
   },
   "version": {
     "featured": "Featured",
     "autofeatured": "Auto-featured",
     "feature_action": "Feature",
-    "dependencies": "Dependencies",
+    "dependencies": "Avhengigheter",
     "metadata": "Metadata",
     "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "number": "Versjonsnummer",
+    "publication_date": "Utgivelsesdato",
+    "publisher": "Utgiver"
   },
   "search": {
     "filters": {
       "clear": "Fjern filtre",
       "hide": "Skjul filtre",
       "show": "Vis filtre",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
+      "show_snapshots": "Vis utviklingsversjoner",
+      "search_versions": "Søk etter versjoner …",
       "licenses": "Lisenser"
     },
     "sort": {
@@ -238,21 +238,21 @@
       "relevance": "Relevanse",
       "downloads": "Nedlastinger",
       "follows": "Følgere",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "newest": "Nylig oppretta",
+      "updated": "Nylig oppdatert"
     },
-    "per_page": "Show per page"
+    "per_page": "Vis per side"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
+    "approved": "Godkjent",
+    "rejected": "Avvist",
+    "draft": "Utkast",
     "unlisted": "Unlisted",
     "processing": "Under review",
     "unknown": "Ukjent"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "Utgave",
     "beta": "Beta",
     "alpha": "Alfa"
   },
@@ -285,16 +285,16 @@
       "helper": "Kun synlig for moderatorer.",
       "placeholder": "Legg til en e-postadresse …"
     },
-    "avatar": "Upload avatar"
+    "avatar": "Last opp avatar"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "Rapport",
+    "plural": "Rapporter",
     "type": {
       "spam": "Spam",
       "copyright": "Copyright",
       "inappropriate": "Upassende",
-      "malicious": "Malicious",
+      "malicious": "Ondsinna",
       "name-squatting": "Name-squatting",
       "other": "Andre"
     }
@@ -302,28 +302,28 @@
   "user": {
     "following": {
       "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "none": "Du følger ingen prosjekter."
     },
     "delete": {
-      "title": "Delete account",
+      "title": "Slett kontoen",
       "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
-      "revoke": "Revoke token"
+      "title": "Autoriseringssymbol",
+      "body": "Autoriseringssymbolet ditt kan brukes med Modrinth-API-en, Gradle-tillegget Minotaur og andre program som samhandler med API-en til Modrinth. Hold denne hemmelig.",
+      "copy": "Kopier symbolet til utklippstavla",
+      "copied": "Kopierte symbolet til utklippstavla",
+      "revoke": "Tilbakekall symbolet"
     },
     "revoke_token": {
-      "title": "Revoke your Modrinth token",
+      "title": "Tilbakekall Modrinth-symbolet ditt",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "action": "Logg ut"
     }
   },
   "images": {
-    "replace": "Replace image",
-    "how_to": "Drag and drop to upload or click to select"
+    "replace": "Erstatt bilde",
+    "how_to": "Dra og slipp for å laste opp eller trykk for å velge"
   },
   "ads": {
     "privacy_respecting": "A privacy-respecting ad would have been shown here.",
@@ -349,12 +349,12 @@
       "version": {
         "title": "Delete version",
         "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "action": "Slett versjon"
       },
       "account": {
         "title": "Are you sure you want to do this?",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "action": "Ja, slett kontoen min for alltid"
       },
       "image": {
         "title": "Delete gallery image",
@@ -412,7 +412,7 @@
         "fields": {
           "title": {
             "label": "Tittel",
-            "placeholder": "Enter image title..."
+            "placeholder": "Skriv inn bildetittel …"
           },
           "description": {
             "label": "Beskrivelse",
@@ -424,12 +424,12 @@
     "moderation": {
       "project_status": {
         "title": "Change project status",
-        "action": "Confirm",
+        "action": "Bekreft",
         "fields": {
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
+              "approve": "Godkjenn",
               "unlist": "Unlist",
               "reject": "Reject"
             }
@@ -451,18 +451,18 @@
     "decoration": "Dekorasjon",
     "library": "Bibliotek",
     "cursed": "Cursed",
-    "worldgen": "World generation",
+    "worldgen": "Verdensgenerering",
     "storage": "Lagring",
     "food": "Mat",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
+    "equipment": "Utstyr",
+    "miscellaneous": "Diverse",
+    "challenging": "Utfordrende",
     "combat": "Combat",
     "kitchen-sink": "Kitchen Sink",
     "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "multiplayer": "Flerspiller",
+    "quests": "Oppdrag",
+    "optimization": "Optimering",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
@@ -470,8 +470,8 @@
     "rift": "Rift",
     "server": "Server",
     "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "good": "Bra",
+    "trash": "Søppel",
+    "misc": "Diverse"
   }
 }
