@@ -277,8 +277,8 @@
       "placeholder": "Legg til et brukernavn …"
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Om meg",
+      "placeholder": "Skriv litt om deg selv …"
     },
     "email": {
       "text": "Privat e-postadresse",
@@ -339,7 +339,7 @@
       "generic": {
         "important": "Dette er svært viktig.",
         "verify": "For å bekrefte, skriv inn <i>{key}</i> under:",
-        "placeholder": "Type here..."
+        "placeholder": "Skriv inn her …"
       },
       "project": {
         "title": "Slett posjektet",
@@ -352,8 +352,8 @@
         "action": "Slett versjon"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "title": "Er du sikker på at du vil gjøre dette?",
+        "description": "Dette vil **umiddelbart slette alle prosjektene** og følgerene dine. Å slette kontoen din kan ikke angres.\n\nHvis du trenger hjelp med kontoen din, kan du få hjelp på [Discord](/discord).",
         "action": "Ja, slett kontoen min for alltid"
       },
       "image": {
@@ -401,8 +401,8 @@
           },
           "summary": {
             "label": "Oppsummering",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "helper": "Dette vil vises i søk og i sidestolpen på prosjektsiden.",
+            "placeholder": "Skriv inn en kort oppsummering av prosjektet …"
           }
         }
       },
@@ -416,7 +416,7 @@
           },
           "description": {
             "label": "Beskrivelse",
-            "placeholder": "Enter image description..."
+            "placeholder": "Skriv inn bildebeskrivelse …"
           }
         }
       }
@@ -435,8 +435,8 @@
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "label": "Modereringsmelding",
+            "helper": "Du kan legge til informasjon for å formidle problemene med prosjektmedlemmene. Støtter Markdown-formatering.",
             "placeholder": "Skriv inn mer informasjon …"
           }
         }
@@ -447,7 +447,7 @@
     "technology": "Teknologi",
     "adventure": "Eventyr",
     "magic": "Magi",
-    "utility": "Utility",
+    "utility": "Nyttig",
     "decoration": "Dekorasjon",
     "library": "Bibliotek",
     "cursed": "Cursed",
