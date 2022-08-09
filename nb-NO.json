@@ -1,10 +1,10 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "På grunn av formålet til denne siden, er den eneste offisielle versjonen på engelsk."
   },
   "index": {
     "tagline": "Oppdag, spill og skap innhold for Minecraft",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "description": "Finn morsomt kvalitetsinnhold gjennom modding-plattformen vår, bygga for fellesskapet med åpen kildekode. Skap ting, få betalt* og legg ut projektet ditt med den fullt dokumenterte API-en vår.",
     "features": {
       "book": {
         "title": "API som er lett å bruke",
@@ -38,7 +38,7 @@
     "github": "Logg inn med GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth er åpen kildekode.",
     "legal": {
       "heading": "Lovlig",
       "terms": "Vilkår",
