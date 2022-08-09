@@ -28,17 +28,17 @@
       },
       "tools": {
         "title": "W pełni otwarte oprogramowanie",
-        "description": "Projekt open source utrzymywany przez aktywną społeczność, która z chęcią przyjmuje wkład."
+        "description": "Projekt open source utrzymywany przez aktywną społeczność, która z chęcią przyjmie twój wkład."
       }
     }
   },
   "header": {
-    "my_profile": "Idź do mojego profilu",
+    "my_profile": "Zobacz mój profil",
     "logout": "Wyloguj",
     "github": "Zaloguj się przez GitHub"
   },
   "footer": {
-    "description": "Modrinth to otwarte oprogramowanie.",
+    "description": "Modrinth jest oprogramowaniem open source.",
     "legal": {
       "heading": "Polityka",
       "terms": "Warunki",
@@ -54,7 +54,7 @@
       "privacy": "Ustaw preferencje prywatności",
       "theme": {
         "label": "Zmień motyw",
-        "system": "Motyw systemowy",
+        "system": "Motyw systemu",
         "light": "Tryb jasny",
         "dark": "Tryb ciemny",
         "oled": "Tryb OLED"
@@ -65,7 +65,7 @@
     }
   },
   "error": {
-    "status": "{status} Błąd",
+    "status": "Błąd {status}",
     "message": {
       "404": "Oho, wygląda na to, że zgubiłeś(-aś) się w [Labiryncie](https://github.com/modrinth/labrinth).<br />Strona, której szukasz, nie została znaleziona.",
       "project_missing": "Nie można znaleźć szukanego {type}.",
@@ -99,14 +99,14 @@
       },
       "project_id": "ID projektu",
       "project_status": "Status projektu",
-      "minecraft_versions": "Wersje Minecraft",
+      "minecraft_versions": "Wersje Minecraft'a",
       "mod_loaders": "Mod loadery",
       "categories": "Kategorie",
-      "downloads": "Pobrania",
+      "downloads": "Ilość pobrań",
       "files": "Pliki"
     },
     "actions": {
-      "create": "Utwórz",
+      "create": "Stwórz",
       "edit": "Edytuj",
       "follow": "Obserwuj",
       "unfollow": "Przestań obserwować",
@@ -127,12 +127,12 @@
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Problemy",
-      "source": "Źródło",
+      "source": "Kod źródłowy",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
+      "github_sponsors": "Sponsorzy GitHub",
       "donate": "Wesprzyj",
       "kofi": "Ko-fi"
     },
@@ -191,7 +191,7 @@
       "upload_version": "Przesyłanie wersji",
       "delete_version": "Usuwanie wersji",
       "edit_details": "Edytowanie szczegółów",
-      "edit_body": "Edytuj opis",
+      "edit_body": "Edytowanie treści",
       "manage_invites": "Zarządzanie zaproszeniami",
       "remove_member": "Usuwanie członków",
       "edit_member": "Edytowanie członków",
@@ -208,7 +208,7 @@
       "action": "Zmień widoczność"
     },
     "ownership": {
-      "title": "Właściciel",
+      "title": "Własność",
       "description": "Przenieś własność tego projektu do innego użytkownika.",
       "action": "Zmień właściciela"
     }
@@ -219,14 +219,14 @@
     "feature_action": "Wyróżnij",
     "dependencies": "Zależności",
     "metadata": "Metadane",
-    "release_channel": "Wydanie",
+    "release_channel": "Typ wydania",
     "number": "Numer wersji",
-    "publication_date": "Data wydania",
+    "publication_date": "Data publikacji",
     "publisher": "Wydawca"
   },
   "search": {
     "filters": {
-      "clear": "Wyczyść",
+      "clear": "Wyczyść filtry",
       "hide": "Ukryj filtry",
       "show": "Pokaż filtry",
       "show_snapshots": "Pokazuj snapshoty",
@@ -263,7 +263,7 @@
   },
   "stats": {
     "joined": "Dołączył(-a) {ago}",
-    "notified": "Zgłoszony {ago}",
+    "notified": "Powiadomiono {ago}",
     "downloads": "{downloads, plural, one {<b>1</b> pobranie} few {<b>#</b> pobrania} other {<b>#</b> pobrań}}",
     "followers_of_projects": "{followers, plural, one {<b>1</b> osoba obserwująca projekty} few {<b>#</b> osoby obserwujące projekty} other {<b>#</b> osób obserwujących projekty}}",
     "followers": "{followers, plural, one {<b>1</b> obserwujący} other {<b>#</b> obserwujących}}",
@@ -282,13 +282,13 @@
     },
     "email": {
       "text": "Prywatny e-mail",
-      "helper": "Widoczny tylko dla moderatorów.",
+      "helper": "Widoczne tylko dla moderatorów.",
       "placeholder": "Dodaj e-mail..."
     },
     "avatar": "Prześlij awatar"
   },
   "report": {
-    "singular": "Zgłoszenie",
+    "singular": "Zgłoś",
     "plural": "Zgłoszenia",
     "type": {
       "spam": "Spam",
@@ -305,12 +305,12 @@
       "none": "Nie obserwujesz żadnych projektów."
     },
     "delete": {
-      "title": "Usuwanie konta",
+      "title": "Usuń konto",
       "body": "Po usunięciu konta nie ma już odwrotu. Usunięcie konta spowoduje usunięcie z naszych serwerów wszystkich dołączonych do niego danych, w tym projektów."
     },
     "auth": {
       "title": "Token autoryzacji",
-      "body": "Twój token autoryzacyjny może być używany do interfejsu API Modrinth, we wtyczce Minotaur Gradle oraz do innych aplikacjach, które współpracują z interfejsem API Modrinth. Pamiętaj, by zachować go w tajemnicy!",
+      "body": "Twój token autoryzacyjny może być używany do interfejsu API Modrinth, we wtyczce Minotaur Gradle oraz do innych aplikacji, które współpracują z interfejsem API Modrinth. Pamiętaj, by zachować go w tajemnicy!",
       "copy": "Skopiuj token do schowka",
       "copied": "Skopiowano token do schowka",
       "revoke": "Unieważnij token"
@@ -318,11 +318,11 @@
     "revoke_token": {
       "title": "Unieważnij swój token Modrinth",
       "body": "Unieważnienie tokena Modrinth może mieć niezamierzone konsekwencje. Należy pamiętać, że następujące rzeczy mogą przestać działać:\n - Każda aplikacja, która używa twojego tokena, aby uzyskać dostęp do API.\n - Gradle - jeśli Minotaur będzie miał nieprawidłowy token, twoje kompilacje Gradle mogą się nie powieść.\n - GitHub - jeśli używasz akcji GitHub, które korzystają z API Modrinth, spowoduje to błędy.\n\nJeśli chcesz kontynuować, wykonaj następujące kroki:\n\n 1. Udaj się na stronę aplikacji [Modrinth na GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Upewnij się, że jesteś zalogowany na konto GitHub, którego użyłeś do Modrinth!\n 2. Naciśnij duży czerwony przycisk \"Cofnij dostęp\" znajdujący się obok nagłówka \"Uprawnienia\".\n\nPo wykonaniu tych czynności naciśnij poniższy przycisk \"Wyloguj\".\n\n**Spowoduje to wylogowanie z Modrinth, ale kiedy zalogujesz się ponownie, twój token zostanie zregenerowany.**",
-      "action": "Wyloguj"
+      "action": "Wyloguj się"
     }
   },
   "images": {
-    "replace": "Zamień obraz",
+    "replace": "Zastąp obraz",
     "how_to": "Przeciągnij i upuść, aby przesłać lub kliknij, aby wybrać"
   },
   "ads": {
@@ -342,12 +342,12 @@
         "placeholder": "Wprowadź tutaj..."
       },
       "project": {
-        "title": "Usuwanie projektu",
+        "title": "Usuń projekt",
         "description": "Usunięcie projektu spowoduje usunięcie wszystkich danych projektu, w tym jego wersji.",
         "action": "Usuń projekt"
       },
       "version": {
-        "title": "Usuwanie wersji",
+        "title": "Usuń wersję",
         "description": "Czy na pewno chcesz usunąć tę wersję? Wszystkie pliki i metadane zostaną nieodwracalnie utracone.",
         "action": "Usuń wersję"
       },
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Podsumowanie",
-            "helper": "To pojawia się w wyszukiwarce i na pasku bocznym strony projektu.",
+            "helper": "To pojawia się w wyszukiwaniu i na pasku bocznym strony projektu.",
             "placeholder": "Wprowadź krótkie podsumowanie projektu..."
           }
         }
@@ -430,7 +430,7 @@
             "label": "Status",
             "options": {
               "approve": "Zatwierdź",
-              "unlist": "Niewymieniony",
+              "unlist": "Usuń z listy",
               "reject": "Odrzuć"
             }
           },
@@ -450,16 +450,16 @@
     "utility": "Narzędzia",
     "decoration": "Dekoracja",
     "library": "Biblioteka",
-    "cursed": "Przeklęte",
-    "worldgen": "Generowanie świata",
-    "storage": "Magazyn",
+    "cursed": "Cursed",
+    "worldgen": "Generacja świata",
+    "storage": "Magazynowanie",
     "food": "Jedzenie",
     "equipment": "Wyposażenie",
     "miscellaneous": "Różne",
-    "challenging": "Wyzwania",
+    "challenging": "Wyzwanie",
     "combat": "Walka",
     "kitchen-sink": "Zlew kuchenny",
-    "lightweight": "Lekki",
+    "lightweight": "Niskie wymagania",
     "multiplayer": "Wieloosobowy",
     "quests": "Zadania",
     "optimization": "Optymalizacja",
@@ -470,8 +470,8 @@
     "rift": "Rift",
     "server": "Serwer",
     "client": "Klient",
-    "good": "Dobry",
-    "trash": "Śmieć",
+    "good": "Dobre",
+    "trash": "Śmieci",
     "misc": "Różne"
   }
 }
