@@ -69,7 +69,7 @@
     "message": {
       "404": "Ser ut som du gikk deg vill i labyrinten.<br/>Siden du leter etter ble ikke funnet.",
       "project_missing": "{type}en du leter etter ble ikke funnet.",
-      "default": "Det oppsto en uventet feil."
+      "default": "Det oppsto en uventa feil."
     },
     "actions": {
       "home": "Gå hjem",
@@ -142,7 +142,7 @@
       "server_side": "Tjenersiden",
       "client_side": "Klientsiden",
       "values": {
-        "required": "Required",
+        "required": "Påkrevd",
         "unsupported": "Ikke støtta",
         "optional": "Valgfritt",
         "unknown": "Ukjent"
@@ -191,8 +191,8 @@
       "upload_version": "Laste opp versjoner",
       "delete_version": "Slette versjoner",
       "edit_details": "Redigere detaljer",
-      "edit_body": "Rediger beskrivelsen",
-      "manage_invites": "Manage invites",
+      "edit_body": "Redigere beskrivelsen",
+      "manage_invites": "Håndtere invitasjoner",
       "remove_member": "Fjerne medlemmer",
       "edit_member": "Redigere medlemmer",
       "delete_project": "Slette prosjektet"
@@ -262,14 +262,14 @@
     "moderator": "Moderator"
   },
   "stats": {
-    "joined": "Ble med for {ago}",
-    "notified": "Varsla for {ago}",
+    "joined": "Ble med {ago}",
+    "notified": "Varsla {ago}",
     "downloads": "{downloads, plural, one {<b>#</b> nedlasting} other {<b>#</b> nedlastinger}}",
     "followers_of_projects": "<b>{followers}</b> følger prosjektene",
     "followers": "{followers, plural, one {<b>#</b> følger} other {<b>#</b> følgere}}",
     "user_id": "Bruker-ID: {id}",
-    "created": "Oppretta for {ago}",
-    "updated": "Oppdatert for {ago}"
+    "created": "Oppretta {ago}",
+    "updated": "Oppdatert {ago}"
   },
   "settings": {
     "username": {
@@ -294,9 +294,9 @@
       "spam": "Spam",
       "copyright": "Opphavsrett",
       "inappropriate": "Upassende",
-      "malicious": "Ondsinna",
+      "malicious": "Malicious",
       "name-squatting": "Name-squatting",
-      "other": "Andre"
+      "other": "Annet"
     }
   },
   "user": {
@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Tilbakekall Modrinth-symbolet ditt",
-      "body": "Å tilbakekalle Modrinth-symbolet ditt kan ha uventa konsekvenser. Vær oppmerksom på at det følgende kan slutte å fungere:\n - Alle programmer som bruker symbolet ditt sammen med API-en vår.\n - Gradle - hvis Minotaur får feil symbol kan kan Gradle-bygga dine feile.\n - GitHub - hvis du bruker en GitHub-handling som bruker Modrinth-API-en, vil det oppstå feil.\n\nHvis du fremdeles vil fortsette, må du gjøre det følgende:\n 1. Gå til [programsiden til Modrinth på GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Pass på at du er logga inn på den samme GitHub-kontoen som du brukte for Modrinth.\n 2. Trykk på den røde «Revoke access»-knappen til høyre for «Permissions».\n\nNår du er ferdig, trykk på «Logg ut» nedenfor.\n\n**Dette vil logge deg ut fra Modrinth. Når du logger deg inn igjen vil symbolet ditt bli gjenoppbygga.**",
+      "body": "Å tilbakekalle Modrinth-symbolet ditt kan ha uventa konsekvenser. Vær oppmerksom på at det følgende kan slutte å fungere:\n - Alle programmer som bruker symbolet ditt sammen med API-en vår.\n - Gradle - hvis Minotaur får feil symbol kan Gradle-bygga dine feile.\n - GitHub - hvis du bruker en GitHub-handling som bruker Modrinth-API-en, vil det oppstå feil.\n\nHvis du fremdeles vil fortsette, må du gjøre det følgende:\n 1. Gå til [programsiden til Modrinth på GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Pass på at du er logga inn på den samme GitHub-kontoen som du brukte for Modrinth.\n 2. Trykk på den røde «Revoke access»-knappen til høyre for «Permissions».\n\nNår du er ferdig, trykk på «Logg ut» nedenfor.\n\n**Dette vil logge deg ut fra Modrinth. Når du logger deg inn igjen vil symbolet ditt bli gjenoppbygga.**",
       "action": "Logg ut"
     }
   },
@@ -330,7 +330,7 @@
     "console": {
       "line1": "Du blokkerer annonser.",
       "line2": "Du blokkerte Modrinth fra å vise en annonse, vår eneste inntektskilde.",
-      "line3": "Hvis du vil hjelpe Modrinth uten å vise annonser, så kan du bidra til Modrinth på GitHub.",
+      "line3": "Hvis du vil hjelpe Modrinth uten å vise annonser, kan du bidra til Modrinth på GitHub.",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -389,7 +389,7 @@
     "creation": {
       "project": {
         "title": "Opprett prosjekt",
-        "description": "Nye prosjekter blir oppretta som utkast, og kan bli funnet på profilsiden sin.",
+        "description": "Nye prosjekter blir oppretta som utkast, og kan bli funnet på profilsiden din.",
         "action": "Fortsett",
         "fields": {
           "project_type": {
