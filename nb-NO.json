@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Rediger",
-      "placeholder": "Enter project body...",
+      "placeholder": "Skriv inn prosjektinnhold …",
       "empty": "Beskrivelsen til prosjektet er tomt."
     },
     "members": "Medlemmer",
@@ -294,7 +294,7 @@
       "spam": "Spam",
       "copyright": "Opphavsrett",
       "inappropriate": "Upassende",
-      "malicious": "Malicious",
+      "malicious": "Skadelig",
       "name-squatting": "Name-squatting",
       "other": "Annet"
     }
@@ -326,7 +326,7 @@
     "how_to": "Dra og slipp for å laste opp eller trykk for å velge"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Her skulle det ha vært en annonse som respekterer personvernet ditt.",
     "console": {
       "line1": "Du blokkerer annonser.",
       "line2": "Du blokkerte Modrinth fra å vise en annonse, vår eneste inntektskilde.",
