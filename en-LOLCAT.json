@@ -3,7 +3,7 @@
     "no_translation": "Due 2 teh nachur ov dis paeg, Teh only offishul vershyn ov dis content iz in human."
   },
   "index": {
-    "tagline": "Discovr, pulay, an create Minecraft content",
+    "tagline": "Discovr, pulay, an create Murrcraft content",
     "description": "Find enjoable an qualiti content thry r open-source mddin platform build 4 da comunity. Create stuff, git paid*, an deploy ur project wif fully documentd API!",
     "features": {
       "book": {
@@ -390,10 +390,10 @@
       "project": {
         "title": "Create project",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "action": "ok",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "projkt type"
           },
           "name": {
             "label": "Name",
