@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modding skal være trygt for alle, så her hos Modrinth tar vi misbruk og skadelig innhold svært seriøst. Vi ønsker å få vite om alt skadelig innhold på siden vår, som bryter [vilkårene](/legal/terms) og [reglene](/legal/rules) våre. Vær sikker på at vi holder all identifiserende informasjon hemmelig.",
         "fields": {
           "reason": {
             "label": "Grunn"
