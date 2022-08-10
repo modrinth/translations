@@ -19,7 +19,7 @@
         "description": "Drives av raske og tilpasningsdyktige søkealgoritmer så du ikke trenger å vente."
       },
       "chat": {
-        "title": "Helpful community",
+        "title": "Fellesskap som hjelper",
         "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
       },
       "puzzle": {
@@ -28,7 +28,7 @@
       },
       "tools": {
         "title": "Helt åpen kildekode",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "description": "Et prosjekt med åpen kildekode, som opprettholdes av et aktivt fellesskap og ønsker alle som vil bidra velkommen."
       }
     }
   },
@@ -51,7 +51,7 @@
       "docs": "Dokumentasjon"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Angi personvernsinnstillinger",
       "theme": {
         "label": "Endre tema",
         "system": "Systemtema",
@@ -65,7 +65,7 @@
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "Feil {status}",
     "message": {
       "404": "Ser ut som du gikk deg vill i labyrinten.<br/>Siden du leter etter ble ikke funnet.",
       "project_missing": "{type}en du leter etter ble ikke funnet.",
@@ -126,7 +126,7 @@
       "github_profile": "GitHub-profil",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
+      "issues": "Feil",
       "source": "Kildekode",
       "wiki": "Wiki",
       "patreon": "Patreon",
@@ -459,7 +459,7 @@
     "challenging": "Utfordrende",
     "combat": "Kamp",
     "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
+    "lightweight": "Lettvektig",
     "multiplayer": "Flerspiller",
     "quests": "Oppdrag",
     "optimization": "Optimering",
