@@ -34,7 +34,7 @@
   },
   "header": {
     "my_profile": "Мои ходки",
-    "logout": "Шухер",
+    "logout": "Слинять",
     "github": "Вломиться через GitHub"
   },
   "footer": {
@@ -112,9 +112,9 @@
       "unfollow": "Стереть наводку",
       "feature": "Рекомендовать",
       "report": "Настучать",
-      "new_project": "Новый проект",
+      "new_project": "Собраться на дело",
       "preview": "Просмотр",
-      "download": "Скачать",
+      "download": "Срисовать",
       "save": "Сохранить",
       "confirm": "Подтвердить",
       "remove": "Исключить",
@@ -148,24 +148,24 @@
         "unknown": "Не указано"
       }
     },
-    "up_to_date": "Вы в курсе всех обновлений!",
+    "up_to_date": "Суета наведена!",
     "byline": "от <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Мод",
-        "plural": "Моды",
-        "search": "Поиск модов..."
+        "singular": "Семки",
+        "plural": "Семки",
+        "search": "Я на стрёме, хватай семки..."
       },
       "modpack": {
-        "singular": "Сборка модов",
-        "plural": "Сборки модов",
+        "singular": "Базар",
+        "plural": "Базары",
         "search": "Поиск сборок модов..."
       }
     },
     "sidebar_headings": {
-      "external_resources": "Внешние ресурсы",
+      "external_resources": "Другие блага",
       "featured_versions": "Рекомендуемые версии",
       "project_members": "Участники проекта",
       "technical_information": "Техническая информация"
@@ -185,7 +185,7 @@
       "placeholder": "Введите описание...",
       "empty": "Описание проекта отсутствует."
     },
-    "members": "Участники",
+    "members": "Кореши",
     "permissions": "Разрешения",
     "permission": {
       "upload_version": "Загрузка версий",
@@ -231,7 +231,7 @@
       "show": "Показать фильтры",
       "show_snapshots": "Показать снапшоты",
       "search_versions": "Поиск версий...",
-      "licenses": "Лицензии"
+      "licenses": "Понятия"
     },
     "sort": {
       "by": "Сортировка",
