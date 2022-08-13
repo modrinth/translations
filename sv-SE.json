@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Ladda upp ny version"
     },
     "body": {
       "editor": "Redigerare",
@@ -281,8 +281,8 @@
       "placeholder": "Lägg till en biografi..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "Privat e-post",
+      "helper": "Bara synlig för moderatorer.",
       "placeholder": "Lägg till en e-post..."
     },
     "avatar": "Ladda upp avatar"
@@ -393,10 +393,10 @@
         "action": "Fortsätt",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projekttyp"
           },
           "name": {
-            "label": "Name",
+            "label": "Namn",
             "placeholder": "Enter project name..."
           },
           "summary": {
@@ -431,7 +431,7 @@
             "options": {
               "approve": "Godkänn",
               "unlist": "Avlista",
-              "reject": "Reject"
+              "reject": "Avslå"
             }
           },
           "moderation_message": {
