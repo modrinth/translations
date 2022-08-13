@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
+            "helper": "Detta visas i sökning och i sidofältet på ditt projekts sida.",
             "placeholder": "Enter short summary of project..."
           }
         }
