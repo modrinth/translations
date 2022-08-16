@@ -1,13 +1,13 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Dēļ mājaslapas vides, vienīgā officiālā satura versija ir Angļu valodā."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "Atrodi, spēlē, un izveido Minecraft saturu",
+    "description": "Atrodi izbaudāmu un augstas kvalitātes saturu izmantojot mūsu atvērtā primkoda modificēšanas platformu veidota kopienai. Izveido lietas, iegūsti algu*, un publicē savu projektu ar mūsu dokumentēto API!",
     "features": {
       "book": {
-        "title": "Easy to use API",
+        "title": "Viegli izmantojams API",
         "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
       },
       "coin": {
