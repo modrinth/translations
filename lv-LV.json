@@ -1,10 +1,10 @@
 {
   "locale": {
-    "no_translation": "Dēļ mājaslapas vides, vienīgā officiālā satura versija ir Angļu valodā."
+    "no_translation": "Dēļ mājaslapas vides, vienīgā oficiālā satura versija ir Angļu valodā."
   },
   "index": {
     "tagline": "Atrodi, spēlē, un izveido Minecraft saturu",
-    "description": "Atrodi izbaudāmu un augstas kvalitātes saturu izmantojot mūsu atvērtā primkoda modificēšanas platformu veidota kopienai. Izveido lietas, iegūsti algu*, un publicē savu projektu ar mūsu dokumentēto API!",
+    "description": "Atrodi izbaudāmu un augstas kvalitātes saturu izmantojot mūsu atvērtā pirmkoda modificēšanas platformu veidota kopienai. Izveido lietas, iegūsti algu*, un publicē savu projektu ar mūsu dokumentēto API!",
     "features": {
       "book": {
         "title": "Viegli izmantojams API",
@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Satura veidotāju algas",
-        "description": "Plānojam dot satura veidotājiem 100% reklāmu ieņēmumumus no viņu projektu lapām. *Pie algām vēl tiek strādāts."
+        "description": "Plānojam dot satura veidotājiem 100% reklāmu ieņēmumus no viņu projektu lapām. *Pie algām vēl tiek strādāts."
       },
       "speedometer": {
         "title": "Zibenīgi ātra meklēšana",
@@ -38,7 +38,7 @@
     "github": "Pierakstīties ar GitHub"
   },
   "footer": {
-    "description": "Modrinth is atvērta pirmkoda programmatūra.",
+    "description": "Modrinth ir atvērta pirmkoda programmatūra.",
     "legal": {
       "heading": "Legālie",
       "terms": "Nosacījumi",
@@ -51,7 +51,7 @@
       "docs": "Dokumentācija"
     },
     "buttons": {
-      "privacy": "Iestatīt konfidencialitātes prefrrences",
+      "privacy": "Iestatīt konfidencialitātes preferences",
       "theme": {
         "label": "Mainīt motīvu",
         "system": "Sistēmas motīvs",
@@ -353,7 +353,7 @@
       },
       "account": {
         "title": "Vai esat pārliecināti ka vēlaties to darīt?",
-        "description": "Šis **uzreiz izdzēsīs visus jūsu projektus** un sekojumus. Konta dzēšana ir neatgriezeniska.\n\nJa jums ir nepieciešana palīdzība ar jūsu kontu, iegūstiet atbalstu [Modrinth Discord serverī](/discord).",
+        "description": "Šis **uzreiz izdzēsīs visus jūsu projektus** un sekojumus. Konta dzēšana ir neatgriezeniska.\n\nJa jums ir nepieciešama palīdzība ar jūsu kontu, iegūstiet atbalstu [Modrinth Discord serverī](/discord).",
         "action": "Neatgriezeniski dzēst manu kontu"
       },
       "image": {
@@ -364,54 +364,54 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modificēšanai vajadzētu būt drošai priekš visiem, mēs saprotam ļaunprātību ļoti nopietni. Mēs vēlamies dzirdēt par sliktu saturu kas pārkāpj mūsu [ToS](/legal/terms) un [Rules](/legal/rules). Neuztraucieties, mēs paturēsim jūsu identificēšanās informāciju privātu.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Iemesls"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Papildus informācija",
+            "helper": "Iekļaujiet saites un attēlus ja iespējams. Markdown formatēšana ir atbalstīta.",
+            "placeholder": "Ievadiet papildus informāciju..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Ziņot par projektu"
       },
       "version": {
-        "action": "Report version"
+        "action": "Ziņot par versiju"
       },
       "user": {
-        "action": "Report user"
+        "action": "Ziņot par lietotāju"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Izveidot projektu",
+        "description": "Jauni projekti tiek veidoti kā melnraksti, un var tikt atrasti jūsu profila lapā.",
+        "action": "Turpināt",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projekta tips"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nosaukums",
+            "placeholder": "Ievadiet projekta nosaukumu..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Kopsavilkums",
+            "helper": "Šis ir redzams meklēšanā un jūsu projekta lapas labajā pusē.",
+            "placeholder": "Ievadiet īsu kopsavilkumu jūsu projektam..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Pievienot galerijas attēlu",
+        "action": "Pievienot attēlu",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Virsraksts",
             "placeholder": "Ievadiet attēla virsrakstu..."
           },
           "description": {
