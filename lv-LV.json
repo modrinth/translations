@@ -317,49 +317,49 @@
     },
     "revoke_token": {
       "title": "Izdzēst savu Modrinth žetonu",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Dzēšot savu Modrinth žetonu var notikt nepārdomātas sekas. Lūdzu saprotiet ka sekojošais var vairāk nedarboties:\n - Jebkura programma kas izmanto jūsu žetonu lai piekļūtu API.\n - Gradle - ja Minotaur tiek iedots nepareizs žetons, jūsu Gradle būves var nedarboties.\n - GitHub - ja izmantojat GitHub darbību kas izmanto Modrinth API, notiks kļūdas.\n\nJa vēlaties turpināt, izpildiet sekojošos soļus:\n\n 1. Dodieties uz [Modrinth Programmas GitHub lapu]\n(https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Pārliecinieties ka esat pierakstījies GitHub kontā ko izmantojāt priekš Modrinth!\n 2. Uzspiediet uz lielās sarkanās \"Revoke Access\" pogas pie \"Permissions\" virsraksta.\n\nKad esat izpildījis šos soļus, uzspiediet uz \"Izrakstīties\" pogas apakšā.\n\n**Šis jūs izrakstīs ārā no Modrinth, taču, kad būsiet pierakstījušies atkal, jūsu žetons tiks vēlreiz ģenerēts.**",
       "action": "Izrakstīties"
     }
   },
   "images": {
-    "replace": "Replace image",
-    "how_to": "Drag and drop to upload or click to select"
+    "replace": "Nomainīt attēlu",
+    "how_to": "Velciet un atstājiet lai augšupielādētu vai uzspiediet lai izvēlētos"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Šeit būtu parādīta privātuma respektējoša reklāma.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Jūsu izmantojat reklāmu bloķētāju.",
+      "line2": "Jūsu reklāmu bloķētājs aizliedza Modrinth parādīt reklāmu, mūsu vienīgais ienākumu avots.",
+      "line3": "Ja vēlaties palīdzēt Modrinth bez reklāmu atļaušanu, jūs varat veikt ieguldījumu Modrinth GitHub lapā!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Šis it ļoti svarīgi.",
+        "verify": "Lai verificētu, uzrakstiet <i>{key}</i> apakšā:",
+        "placeholder": "Rakstiet šeit..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Dzēst projektu",
+        "description": "Dzēšot projektu tiek izdzēsti visi projekta dati, ieskaitot versijas.",
+        "action": "Dzēst projektu"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Dzēst versiju",
+        "description": "Vai esat pārliecināti ka vēlaties dzēst šo versiju? Visi faili un metadati tiks neatgriezeniski zaudēti.",
+        "action": "Dzēst versiju"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Vai esat pārliecināti ka vēlaties to darīt?",
+        "description": "Šis **uzreiz izdzēsīs visus jūsu projektus** un sekojumus. Konta dzēšana ir neatgriezeniska.\n\nJa jums ir nepieciešana palīdzība ar jūsu kontu, iegūstiet atbalstu [Modrinth Discord serverī](/discord).",
+        "action": "Neatgriezeniski dzēst manu kontu"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Dzēst galerijas attēlu",
+        "description": "Vai esat pārliecināti ka vēlaties dzēst šī attēla failu un metadatus? Šī darbība ir neatgriezeniska.",
+        "action": "Dzēst attēlu"
       }
     },
     "report": {
