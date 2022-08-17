@@ -221,81 +221,81 @@
     "metadata": "Meta dati",
     "release_channel": "Izlaišanas kanāls",
     "number": "Versijas numurs",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "publication_date": "Publikācijas datums",
+    "publisher": "Izdevējs"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "clear": "Noņemt filtrus",
+      "hide": "Paslēpt filtrus",
+      "show": "Rādīt filtrus",
+      "show_snapshots": "Rādīt snapšotus",
+      "search_versions": "Meklēt versijas...",
+      "licenses": "Licences"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "by": "Kārtot pēc",
+      "relevance": "Atbilstība",
+      "downloads": "Lejupielāžu skaits",
+      "follows": "Sekotāju skaits",
+      "newest": "Nesen izveidots",
+      "updated": "Nesen atjaunināts"
     },
-    "per_page": "Show per page"
+    "per_page": "Katrā lapā rādīt"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "approved": "Apstiprināts",
+    "rejected": "Noraidīts",
+    "draft": "Melnraksts",
+    "unlisted": "Nerindots",
+    "processing": "Zem pārbaudes",
+    "unknown": "Nezināms"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "Izlaidums",
     "beta": "Beta",
-    "alpha": "Alpha"
+    "alpha": "Alfa"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "Izstrādātājs",
+    "admin": "Administrators",
+    "moderator": "Moderators"
   },
   "stats": {
-    "joined": "Joined {ago}",
-    "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "joined": "Pievienojās {ago}",
+    "notified": "Paziņots {ago}",
+    "downloads": "{downloads, plural,one {<b>#</b> lejupielāde} other {<b>#</b> lejupielādes}}",
+    "followers_of_projects": "{followers, plural,one {<b>#</b> projektu sekotājs} other {<b>#</b> projektu sekotāji}}",
+    "followers": "{followers, plural,one {<b>#</b> sekotājs} other {<b>#</b> sekotāji}}",
+    "user_id": "Lietotāja ID: {id}",
+    "created": "Izveidots {ago}",
+    "updated": "Atjaunināts {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Lietotājvārds",
+      "placeholder": "Pievienojiet lietotājvārdu..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Apraksts",
+      "placeholder": "Pievienojiet aprakstu..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "Privātais e-pasts",
+      "helper": "Tikai redzams moderatoriem.",
+      "placeholder": "Pievienojiet e-pastu..."
     },
-    "avatar": "Upload avatar"
+    "avatar": "Augšupielādēt profila attēlu"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "Ziņot",
+    "plural": "Pārskati",
     "type": {
-      "spam": "Spam",
-      "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
-      "name-squatting": "Name-squatting",
+      "spam": "Spams",
+      "copyright": "Autortiesības",
+      "inappropriate": "Nepiemērots",
+      "malicious": "Ļaunprātība",
+      "name-squatting": "Vārda apmelošana",
       "other": "Cits"
     }
   },
@@ -412,39 +412,39 @@
         "fields": {
           "title": {
             "label": "Title",
-            "placeholder": "Enter image title..."
+            "placeholder": "Ievadiet attēla virsrakstu..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Apraksts",
+            "placeholder": "Ievadiet attēla aprakstu..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Mainīt projekta statusu",
+        "action": "Apstiprināt",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Statuss",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Apstiprināt",
+              "unlist": "Nerindot",
+              "reject": "Noraidīt"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Moderācijas ziņa",
+            "helper": "Pēc izvēles pievienot informāciju lai labotu problēmas ar projekta dalībniekiem. Markdown formatēšana ir atbalstīta.",
+            "placeholder": "Ievadiet papildus informāciju..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
+    "technology": "Tehnoloģijas",
     "adventure": "Adventure",
     "magic": "Magic",
     "utility": "Utility",
