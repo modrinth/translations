@@ -88,74 +88,74 @@
     "following": "Sekojat",
     "terms": "Noteikumi un nosacījumi",
     "privacy": "Privātuma politika",
-    "rules": "Project rules",
-    "all": "All"
+    "rules": "Projektu noteikumi",
+    "all": "Visi"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Licence",
+        "plural": "Licences"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "project_id": "Projekta ID",
+      "project_status": "Projekta statuss",
+      "minecraft_versions": "Minecraft versijas",
+      "mod_loaders": "Modu lādētāji",
+      "categories": "Kategorijas",
+      "downloads": "Lejupielādes",
+      "files": "Faili"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
-      "feature": "Feature version",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
-      "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
-      "cancel": "Cancel",
-      "discard": "Discard changes"
+      "create": "Izveidot",
+      "edit": "Rediģēt",
+      "follow": "Sekot",
+      "unfollow": "Pārstāt sekot",
+      "feature": "Ieteikt versiju",
+      "report": "Ziņot",
+      "new_project": "Jauns projekts",
+      "preview": "Priekšskatījums",
+      "download": "Lejupielādēt",
+      "save": "Saglabāt",
+      "confirm": "Apstiprināt",
+      "remove": "Noņemt",
+      "delete": "Dzēst",
+      "cancel": "Atcelt",
+      "discard": "Atmest izmaiņas"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "GitHub profils",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
-      "source": "Source",
+      "issues": "Problēmas",
+      "source": "Pirmkods",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "github_sponsors": "GitHub Sponsori",
+      "donate": "Ziedot",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "singular": "Vide",
+      "plural": "Vides",
+      "server_side": "Serveris",
+      "client_side": "Klients",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Nepieciešams",
+        "unsupported": "Neatbalstīts",
+        "optional": "Pēc izvēles",
+        "unknown": "Nezināms"
       }
     },
-    "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "up_to_date": "Jums nav paziņojumu!",
+    "byline": "veidoja <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
+        "singular": "Mods",
+        "plural": "Modi",
         "search": "Meklēt modus..."
       },
       "modpack": {
@@ -296,16 +296,16 @@
       "inappropriate": "Inappropriate",
       "malicious": "Malicious",
       "name-squatting": "Name-squatting",
-      "other": "Other"
+      "other": "Cits"
     }
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "Ielādē projektus kuriem tiek sekots...",
+      "none": "Jūs neesat sekojis nevienam projektam."
     },
     "delete": {
-      "title": "Delete account",
+      "title": "Dzēst kontu",
       "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
     },
     "auth": {
