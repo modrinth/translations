@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Carica una nuova versione"
     },
     "body": {
       "editor": "Editor",
@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Revoca il tuo token Modrinth",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "La revoca del tuo token Modrinth può avere conseguenze non volute. Per favore nota che le seguenti cose potrebbero non funzionare più:\n - Ogni applicazione che usa il tuo token per accedere all'API.\n - Gradle - se a Minotaur viene dato un token errato, le tue build di Gradle potrebbero fallire.\n - GitHub - se usi una GitHub action che usa le API di Modrith, verranno causati degli errori.\n\nSe vuoi procedere, completa i seguenti passi:\n\n 1. Recati alla [Pagina dell'applicazione di Modrith su GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assicurati di aver fatto l'accesso all'account GitHub che hai usato per Modrith!\n 2. Premi il grande bottone rosso \"Revoca Accesso\" di fianco all'intestazione \"Permessi\".\n\nUna volta aver completato questi passi, premi il bottone \"Log out\" quì sotto.\n\n**Questo ti farà uscire da Modrinth, ma, quando accederai di nuovo, il tuo token verrà rigenerato.**",
       "action": "Disconnettiti"
     }
   },
@@ -348,7 +348,7 @@
       },
       "version": {
         "title": "Elimina una versione",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Sei sicuro di voler eliminare questa versione? Tutti i file e imetadati saranno persi irrimediabilmente.",
         "action": "Elimina versione"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Elimina immagine dalla galleria",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Sei sicuro di voler eliminare questo file immagine e i metadati? Questa azione non può essere annullata.",
         "action": "Elimina immagine"
       }
     },

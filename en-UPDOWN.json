@@ -57,22 +57,22 @@
         "system": "Sʎsʇǝɯ ʇɥǝɯǝ\n\n\n",
         "light": "˥ᴉƃɥʇ ɯopǝ\n\n\n",
         "dark": "pɐɹʞ ɯopǝ",
-        "oled": "OLED mode"
+        "oled": "ǝpoɯ pƎ˥O"
       },
       "language": {
-        "label": "Select language"
+        "label": "ǝƃɐnƃuɐl ʇɔǝlǝS"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "ɹoɹɹƎ {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "˙punoɟ ǝq ʇou plnoɔ ɹoɟ ƃuᴉʞool ǝɹɐ noʎ ǝƃɐd ǝɥ┴<br />˙[ɥʇuᴉɹʎqɐ˥](https://github.com/modrinth/labrinth) ǝɥʇ uᴉ ʇsol ʇoƃ noʎ ǝʞᴉl sʞool 'ɥo ɥ∩",
+      "project_missing": "˙punoɟ ǝq ʇouuɐɔ ɹoɟ ƃuᴉʞool ǝɹǝʍ noʎ {type} ǝɥ┴",
+      "default": "˙pǝɹɹnɔɔo sɐɥ ɹoɹɹǝ pǝʇɔǝdxǝun u∀"
     },
     "actions": {
-      "home": "Go home",
+      "home": "ǝɯoɥ oפ",
       "discord": "Get help on Discord"
     }
   },

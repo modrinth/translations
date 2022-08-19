@@ -3,42 +3,42 @@
     "no_translation": "У зв'язку з характером цієї сторінки, офіційна версія вмісту доступна лише англійською."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "Досліджуйте, грайте, і створюйте контент Minecraft",
+    "description": "Знаходьте приємний і якісний контент на нашій платформі модифікацій з відкритим кодом, створеній для спільноти. Створюйте речі, отримуйте гроші*, та розгортайте свій проєкт за допомогою нашого повністю задокументованого API!",
     "features": {
       "book": {
         "title": "Простий у використанні API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "Підтримується повністю задокументоване API, для використання в сторонніх лаунчерах і інтеграціях."
       },
       "coin": {
-        "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "title": "Заробіток творця",
+        "description": "Планується видавати творцям 100% прибутку з реклами з їхніх сторінок. * Виплати наразі розробляються."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "Блискавичний пошук",
+        "description": "Завдяки швидким і гнучким алгоритмам пошуку вам не доведеться чекати."
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "Корисна спільнота",
+        "description": "Отримуйте підтримку, розвивайтеся та спілкуйтеся на нашому сервері Discord із понад 1500 учасниками."
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "Розширюваний за дизайном",
+        "description": "Інтегрується з інструментами збірки, репозиторіями, лаунчерами та користувацькими програмами."
       },
       "tools": {
         "title": "Повністю відкритий вихідний код",
-        "description": "Проект з відкритим кодом, що підтримується активною спільнотою, яка вітає внески."
+        "description": "Проєкт з відкритим кодом, що підтримується активною спільнотою, яка вітає внески."
       }
     }
   },
   "header": {
     "my_profile": "Перейти до профілю",
     "logout": "Вийти",
-    "github": "Увійти через GitHub"
+    "github": "Увійти за допомогою GitHub"
   },
   "footer": {
-    "description": "Modrinth — сервіс з відкритим кодом.",
+    "description": "Modrinth — програмне забезпечення з відкритим вихідним кодом.",
     "legal": {
       "heading": "Угоди",
       "terms": "Умови використання",
@@ -57,7 +57,7 @@
         "system": "Системна тема",
         "light": "Світла тема",
         "dark": "Темна тема",
-        "oled": "OLED-тема"
+        "oled": "OLED режим"
       },
       "language": {
         "label": "Виберіть мову"
@@ -84,11 +84,11 @@
     "settings": "Налаштування",
     "moderation": "Модерація",
     "notifications": "Сповіщення",
-    "about": "Про проект",
+    "about": "Про проєкт",
     "following": "Підписки",
     "terms": "Правила та умови",
     "privacy": "Політика конфіденційності",
-    "rules": "Правила проекту",
+    "rules": "Правила проєкту",
     "all": "Все"
   },
   "generic": {
@@ -97,8 +97,8 @@
         "singular": "Ліцензія",
         "plural": "Ліцензії"
       },
-      "project_id": "ID проекту",
-      "project_status": "Статус проекту",
+      "project_id": "ID проєкту",
+      "project_status": "Статус проєкту",
       "minecraft_versions": "Версії Minecraft",
       "mod_loaders": "Завантажувачі модів",
       "categories": "Категорії",
@@ -109,15 +109,15 @@
       "create": "Створити",
       "edit": "Редагувати",
       "follow": "Підписатися",
-      "unfollow": "Відписатися",
-      "feature": "Feature version",
+      "unfollow": "Не стежити",
+      "feature": "Рекомендовані версії",
       "report": "Поскаржитися",
-      "new_project": "Новий проект",
-      "preview": "Переглянути",
+      "new_project": "Новий проєкт",
+      "preview": "Попередній перегляд",
       "download": "Завантажити",
       "save": "Зберегти",
       "confirm": "Підтвердити",
-      "remove": "Виключити",
+      "remove": "Видалити",
       "delete": "Видалити",
       "cancel": "Скасувати",
       "discard": "Скасувати зміни"
@@ -126,9 +126,9 @@
       "github_profile": "Профіль GitHub",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Проблеми",
-      "source": "Вихідний код",
-      "wiki": "Вікі",
+      "issues": "Помилки",
+      "source": "Відкритий код",
+      "wiki": "Вікіпедія",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
@@ -139,16 +139,16 @@
     "environments": {
       "singular": "Середовище",
       "plural": "Середовища",
-      "server_side": "Сервер",
+      "server_side": "Для сервера",
       "client_side": "Клієнт",
       "values": {
         "required": "Потрібно",
         "unsupported": "Не підтримується",
-        "optional": "Опціонально",
+        "optional": "Оптимально",
         "unknown": "Невідомо"
       }
     },
-    "up_to_date": "Ви в курсі всіх оновлень!",
+    "up_to_date": "У вас найновіша версія!",
     "byline": "від <u>{author}</u>"
   },
   "project": {
@@ -167,7 +167,7 @@
     "sidebar_headings": {
       "external_resources": "Зовнішні ресурси",
       "featured_versions": "Рекомендовані версії",
-      "project_members": "Учасники проекту",
+      "project_members": "Учасники проєкту",
       "technical_information": "Технічна інформація"
     },
     "gallery": {
@@ -178,24 +178,24 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Завантажити нову версію"
     },
     "body": {
       "editor": "Редактор",
-      "placeholder": "Введіть опис проекту...",
-      "empty": "Опис цього проекту пустий."
+      "placeholder": "Введіть опис проєкту...",
+      "empty": "Опис цього проєкту пустий."
     },
     "members": "Учасники",
     "permissions": "Дозволи",
     "permission": {
-      "upload_version": "Вивантаження версій",
+      "upload_version": "Завантаження версій",
       "delete_version": "Видалення версій",
       "edit_details": "Редагування деталей",
       "edit_body": "Редагування опису",
       "manage_invites": "Управління запрошеннями",
-      "remove_member": "Виключення учасників",
+      "remove_member": "Видалення учасників",
       "edit_member": "Редагування учасників",
-      "delete_project": "Видалення проекту"
+      "delete_project": "Видалення проєкту"
     },
     "role": {
       "text": "Роль",
@@ -204,7 +204,7 @@
     "advanced": "Додаткові опції",
     "visibility": {
       "title": "Видимість",
-      "description": "Поточний стан проекту: {status}.",
+      "description": "Поточний стан проєкту: {status}.",
       "action": "Змінити видимість"
     },
     "ownership": {
@@ -281,8 +281,8 @@
       "placeholder": "Розкажіть про себе..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
+      "text": "Приватна електронна пошта",
+      "helper": "Видно лише модераторам.",
       "placeholder": "Додати е-пошту..."
     },
     "avatar": "Завантажити аватар"
@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Відкликання вашого токену Modrinth",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Відкликання вашого токену Modrinth може мати непередбачені наслідки. Пам'ятайте, що наступні перечислені речі можуть вийти з ладу:\n - Будь-яка програма, яка використовує ваш токен для доступу до API.\n - Gradle - якщо Minotaur надано неправильний токен, ваші збірки Gradle можуть вийти з ладу.\n - GitHub - якщо ви використовуєте GitHub action, яка використовує Modrinth API, це спричинить помилки\n\nЯкщо ви бажаєте продовжити, виконайте наступні кроки:\n\n 1. Перейдіть на [Сторінку програми Modrinth на GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Переконайтеся, що ви ввійшли в обліковий запис GitHub, який ви використовували для Modrinth!\n 2. Натисніть велику червону кнопку «Відкликати доступ» поруч із заголовком «Дозволи».\n \nВиконавши ці кроки, натисніть кнопку «Вийти» нижче.\n\n**Це призведе до виходу з Modrinth, однак, коли ви ввійдете знову, ваш токен буде відновлено.**",
       "action": "Вийти"
     }
   },
@@ -337,107 +337,107 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Це дуже важливо.",
+        "verify": "Щоб підтвердити, напишіть <i>{key}</i> нижче:",
+        "placeholder": "Напишіть тут..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Видалити проєкт",
+        "description": "Видалення проєкту видалить всі дані проєкту, включно версії.",
+        "action": "Видалити проєкт"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Видалити версію",
+        "description": "Ви впевнені, що хочете видалити цю версію? Усі файли та дані буде безповоротно втрачено.",
+        "action": "Видалити версію"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Ви впевнені, що хочете зробити це?",
+        "description": "Це **негайно видалить усі ваші проєкти** і підписки. Видалення облікового запису не можна скасувати.\n\nЯкщо вам потрібна допомога з обліковим записом, отримайте підтримку на [Modrinth Discord](/discord).",
+        "action": "Так, безповоротно видалити мій обліковий запис"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Видалити зображення галереї",
+        "description": "Ви впевнені що хочете видалити це зображення? Цю дію не можна скасувати.",
+        "action": "Видалити зображення"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Створення модифікацій повинно бути безпечним для всіх, тому ми в Modrinth серйозно ставимося до зловживань і злих намірів. Ми хочемо почути про шкідливий вміст на сайті, який порушує наші [Умови використання](/legal/terms) і [Правила](/legal/rules). Будьте певні, ми збережемо конфіденційність вашої ідентифікаційної інформації.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Причина"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Додаткова інформація",
+            "helper": "Додайте посилання та зображення, якщо можливо. Підтримується форматування розмітки.",
+            "placeholder": "Введіть доповнену інформацію..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Поскаржитись на проєкт"
       },
       "version": {
-        "action": "Report version"
+        "action": "Поскаржитися на версію"
       },
       "user": {
-        "action": "Report user"
+        "action": "Поскаржитися на користувача"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Створити проєкт",
+        "description": "Нові проєкти створюються як чернетки, і їх можна знайти під вашою сторінкою профілю.",
+        "action": "Продовжити",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Тип проєкту"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Назва",
+            "placeholder": "Введіть назву проєкту..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Резюме",
+            "helper": "Це відображається в пошуку та на бічній панелі сторінки вашого проєкту.",
+            "placeholder": "Введіть коротке резюме проєкту..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Додати зображення з галереї",
+        "action": "Додати зображення",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Заголовок",
+            "placeholder": "Введіть заголовок зображення..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Опис",
+            "placeholder": "Введіть опис зображення..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Змінити статус проєкту",
+        "action": "Підтвердити",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Статус",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Підтвердити",
+              "unlist": "Вилучити зі списку",
+              "reject": "Відхилити"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Повідомлення модерації",
+            "helper": "Додатково додайте інформацію, щоб повідомити про проблеми учасникам команди проєкту. Підтримується форматування розмітки.",
+            "placeholder": "Введіть додаткову інформацію..."
           }
         }
       }
