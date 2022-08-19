@@ -370,8 +370,8 @@
             "label": "Motivo"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "label": "Informação Adicional",
+            "helper": "Inclui links e imagens, se possível. A formatação Markdown é suportada.",
             "placeholder": "Enter additional information..."
           }
         }
