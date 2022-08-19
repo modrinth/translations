@@ -238,17 +238,17 @@
       "relevance": "Relevance",
       "downloads": "Download count",
       "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "newest": "Recentemente criado",
+      "updated": "Recentemente atualizado"
     },
     "per_page": "Show per page"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
+    "approved": "Aprovado",
+    "rejected": "Rejeitado",
+    "draft": "Rascunho",
+    "unlisted": "Não listado",
+    "processing": "Sob revisão",
     "unknown": "Unknown"
   },
   "release_channels": {
@@ -328,32 +328,32 @@
   "ads": {
     "privacy_respecting": "A privacy-respecting ad would have been shown here.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Tu estás a usar um adblocker.",
+      "line2": "O teu bloqueador de anúncios impediu que o Modrinth mostrasse um anúncio, a nossa única fonte de dinheiro.",
+      "line3": "Se ainda quiseres ajudar o Modrinth sem ver anúncios, podes contribuir para o Modrinth no GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
+        "important": "Isto é extremamente importante.",
         "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "placeholder": "Escreva aqui..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Apagar projeto",
+        "description": "Remover um projeto apaga todos os dados do projeto, incluindo as versões.",
+        "action": "Apagar projeto"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Apagar versão",
+        "description": "Tens a certeza que queres apagar esta versão? Todos os arquivos e metadados serão irrecuperavelmente perdidos.",
+        "action": "Apagar versão"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "title": "Tens a certeza que quer fazer isso?",
+        "description": "Isto irá **apagar imediatamente todos os teus projetos** e seguidas. Apagar a tua conta não pode ser revertido.\n\nSe precisares de ajuda com a tua conta, obtem suporte no [Discord do Modrinth](/discord).",
         "action": "Yes, irrecoverably delete my account"
       },
       "image": {
@@ -367,7 +367,7 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Motivo"
           },
           "information": {
             "label": "Additional information",
