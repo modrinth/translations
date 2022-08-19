@@ -38,7 +38,7 @@
     "github": "Fazer login com o GitHub"
   },
   "footer": {
-    "description": "Modrint é um software de código aberto",
+    "description": "Modrinth é um software de código aberto",
     "legal": {
       "heading": "Informação Legal",
       "terms": "Termos",
@@ -101,7 +101,7 @@
       "project_status": "Estado do projeto",
       "minecraft_versions": "Versões de Minecraft",
       "mod_loaders": "Mod loaders",
-      "categories": "Caregorias",
+      "categories": "Categorias",
       "downloads": "Downloads",
       "files": "Ficheiros"
     },
@@ -110,10 +110,10 @@
       "edit": "Editar",
       "follow": "Seguir",
       "unfollow": "Deixar de seguir",
-      "feature": "Feature version",
+      "feature": "Versão do Projeto",
       "report": "Denunciar",
       "new_project": "Novo projeto",
-      "preview": "Pré-Visualizar",
+      "preview": "Pré-visualizar",
       "download": "Descarregar",
       "save": "Guardar",
       "confirm": "Confirmar",
@@ -131,7 +131,7 @@
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Paga-me um safe",
+      "buy_me_a_coffee": "Paga-me um café",
       "github_sponsors": "GitHub Sponsors",
       "donate": "Doar",
       "kofi": "Ko-fi"
@@ -159,9 +159,9 @@
         "search": "Procurar mods..."
       },
       "modpack": {
-        "singular": "Pack de mods",
-        "plural": "Packs de mods",
-        "search": "Pesquisar packs de mods..."
+        "singular": "Modpack",
+        "plural": "Modpacks",
+        "search": "Pesquisar modpacks..."
       }
     },
     "sidebar_headings": {
@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Introduza corpo do projeto...",
+      "placeholder": "Introduza o corpo do projeto...",
       "empty": "A descrição deste projeto está vazia."
     },
     "members": "Membros",
@@ -190,22 +190,22 @@
     "permission": {
       "upload_version": "Carregar versão",
       "delete_version": "Apagar versão",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
+      "edit_details": "Editar os detalhes",
+      "edit_body": "Editar a descrição",
       "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "remove_member": "Remover membros",
+      "edit_member": "Editar membros",
+      "delete_project": "Remover o projeto"
     },
     "role": {
       "text": "Role",
       "placeholder": "Enter roles..."
     },
-    "advanced": "Advanced",
+    "advanced": "Advançado",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "Visibilidade",
+      "description": "Este projeto é neste momento {status}.",
+      "action": "Mudar visibilidade"
     },
     "ownership": {
       "title": "Ownership",
@@ -217,39 +217,39 @@
     "featured": "Featured",
     "autofeatured": "Auto-featured",
     "feature_action": "Feature",
-    "dependencies": "Dependencies",
+    "dependencies": "Dependencias",
     "metadata": "Metadata",
     "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "number": "Numero da versão",
+    "publication_date": "Data de publicação",
+    "publisher": "Autor"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
+      "clear": "Remover os filtros",
+      "hide": "Esconder os filtros",
+      "show": "Mostrar os filtros",
       "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
+      "search_versions": "Pesquisar versões...",
       "licenses": "Licenses"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "by": "Ordenar por",
+      "relevance": "Relevancia",
+      "downloads": "Número de descaregamentos",
+      "follows": "Número de seguidores",
+      "newest": "Recentemente criado",
+      "updated": "Recentemente atualizado"
     },
     "per_page": "Show per page"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "approved": "Aprovado",
+    "rejected": "Rejeitado",
+    "draft": "Rascunho",
+    "unlisted": "Não listado",
+    "processing": "Sob revisão",
+    "unknown": "Desconhecido"
   },
   "release_channels": {
     "release": "Release",
@@ -281,7 +281,7 @@
       "placeholder": "Adicionar uma bio..."
     },
     "email": {
-      "text": "Private email",
+      "text": "Email privado",
       "helper": "Visível apenas para moderadores.",
       "placeholder": "Adicionar um endereço eletrónico..."
     },
@@ -322,34 +322,34 @@
     }
   },
   "images": {
-    "replace": "Replace image",
+    "replace": "Substituir imagem",
     "how_to": "Drag and drop to upload or click to select"
   },
   "ads": {
     "privacy_respecting": "A privacy-respecting ad would have been shown here.",
     "console": {
-      "line1": "You are using an adblocker.",
+      "line1": "Tu estás a utilizar um Adblocker.",
       "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line3": "Se ainda quiseres ajudar o Modrinth sem ver anuncios, podes contribuir para o Modrinth no GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Isto é extremamente importante.",
+        "verify": "Para verificar, escreva <i>{key}</i> abaixo:",
+        "placeholder": "Escreva aqui..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Remover projeto",
+        "description": "Remover o projeto destroi toda a informação, incluindo versões.",
+        "action": "Remover projeto"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Remover versão",
+        "description": "Tens a certeza que queres remover esta versão? Todos os ficheiros e metadata vão ser irrecuperávelmente perdidos.",
+        "action": "Remover versão"
       },
       "account": {
         "title": "Are you sure you want to do this?",
@@ -359,7 +359,7 @@
       "image": {
         "title": "Delete gallery image",
         "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "action": "Remover imagem"
       }
     },
     "report": {
@@ -367,111 +367,111 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Razão"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Informação adicional",
+            "helper": "Inclua links e imagens, se possível. O markdown pode ser utilizado.,
+            "placeholder": "Escrever informação adicional..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Reportar projeto"
       },
       "version": {
-        "action": "Report version"
+        "action": "Reportar versão"
       },
       "user": {
-        "action": "Report user"
+        "action": "Reportar utilizador"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Criar projeto",
+        "description": "Novos projetos são criados como rascunhos, e podem ser encontrados na página de perfil.",
+        "action": "Continuar",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Tipo de projeto"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nome",
+            "placeholder": "Escreva o nome do projeto..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Resumo",
+            "helper": "Isto aparece na pesquisa e na barra lateral da página do seu projeto.",
+            "placeholder": "Escreva um breve resumo do projeto..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Adicionar imagem da galeria",
+        "action": "Adicionar imagem",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Titulo",
+            "placeholder": "Escreva o titulo da imagem..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Descrição",
+            "placeholder": "Escrever a descrição da imagem..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Mudar o estado do projeto",
+        "action": "Confirmar",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Estado",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Aprovar",
+              "unlist": "Não listar",
+              "reject": "Rejeitar"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Mensagem de moderação",
+            "helper": "Opcionalmente incluir informação para comunicar problemas com membros de uma equipa de um projeto. Formato markdown funciona.",
+            "placeholder": "Escrever informação adicional..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
-    "combat": "Combat",
-    "kitchen-sink": "Kitchen Sink",
+    "technology": "Technologia",
+    "adventure": "Adventura",
+    "magic": "Magia",
+    "utility": "Utilidade",
+    "decoration": "Decoração",
+    "library": "Biblioteca",
+    "cursed": "Amaldiçoado",
+    "worldgen": "Geração do mundo",
+    "storage": "Armanezamento",
+    "food": "Comida",
+    "equipment": "Equipamento",
+    "miscellaneous": "Diverso",
+    "challenging": "Desafiador",
+    "combat": "Combate",
+    "kitchen-sink": "Confuso",
     "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
+    "multiplayer": "Multijogador",
     "quests": "Quests",
-    "optimization": "Optimization",
+    "optimization": "Optimização",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
+    "server": "Servidor",
     "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "good": "Bom",
+    "trash": "Mau",
+    "misc": "Diverso"
   }
 }
