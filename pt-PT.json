@@ -16,14 +16,14 @@
       },
       "speedometer": {
         "title": "Pesquisa à velocidade da luz",
-        "description": "Desenvolvido com algoritmos de pesquisa rápidos e adaptáveis para que não precise de esperar."
+        "description": "Desenvolvido com algoritmos de pesquisa rápidos e adaptáveis para que não precises de esperar."
       },
       "chat": {
-        "title": "Comunidade colaborativa",
-        "description": "Obtenha ajuda, desenvolva e diverta-se no nosso servidor de Discord com mais de 1500 membros."
+        "title": "Comunidade pronta a ajudar",
+        "description": "Obtém ajuda, desenvolve e diverte-te no nosso servidor de Discord com mais de 1500 membros."
       },
       "puzzle": {
-        "title": "Extensível de raiz",
+        "title": "Extensível por design",
         "description": "Integrado com ferramentas de desenvolvimento, repositórios, launchers e aplicações personalizadas."
       },
       "tools": {
@@ -38,10 +38,10 @@
     "github": "Entrar com o GitHub"
   },
   "footer": {
-    "description": "Modrinth é um \"software\" de código aberto.",
+    "description": "Modrinth é um software de código aberto.",
     "legal": {
       "heading": "Informação legal",
-      "terms": "Termos",
+      "terms": "Termos de serviço",
       "privacy": "Privacidade",
       "rules": "Normas"
     },
@@ -67,8 +67,8 @@
   "error": {
     "status": "Erro {status}",
     "message": {
-      "404": "Uh oh, parece que se perdeu no [Labyrinth](https://github.com/modrinth/labrinth).<br />A página que procura não pôde ser encontrada.",
-      "project_missing": "O {type} que procura não foi encontrado.",
+      "404": "Uh oh, parece que te perdeste no [Labyrinth](https://github.com/modrinth/labrinth).<br />A página que procuras não pôde ser encontrada.",
+      "project_missing": "O {type} que procuras não foi encontrado.",
       "default": "Ocorreu um erro inesperado."
     },
     "actions": {
@@ -88,7 +88,7 @@
     "following": "A seguir",
     "terms": "Termos e condições",
     "privacy": "Política de privacidade",
-    "rules": "Regulamento do projeto",
+    "rules": "Regulamento de projeto",
     "all": "Tudo"
   },
   "generic": {
@@ -110,7 +110,7 @@
       "edit": "Editar",
       "follow": "Seguir",
       "unfollow": "Deixar de seguir",
-      "feature": "Versão em destaque",
+      "feature": "Destacar versão",
       "report": "Denunciar",
       "new_project": "Novo projeto",
       "preview": "Pré-visualizar",
@@ -131,7 +131,7 @@
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Pague-me um café",
+      "buy_me_a_coffee": "Paga-me um café",
       "github_sponsors": "Patrocinadores do GitHub",
       "donate": "Doar",
       "kofi": "Ko-fi"
@@ -173,8 +173,8 @@
     "gallery": {
       "upload": "Carregar galeria de imagens",
       "placeholder": {
-        "title": "Introduza titulo da imagem...",
-        "description": "Introduza uma descrição da imagem..."
+        "title": "Insere o título da imagem...",
+        "description": "Insere a descrição da imagem..."
       }
     },
     "versions": {
@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Introduza corpo do projeto...",
+      "placeholder": "Insere a descrição do projeto...",
       "empty": "A descrição deste projeto está vazia."
     },
     "members": "Membros",
@@ -199,7 +199,7 @@
     },
     "role": {
       "text": "Cargo",
-      "placeholder": "Introduzir cargos..."
+      "placeholder": "Insere cargos..."
     },
     "advanced": "Avançado",
     "visibility": {
@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Revogar o teu token Modrinth",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Revogar o teu token do Modrinth pode ter consequências indesejadas. Por favor, está ciente de que o seguinte pode para de funcionar:\n - Qualquer aplicativo que usa o teu token para acessar a API.\n - Gradle - se o Minotaur receber um token incorreto, as tuas compilações do Gradle poderão falhar.\n - GitHub - se usares uma ação do GitHub que usa a API do Modrinth, ela causará erros.\n\nSe estiveres disposto a continuar, completa as seguintes etapas:\n\n 1. Vai à página da aplicação Modrinth no GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Lembra-te de estar logado na conta do GitHub que usaste para o Modrinth!\n 2. Clica no grande botão vermelho \"Revogar acesso\" ao lado do cabeçalho \"Permissões\".\n\nDepois de completares estes passos, clica no botão \"Sair\" abaixo.\n\n**Isso vai desconectar-te do Modrinth, no entanto, quando entrares novamente, o teu token será regenerado.**",
       "action": "Terminar sessão"
     }
   },
@@ -357,14 +357,14 @@
         "action": "Sim, elimine a minha conta irrecuperavelmente"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Eliminar imagem da galeria",
+        "description": "Tem a certeza que quer eliminar este ficheiro de imagem e metadados? Esta ação não pode ser revertida.",
+        "action": "Eliminar imagem"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "O modding deve ser seguro para todos, então levamos a sério abusos e más intenções no Modrinth. Queremos ser informados sobre conteúdo prejudicial no site que viola os nossos [Termos de serviço](/legal/terms) e [Regulamento](/legal/rules). Fica tranquilo, nós vamos manter as tuas informações de identificação privadas.",
         "fields": {
           "reason": {
             "label": "Motivo"
@@ -372,106 +372,106 @@
           "information": {
             "label": "Informação Adicional",
             "helper": "Inclui links e imagens, se possível. A formatação Markdown é suportada.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Insere informações adicionais..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Denunciar projeto"
       },
       "version": {
-        "action": "Report version"
+        "action": "Denunciar versão"
       },
       "user": {
-        "action": "Report user"
+        "action": "Denunciar utilizador"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Criar projeto",
+        "description": "Projetos novos são criados como rascunhos e podem ser encontrados na tua página de perfil.",
+        "action": "Continuar",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Tipo de projeto"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nome",
+            "placeholder": "Insere o nome do projeto..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Resumo",
+            "helper": "Isto aparece na pesquisa e na barra lateral da página do teu projeto.",
+            "placeholder": "Insere um breve resumo do projeto..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Adicionar imagem da galeria",
+        "action": "Adicionar imagem",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Título",
+            "placeholder": "Insere o título da imagem..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Descrição",
+            "placeholder": "Insere a descrição da imagem..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Alterar estado do projeto",
+        "action": "Confirmar",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Estado",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Aprovar",
+              "unlist": "Não listado",
+              "reject": "Rejeitar"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Mensagem de moderação",
+            "helper": "Inclui, opcionalmente, informações para comunicar problemas com os membros da equipa de um projeto. A formatação Markdown é suportada.",
+            "placeholder": "Insere informação adicional..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
-    "combat": "Combat",
+    "technology": "Tecnologia",
+    "adventure": "Aventura",
+    "magic": "Magia",
+    "utility": "Utilidade",
+    "decoration": "Decoração",
+    "library": "Biblioteca",
+    "cursed": "Amaldiçoado",
+    "worldgen": "Geração de mundo",
+    "storage": "Armazenamento",
+    "food": "Comida",
+    "equipment": "Equipamento",
+    "miscellaneous": "Diversos",
+    "challenging": "Desafiador",
+    "combat": "Combate",
     "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "lightweight": "Leve",
+    "multiplayer": "Multijogador",
+    "quests": "Missões",
+    "optimization": "Otimização",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
-    "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "server": "Servidor",
+    "client": "Cliente",
+    "good": "Bom",
+    "trash": "Lixo",
+    "misc": "Outros"
   }
 }
