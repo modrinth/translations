@@ -154,13 +154,13 @@
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "singular": "Modd",
+        "plural": "Modder",
+        "search": "Søk etter modder …"
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
+        "singular": "Moddpakke",
+        "plural": "Moddpakker",
         "search": "Search modpacks..."
       }
     },
