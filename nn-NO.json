@@ -154,14 +154,14 @@
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "singular": "Modd",
+        "plural": "Moddar",
+        "search": "Søk etter moddar …"
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "Moddpakke",
+        "plural": "Moddpakkar",
+        "search": "Søk etter moddpakkar …"
       }
     },
     "sidebar_headings": {
