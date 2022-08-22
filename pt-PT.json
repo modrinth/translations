@@ -190,8 +190,8 @@
     "permission": {
       "upload_version": "Carregar versão",
       "delete_version": "Apagar versão",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
+      "edit_details": "Editar detalhes",
+      "edit_body": "Editar descrição",
       "manage_invites": "Manage invites",
       "remove_member": "Remove members",
       "edit_member": "Edit members",
