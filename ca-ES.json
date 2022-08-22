@@ -84,56 +84,56 @@
     "settings": "Configuració",
     "moderation": "Moderació",
     "notifications": "Notificacions",
-    "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
-    "rules": "Project rules",
-    "all": "All"
+    "about": "Quant a",
+    "following": "Seguits",
+    "terms": "Termes i condicions",
+    "privacy": "Política de privacitat",
+    "rules": "Normes dels projectes",
+    "all": "Tot"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Llicècia",
+        "plural": "Llicències"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
+      "project_id": "Identificador del projecte",
+      "project_status": "Estat del projecte",
+      "minecraft_versions": "Versions del Minecraft",
+      "mod_loaders": "Carregadors de mods",
       "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "downloads": "Descàrregues",
+      "files": "Fitxers"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
-      "feature": "Feature version",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
-      "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
-      "cancel": "Cancel",
-      "discard": "Discard changes"
+      "create": "Crea",
+      "edit": "Edita",
+      "follow": "Segueix",
+      "unfollow": "Deixa de seguir",
+      "feature": "Destaca la versió",
+      "report": "Informa",
+      "new_project": "Nou projecte",
+      "preview": "Vista prèvia",
+      "download": "Baixa",
+      "save": "Desa",
+      "confirm": "Confirmar",
+      "remove": "Suprimeix",
+      "delete": "Suprimeix",
+      "cancel": "Cancel·lar",
+      "discard": "Descarta els canvis"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "Perfil a GitHub",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
-      "source": "Source",
+      "issues": "Incidències",
+      "source": "Font",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "github_sponsors": "Patrocinadors a GitHub",
+      "donate": "Feu una donació",
       "kofi": "Ko-fi"
     },
     "environments": {
@@ -178,7 +178,7 @@
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Puja una versió nova"
     },
     "body": {
       "editor": "Editor",
@@ -215,13 +215,13 @@
   },
   "version": {
     "featured": "Destacat",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
+    "autofeatured": "Autodestacat",
+    "feature_action": "Destaca",
+    "dependencies": "Dependències",
+    "metadata": "Metadades",
+    "release_channel": "Canal de publicació",
+    "number": "Nombre de versió",
+    "publication_date": "Data de publicació",
     "publisher": "Publisher"
   },
   "search": {
@@ -337,105 +337,105 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Això és extremadament important.",
+        "verify": "Per a verificar, escrigui <i>{key}</i> a sota:",
+        "placeholder": "Escrigui aquí..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Eliminar projecte",
+        "description": "Eliminar un projecte esborra totes les dades del projecte, incloses les versions.",
+        "action": "Eliminar projecte"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Eliminar versió",
+        "description": "Esteu segurs que voleu eliminar aquesta versió? Tots els fitxers i les metadades es perdran de forma irreversible.",
+        "action": "Eliminar versió"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Esteu segurs que voleu fer això?",
+        "description": "Això **eliminarà immediatament tots els teus projectes** i seguits. L'eliminació del teu compte no és reversible.\n\nSi necessiteu ajuda amb el vostre compte, obtingueu suport al [Discord de Modrinth](/discord).",
+        "action": "Sí, elimina el meu compte permanentment"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Elimina imatge de galeria",
+        "description": "Esteu segurs que voleu eliminar aquesta imatge i les metadades? Aquesta acció no és reversible.",
+        "action": "Eliminar imatge"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "El Modding hauria de ser segur per a tothom, per això a Modrinth ens prenem seriosament l'abús i les males intencions. Volem sentir sobre el contingut nociu al lloc web que incompleix els nostres [Termes i condicions](/legal/terms) i [Normes](/legal/rules). Podeu estar tranquils, mantindrem la vostra informació identificativa en privat.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Motiu"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Informació addicional",
+            "helper": "Incloeu enllaços i imatges si és possible. S'admet el format Markdown.",
+            "placeholder": "Introduïu informació addicional..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Informa sobre un projecte"
       },
       "version": {
-        "action": "Report version"
+        "action": "Informa sobre una versió"
       },
       "user": {
-        "action": "Report user"
+        "action": "Informa sobre un usuari"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Crea un projecte",
+        "description": "Els projectes nous es creen com a esborranys, i els podeu trobar a la vostra pàgina de perfil.",
+        "action": "Continuar",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Tipus de projecte"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nom",
+            "placeholder": "Introdueixi el nom del projecte..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Resum",
+            "helper": "Això apareixerà als resultats de cerca i a la barra lateral de la pàgina del teu projecte.",
+            "placeholder": "Introdueixi un resum curt del projecte..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Afegeix imatge de galeria",
+        "action": "Afegeix imatge",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Títol",
+            "placeholder": "Introdueixi el títol de la imatge..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Descripció",
+            "placeholder": "Introdueixi la descripció de la imatge..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Canvia l'estat del projecte",
+        "action": "Confirmar",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Estat",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Aprovar",
+              "unlist": "No el llistis",
+              "reject": "Rebutjar"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Missatge de moderació",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
