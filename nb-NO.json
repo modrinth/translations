@@ -8,7 +8,7 @@
     "features": {
       "book": {
         "title": "API som er lett å bruke",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "Støtta av en fullt dokumentert API, som fremmer veksten av integrasjoner og launcherer fra tredjeparter."
       },
       "coin": {
         "title": "Creator earnings",
@@ -20,7 +20,7 @@
       },
       "chat": {
         "title": "Fellesskap som hjelper",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "description": "Få støtte, utvikle og heng på Discord-serveren vår med over 1500 medlemmer."
       },
       "puzzle": {
         "title": "Laga for å kunne utvides",
@@ -154,14 +154,14 @@
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "singular": "Modd",
+        "plural": "Modder",
+        "search": "Søk etter modder …"
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "Moddpakke",
+        "plural": "Moddpakker",
+        "search": "Søk etter moddpakker …"
       }
     },
     "sidebar_headings": {
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding skal være trygt for alle, så her hos Modrinth tar vi misbruk og skadelig innhold svært seriøst. Vi ønsker å få vite om alt skadelig innhold på siden vår, som bryter [vilkårene](/legal/terms) og [reglene](/legal/rules) våre. Vær sikker på at vi holder all identifiserende informasjon hemmelig.",
+        "description": "Modding skal være trygt for alle, så her hos Modrinth tar vi misbruk og skadelig innhold svært seriøst. Vi ønsker å få vite om alt skadelig innhold på siden vår, som bryter [vilkårene](/legal/terms) og [reglene](/legal/rules) våre. Vær trygg på at vi holder all identifiserende informasjon hemmelig.",
         "fields": {
           "reason": {
             "label": "Grunn"
@@ -450,7 +450,7 @@
     "utility": "Nyttig",
     "decoration": "Dekorasjon",
     "library": "Bibliotek",
-    "cursed": "Cursed",
+    "cursed": "Sær",
     "worldgen": "Verdensgenerering",
     "storage": "Lagring",
     "food": "Mat",
@@ -458,7 +458,7 @@
     "miscellaneous": "Diverse",
     "challenging": "Utfordrende",
     "combat": "Kamp",
-    "kitchen-sink": "Kitchen Sink",
+    "kitchen-sink": "Litt av hvert",
     "lightweight": "Lettvektig",
     "multiplayer": "Flerspiller",
     "quests": "Oppdrag",
