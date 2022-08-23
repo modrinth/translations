@@ -167,11 +167,11 @@
     "sidebar_headings": {
       "external_resources": "Recursos externos",
       "featured_versions": "Versões em destaque",
-      "project_members": "Membros do Projeto",
+      "project_members": "Membros do projeto",
       "technical_information": "Informações técnicas"
     },
     "gallery": {
-      "upload": "Carregar galeria de imagens",
+      "upload": "Adicionar imagem da galeria",
       "placeholder": {
         "title": "Insere o título da imagem...",
         "description": "Insere a descrição da imagem..."
@@ -189,7 +189,7 @@
     "permissions": "Permissões",
     "permission": {
       "upload_version": "Carregar versão",
-      "delete_version": "Apagar versão",
+      "delete_version": "Eliminar versão",
       "edit_details": "Editar detalhes",
       "edit_body": "Editar descrição",
       "manage_invites": "Gerir convites",
@@ -238,8 +238,8 @@
       "relevance": "Relevância",
       "downloads": "Número de downloads",
       "follows": "Número de seguidores",
-      "newest": "Recentemente criado",
-      "updated": "Recentemente atualizado"
+      "newest": "Criado recentemente",
+      "updated": "Atualizado recentemente"
     },
     "per_page": "Mostrar por página"
   },
@@ -252,47 +252,47 @@
     "unknown": "Desconhecido"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "Estável",
     "beta": "Beta",
     "alpha": "Alpha"
   },
   "roles": {
-    "developer": "Programador",
+    "developer": "Desenvolvedor",
     "admin": "Administrador",
     "moderator": "Moderador"
   },
   "stats": {
     "joined": "Juntou-se {ago}",
     "notified": "Notificado {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> transferência} other {<b>#</b> transferências}}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> seguidor dos projetos} other {<b>#</b> seguidores dos projetos}}",
     "followers": "{followers, plural, one {<b>#</b> seguidor} other {<b>#</b> seguidores}}",
-    "user_id": "ID do Utilizador: {id}",
+    "user_id": "ID do utilizador: {id}",
     "created": "Criado {ago}",
-    "updated": "Modificado {ago}"
+    "updated": "Atualizado {ago}"
   },
   "settings": {
     "username": {
       "text": "Nome de utilizador",
-      "placeholder": "Adicionar um nome de utilizador..."
+      "placeholder": "Adiciona um nome de utilizador..."
     },
     "bio": {
       "text": "Bio",
-      "placeholder": "Adicionar uma bio..."
+      "placeholder": "Adiciona uma bio..."
     },
     "email": {
       "text": "E-mail privado",
-      "helper": "Visível apenas para moderadores.",
-      "placeholder": "Adicionar um endereço eletrónico..."
+      "helper": "Apenas visível para moderadores.",
+      "placeholder": "Adiciona um email..."
     },
-    "avatar": "Carregar uma imagem de perfil"
+    "avatar": "Carregar imagem de perfil"
   },
   "report": {
     "singular": "Denunciar",
-    "plural": "Denuncias",
+    "plural": "Denúncias",
     "type": {
       "spam": "Spam",
-      "copyright": "Direitos de Autor",
+      "copyright": "Direitos autorais",
       "inappropriate": "Inapropriado",
       "malicious": "Malicioso",
       "name-squatting": "Ocupação de nome",
@@ -306,17 +306,17 @@
     },
     "delete": {
       "title": "Eliminar conta",
-      "body": "Assim que apagues a conta, não é possível voltar atrás. Apagar a tua conta irá remover todos os dados anexados, incluindo projetos, dos nossos servidores."
+      "body": "Assim que elimines a tua conta, não é possível voltar atrás. Eliminar a tua conta irá remover todos os dados anexados, incluindo projetos, dos nossos servidores."
     },
     "auth": {
       "title": "Token de autorização",
-      "body": "O teu token de autorização pode ser usado com a API do Modrinth, o plugin Minotaur Gradle e outras aplicações que interagem com a API do Modrinth. Não te esqueças de guardar este segredo!",
-      "copy": "Copiar token",
-      "copied": "Token copiado",
+      "body": "O teu token de autorização pode ser usado com a API do Modrinth, o plugin Minotaur Gradle e outras aplicações que interagem com a API do Modrinth. Certifica-te que guardas este segredo!",
+      "copy": "Copiar token para a área de transferência",
+      "copied": "Token copiado para a área de transferência",
       "revoke": "Revogar token"
     },
     "revoke_token": {
-      "title": "Revogar o teu token Modrinth",
+      "title": "Revogar o teu token do Modrinth",
       "body": "Revogar o teu token do Modrinth pode ter consequências indesejadas. Por favor, está ciente de que o seguinte pode para de funcionar:\n - Qualquer aplicativo que usa o teu token para acessar a API.\n - Gradle - se o Minotaur receber um token incorreto, as tuas compilações do Gradle poderão falhar.\n - GitHub - se usares uma ação do GitHub que usa a API do Modrinth, ela causará erros.\n\nSe estiveres disposto a continuar, completa as seguintes etapas:\n\n 1. Vai à página da aplicação Modrinth no GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Lembra-te de estar logado na conta do GitHub que usaste para o Modrinth!\n 2. Clica no grande botão vermelho \"Revogar acesso\" ao lado do cabeçalho \"Permissões\".\n\nDepois de completares estes passos, clica no botão \"Sair\" abaixo.\n\n**Isso vai desconectar-te do Modrinth, no entanto, quando entrares novamente, o teu token será regenerado.**",
       "action": "Terminar sessão"
     }
@@ -342,18 +342,18 @@
         "placeholder": "Escreve aqui..."
       },
       "project": {
-        "title": "Apagar projeto",
-        "description": "Remover um projeto apaga todos os dados do projeto, incluindo as versões.",
-        "action": "Apagar projeto"
+        "title": "Eliminar projeto",
+        "description": "Eliminar um projeto apaga todos os dados do projeto, incluindo versões.",
+        "action": "Eliminar projeto"
       },
       "version": {
-        "title": "Apagar versão",
+        "title": "Eliminar versão",
         "description": "Tens a certeza que queres eliminar esta versão? Todos os arquivos e metadados serão irrecuperavelmente perdidos.",
-        "action": "Apagar versão"
+        "action": "Eliminar versão"
       },
       "account": {
         "title": "Tens a certeza que queres fazer isso?",
-        "description": "Isto irá **apagar imediatamente todos os teus projetos** e seguidas. Apagar a tua conta não pode ser revertido.\n\nSe precisares de ajuda com a tua conta, obtem suporte no [Discord do Modrinth](/discord).",
+        "description": "Isto irá **eliminar imediatamente todos os teus projetos** e seguidos. Eliminar a tua conta não pode ser revertido.\n\nSe precisares de ajuda com a tua conta, obtém ajuda no [Discord do Modrinth](/discord).",
         "action": "Sim, elimine a minha conta irrecuperavelmente"
       },
       "image": {
@@ -370,7 +370,7 @@
             "label": "Motivo"
           },
           "information": {
-            "label": "Informação Adicional",
+            "label": "Informação adicional",
             "helper": "Inclui links e imagens, se possível. A formatação Markdown é suportada.",
             "placeholder": "Insere informações adicionais..."
           }
