@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "På grunn av føremålet til denne siden, er den einaste offisielle versjonen på engelsk."
+    "no_translation": "På grunn av føremålet til denne sida, er den einaste offisielle versjonen på engelsk."
   },
   "index": {
     "tagline": "Oppdag, spel og skap innhald for Minecraft",
@@ -8,11 +8,11 @@
     "features": {
       "book": {
         "title": "API som er lett å bruka",
-        "description": "Støtta av eit fullt dokumentert API, som fremjar veksten av integrasjonar og launcherar frå tredjepartar."
+        "description": "Støtta av ein fullt dokumentert API, som fremjar veksten av integrasjonar og launcherar frå tredjepartar."
       },
       "coin": {
         "title": "Creator earnings",
-        "description": "Planlegg å gje skaparane 100% av annonseintektane frå prosjektsidane deira. *Betaling er framleis under utvikling."
+        "description": "Me planlegg å gje skaparane 100% av annonseintektane frå prosjektsidene deira. *Betaling er framleis under utvikling."
       },
       "speedometer": {
         "title": "Lynraskt søk",
@@ -67,12 +67,12 @@
   "error": {
     "status": "Feil {status}",
     "message": {
-      "404": "Ser ut som du gjekk deg vill i labyrinten.<br/>Siden du leitar etter vart ikkje funne.",
+      "404": "Ser ut som du gjekk deg vill i labyrinten.<br/>Sida du leitar etter vart ikkje funne.",
       "project_missing": "{type}en du leitar etter vart ikkje funne.",
       "default": "Det oppsto ein uventa feil."
     },
     "actions": {
-      "home": "Gå til startsiden",
+      "home": "Gå til startsida",
       "discord": "Få hjelp på Discord"
     }
   },
@@ -139,8 +139,8 @@
     "environments": {
       "singular": "Miljø",
       "plural": "Miljø",
-      "server_side": "Tenarsiden",
-      "client_side": "Klientsiden",
+      "server_side": "Tenarsida",
+      "client_side": "Klientsida",
       "values": {
         "required": "Påkravd",
         "unsupported": "Ikkje støtta",
@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Tilbakekall Modrinth-symbolet ditt",
-      "body": "Å tilbakekalla Modrinth-symbolet ditt kan ha uventa konsekvensar. Vær oppmerksam på at det følgjande kan slutte å fungera:\n - Alle program som brukar symbolet ditt saman med API-en vår.\n - Gradle - viss Minotaur får feil symbol kan Gradle-bygga dine feile.\n - GitHub - viss du brukar ein GitHub-handling som brukar Modrinth-API-en, vil det oppstå feil.\n\nViss du framleis vil fortsetta, må du gjera det følgjande:\n 1. Gå til [programsiden til Modrinth på GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Pass på at du er logga inn på den same GitHub-kontoen som du brukte for Modrinth.\n 2. Trykk på den raude «Revoke access»-knappen til høgre for «Permissions».\n\nNår du er ferdig, trykk på «Logg ut» nedanfor.\n\n**Dette vil logga deg ut frå Modrinth. Når du loggar deg inn igjen vil symbolet ditt verta gjenoppbygga.**",
+      "body": "Å tilbakekalla Modrinth-symbolet ditt kan ha uventa konsekvensar. Vær oppmerksam på at det følgjande kan slutte å fungera:\n - Alle program som brukar symbolet ditt saman med API-en vår.\n - Gradle - viss Minotaur får feil symbol kan Gradle-bygga dine feile.\n - GitHub - viss du brukar ein GitHub-handling som brukar Modrinth-API-en, vil det oppstå feil.\n\nViss du framleis vil fortsetja, må du gjera det følgjande:\n 1. Gå til [programsida til Modrinth på GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Pass på at du er logga inn på den same GitHub-kontoen som du brukte for Modrinth.\n 2. Trykk på den raude «Revoke access»-knappen til høgre for «Permissions».\n\nNår du er ferdig, trykk på «Logg ut» nedanfor.\n\n**Dette vil logga deg ut frå Modrinth. Når du loggar deg inn igjen vil symbolet ditt verta gjenoppbygga.**",
       "action": "Logg ut"
     }
   },
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding skal væra trygt for alle, så her hos Modrinth tar me misbruk og skadeleg innhald svært seriøst. Me ønskjer å få veta om alt skadeleg innhald på siden vår, som bryt [vilkåra](/legal/terms) og [reglane](/legal/rules) våre. Vær sikker på at me holder all identifiserande informasjon hemmeleg.",
+        "description": "Modding skal væra trygt for alle, så her hos Modrinth tar me misbruk og skadeleg innhald svært seriøst. Me ønskjer å få veta om alt skadeleg innhald på sida vår, som bryt [vilkåra](/legal/terms) og [reglane](/legal/rules) våre. Vær trygg på at me held all identifiserande informasjon hemmeleg.",
         "fields": {
           "reason": {
             "label": "Grunn"
@@ -389,7 +389,7 @@
     "creation": {
       "project": {
         "title": "Opprett prosjekt",
-        "description": "Nye prosjekt vert oppretta som utkast, og kan verta funne på profilsiden din.",
+        "description": "Nye prosjekt vert oppretta som utkast, og kan verta funne på profilsida di.",
         "action": "Fortsett",
         "fields": {
           "project_type": {
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Oppsummering",
-            "helper": "Dette vil visas i søk og i sidestolpen på prosjektsiden.",
+            "helper": "Dette vil visas i søk og i sidestolpen på prosjektsida.",
             "placeholder": "Skriv inn ein kort oppsummering av prosjektet …"
           }
         }
@@ -450,7 +450,7 @@
     "utility": "Nyttig",
     "decoration": "Dekorasjon",
     "library": "Bibliotek",
-    "cursed": "Cursed",
+    "cursed": "Sær",
     "worldgen": "Verdsgenerering",
     "storage": "Lagring",
     "food": "Mat",
@@ -458,7 +458,7 @@
     "miscellaneous": "Diverse",
     "challenging": "Utfordrande",
     "combat": "Kamp",
-    "kitchen-sink": "Kitchen Sink",
+    "kitchen-sink": "Litt av kvart",
     "lightweight": "Lettvektig",
     "multiplayer": "Fleirspelar",
     "quests": "Oppdrag",
