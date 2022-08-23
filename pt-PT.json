@@ -7,19 +7,19 @@
     "description": "Encontra conteúdo do teu interesse e de qualidade na nossa plataforma de modding em código aberto feita para a comunidade. Cria coisas, sê pago*, e desenvolve o teu projeto com a nossa API totalmente documentada!",
     "features": {
       "book": {
-        "title": "API de uso fácil",
+        "title": "API fácil de usar",
         "description": "Suportado por uma API totalmente documentada, que facilita o crescimento de integrações de terceiros e de launchers."
       },
       "coin": {
-        "title": "Ganhos do criador",
+        "title": "Lucros do autor",
         "description": "Planeamos dar aos criadores 100% da receita dos anúncios exibidos nas páginas dos seus projetos. *Pagamentos em desenvolvimento."
       },
       "speedometer": {
-        "title": "Pesquisa à velocidade da luz",
+        "title": "Pesquisa ultrarrápida",
         "description": "Desenvolvido com algoritmos de pesquisa rápidos e adaptáveis para que não precises de esperar."
       },
       "chat": {
-        "title": "Comunidade pronta a ajudar",
+        "title": "Comunidade útil",
         "description": "Obtém ajuda, desenvolve e diverte-te no nosso servidor de Discord com mais de 1500 membros."
       },
       "puzzle": {
@@ -41,7 +41,7 @@
     "description": "Modrinth é um software de código aberto.",
     "legal": {
       "heading": "Informação legal",
-      "terms": "Termos de serviço",
+      "terms": "Termos e Condições",
       "privacy": "Privacidade",
       "rules": "Normas"
     },
@@ -99,7 +99,7 @@
       },
       "project_id": "ID do projeto",
       "project_status": "Estado do projeto",
-      "minecraft_versions": "Versões de Minecraft",
+      "minecraft_versions": "Versões do Minecraft",
       "mod_loaders": "Mod loaders",
       "categories": "Categorias",
       "downloads": "Downloads",
@@ -142,8 +142,8 @@
       "server_side": "Lado do servidor",
       "client_side": "Lado do cliente",
       "values": {
-        "required": "Necessário",
-        "unsupported": "Não suportado",
+        "required": "Obrigatório",
+        "unsupported": "Incompatível",
         "optional": "Opcional",
         "unknown": "Desconhecido"
       }
@@ -168,7 +168,7 @@
       "external_resources": "Recursos externos",
       "featured_versions": "Versões em destaque",
       "project_members": "Membros do projeto",
-      "technical_information": "Informações técnicas"
+      "technical_information": "Informação técnica"
     },
     "gallery": {
       "upload": "Adicionar imagem da galeria",
