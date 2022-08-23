@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Ganhos do criador",
-        "description": "Planos para dar aos criadores 100% da receita dos anúncios exibidos nas páginas dos seus projetos. *Pagamentos ainda em desenvolvimento."
+        "description": "Planeamos dar aos criadores 100% da receita dos anúncios exibidos nas páginas dos seus projetos. *Pagamentos em desenvolvimento."
       },
       "speedometer": {
         "title": "Pesquisa à velocidade da luz",
@@ -328,7 +328,7 @@
   "ads": {
     "privacy_respecting": "Aqui seria mostrada uma publicidade respeitadora da privacidade.",
     "console": {
-      "line1": "Tu estás a usar um adblocker.",
+      "line1": "Estás a usar um bloqueador de anúncios.",
       "line2": "O teu bloqueador de anúncios impediu que o Modrinth mostrasse um anúncio, a nossa única fonte de dinheiro.",
       "line3": "Se ainda quiseres ajudar o Modrinth sem ver anúncios, podes contribuir para o Modrinth no GitHub!",
       "line4": "https://github.com/modrinth/"
@@ -339,7 +339,7 @@
       "generic": {
         "important": "Isto é extremamente importante.",
         "verify": "Para verificar, digite <i>{key}</i> abaixo:",
-        "placeholder": "Escreva aqui..."
+        "placeholder": "Escreve aqui..."
       },
       "project": {
         "title": "Apagar projeto",
@@ -348,11 +348,11 @@
       },
       "version": {
         "title": "Apagar versão",
-        "description": "Tens a certeza que queres apagar esta versão? Todos os arquivos e metadados serão irrecuperavelmente perdidos.",
+        "description": "Tens a certeza que queres eliminar esta versão? Todos os arquivos e metadados serão irrecuperavelmente perdidos.",
         "action": "Apagar versão"
       },
       "account": {
-        "title": "Tens a certeza que quer fazer isso?",
+        "title": "Tens a certeza que queres fazer isso?",
         "description": "Isto irá **apagar imediatamente todos os teus projetos** e seguidas. Apagar a tua conta não pode ser revertido.\n\nSe precisares de ajuda com a tua conta, obtem suporte no [Discord do Modrinth](/discord).",
         "action": "Sim, elimine a minha conta irrecuperavelmente"
       },
