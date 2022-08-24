@@ -67,7 +67,7 @@
   "error": {
     "status": "{status} 错误",
     "message": {
-      "404": "啊噗，看样子你好像被困在[迷宫]中了(https://github.com/modrinth/labrinth)。<br />这里没有你寻找的页面哦~",
+      "404": "啊哦，看样子你好像被困在[迷宫](https://github.com/modrinth/labrinth)中了。<br />我们找不到你想要的页面。",
       "project_missing": "未找到您想要的 {type} 。",
       "default": "发生了一个意外的错误。"
     },
@@ -99,7 +99,7 @@
       },
       "project_id": "项目 ID",
       "project_status": "项目状态",
-      "minecraft_versions": "我的世界版本",
+      "minecraft_versions": "Minecraft 版本",
       "mod_loaders": "模组加载器",
       "categories": "类别",
       "downloads": "下载量",
@@ -148,8 +148,8 @@
         "unknown": "未知"
       }
     },
-    "up_to_date": "你的版本是最新的!",
-    "byline": "制作者： <u>{author}</u>"
+    "up_to_date": "您已更新至最新版！",
+    "byline": "由 <u>{author}</u> 创作"
   },
   "project": {
     "types": {
@@ -247,17 +247,17 @@
     "approved": "已批准",
     "rejected": "被驳回",
     "draft": "草稿",
-    "unlisted": "未上架",
+    "unlisted": "未被列出",
     "processing": "审核中",
     "unknown": "未知"
   },
   "release_channels": {
-    "release": "正式版",
-    "beta": "测试版",
-    "alpha": "开发版"
+    "release": "稳定版",
+    "beta": "Beta测试版",
+    "alpha": "Alpha测试版"
   },
   "roles": {
-    "developer": "开发人员",
+    "developer": "开发者",
     "admin": "管理员",
     "moderator": "版主"
   },
