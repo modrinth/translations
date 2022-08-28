@@ -354,7 +354,7 @@
       "account": {
         "title": "Är du säker att du vill göra detta?",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "action": "Ja, ta bort mitt konto permanent"
       },
       "image": {
         "title": "Ta bort galleribild",
