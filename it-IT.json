@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Guadagni per il creatore",
-        "description": "Contiamo di dare ai creatori il 100% degli introiti pubblicitari delle loro pagine progetto. *I pagamenti sono attualmente in fase di sviluppo."
+        "description": "Pianifichiamo di dare ai creatori il 100% delle entrate pubblicitarie dalle loro pagine del progetto. *I pagamenti sono attualmente in fase di sviluppo."
       },
       "speedometer": {
         "title": "Ricerca ultra veloce",
@@ -23,12 +23,12 @@
         "description": "Cerca aiuto, sviluppa e fatti un giro sul nostro server Discord con oltre 1.500 membri."
       },
       "puzzle": {
-        "title": "Estensibile per design",
+        "title": "Estensibile per il design",
         "description": "Si integra con build tools, repository, launcher e applicazioni personalizzate."
       },
       "tools": {
         "title": "Completamente open source",
-        "description": "Un progetto open source gestito da una comunità attiva che accoglie i contributi."
+        "description": "Un progetto open source gestito da una comunità attiva che accoglie i contributori."
       }
     }
   },
@@ -54,7 +54,7 @@
       "privacy": "Preferenze per la privacy",
       "theme": {
         "label": "Cambia tema",
-        "system": "Tema di sistema",
+        "system": "Tema del sistema",
         "light": "Tema chiaro",
         "dark": "Tema scuro",
         "oled": "Tema nero"
@@ -78,8 +78,8 @@
   },
   "pages": {
     "description": "Descrizione",
-    "gallery": "Immagini",
-    "changelog": "Elenco modifiche",
+    "gallery": "Galleria",
+    "changelog": "Elenco delle modifiche",
     "versions": "Versioni",
     "settings": "Impostazioni",
     "moderation": "Moderazione",
@@ -100,9 +100,9 @@
       "project_id": "ID Progetto",
       "project_status": "Stato del progetto",
       "minecraft_versions": "Versioni di Minecraft",
-      "mod_loaders": "Mod loader",
+      "mod_loaders": "Mod loaders",
       "categories": "Categorie",
-      "downloads": "Numero download",
+      "downloads": "Numero di download",
       "files": "File"
     },
     "actions": {
@@ -127,7 +127,7 @@
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Problemi",
-      "source": "Sorgenti",
+      "source": "Fonte",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
@@ -148,19 +148,19 @@
         "unknown": "Sconosciuto"
       }
     },
-    "up_to_date": "Nulla di nuovo!",
+    "up_to_date": "Sei aggiornato!",
     "byline": "di <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
         "singular": "Mod",
-        "plural": "Mod",
+        "plural": "Mods",
         "search": "Cerca mod..."
       },
       "modpack": {
         "singular": "Modpack",
-        "plural": "Modpack",
+        "plural": "Modpacks",
         "search": "Cerca modpack..."
       }
     },
@@ -192,7 +192,7 @@
       "delete_version": "Eliminare una versione",
       "edit_details": "Modificare i dettagli",
       "edit_body": "Modificare la descrizione",
-      "manage_invites": "Gestire gli inviti",
+      "manage_invites": "Gestisci gli inviti",
       "remove_member": "Rimuovere i membri",
       "edit_member": "Modificare i membri",
       "delete_project": "Eliminare il progetto"
@@ -229,7 +229,7 @@
       "clear": "Azzera filtri",
       "hide": "Nascondi filtri",
       "show": "Mostra filtri",
-      "show_snapshots": "Mostra versioni sperimentali",
+      "show_snapshots": "Mostra versioni snapshots",
       "search_versions": "Cerca versioni...",
       "licenses": "Licenze"
     },
