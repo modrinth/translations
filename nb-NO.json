@@ -11,7 +11,7 @@
         "description": "Støtta av en fullt dokumentert API, som fremmer veksten av integrasjoner og launcherer fra tredjeparter."
       },
       "coin": {
-        "title": "Creator earnings",
+        "title": "Skaper fortjeneste",
         "description": "Planlegger å gi skaperene 100% av annonseintektene fra prosjektsidene deres. *Betaling er fremdeles under utvikling."
       },
       "speedometer": {
@@ -100,7 +100,7 @@
       "project_id": "Prosjekt-ID",
       "project_status": "Prosjektstatus",
       "minecraft_versions": "Minecraft-versjoner",
-      "mod_loaders": "Mod loaders",
+      "mod_loaders": "Mod lastere",
       "categories": "Kategorier",
       "downloads": "Nedlastinger",
       "files": "Filer"
@@ -247,7 +247,7 @@
     "approved": "Godkjent",
     "rejected": "Avvist",
     "draft": "Utkast",
-    "unlisted": "Unlisted",
+    "unlisted": "Uoppført",
     "processing": "Under vurdering",
     "unknown": "Ukjent"
   },
@@ -291,11 +291,11 @@
     "singular": "Rapport",
     "plural": "Rapporter",
     "type": {
-      "spam": "Spam",
+      "spam": "Nettsøppel",
       "copyright": "Opphavsrett",
       "inappropriate": "Upassende",
       "malicious": "Skadelig",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "Navn-stjeling",
       "other": "Annet"
     }
   },
@@ -430,7 +430,7 @@
             "label": "Status",
             "options": {
               "approve": "Godkjenn",
-              "unlist": "Unlist",
+              "unlist": "Uoppfør",
               "reject": "Avvis"
             }
           },
