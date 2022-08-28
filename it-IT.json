@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "A causa della natura di questa pagina, l'unica versione ufficiale di questo contenuto è in lingua inglese."
+    "no_translation": "A causa della natura di questa pagina, l'unica versione ufficiale di questo contenuto è in lingua Inglese."
   },
   "index": {
     "tagline": "Scopri, gioca, e crea contenuti per Minecraft",
@@ -57,7 +57,7 @@
         "system": "Tema del sistema",
         "light": "Tema chiaro",
         "dark": "Tema scuro",
-        "oled": "Tema nero"
+        "oled": "Tema OLED"
       },
       "language": {
         "label": "Seleziona lingua"
@@ -156,7 +156,7 @@
       "mod": {
         "singular": "Mod",
         "plural": "Mods",
-        "search": "Cerca mod..."
+        "search": "Cerca delle mod..."
       },
       "modpack": {
         "singular": "Modpack",
@@ -188,14 +188,14 @@
     "members": "Membri",
     "permissions": "Permessi",
     "permission": {
-      "upload_version": "Caricare nuove versioni",
-      "delete_version": "Eliminare una versione",
-      "edit_details": "Modificare i dettagli",
-      "edit_body": "Modificare la descrizione",
+      "upload_version": "Carica nuove versioni",
+      "delete_version": "Elimina una versione",
+      "edit_details": "Modifica dettagli",
+      "edit_body": "Modifica la descrizione",
       "manage_invites": "Gestisci gli inviti",
-      "remove_member": "Rimuovere i membri",
-      "edit_member": "Modificare i membri",
-      "delete_project": "Eliminare il progetto"
+      "remove_member": "Rimuovi i membri",
+      "edit_member": "Modifica i membri",
+      "delete_project": "Elimina il progetto"
     },
     "role": {
       "text": "Ruolo",
@@ -268,8 +268,8 @@
     "followers_of_projects": "{followers, plural, one {Solo <b>#</b> segue il progetto} other {In <b>#</b> seguono il progetto}}",
     "followers": "{followers, plural, one {<b>#</b> seguace} other {<b>#</b> seguaci}}",
     "user_id": "ID utente: {id}",
-    "created": "Creato {ago}",
-    "updated": "Aggiornato {ago}"
+    "created": "Creato il {ago}",
+    "updated": "Aggiornato il {ago}"
   },
   "settings": {
     "username": {
@@ -278,7 +278,7 @@
     },
     "bio": {
       "text": "Su di me",
-      "placeholder": "Aggiungi dettagli su di te..."
+      "placeholder": "Aggiungi dettagli su di me..."
     },
     "email": {
       "text": "Email privata",
@@ -301,7 +301,7 @@
   },
   "user": {
     "following": {
-      "loading": "Caricamento progetti seguiti...",
+      "loading": "Caricamento dei progetti seguiti...",
       "none": "Non segui nessun progetto."
     },
     "delete": {
@@ -317,12 +317,12 @@
     },
     "revoke_token": {
       "title": "Revoca il tuo token Modrinth",
-      "body": "La revoca del tuo token Modrinth può avere conseguenze non volute. Per favore nota che le seguenti cose potrebbero non funzionare più:\n - Ogni applicazione che usa il tuo token per accedere all'API.\n - Gradle - se a Minotaur viene dato un token errato, le tue build di Gradle potrebbero fallire.\n - GitHub - se usi una GitHub action che usa le API di Modrith, verranno causati degli errori.\n\nSe vuoi procedere, completa i seguenti passi:\n\n 1. Recati alla [Pagina dell'applicazione di Modrith su GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assicurati di aver fatto l'accesso all'account GitHub che hai usato per Modrith!\n 2. Premi il grande bottone rosso \"Revoca Accesso\" di fianco all'intestazione \"Permessi\".\n\nUna volta aver completato questi passi, premi il bottone \"Log out\" quì sotto.\n\n**Questo ti farà uscire da Modrinth, ma, quando accederai di nuovo, il tuo token verrà rigenerato.**",
+      "body": "La revoca del tuo token Modrinth può avere conseguenze non volute. Per favore nota che le seguenti cose potrebbero non funzionare più:\n - Ogni applicazione che usa il tuo token per accedere all'API.\n - Gradle - se a Minotaur viene dato un token errato, le tue build di Gradle potrebbero fallire.\n - GitHub - se usi una GitHub action che usa le API di Modrith, verranno causati degli errori.\n\nSe vuoi procedere, completa i seguenti passi:\n\n 1. Recati alla [Pagina dell'applicazione di Modrith su GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assicurati di aver fatto l'accesso all'account GitHub che hai usato per Modrith!\n 2. Premi il grande bottone rosso \"Revoca Accesso\" di fianco all'intestazione \"Permessi\".\n\nUna volta aver completato questi passi, premi il bottone \"Disconnettiti\" quì sotto.\n\n**Questo ti farà uscire da Modrinth, ma, quando accederai di nuovo, il tuo token verrà rigenerato.**",
       "action": "Disconnettiti"
     }
   },
   "images": {
-    "replace": "Sostituisci immagine",
+    "replace": "Sostituisci l'immagine",
     "how_to": "Trascina e rilascia per caricare o clicca per selezionare"
   },
   "ads": {
@@ -347,8 +347,8 @@
         "action": "Eliminare il progetto"
       },
       "version": {
-        "title": "Elimina una versione",
-        "description": "Sei sicuro di voler eliminare questa versione? Tutti i file e imetadati saranno persi irrimediabilmente.",
+        "title": "Elimina versione",
+        "description": "Sei sicuro di voler eliminare questa versione? Tutti i file e i metadati saranno persi irrimediabilmente.",
         "action": "Elimina versione"
       },
       "account": {
@@ -359,7 +359,7 @@
       "image": {
         "title": "Elimina immagine dalla galleria",
         "description": "Sei sicuro di voler eliminare questo file immagine e i metadati? Questa azione non può essere annullata.",
-        "action": "Elimina immagine"
+        "action": "Elimina l'immagine"
       }
     },
     "report": {
@@ -436,8 +436,8 @@
           },
           "moderation_message": {
             "label": "Modera messaggi",
-            "helper": "Opzionalmente includi informazioni per comunicare problemi con i membri del team del progetto. La formattazione Markdown è supportata.",
-            "placeholder": "Inserisci informazioni aggiuntive..."
+            "helper": "Facoltativamente include informazioni per comunicare problemi con i membri del team del progetto. La formattazione Markdown è supportata.",
+            "placeholder": "Inserisci delle informazioni aggiuntive..."
           }
         }
       }
@@ -450,13 +450,13 @@
     "utility": "Utilità",
     "decoration": "Decorazione",
     "library": "Libreria",
-    "cursed": "Maledette",
+    "cursed": "Maledetto",
     "worldgen": "Generazione del mondo",
-    "storage": "Immagazzinamento",
+    "storage": "Archiviazione",
     "food": "Cibo",
     "equipment": "Equipaggiamento",
     "miscellaneous": "Varie",
-    "challenging": "Difficili",
+    "challenging": "Sfida",
     "combat": "Combattimento",
     "kitchen-sink": "Di tutto un po'",
     "lightweight": "Leggeri",
