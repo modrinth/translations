@@ -110,7 +110,7 @@
       "edit": "編輯",
       "follow": "追蹤",
       "unfollow": "取消追蹤",
-      "feature": "Feature version",
+      "feature": "推薦版本",
       "report": "檢舉",
       "new_project": "新增專案",
       "preview": "預覽",
@@ -343,7 +343,7 @@
       },
       "project": {
         "title": "刪除專案",
-        "description": "刪除專案會清除所有專案資料，以及版本。",
+        "description": "刪除專案會清除所有專案資料，包括版本。",
         "action": "刪除專案"
       },
       "version": {
@@ -354,7 +354,7 @@
       "account": {
         "title": "你確定要這樣做？",
         "description": "這將會**立即刪除您所有的專案**及追蹤者。此動作無法撤銷。\n\n如需尋求帳號相關的協助，請前往 [Modrinth Discord](/discord) 詢問。",
-        "action": "是的，不可回復地刪除我的帳號"
+        "action": "是的，不可回復的刪除我的帳號"
       },
       "image": {
         "title": "刪除圖庫照片",
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "改裝對每個人都應該是安全的，所以我們在 Modrinth 認真對待濫用和惡意意圖。 我們希望了解網站上違反我們的 [ToS](/legal/terms) 和 [Rules](/legal/rules) 的有害內容。 請放心，我們會將您的辨識資訊保密。",
+        "description": "模組對於每個人都應該是安全的，所以我們在 Modrinth 將會認真對待濫用和惡意的使用。 我們希望了解網站上違反我們的 [ToS](/legal/terms) 和 [Rules](/legal/rules) 的有害內容。 請放心，我們會將您提供的資訊保密。",
         "fields": {
           "reason": {
             "label": "原因"
@@ -459,7 +459,7 @@
     "challenging": "副本戰鬥",
     "combat": "戰鬥",
     "kitchen-sink": "廚房水槽",
-    "lightweight": "輕量級",
+    "lightweight": "輕量",
     "multiplayer": "多人遊戲",
     "quests": "任務",
     "optimization": "最佳化",

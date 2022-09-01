@@ -67,7 +67,7 @@
   "error": {
     "status": "{status} 错误",
     "message": {
-      "404": "啊噗，看样子你好像被困在[迷宫]中了(https://github.com/modrinth/labrinth)。<br />这里没有你寻找的页面哦~",
+      "404": "啊哦，看样子你好像被困在[迷宫](https://github.com/modrinth/labrinth)中了。<br />我们找不到你想要的页面。",
       "project_missing": "未找到您想要的 {type} 。",
       "default": "发生了一个意外的错误。"
     },
@@ -99,7 +99,7 @@
       },
       "project_id": "项目 ID",
       "project_status": "项目状态",
-      "minecraft_versions": "我的世界版本",
+      "minecraft_versions": "Minecraft 版本",
       "mod_loaders": "模组加载器",
       "categories": "类别",
       "downloads": "下载量",
@@ -148,8 +148,8 @@
         "unknown": "未知"
       }
     },
-    "up_to_date": "你的版本是最新的!",
-    "byline": "制作者： <u>{author}</u>"
+    "up_to_date": "您已更新至最新版！",
+    "byline": "由 <u>{author}</u> 创作"
   },
   "project": {
     "types": {
@@ -247,26 +247,26 @@
     "approved": "已批准",
     "rejected": "被驳回",
     "draft": "草稿",
-    "unlisted": "未上架",
+    "unlisted": "未被列出",
     "processing": "审核中",
     "unknown": "未知"
   },
   "release_channels": {
-    "release": "正式版",
-    "beta": "测试版",
-    "alpha": "开发版"
+    "release": "稳定版",
+    "beta": "Beta测试版",
+    "alpha": "Alpha测试版"
   },
   "roles": {
-    "developer": "开发人员",
+    "developer": "开发者",
     "admin": "管理员",
     "moderator": "版主"
   },
   "stats": {
     "joined": "于 {ago} 加入",
     "notified": "于 {ago} 收到通知",
-    "downloads": "{downloads, plural, one {被下载了<b>#</b> 次} other {被下载了<b>#</b> 次}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> 所有项目的追随者} other {<b>#</b> 所有项目的追随者}}",
-    "followers": "{followers, plural, one {<b>#</b> 追随者} other {<b>#</b> 追随者}}",
+    "downloads": "{downloads, plural, one {<b>#</b> 次下载} other {<b>#</b> 次下载}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> 位所有项目的关注者} other {<b>#</b> 位所有项目的关注者}}",
+    "followers": "{followers, plural, one {<b>#</b> 位关注者} other {<b>#</b> 位关注者}}",
     "user_id": "用户 ID：{id}",
     "created": "于 {ago} 创建",
     "updated": "于 {ago} 更新"
@@ -278,7 +278,7 @@
     },
     "bio": {
       "text": "简介",
-      "placeholder": "在这里输入简介..."
+      "placeholder": "输入简介..."
     },
     "email": {
       "text": "私人邮箱",
@@ -291,9 +291,9 @@
     "singular": "举报",
     "plural": "举报",
     "type": {
-      "spam": "垃圾信息",
-      "copyright": "侵犯版权",
-      "inappropriate": "不合适的内容",
+      "spam": "灌水",
+      "copyright": "版权争议",
+      "inappropriate": "内容不恰当",
       "malicious": "恶意行为",
       "name-squatting": "抢注名称",
       "other": "其它原因"
@@ -318,7 +318,7 @@
     "revoke_token": {
       "title": "撤销你的Modrinth令牌",
       "body": "撤销你的Modrinth令牌会产生意想不到的后果。请注意，以下相关的服务可能会出现问题：\n - 任何使用你的令牌来访问API的应用程序。\n - Gradle - 如果Minotaur被赋予一个不正确的令牌，你的Gradle构建可能会失败。\n - GitHub - 如果你使用一个与Modrinth API进行交互的GitHub action，将导致错误。\n\n如果你愿意继续，请完成以下步骤：\n\n 1. 前往[Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，确保登录到你所绑定的GitHub账户!\n 2. 按下 \"Permissions \"标题旁边的红色 \"Revoke Access \" 按钮。\n\n一旦你完成了这些步骤，请点击下方的 \"Log out \"按钮。\n\n**这将使你退出Modrinth，然而，当你重新登录时，你的令牌将被重新生成**。",
-      "action": "退出登录"
+      "action": "登出"
     }
   },
   "images": {
@@ -328,9 +328,9 @@
   "ads": {
     "privacy_respecting": "这里理应会显示一个尊重隐私的广告。",
     "console": {
-      "line1": "你正在使用广告拦截器。",
-      "line2": "你的广告拦截器拦截了 Modrinth 向你展示的广告——我们唯一的收入来源。",
-      "line3": "帮助 Modrinth 的不只有观看广告这一种方式；你也可以在 GitHub 上为 Modrinth 做出贡献：",
+      "line1": "您正在使用一个广告拦截器。",
+      "line2": "你的广告拦截器拦截了 Modrinth 向你展示的广告，也是我们唯一的收入来源。",
+      "line3": "如果你仍想在不观看广告的情况下帮助 Modrinth，你可以在 Github 上为 Modrinth 做出贡献！",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -370,9 +370,9 @@
             "label": "原因"
           },
           "information": {
-            "label": "其他信息",
+            "label": "附加信息",
             "helper": "有条件的话请尽可能提供链接和图像。编辑器支持 Markdown 格式。",
-            "placeholder": "在此输入其他信息..."
+            "placeholder": "在此输入附加信息..."
           }
         }
       },
@@ -400,9 +400,9 @@
             "placeholder": "在此输入项目名称..."
           },
           "summary": {
-            "label": "项目简介",
+            "label": "项目概述",
             "helper": "这些信息将显示在搜索结果及项目页面的侧边栏中。",
-            "placeholder": "在此输入项目的简介..."
+            "placeholder": "在此输入项目的概述..."
           }
         }
       },
@@ -430,7 +430,7 @@
             "label": "状态",
             "options": {
               "approve": "已批准",
-              "unlist": "未发布",
+              "unlist": "未被列出",
               "reject": "被驳回"
             }
           },
@@ -449,19 +449,19 @@
     "magic": "魔法",
     "utility": "实用",
     "decoration": "装饰",
-    "library": "库",
-    "cursed": "奇怪",
+    "library": "类库",
+    "cursed": "怪异",
     "worldgen": "世界生成",
     "storage": "存储",
     "food": "食物",
     "equipment": "装备",
     "miscellaneous": "杂项",
-    "challenging": "具有挑战性的",
+    "challenging": "挑战性",
     "combat": "战斗",
-    "kitchen-sink": "综合性的",
+    "kitchen-sink": "综合性",
     "lightweight": "轻量",
     "multiplayer": "多人游戏",
-    "quests": "探索",
+    "quests": "任务",
     "optimization": "优化",
     "fabric": "Fabric",
     "forge": "Forge",
