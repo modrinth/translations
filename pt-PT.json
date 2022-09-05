@@ -33,7 +33,7 @@
     }
   },
   "header": {
-    "my_profile": "Ir ao meu perfil",
+    "my_profile": "Ir para o meu perfil",
     "logout": "Terminar sessão",
     "github": "Entrar com o GitHub"
   },
@@ -123,7 +123,7 @@
       "discard": "Descartar alterações"
     },
     "external": {
-      "github_profile": "Perfil no GitHub",
+      "github_profile": "Perfil do GitHub",
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Erros",
