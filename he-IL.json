@@ -185,30 +185,30 @@
       "placeholder": "Enter project body...",
       "empty": "This project description is empty."
     },
-    "members": "Members",
+    "members": "משתתפים",
     "permissions": "הרשאות",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "העלאת גרסה",
+      "delete_version": "מחיקת גרסה",
+      "edit_details": "עריכת פרטים",
+      "edit_body": "עריכת תיאור",
+      "manage_invites": "ניהול הזמנות",
+      "remove_member": "הסרת משתתפים",
+      "edit_member": "עריכת משתתפים",
+      "delete_project": "מחיקת פרוייקט"
     },
     "role": {
-      "text": "Role",
+      "text": "תפקיד",
       "placeholder": "Enter roles..."
     },
-    "advanced": "Advanced",
+    "advanced": "הגדרות מתקדמות",
     "visibility": {
       "title": "Visibility",
       "description": "This project is currently {status}.",
       "action": "Change visibility"
     },
     "ownership": {
-      "title": "Ownership",
+      "title": "בעלות",
       "description": "Transfer ownership of this project to another user.",
       "action": "Transfer ownership"
     }
@@ -235,11 +235,11 @@
     },
     "sort": {
       "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "relevance": "רלוונטיות",
+      "downloads": "כמות הורדות",
+      "follows": "כמות עוקבים",
+      "newest": "נוצר לאחרונה",
+      "updated": "עודכן לאחרונה"
     },
     "per_page": "Show per page"
   },
@@ -264,16 +264,16 @@
   "stats": {
     "joined": "Joined {ago}",
     "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "downloads": "{downloads, plural, one {הורדה <b>#</b>} two {<b>#</b> הורדות} many {<b>#</b> הורדות} other {<b>#</b> הורדות}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
     "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "created": "נוצר {ago}",
+    "updated": "עודכן {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
+      "text": "שם משתמש",
       "placeholder": "Add a username..."
     },
     "bio": {
