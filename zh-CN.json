@@ -94,8 +94,8 @@
   "generic": {
     "labels": {
       "license": {
-        "singular": "许可协议",
-        "plural": "许可协议"
+        "singular": "许可证",
+        "plural": "许可证"
       },
       "project_id": "项目 ID",
       "project_status": "项目状态",
@@ -143,7 +143,7 @@
       "client_side": "客户端",
       "values": {
         "required": "必需的",
-        "unsupported": "无效的",
+        "unsupported": "不支持",
         "optional": "可选",
         "unknown": "未知"
       }
@@ -171,7 +171,7 @@
       "technical_information": "技术信息"
     },
     "gallery": {
-      "upload": "上传图像至项目图库",
+      "upload": "上传图像至图库",
       "placeholder": {
         "title": "输入图像标题...",
         "description": "输入图像描述..."
