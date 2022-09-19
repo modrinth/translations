@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Återkalla din Modrinth-nyckel",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Att återkalla din Modrinth-nyckel kan få oanade konsekvenser. Vänligen var uppmärksam på att följande kan sluta fungera:\n - Alla applikationer som använder din nyckel för att komma åt API:et.\n - Gradle - om Minotaur får en felaktig nyckel kan dina Gradle-byggen inte fungera.\n - GitHub - om du använder en GitHub-action som använder Modrinths API kommer det att orsaka fel.\n\nOm du är villig att fortsätta, genomför följande steg:\n\n 1. Gå till [Modrinths applikationssida på GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Var säker på att du är inloggad på GitHub-kontot du använde för Modrinth!\n 2. Tryck på den stora röda \"Revoke Access\"-knappen bredvid \"Permissions\"-rubriken.\n\nNär du är klar med dessa steg, tryck på fortsätt nedan.\n\n**Detta kommer logga ut dig från Modrinth, men när du loggar in igen kommer din nyckel att återgenereras.**",
       "action": "Logga ut"
     }
   },
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modding bör vara säkert för alla, så vi tar missbruk och skadligt beteénde på allvar. Därför vill vi höra om skadligt innehåll som bryter mot våra [ToS](/legal/terms) och [Rules](/legal/regler). Du kan lita på att vi kommer hålla din personliga information privat.",
         "fields": {
           "reason": {
             "label": "Orsak"
@@ -436,7 +436,7 @@
           },
           "moderation_message": {
             "label": "Moderationsmeddelande",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "helper": "Inkludera eventuellt information för att kommunicera problem med ett projekts gruppmedlemmar. Markdown-formatering stöds.",
             "placeholder": "Ange ytterligare information..."
           }
         }
