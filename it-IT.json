@@ -3,23 +3,23 @@
     "no_translation": "A causa della natura di questa pagina, l'unica versione ufficiale di questo contenuto è in lingua Inglese."
   },
   "index": {
-    "tagline": "Scopri, gioca, e crea contenuti per Minecraft",
-    "description": "Trova contenuti divertenti e di qualità attraverso la nostra piattaforma di modding open-source costruita per la comunità. Crea contenuti, guadagna*, e distribuisci il tuo progetto con la nostra API completamente documentata!",
+    "tagline": "Scopri, gioca, e crea contenuto per Minecraft",
+    "description": "Trova contenuto divertente e di qualità attraverso la nostra piattaforma di modding open-source costruita per la comunità. Crea contenuto, guadagna*, e distribuisci il tuo progetto con la nostra API completamente documentata!",
     "features": {
       "book": {
         "title": "API facile da utilizzare",
         "description": "Supportato da un'API completamente documentata che facilita la crescita di integrazioni e launcher di terze parti."
       },
       "coin": {
-        "title": "Guadagni per il creatore",
+        "title": "Guadagni per creatori",
         "description": "Pianifichiamo di dare ai creatori il 100% delle entrate pubblicitarie dalle loro pagine del progetto. *I pagamenti sono attualmente in fase di sviluppo."
       },
       "speedometer": {
         "title": "Ricerca ultra veloce",
-        "description": "Alimentato da algoritmi di ricerca veloci e adattabili, in modo da non dover aspettare."
+        "description": "Alimentato da algoritmi di ricerca veloci e adattabili, in modo da non dover farti aspettare."
       },
       "chat": {
-        "title": "Gruppo di supporto",
+        "title": "Una comunità pronta ad aiutare",
         "description": "Cerca aiuto, sviluppa e fatti un giro sul nostro server Discord con oltre 1.500 membri."
       },
       "puzzle": {
@@ -33,7 +33,7 @@
     }
   },
   "header": {
-    "my_profile": "Vai al profilo",
+    "my_profile": "Vai al mio profilo",
     "logout": "Esci",
     "github": "Accedi con GitHub"
   },
