@@ -79,13 +79,13 @@
   "pages": {
     "description": "Descrizione",
     "gallery": "Galleria",
-    "changelog": "Elenco delle modifiche",
+    "changelog": "Elenco modifiche",
     "versions": "Versioni",
     "settings": "Impostazioni",
     "moderation": "Moderazione",
     "notifications": "Notifiche",
     "about": "Chi siamo",
-    "following": "Segui",
+    "following": "Seguiti",
     "terms": "Termini e condizioni",
     "privacy": "Informativa sulla privacy",
     "rules": "Regole progetto",
@@ -149,7 +149,7 @@
       }
     },
     "up_to_date": "Sei aggiornato!",
-    "byline": "di <u>{author}</u>"
+    "byline": "da <u>{author}</u>"
   },
   "project": {
     "types": {
