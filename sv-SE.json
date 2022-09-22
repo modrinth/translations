@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding bör vara säkert för alla, så vi tar missbruk och skadligt beteénde på allvar. Därför vill vi höra om skadligt innehåll som bryter mot våra [ToS](/legal/terms) och [Rules](/legal/regler). Du kan lita på att vi kommer hålla din personliga information privat.",
+        "description": "Modding bör vara säkert för alla, så vi tar missbruk och skadligt beteende på allvar. Därför vill vi höra om skadligt innehåll som bryter mot våra [ToS](/legal/terms) och [Rules](/legal/regler). Du kan lita på att vi kommer hålla din personliga information privat.",
         "fields": {
           "reason": {
             "label": "Orsak"
