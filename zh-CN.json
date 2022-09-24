@@ -3,8 +3,8 @@
     "no_translation": "由于本页的法律性质，英文是唯一的官方版本。"
   },
   "index": {
-    "tagline": "发现、游玩并创建Minecraft相关内容",
-    "description": "通过我们为社区建立的开源模组平台，来提供令人愉快的高质量的内容。创建模组，获得报酬*，并通过我们完整的API来发布你的项目",
+    "tagline": "探索、游玩并创建 Minecraft 相关内容",
+    "description": "通过我们为社区建立的开源模组平台，来提供令人愉快的高质量内容。创建模组，获得报酬*，并通过我们完整的API来发布你的项目！",
     "features": {
       "book": {
         "title": "易于使用的API",
@@ -15,8 +15,8 @@
         "description": "我们计划让项目页面中 100% 的广告收入均归创作者所有。*结算系统正在开发中。"
       },
       "speedometer": {
-        "title": "这个搜索比闪电还快！",
-        "description": "由一个快速且适应性强的搜索算法提供支持，因此你不必等待。"
+        "title": "闪电般的搜索",
+        "description": "基于一个快速且适应性强的搜索算法——你再也不必等待！"
       },
       "chat": {
         "title": "互帮互助的社区",
@@ -27,7 +27,7 @@
         "description": "与构建工具，代码仓库，启动器，甚至是自定义应用快捷高效地集成。"
       },
       "tools": {
-        "title": "完全开放源代码",
+        "title": "完全开源",
         "description": "这是一个由活跃的社区维护的开源项目，我们期待您的贡献。"
       }
     }
@@ -53,10 +53,10 @@
     "buttons": {
       "privacy": "设置隐私偏好",
       "theme": {
-        "label": "改变modrinth主题",
+        "label": "改变 Modrinth 主题",
         "system": "跟随系统设置",
-        "light": "明亮模式",
-        "dark": "暗夜模式",
+        "light": "亮色模式",
+        "dark": "暗色模式",
         "oled": "荧光模式"
       },
       "language": {
@@ -67,7 +67,7 @@
   "error": {
     "status": "{status} 错误",
     "message": {
-      "404": "啊哦，看样子你好像被困在[迷宫](https://github.com/modrinth/labrinth)中了。<br />我们找不到你想要的页面。",
+      "404": "看样子你好像被困在[迷宫](https://github.com/modrinth/labrinth)中了……<br />我们找不到你想要的页面。",
       "project_missing": "未找到您想要的 {type} 。",
       "default": "发生了一个意外的错误。"
     },
@@ -94,8 +94,8 @@
   "generic": {
     "labels": {
       "license": {
-        "singular": "许可协议",
-        "plural": "许可协议"
+        "singular": "许可证",
+        "plural": "许可证"
       },
       "project_id": "项目 ID",
       "project_status": "项目状态",
@@ -129,12 +129,12 @@
       "issues": "问题反馈",
       "source": "源代码",
       "wiki": "百科",
-      "patreon": "通过\"Patreon\"赞助",
-      "paypal": "通过\"PayPal\"赞助",
-      "buy_me_a_coffee": "通过\"Buy Me a Coffee\"赞助",
-      "github_sponsors": "通过\"GitHub Sponsors\"赞助",
-      "donate": "捐款",
-      "kofi": "通过\"Ko-fi\"赞助"
+      "patreon": "通过 Patreon 赞助",
+      "paypal": "通过 PayPal 赞助",
+      "buy_me_a_coffee": "通过 Buy Me a Coffee 赞助",
+      "github_sponsors": "通过 GitHub Sponsors 赞助",
+      "donate": "赞助",
+      "kofi": "通过 Ko-fi 赞助"
     },
     "environments": {
       "singular": "运行环境",
@@ -143,7 +143,7 @@
       "client_side": "客户端",
       "values": {
         "required": "必需的",
-        "unsupported": "无效的",
+        "unsupported": "不支持",
         "optional": "可选",
         "unknown": "未知"
       }
@@ -171,7 +171,7 @@
       "technical_information": "技术信息"
     },
     "gallery": {
-      "upload": "上传图像至项目图库",
+      "upload": "上传图像至图库",
       "placeholder": {
         "title": "输入图像标题...",
         "description": "输入图像描述..."
@@ -247,7 +247,7 @@
     "approved": "已批准",
     "rejected": "被驳回",
     "draft": "草稿",
-    "unlisted": "未被列出",
+    "unlisted": "未列出",
     "processing": "审核中",
     "unknown": "未知"
   },
@@ -316,8 +316,8 @@
       "revoke": "撤销令牌"
     },
     "revoke_token": {
-      "title": "撤销你的Modrinth令牌",
-      "body": "撤销你的Modrinth令牌会产生意想不到的后果。请注意，以下相关的服务可能会出现问题：\n - 任何使用你的令牌来访问API的应用程序。\n - Gradle - 如果Minotaur被赋予一个不正确的令牌，你的Gradle构建可能会失败。\n - GitHub - 如果你使用一个与Modrinth API进行交互的GitHub action，将导致错误。\n\n如果你愿意继续，请完成以下步骤：\n\n 1. 前往[Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，确保登录到你所绑定的GitHub账户!\n 2. 按下 \"Permissions \"标题旁边的红色 \"Revoke Access \" 按钮。\n\n一旦你完成了这些步骤，请点击下方的 \"Log out \"按钮。\n\n**这将使你退出Modrinth，然而，当你重新登录时，你的令牌将被重新生成**。",
+      "title": "撤销你的 Modrinth 令牌",
+      "body": "撤销你的 Modrinth 令牌会产生意想不到的后果。请注意，以下相关的服务可能会出现问题：\n - 任何使用你的令牌来访问 API 的应用程序。\n - Gradle - 如果 Minotaur 使用一个不正确的令牌，你的 Gradle 构建可能会失败。\n - GitHub - 如果你使用一个与 Modrinth API 进行交互的 GitHub Action，将产生错误。\n\n如果你愿意继续，请完成以下步骤：\n\n 1. 前往[Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，确保登录到你 Modrinth 账号所绑定的GitHub账户!\n 2. 按下 \"Permissions \"标题旁边的红色 \"Revoke Access\" 按钮。\n\n一旦你完成了这些步骤，请点击下方的 \"Log out\" 按钮。\n\n**这将使你退出Modrinth。当你重新登录时，你的令牌将被重新生成。**",
       "action": "登出"
     }
   },
@@ -329,7 +329,7 @@
     "privacy_respecting": "这里理应会显示一个尊重隐私的广告。",
     "console": {
       "line1": "您正在使用一个广告拦截器。",
-      "line2": "你的广告拦截器拦截了 Modrinth 向你展示的广告，也是我们唯一的收入来源。",
+      "line2": "你的广告拦截器拦截了 Modrinth 向你展示的广告，这是我们唯一的收入来源。",
       "line3": "如果你仍想在不观看广告的情况下帮助 Modrinth，你可以在 Github 上为 Modrinth 做出贡献！",
       "line4": "https://github.com/modrinth/"
     }
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "模组开发对每个人来说都应该是安全的，因此我们决不姑息在 Modrinth 上滥用及投放病毒的行为。同样，我们十分乐于听取帮助我们发现那些违反[ToS](/legal/terms) 和 [Rules](/legal/rules) 行为的举报者意见。请放心，我们会对您的身份信息保密。",
+        "description": "模组开发对每个人来说都应该是安全的，因此我们决不容忍滥用 Modrinth 或在该平台上投放病毒的行为。我们希望那些违反 [ToS](/legal/terms) 和 [Rules](/legal/rules) 行为的内容受到举报。请放心，我们会对您的身份信息保密。",
         "fields": {
           "reason": {
             "label": "原因"
@@ -436,7 +436,7 @@
           },
           "moderation_message": {
             "label": "审核信息",
-            "helper": "您可以通过附随信息来与项目团队成员进行交流。文本支持 Markdown 格式。",
+            "helper": "您可以通过附加信息来与项目团队成员进行交流。文本支持 Markdown 格式。",
             "placeholder": "在此输入附加信息……"
           }
         }
@@ -456,11 +456,11 @@
     "food": "食物",
     "equipment": "装备",
     "miscellaneous": "杂项",
-    "challenging": "挑战性",
+    "challenging": "挑战",
     "combat": "战斗",
-    "kitchen-sink": "综合性",
+    "kitchen-sink": "综合",
     "lightweight": "轻量",
-    "multiplayer": "多人游戏",
+    "multiplayer": "多人",
     "quests": "任务",
     "optimization": "优化",
     "fabric": "Fabric",
@@ -471,7 +471,7 @@
     "server": "服务端",
     "client": "客户端",
     "good": "优质作品",
-    "trash": "拙劣作品",
+    "trash": "垃圾",
     "misc": "杂项"
   }
 }

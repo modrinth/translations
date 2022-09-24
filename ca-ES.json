@@ -222,11 +222,11 @@
     "release_channel": "Canal de publicació",
     "number": "Nombre de versió",
     "publication_date": "Data de publicació",
-    "publisher": "Publisher"
+    "publisher": "Editor"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
+      "clear": "Esborra els filtres",
       "hide": "Hide filters",
       "show": "Show filters",
       "show_snapshots": "Show snapshots",
