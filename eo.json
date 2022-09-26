@@ -1,0 +1,477 @@
+{
+  "locale": {
+    "no_translation": "Pro la natura de tiu ĉi paĝo, la nura versio de tiu ĉi enhavo estas en la angla."
+  },
+  "index": {
+    "tagline": "Malkrovu, ludu, kaj kreu Minecraft enhavo",
+    "description": "Trovu agrablan kaj kvalitan enhavon per nia malfermfonta modifa platformo por la komunumo. Kreu aferojn, ricevu pagon*, kaj disfaldu vian projekton kun nia tute dokumentis API!",
+    "features": {
+      "book": {
+        "title": "Facile uzi API",
+        "description": "Apogitis de tute dokumentis API ke faciligas la kreskon de 3a partiaj integriĝoj & lanĉiloj."
+      },
+      "coin": {
+        "title": "Kreinto gajnoj",
+        "description": "Planas doni kreintoj 100% de reklama enspezo de ilia projektaj paĝoj. *Elpagoj estas nuntempe en evoluo."
+      },
+      "speedometer": {
+        "title": "Fulmrapida serĉo",
+        "description": "Funkciigita de rapida kaj adaptebla serĉa algoritmoj do vi ne sevas atendi."
+      },
+      "chat": {
+        "title": "Helpeme komunumo",
+        "description": "Akiru subtenon, disvolvu, kaj pendiĝu ĉe nia Discord servilo ke havas super 1,500 membroj."
+      },
+      "puzzle": {
+        "title": "Etendebla laŭ designo",
+        "description": "Integras kun kompiloj iloj, deponejoj, lanĉiloj, kaj kutimaj aplikoj."
+      },
+      "tools": {
+        "title": "Tute malfermfonta",
+        "description": "Malfermfonta projekto konservas de aktiva komunumo ke bonvenigas kontribuaĵojn."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Iru al mia profilo",
+    "logout": "Ensalutu",
+    "github": "Ensalutu per GitHub"
+  },
+  "footer": {
+    "description": "Modrinth estas malfermfontan programaron.",
+    "legal": {
+      "heading": "Jura Juro",
+      "terms": "Uzkondiĉoj",
+      "privacy": "Privateca",
+      "rules": "Reguloj"
+    },
+    "resources": {
+      "heading": "Rimedoj",
+      "blog": "Blogo",
+      "docs": "Dokoj"
+    },
+    "buttons": {
+      "privacy": "Agordu privatecajn preferojn",
+      "theme": {
+        "label": "Ŝanĝu temo",
+        "system": "Sistema temo",
+        "light": "Luma modo",
+        "dark": "Malluma modo",
+        "oled": "OLED modo"
+      },
+      "language": {
+        "label": "Elektu lingvon"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} Eraro",
+    "message": {
+      "404": "Uh ho, vidas kvazaŭ vi perdiĝis en la [Labirinto](https://github.com/modrinth/labrinth).<br />La paĝo ke vi serĉis ne povis troviĝi.",
+      "project_missing": "La {type} ke vi serĉis ne povas troviĝi.",
+      "default": "Neatendita eraro okazis."
+    },
+    "actions": {
+      "home": "Iru al domo",
+      "discord": "Ricevu helpon de Discord"
+    }
+  },
+  "pages": {
+    "description": "Priskribo",
+    "gallery": "Galerio",
+    "changelog": "Ŝanĝprotokolo",
+    "versions": "Versioj",
+    "settings": "Agordoj",
+    "moderation": "Moderaĵo",
+    "notifications": "Atentigoj",
+    "about": "Pri",
+    "following": "Sekvanta",
+    "terms": "Kondiĉoj de uzado",
+    "privacy": "Privateca politiko",
+    "rules": "Projektaj reguloj",
+    "all": "Ĉiuj"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Permesilo",
+        "plural": "Permesiloj"
+      },
+      "project_id": "Projekta ID",
+      "project_status": "Projekta statuso",
+      "minecraft_versions": "Minecraft versioj",
+      "mod_loaders": "Modifaj ŝargiloj",
+      "categories": "Kategorioj",
+      "downloads": "Elŝutaroj",
+      "files": "Dosieroj"
+    },
+    "actions": {
+      "create": "Kreu",
+      "edit": "Modifu",
+      "follow": "Sekvu",
+      "unfollow": "Malsekvu",
+      "feature": "Elstara versio",
+      "report": "Denuncu",
+      "new_project": "Nova projekto",
+      "preview": "Antaŭrigardu",
+      "download": "Elŝutu",
+      "save": "Konservu",
+      "confirm": "Konfirmu",
+      "remove": "Forigu",
+      "delete": "Forigu",
+      "cancel": "Nuligu",
+      "discard": "Forĵetu ŝanĝoj"
+    },
+    "external": {
+      "github_profile": "GitHub profilo",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Biletoj",
+      "source": "Fonto",
+      "wiki": "Vikio",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Buy Me a Coffee",
+      "github_sponsors": "GitHub Sponsorantoj",
+      "donate": "Donacu",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Medio",
+      "plural": "Medioj",
+      "server_side": "Servilflanka",
+      "client_side": "Klientflanka",
+      "values": {
+        "required": "Bezonata",
+        "unsupported": "Nesubtenata",
+        "optional": "Nedeviga",
+        "unknown": "Nekonata"
+      }
+    },
+    "up_to_date": "Vi estas ĝisdatigita!",
+    "byline": "de <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Modifo",
+        "plural": "Modifoj",
+        "search": "Serĉu modifoj..."
+      },
+      "modpack": {
+        "singular": "Modifpako",
+        "plural": "Modifpakoj",
+        "search": "Serĉu modifpakoj..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Eksteraj rimedoj",
+      "featured_versions": "Elstaraj versioj",
+      "project_members": "Membroj de projekta",
+      "technical_information": "Teknikaj informoj"
+    },
+    "gallery": {
+      "upload": "Alŝutu galerian bildon",
+      "placeholder": {
+        "title": "Enskribu bildan titolon...",
+        "description": "Enskribu bildan priskribon..."
+      }
+    },
+    "versions": {
+      "upload": "Alŝutu novan version"
+    },
+    "body": {
+      "editor": "Redaktilo",
+      "placeholder": "Enskribu projektan korpon...",
+      "empty": "Tiu ĉi projekta priskribo estas malplenan."
+    },
+    "members": "Membroj",
+    "permissions": "Permesoj",
+    "permission": {
+      "upload_version": "Alŝutu version",
+      "delete_version": "Forigu version",
+      "edit_details": "Redaktu detalojn",
+      "edit_body": "Redaktu korpon",
+      "manage_invites": "Administru invitaĵojn",
+      "remove_member": "Forigu membroj",
+      "edit_member": "Redaktu membrojn",
+      "delete_project": "Forigu projekton"
+    },
+    "role": {
+      "text": "Rolo",
+      "placeholder": "Enskribu rolojn..."
+    },
+    "advanced": "Progresinta",
+    "visibility": {
+      "title": "Videbleco",
+      "description": "Tiu ĉi projekto estas nuntempe {status}.",
+      "action": "Ŝanĝiĝu videbleco"
+    },
+    "ownership": {
+      "title": "Proprieto",
+      "description": "Translokigu proprieton de tio ĉi projekto al alia uzanto.",
+      "action": "Translokigu proprieton"
+    }
+  },
+  "version": {
+    "featured": "Elstaran",
+    "autofeatured": "Aŭtomate-elstaran",
+    "feature_action": "Elstarigu",
+    "dependencies": "Dependecoj",
+    "metadata": "Metadatenoj",
+    "release_channel": "Liberegaĵa kanalo",
+    "number": "Versia numero",
+    "publication_date": "Dato de publikigo",
+    "publisher": "Publikiganto"
+  },
+  "search": {
+    "filters": {
+      "clear": "Malbaru filtrilojn",
+      "hide": "Kaŝu filtrilojn",
+      "show": "Montru filtrilojn",
+      "show_snapshots": "Montru provizortempversioj",
+      "search_versions": "Serĉu versiojn...",
+      "licenses": "Permesiloj"
+    },
+    "sort": {
+      "by": "Ordigu laŭ",
+      "relevance": "Graveco",
+      "downloads": "Elŝuta nombro",
+      "follows": "Nombro de sekvantoj",
+      "newest": "Lastatempe kreitaj",
+      "updated": "Lastatempe ĝisdatigita"
+    },
+    "per_page": "Montru po paĝo"
+  },
+  "status": {
+    "approved": "Aprobita",
+    "rejected": "Rifuzita",
+    "draft": "Malneto",
+    "unlisted": "Nelistigita",
+    "processing": "Sub revizio",
+    "unknown": "Nekonata"
+  },
+  "release_channels": {
+    "release": "Liberegaĵa",
+    "beta": "Beta",
+    "alpha": "Alfa"
+  },
+  "roles": {
+    "developer": "Programisto",
+    "admin": "Administranto",
+    "moderator": "Moderanto"
+  },
+  "stats": {
+    "joined": "Aligis {ago}",
+    "notified": "Sciigita {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> elŝuto} other {<b>#</b> elŝutoj}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> sekvanto de projektoj} other {<b>#</b> sekvantoj de projektoj}}",
+    "followers": "{followers, plural, one {<b>#</b> sekvanto} other {<b>#</b> sekvantoj}}",
+    "user_id": "Uzanto ID: {id}",
+    "created": "Kreis {ago}",
+    "updated": "Ĝisdatigis {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Uzantnomo",
+      "placeholder": "Aldonu uzantnomon..."
+    },
+    "bio": {
+      "text": "Bio",
+      "placeholder": "Aldonu bion..."
+    },
+    "email": {
+      "text": "Privata retpoŝto",
+      "helper": "Nur videbla por moderantoj.",
+      "placeholder": "Aldonu retpoŝton..."
+    },
+    "avatar": "Alŝutu profilbildon"
+  },
+  "report": {
+    "singular": "Denuncaĵo",
+    "plural": "Denuncaĵoj",
+    "type": {
+      "spam": "Trudaĵo",
+      "copyright": "Kopirajto",
+      "inappropriate": "Nekonvena",
+      "malicious": "Malica",
+      "name-squatting": "Nom-kaŭrado",
+      "other": "Io alia"
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Ŝarĝas sekvis projektojn...",
+      "none": "Vi ne sekvis iom projektojn."
+    },
+    "delete": {
+      "title": "Forigu konton",
+      "body": "Unufoje vi forigas vian konton, ne eblas reveni. Forigas vian konton forigos ĉiujn alfiksitajn datumojn, inkluzive projektojn, de niaj serviloj."
+    },
+    "auth": {
+      "title": "Rajto-ĵetono",
+      "body": "Via rajto-ĵetono povas esti uza per la Modrinth API, la Minotaur Gradle konektaĵon, kaj aliajn aplikojn ke interagas per la API de Modrinth. Certu konservi tiun ĉi sekretan!",
+      "copy": "Kopiu ĵetonon al tondujo",
+      "copied": "Kopiis ĵetonon al tondujo",
+      "revoke": "Revoku ĵetonon"
+    },
+    "revoke_token": {
+      "title": "Revoku vian Modrinth ĵetonon",
+      "body": "Revoki vian Modrith-ĵetonon povas havi neintencitajn sekvojn. Bonvolu konscii, ke la jenaj povus rompiĝi:\n - Ajna apliko ke uzas vian ĵetonon por aliri la API.\n - Gradle - se Minotaur ricevas malĝustan ĵetonon, biaj Gradle-konstruaĵoj povus malsukcesi.\n - GitHub - se vi uzas GitHub-ago kiu uzas la Modrinth API, ĝi kaŭzos erarojn.\n\nSe vi volas daŭrigi, plenumu la sekvajn paŝojn:\n\n 1. Iru al la [Modrinth Apliko paĝo sur GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Certiĝu esit ensalutina en la GitHub-konton, kiun vi uzis por Modrinth!\n 2. Premu la grandan ruĝan \"Revoku Aliron\" butonon apud la \"Permesoj\" kaplinio.\n\nPost kiam vi plenumis tiujn paŝojn, premu la butonon \"elsalutu\" sube.\n\n**Tio ĉi elsalutos vin el Modrinth. tamen, kiam vi reensalutos, via ĵetono estos regenerita.**",
+      "action": "Ensalutu"
+    }
+  },
+  "images": {
+    "replace": "Anstataŭigu bildon",
+    "how_to": "Trenu kaj faligi por alŝuti aŭ klaku por elekti"
+  },
+  "ads": {
+    "privacy_respecting": "Reklamo pri privateco estus montrita tie ĉi.",
+    "console": {
+      "line1": "Vi uziĝas reklamblokilon.",
+      "line2": "Via reklambokilo preventis Modrinth montri reklamon, nia sola fonto de enspezo.",
+      "line3": "Se vi ankoraŭ volas helpi Modrinth sen vidi reklamojn, vi povas kontribui al Modrinth ĉe GitHub!",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "Tio ĉi estas ekstreme gravan.",
+        "verify": "Kontroli, tajpu <i>{key}</i> sub:",
+        "placeholder": "Tajpu ĉi tie..."
+      },
+      "project": {
+        "title": "Forigu projekton",
+        "description": "Forigi projekton viŝas ĉiujn projektajn datumojn, inkluzive versiojn.",
+        "action": "Forigu projekton"
+      },
+      "version": {
+        "title": "Forigu version",
+        "description": "Ĉu vi certas, ke vi volas forigi ĉi tiun version? Ĉiuj dosieroj kaj metadatumoj estos neregeble perditaj.",
+        "action": "Forigu version"
+      },
+      "account": {
+        "title": "Ĉu vi certas ke vi volas fari ĉi tiun?",
+        "description": "Ĉi tio **tuj forigos ĉiujn de viaj projektoj** kaj sekvaĵoj. Forigi vian konton ne povas esti renversita.\n\nSe vi bezonas helpon pri via konto, ricevu subtenon ĉe la [Modrinth Discord](/discord).",
+        "action": "Jes, nerevokeble forigu mian konton"
+      },
+      "image": {
+        "title": "Forigu galerian bildon",
+        "description": "Ĉu vi certas, ke vi volas forigi ĉi tiun bilddosiero kaj metadatumo? Vi ne povos malfari tion.",
+        "action": "Forigu bildon"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modifo devus esti sekura por ĉiuj, do ni prenas misuzon kaj malican intencon serioze ĉe Modrinth. Ni volas aŭdi pri malutila konduto en la retejo, kiu malobservas niajn [RdS](/legal/terms) kaj [Reguloj](/legal/rules). Estu certa, ni konservos viajn identigajn informojn privataj.",
+        "fields": {
+          "reason": {
+            "label": "Kialo"
+          },
+          "information": {
+            "label": "Aldona informo",
+            "helper": "Inkluzivu hiperligojn kaj bildojn se eblas. Markdown-formatado estas subtenata.",
+            "placeholder": "Enskribu aldonan informon..."
+          }
+        }
+      },
+      "project": {
+        "action": "Raportu projekton"
+      },
+      "version": {
+        "action": "Raportu version"
+      },
+      "user": {
+        "action": "Raportu uzanton"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Krei projekton",
+        "description": "Novaj projektoj estas kreitaj kiel skizoj, kaj povas troveblas sub vian profilan paĝon.",
+        "action": "Daŭrigu",
+        "fields": {
+          "project_type": {
+            "label": "Projekta tipo"
+          },
+          "name": {
+            "label": "Nomo",
+            "placeholder": "Enskribu projektan nomon..."
+          },
+          "summary": {
+            "label": "Resumo",
+            "helper": "Ĉi tio aperas serĉante kaj sur la flanka stango de la paĝo de via projekto.",
+            "placeholder": "Enskribu mallongan resumon de projekto..."
+          }
+        }
+      },
+      "image": {
+        "title": "Aldonu galerian bildon",
+        "action": "Aldonu bildon",
+        "fields": {
+          "title": {
+            "label": "Titolo",
+            "placeholder": "Enskribu bildan titolon..."
+          },
+          "description": {
+            "label": "Priskribo",
+            "placeholder": "Enskribu bildan priskribon..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Ŝanĝu projektan staton",
+        "action": "Konfirmu",
+        "fields": {
+          "status": {
+            "label": "Stato",
+            "options": {
+              "approve": "Aprobu",
+              "unlist": "Mallistigu",
+              "reject": "Rifuzi"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderiga mesaĝo",
+            "helper": "Laŭvole inkluzivu informojn por komuniki problemojn kun la teamanoj de projekto. Markdown-formatado estas subtenata.",
+            "placeholder": "Enskribu aldonan informon..."
+          }
+        }
+      }
+    }
+  },
+  "tags": {
+    "technology": "Teknologio",
+    "adventure": "Aventuro",
+    "magic": "Magio",
+    "utility": "Utileco",
+    "decoration": "Dekoracio",
+    "library": "Biblioteka",
+    "cursed": "Fikita",
+    "worldgen": "Monda generacio",
+    "storage": "Konservejo",
+    "food": "Manĝaĵo",
+    "equipment": "Ekipaĵo",
+    "miscellaneous": "Diversaj",
+    "challenging": "Defia",
+    "combat": "Batalo",
+    "kitchen-sink": "Kuireja lavujo",
+    "lightweight": "Malpeza",
+    "multiplayer": "Plurludanta",
+    "quests": "Serĉoj",
+    "optimization": "Optimumigo",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Servilo",
+    "client": "Kliento",
+    "good": "Bona",
+    "trash": "Rubujo",
+    "misc": "Diversaj"
+  }
+}
