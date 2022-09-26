@@ -1,0 +1,477 @@
+{
+  "locale": {
+    "no_translation": "A causa de la natura d'aquesta pàgina, l'única versió oficial d'aquest contingut està en Angles."
+  },
+  "index": {
+    "tagline": "Descobreix, juga i crea contingut per a Minecraft",
+    "description": "Troba contingut divertit i de qualitat a través de la nostra plataforma de codi obert per mods feta per la comunitat. Crea, guanya diners* i desplega el teu projecte amb la nostra API totalment documentada!",
+    "features": {
+      "book": {
+        "title": "API fàcil d'utilitzar",
+        "description": "Recolzat per una API totalment documentada facilitant el creixement d'integracions de tercers i llançadors."
+      },
+      "coin": {
+        "title": "Pagaments per al creador",
+        "description": "Planegem proporcionar als creadors amb un 100% de la remuneració dels anuncis a les seves pàgines de projecte. *Els pagaments encara estan en desenvolupament."
+      },
+      "speedometer": {
+        "title": "Cerca superràpida",
+        "description": "Cerca ràpida i adaptable proporcionada per algoritmes perquè no hagis d'esperar."
+      },
+      "chat": {
+        "title": "Comunitat disposada a ajudar",
+        "description": "Obté ajuda, desenvolupa i passa-ho bé en el nostre servidor de Discord amb més de 1500 membres."
+      },
+      "puzzle": {
+        "title": "Extensible per disseny",
+        "description": "S'integra amb eines de compilació, repositoris, llançadors i aplicacions personalitzades."
+      },
+      "tools": {
+        "title": "Totalment de codi obert",
+        "description": "Un projecte de codi obert mantingut per una comunitat activa que agraeix contribucions."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Anar al meu perfil",
+    "logout": "Tancar la sessió",
+    "github": "Iniciar sessió amb GitHub"
+  },
+  "footer": {
+    "description": "Modrinth és programari de codi obert.",
+    "legal": {
+      "heading": "Legal",
+      "terms": "Termes",
+      "privacy": "Privacitat",
+      "rules": "Regles"
+    },
+    "resources": {
+      "heading": "Recursos",
+      "blog": "Blog",
+      "docs": "Documentació"
+    },
+    "buttons": {
+      "privacy": "Establir preferències de privacitat",
+      "theme": {
+        "label": "Canviar tema",
+        "system": "Tema del sistema",
+        "light": "Tema clar",
+        "dark": "Tema fosc",
+        "oled": "Tema OLED"
+      },
+      "language": {
+        "label": "Elegeix una llengua"
+      }
+    }
+  },
+  "error": {
+    "status": "Error {status}",
+    "message": {
+      "404": "Oh oh, sembla que t'has perdut en el [Laberint](https://github.com/modrinth/labrinth).<br />. La pàgina que busques no s'ha trobat,.",
+      "project_missing": "El {type} que busques no s'ha trobat.",
+      "default": "S'ha produït un error inesperat."
+    },
+    "actions": {
+      "home": "Tornar al inici",
+      "discord": "Aconsegueix ajuda al Discord"
+    }
+  },
+  "pages": {
+    "description": "Descripció",
+    "gallery": "Galeria",
+    "changelog": "Registre de canvis",
+    "versions": "Versions",
+    "settings": "Configuració",
+    "moderation": "Moderació",
+    "notifications": "Notificacions",
+    "about": "Quant a",
+    "following": "Seguits",
+    "terms": "Termes i condicions",
+    "privacy": "Política de privacitat",
+    "rules": "Normes dels projectes",
+    "all": "Tot"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Llicècia",
+        "plural": "Llicències"
+      },
+      "project_id": "Identificador del projecte",
+      "project_status": "Estat del projecte",
+      "minecraft_versions": "Versions del Minecraft",
+      "mod_loaders": "Carregadors de mods",
+      "categories": "Categories",
+      "downloads": "Descàrregues",
+      "files": "Fitxers"
+    },
+    "actions": {
+      "create": "Crea",
+      "edit": "Edita",
+      "follow": "Segueix",
+      "unfollow": "Deixa de seguir",
+      "feature": "Destaca la versió",
+      "report": "Informa",
+      "new_project": "Nou projecte",
+      "preview": "Vista prèvia",
+      "download": "Baixa",
+      "save": "Desa",
+      "confirm": "Confirmar",
+      "remove": "Suprimeix",
+      "delete": "Suprimeix",
+      "cancel": "Cancel·lar",
+      "discard": "Descarta els canvis"
+    },
+    "external": {
+      "github_profile": "Perfil a GitHub",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Incidències",
+      "source": "Font",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Buy Me a Coffee",
+      "github_sponsors": "Patrocinadors a GitHub",
+      "donate": "Feu una donació",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Entorn",
+      "plural": "Entorns",
+      "server_side": "Costat del servidor",
+      "client_side": "Costat del client",
+      "values": {
+        "required": "Requerit",
+        "unsupported": "No suportat",
+        "optional": "Opcional",
+        "unknown": "No reconegut"
+      }
+    },
+    "up_to_date": "Estàs en l'última versió!",
+    "byline": "per <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Mod",
+        "plural": "Mods",
+        "search": "Cercar mods..."
+      },
+      "modpack": {
+        "singular": "Paquet de mods",
+        "plural": "Paquets de mods",
+        "search": "Cercar paquets de mods..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Recursos externs",
+      "featured_versions": "Versions destacades",
+      "project_members": "Membres del projecte",
+      "technical_information": "Informació tècnica"
+    },
+    "gallery": {
+      "upload": "Pujar una imatge a la galeria",
+      "placeholder": {
+        "title": "Introdueix el títol de la imatge...",
+        "description": "Introdueix la descripció de la imatge..."
+      }
+    },
+    "versions": {
+      "upload": "Puja una versió nova"
+    },
+    "body": {
+      "editor": "Editor",
+      "placeholder": "Introdueix el cos del projecte...",
+      "empty": "La descripció del projecte es buida."
+    },
+    "members": "Membres",
+    "permissions": "Permisos",
+    "permission": {
+      "upload_version": "Pujar versió",
+      "delete_version": "Eliminar versió",
+      "edit_details": "Editar detalls",
+      "edit_body": "Editar descripció",
+      "manage_invites": "Gestionar invitacions",
+      "remove_member": "Eliminar membres",
+      "edit_member": "Editar membres",
+      "delete_project": "Esborrar projecte"
+    },
+    "role": {
+      "text": "Rol",
+      "placeholder": "Introduir rols..."
+    },
+    "advanced": "Avançat",
+    "visibility": {
+      "title": "Visibilitat",
+      "description": "Aquest projecte està actualment en {status}.",
+      "action": "Canviar visibilitat"
+    },
+    "ownership": {
+      "title": "Propietat",
+      "description": "Transfereix la propietat del projecte a un altre usuari.",
+      "action": "Transfereix la propietat"
+    }
+  },
+  "version": {
+    "featured": "Destacat",
+    "autofeatured": "Autodestacat",
+    "feature_action": "Destaca",
+    "dependencies": "Dependències",
+    "metadata": "Metadades",
+    "release_channel": "Canal de publicació",
+    "number": "Nombre de versió",
+    "publication_date": "Data de publicació",
+    "publisher": "Editor"
+  },
+  "search": {
+    "filters": {
+      "clear": "Esborra els filtres",
+      "hide": "Hide filters",
+      "show": "Show filters",
+      "show_snapshots": "Show snapshots",
+      "search_versions": "Search versions...",
+      "licenses": "Licenses"
+    },
+    "sort": {
+      "by": "Sort by",
+      "relevance": "Relevance",
+      "downloads": "Download count",
+      "follows": "Follower count",
+      "newest": "Recently created",
+      "updated": "Recently updated"
+    },
+    "per_page": "Show per page"
+  },
+  "status": {
+    "approved": "Approved",
+    "rejected": "Rejected",
+    "draft": "Draft",
+    "unlisted": "Unlisted",
+    "processing": "Under review",
+    "unknown": "Unknown"
+  },
+  "release_channels": {
+    "release": "Release",
+    "beta": "Beta",
+    "alpha": "Alpha"
+  },
+  "roles": {
+    "developer": "Developer",
+    "admin": "Admin",
+    "moderator": "Moderator"
+  },
+  "stats": {
+    "joined": "Joined {ago}",
+    "notified": "Notificat fa {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "user_id": "User ID: {id}",
+    "created": "Created {ago}",
+    "updated": "Updated {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Username",
+      "placeholder": "Add a username..."
+    },
+    "bio": {
+      "text": "Bio",
+      "placeholder": "Add a bio..."
+    },
+    "email": {
+      "text": "Private email",
+      "helper": "Only visible to moderators.",
+      "placeholder": "Add an email..."
+    },
+    "avatar": "Pujar avatar"
+  },
+  "report": {
+    "singular": "Report",
+    "plural": "Reports",
+    "type": {
+      "spam": "Contingut brossa",
+      "copyright": "Copyright",
+      "inappropriate": "Inadequat",
+      "malicious": "Malicious",
+      "name-squatting": "Robatori de nom",
+      "other": "Altres"
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Carregant projectes seguits...",
+      "none": "No has seguit cap projecte."
+    },
+    "delete": {
+      "title": "Esborrar compte",
+      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+    },
+    "auth": {
+      "title": "Authorization token",
+      "body": "El token d'autorització pot utilitzar-se per l'API de Modrinth, el connector de Gradel anomenat Minotaur i altres aplicacions que interactuen amb l'API de Modrinth. Assegura't de mantenir-ho secret!",
+      "copy": "Copiar el token al porta-retalls",
+      "copied": "Token copiat al porta-retalls",
+      "revoke": "Revocar token"
+    },
+    "revoke_token": {
+      "title": "Revocar el token de Modrinth",
+      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "action": "Log out"
+    }
+  },
+  "images": {
+    "replace": "Reemplaçar imatge",
+    "how_to": "Arrossega i deixa anar per pujar-ho o clica per seleccionar"
+  },
+  "ads": {
+    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "console": {
+      "line1": "You are using an adblocker.",
+      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
+      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "Això és extremadament important.",
+        "verify": "Per a verificar, escrigui <i>{key}</i> a sota:",
+        "placeholder": "Escrigui aquí..."
+      },
+      "project": {
+        "title": "Eliminar projecte",
+        "description": "Eliminar un projecte esborra totes les dades del projecte, incloses les versions.",
+        "action": "Eliminar projecte"
+      },
+      "version": {
+        "title": "Eliminar versió",
+        "description": "Esteu segurs que voleu eliminar aquesta versió? Tots els fitxers i les metadades es perdran de forma irreversible.",
+        "action": "Eliminar versió"
+      },
+      "account": {
+        "title": "Esteu segurs que voleu fer això?",
+        "description": "Això **eliminarà immediatament tots els teus projectes** i seguits. L'eliminació del teu compte no és reversible.\n\nSi necessiteu ajuda amb el vostre compte, obtingueu suport al [Discord de Modrinth](/discord).",
+        "action": "Sí, elimina el meu compte permanentment"
+      },
+      "image": {
+        "title": "Elimina imatge de galeria",
+        "description": "Esteu segurs que voleu eliminar aquesta imatge i les metadades? Aquesta acció no és reversible.",
+        "action": "Eliminar imatge"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "El Modding hauria de ser segur per a tothom, per això a Modrinth ens prenem seriosament l'abús i les males intencions. Volem sentir sobre el contingut nociu al lloc web que incompleix els nostres [Termes i condicions](/legal/terms) i [Normes](/legal/rules). Podeu estar tranquils, mantindrem la vostra informació identificativa en privat.",
+        "fields": {
+          "reason": {
+            "label": "Motiu"
+          },
+          "information": {
+            "label": "Informació addicional",
+            "helper": "Incloeu enllaços i imatges si és possible. S'admet el format Markdown.",
+            "placeholder": "Introduïu informació addicional..."
+          }
+        }
+      },
+      "project": {
+        "action": "Informa sobre un projecte"
+      },
+      "version": {
+        "action": "Informa sobre una versió"
+      },
+      "user": {
+        "action": "Informa sobre un usuari"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Crea un projecte",
+        "description": "Els projectes nous es creen com a esborranys, i els podeu trobar a la vostra pàgina de perfil.",
+        "action": "Continuar",
+        "fields": {
+          "project_type": {
+            "label": "Tipus de projecte"
+          },
+          "name": {
+            "label": "Nom",
+            "placeholder": "Introdueixi el nom del projecte..."
+          },
+          "summary": {
+            "label": "Resum",
+            "helper": "Això apareixerà als resultats de cerca i a la barra lateral de la pàgina del teu projecte.",
+            "placeholder": "Introdueixi un resum curt del projecte..."
+          }
+        }
+      },
+      "image": {
+        "title": "Afegeix imatge de galeria",
+        "action": "Afegeix imatge",
+        "fields": {
+          "title": {
+            "label": "Títol",
+            "placeholder": "Introdueixi el títol de la imatge..."
+          },
+          "description": {
+            "label": "Descripció",
+            "placeholder": "Introdueixi la descripció de la imatge..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Canvia l'estat del projecte",
+        "action": "Confirmar",
+        "fields": {
+          "status": {
+            "label": "Estat",
+            "options": {
+              "approve": "Aprovar",
+              "unlist": "No el llistis",
+              "reject": "Rebutjar"
+            }
+          },
+          "moderation_message": {
+            "label": "Missatge de moderació",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
+    }
+  },
+  "tags": {
+    "technology": "Technology",
+    "adventure": "Adventure",
+    "magic": "Magic",
+    "utility": "Utility",
+    "decoration": "Decoration",
+    "library": "Library",
+    "cursed": "Cursed",
+    "worldgen": "World generation",
+    "storage": "Storage",
+    "food": "Food",
+    "equipment": "Equipment",
+    "miscellaneous": "Miscellaneous",
+    "challenging": "Challenging",
+    "combat": "Combat",
+    "kitchen-sink": "Kitchen Sink",
+    "lightweight": "Lightweight",
+    "multiplayer": "Multiplayer",
+    "quests": "Quests",
+    "optimization": "Optimization",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Server",
+    "client": "Client",
+    "good": "Good",
+    "trash": "Trash",
+    "misc": "Miscellaneous"
+  }
+}
