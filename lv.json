@@ -1,0 +1,477 @@
+{
+  "locale": {
+    "no_translation": "Dēļ mājaslapas vides, vienīgā oficiālā satura versija ir Angļu valodā."
+  },
+  "index": {
+    "tagline": "Atrodi, spēlē, un izveido Minecraft saturu",
+    "description": "Atrodi izbaudāmu un augstas kvalitātes saturu izmantojot mūsu atvērtā pirmkoda modificēšanas platformu veidota kopienai. Izveido lietas, iegūsti algu*, un publicē savu projektu ar mūsu dokumentēto API!",
+    "features": {
+      "book": {
+        "title": "Viegli izmantojams API",
+        "description": "Pilnīgi dokumentēts API atvieglojot trešo partiju integrāciju un palaidēju pieaugumu."
+      },
+      "coin": {
+        "title": "Satura veidotāju algas",
+        "description": "Plānojam dot satura veidotājiem 100% reklāmu ieņēmumus no viņu projektu lapām. *Pie algām vēl tiek strādāts."
+      },
+      "speedometer": {
+        "title": "Zibenīgi ātra meklēšana",
+        "description": "Darbināts ar ātriem un pielāgojamiem meklēšanas algoritmiem lai jums nav jāgaida."
+      },
+      "chat": {
+        "title": "Izpalīdzīga kopiena",
+        "description": "Iegūsti atbalstu, izstrādā, un atpūtieties mūsu Discord serverī ar pāri 1,500 dalībniekiem."
+      },
+      "puzzle": {
+        "title": "Izplatāms pēc dizaina",
+        "description": "Integrējās ar būvēšanas rīkiem, glabātuvēm, palaidējiem, un trešo partiju programmām."
+      },
+      "tools": {
+        "title": "Pilnīgi atvērts pirmkods",
+        "description": "Atvērta pirmkoda projekts kuru uztur aktīva kopiena kura aicina ieguldījumus."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Aiziet uz savu profilu",
+    "logout": "Izrakstīties",
+    "github": "Pierakstīties ar GitHub"
+  },
+  "footer": {
+    "description": "Modrinth ir atvērta pirmkoda programmatūra.",
+    "legal": {
+      "heading": "Legālie",
+      "terms": "Nosacījumi",
+      "privacy": "Konfidencialitāte",
+      "rules": "Noteikumi"
+    },
+    "resources": {
+      "heading": "Resursi",
+      "blog": "Blogs",
+      "docs": "Dokumentācija"
+    },
+    "buttons": {
+      "privacy": "Iestatīt konfidencialitātes preferences",
+      "theme": {
+        "label": "Mainīt motīvu",
+        "system": "Sistēmas motīvs",
+        "light": "Gaišais režīms",
+        "dark": "Tumšais režīms",
+        "oled": "OLED režīms"
+      },
+      "language": {
+        "label": "Izvēlēties valodu"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} Kļūda",
+    "message": {
+      "404": "Ak nē, izskatās ka pazudāt [Labirintā](https://github.com/modrinth/labrinth).",
+      "project_missing": "{type} ko meklējāt netika atrasts(a).",
+      "default": "Notika negaidīta kļūda."
+    },
+    "actions": {
+      "home": "Atgriezties",
+      "discord": "Iegūt palīdzību Discord serverī"
+    }
+  },
+  "pages": {
+    "description": "Apraksts",
+    "gallery": "Galerija",
+    "changelog": "Izmaiņas",
+    "versions": "Versijas",
+    "settings": "Iestatījumi",
+    "moderation": "Moderācija",
+    "notifications": "Paziņojumi",
+    "about": "Par",
+    "following": "Sekojat",
+    "terms": "Noteikumi un nosacījumi",
+    "privacy": "Privātuma politika",
+    "rules": "Projektu noteikumi",
+    "all": "Visi"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Licence",
+        "plural": "Licences"
+      },
+      "project_id": "Projekta ID",
+      "project_status": "Projekta statuss",
+      "minecraft_versions": "Minecraft versijas",
+      "mod_loaders": "Modu lādētāji",
+      "categories": "Kategorijas",
+      "downloads": "Lejupielādes",
+      "files": "Faili"
+    },
+    "actions": {
+      "create": "Izveidot",
+      "edit": "Rediģēt",
+      "follow": "Sekot",
+      "unfollow": "Pārstāt sekot",
+      "feature": "Ieteikt versiju",
+      "report": "Ziņot",
+      "new_project": "Jauns projekts",
+      "preview": "Priekšskatījums",
+      "download": "Lejupielādēt",
+      "save": "Saglabāt",
+      "confirm": "Apstiprināt",
+      "remove": "Noņemt",
+      "delete": "Dzēst",
+      "cancel": "Atcelt",
+      "discard": "Atmest izmaiņas"
+    },
+    "external": {
+      "github_profile": "GitHub profils",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Problēmas",
+      "source": "Pirmkods",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Buy Me a Coffee",
+      "github_sponsors": "GitHub Sponsori",
+      "donate": "Ziedot",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Vide",
+      "plural": "Vides",
+      "server_side": "Serveris",
+      "client_side": "Klients",
+      "values": {
+        "required": "Nepieciešams",
+        "unsupported": "Neatbalstīts",
+        "optional": "Pēc izvēles",
+        "unknown": "Nezināms"
+      }
+    },
+    "up_to_date": "Jums nav paziņojumu!",
+    "byline": "veidoja <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Mods",
+        "plural": "Modi",
+        "search": "Meklēt modus..."
+      },
+      "modpack": {
+        "singular": "Modpaka",
+        "plural": "Modpakas",
+        "search": "Meklēt modpakas..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Ārējie resursi",
+      "featured_versions": "Ieteiktās versijas",
+      "project_members": "Projekta dalībnieki",
+      "technical_information": "Tehniskā informācija"
+    },
+    "gallery": {
+      "upload": "Augšupielādēt galerijas attēlu",
+      "placeholder": {
+        "title": "Ievadiet attēla virsrakstu...",
+        "description": "Ievadiet attēla aprakstu..."
+      }
+    },
+    "versions": {
+      "upload": "Augšupielādēt jaunu versiju"
+    },
+    "body": {
+      "editor": "Redaktors",
+      "placeholder": "Ievadiet projekta aprakstu...",
+      "empty": "Šis projekta apraksts ir tukšs."
+    },
+    "members": "Dalībnieki",
+    "permissions": "Atļaujas",
+    "permission": {
+      "upload_version": "Augšupielādēt versiju",
+      "delete_version": "Izdzēst versiju",
+      "edit_details": "Rediģēt detaļas",
+      "edit_body": "Rediģēt aprakstu",
+      "manage_invites": "Pārvaldīt aicinājumus",
+      "remove_member": "Noņemt dalībniekus",
+      "edit_member": "Pārvaldīt dalībniekus",
+      "delete_project": "Izdzēst projektu"
+    },
+    "role": {
+      "text": "Loma",
+      "placeholder": "Ievadiet lomas..."
+    },
+    "advanced": "Papildu",
+    "visibility": {
+      "title": "Redzamība",
+      "description": "Šis projekts pašlaik ir {status}.",
+      "action": "Mainīt redzamību"
+    },
+    "ownership": {
+      "title": "Pārvaldīšanas tiesības",
+      "description": "Nodot pārvaldīšanas tiesības citam lietotājam.",
+      "action": "Nodot pārvaldīšanas tiesības"
+    }
+  },
+  "version": {
+    "featured": "Piedāvātie",
+    "autofeatured": "Automātiski piedāvāts",
+    "feature_action": "Funkcija",
+    "dependencies": "Atkarības",
+    "metadata": "Meta dati",
+    "release_channel": "Izlaišanas kanāls",
+    "number": "Versijas numurs",
+    "publication_date": "Publikācijas datums",
+    "publisher": "Izdevējs"
+  },
+  "search": {
+    "filters": {
+      "clear": "Noņemt filtrus",
+      "hide": "Paslēpt filtrus",
+      "show": "Rādīt filtrus",
+      "show_snapshots": "Rādīt snapšotus",
+      "search_versions": "Meklēt versijas...",
+      "licenses": "Licences"
+    },
+    "sort": {
+      "by": "Kārtot pēc",
+      "relevance": "Atbilstība",
+      "downloads": "Lejupielāžu skaits",
+      "follows": "Sekotāju skaits",
+      "newest": "Nesen izveidots",
+      "updated": "Nesen atjaunināts"
+    },
+    "per_page": "Katrā lapā rādīt"
+  },
+  "status": {
+    "approved": "Apstiprināts",
+    "rejected": "Noraidīts",
+    "draft": "Melnraksts",
+    "unlisted": "Nerindots",
+    "processing": "Zem pārbaudes",
+    "unknown": "Nezināms"
+  },
+  "release_channels": {
+    "release": "Izlaidums",
+    "beta": "Beta",
+    "alpha": "Alfa"
+  },
+  "roles": {
+    "developer": "Izstrādātājs",
+    "admin": "Administrators",
+    "moderator": "Moderators"
+  },
+  "stats": {
+    "joined": "Pievienojās {ago}",
+    "notified": "Paziņots {ago}",
+    "downloads": "{downloads, plural,one {<b>#</b> lejupielāde} other {<b>#</b> lejupielādes}}",
+    "followers_of_projects": "{followers, plural,one {<b>#</b> projektu sekotājs} other {<b>#</b> projektu sekotāji}}",
+    "followers": "{followers, plural,one {<b>#</b> sekotājs} other {<b>#</b> sekotāji}}",
+    "user_id": "Lietotāja ID: {id}",
+    "created": "Izveidots {ago}",
+    "updated": "Atjaunināts {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Lietotājvārds",
+      "placeholder": "Pievienojiet lietotājvārdu..."
+    },
+    "bio": {
+      "text": "Apraksts",
+      "placeholder": "Pievienojiet aprakstu..."
+    },
+    "email": {
+      "text": "Privātais e-pasts",
+      "helper": "Tikai redzams moderatoriem.",
+      "placeholder": "Pievienojiet e-pastu..."
+    },
+    "avatar": "Augšupielādēt profila attēlu"
+  },
+  "report": {
+    "singular": "Ziņot",
+    "plural": "Pārskati",
+    "type": {
+      "spam": "Spams",
+      "copyright": "Autortiesības",
+      "inappropriate": "Nepiemērots",
+      "malicious": "Ļaunprātība",
+      "name-squatting": "Vārda apmelošana",
+      "other": "Cits"
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Ielādē projektus kuriem tiek sekots...",
+      "none": "Jūs neesat sekojis nevienam projektam."
+    },
+    "delete": {
+      "title": "Dzēst kontu",
+      "body": "Dzēst kontu ir neatgriezeniska darbība. Dzēšot savu kontu tiks noņemti visi pievienoti dati, ieskaitot projektus, no mūsu serveriem."
+    },
+    "auth": {
+      "title": "Autorizācijas žetons",
+      "body": "Jūsu autorizācijas žetons var tikt izmantots Modrinth API, Minotaur Gradle paplašinājumu, un citās programmās kuras piekļūst Modrinth API. Pārliecinieties ka neviens to nezina!",
+      "copy": "Kopēt žetonu starpliktuvē",
+      "copied": "Žetons tika kopēts starpliktuvē",
+      "revoke": "Izdzēst žetonu"
+    },
+    "revoke_token": {
+      "title": "Izdzēst savu Modrinth žetonu",
+      "body": "Dzēšot savu Modrinth žetonu var notikt nepārdomātas sekas. Lūdzu saprotiet ka sekojošais var vairāk nedarboties:\n - Jebkura programma kas izmanto jūsu žetonu lai piekļūtu API.\n - Gradle - ja Minotaur tiek iedots nepareizs žetons, jūsu Gradle būves var nedarboties.\n - GitHub - ja izmantojat GitHub darbību kas izmanto Modrinth API, notiks kļūdas.\n\nJa vēlaties turpināt, izpildiet sekojošos soļus:\n\n 1. Dodieties uz [Modrinth Programmas GitHub lapu]\n(https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Pārliecinieties ka esat pierakstījies GitHub kontā ko izmantojāt priekš Modrinth!\n 2. Uzspiediet uz lielās sarkanās \"Revoke Access\" pogas pie \"Permissions\" virsraksta.\n\nKad esat izpildījis šos soļus, uzspiediet uz \"Izrakstīties\" pogas apakšā.\n\n**Šis jūs izrakstīs ārā no Modrinth, taču, kad būsiet pierakstījušies atkal, jūsu žetons tiks vēlreiz ģenerēts.**",
+      "action": "Izrakstīties"
+    }
+  },
+  "images": {
+    "replace": "Nomainīt attēlu",
+    "how_to": "Velciet un atstājiet lai augšupielādētu vai uzspiediet lai izvēlētos"
+  },
+  "ads": {
+    "privacy_respecting": "Šeit būtu parādīta privātuma respektējoša reklāma.",
+    "console": {
+      "line1": "Jūsu izmantojat reklāmu bloķētāju.",
+      "line2": "Jūsu reklāmu bloķētājs aizliedza Modrinth parādīt reklāmu, mūsu vienīgais ienākumu avots.",
+      "line3": "Ja vēlaties palīdzēt Modrinth bez reklāmu atļaušanu, jūs varat veikt ieguldījumu Modrinth GitHub lapā!",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "Šis it ļoti svarīgi.",
+        "verify": "Lai verificētu, uzrakstiet <i>{key}</i> apakšā:",
+        "placeholder": "Rakstiet šeit..."
+      },
+      "project": {
+        "title": "Dzēst projektu",
+        "description": "Dzēšot projektu tiek izdzēsti visi projekta dati, ieskaitot versijas.",
+        "action": "Dzēst projektu"
+      },
+      "version": {
+        "title": "Dzēst versiju",
+        "description": "Vai esat pārliecināti ka vēlaties dzēst šo versiju? Visi faili un metadati tiks neatgriezeniski zaudēti.",
+        "action": "Dzēst versiju"
+      },
+      "account": {
+        "title": "Vai esat pārliecināti ka vēlaties to darīt?",
+        "description": "Šis **uzreiz izdzēsīs visus jūsu projektus** un sekojumus. Konta dzēšana ir neatgriezeniska.\n\nJa jums ir nepieciešama palīdzība ar jūsu kontu, iegūstiet atbalstu [Modrinth Discord serverī](/discord).",
+        "action": "Neatgriezeniski dzēst manu kontu"
+      },
+      "image": {
+        "title": "Dzēst galerijas attēlu",
+        "description": "Vai esat pārliecināti ka vēlaties dzēst šī attēla failu un metadatus? Šī darbība ir neatgriezeniska.",
+        "action": "Dzēst attēlu"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modificēšanai vajadzētu būt drošai priekš visiem, mēs saprotam ļaunprātību ļoti nopietni. Mēs vēlamies dzirdēt par sliktu saturu kas pārkāpj mūsu [ToS](/legal/terms) un [Rules](/legal/rules). Neuztraucieties, mēs paturēsim jūsu identificēšanās informāciju privātu.",
+        "fields": {
+          "reason": {
+            "label": "Iemesls"
+          },
+          "information": {
+            "label": "Papildus informācija",
+            "helper": "Iekļaujiet saites un attēlus ja iespējams. Markdown formatēšana ir atbalstīta.",
+            "placeholder": "Ievadiet papildus informāciju..."
+          }
+        }
+      },
+      "project": {
+        "action": "Ziņot par projektu"
+      },
+      "version": {
+        "action": "Ziņot par versiju"
+      },
+      "user": {
+        "action": "Ziņot par lietotāju"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Izveidot projektu",
+        "description": "Jauni projekti tiek veidoti kā melnraksti, un var tikt atrasti jūsu profila lapā.",
+        "action": "Turpināt",
+        "fields": {
+          "project_type": {
+            "label": "Projekta tips"
+          },
+          "name": {
+            "label": "Nosaukums",
+            "placeholder": "Ievadiet projekta nosaukumu..."
+          },
+          "summary": {
+            "label": "Kopsavilkums",
+            "helper": "Šis ir redzams meklēšanā un jūsu projekta lapas labajā pusē.",
+            "placeholder": "Ievadiet īsu kopsavilkumu jūsu projektam..."
+          }
+        }
+      },
+      "image": {
+        "title": "Pievienot galerijas attēlu",
+        "action": "Pievienot attēlu",
+        "fields": {
+          "title": {
+            "label": "Virsraksts",
+            "placeholder": "Ievadiet attēla virsrakstu..."
+          },
+          "description": {
+            "label": "Apraksts",
+            "placeholder": "Ievadiet attēla aprakstu..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Mainīt projekta statusu",
+        "action": "Apstiprināt",
+        "fields": {
+          "status": {
+            "label": "Statuss",
+            "options": {
+              "approve": "Apstiprināt",
+              "unlist": "Nerindot",
+              "reject": "Noraidīt"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderācijas ziņa",
+            "helper": "Pēc izvēles pievienot informāciju lai labotu problēmas ar projekta dalībniekiem. Markdown formatēšana ir atbalstīta.",
+            "placeholder": "Ievadiet papildus informāciju..."
+          }
+        }
+      }
+    }
+  },
+  "tags": {
+    "technology": "Tehnoloģija",
+    "adventure": "Piedzīvojums",
+    "magic": "Maģija",
+    "utility": "Lietderība",
+    "decoration": "Dekorācijas",
+    "library": "Bibliotēka",
+    "cursed": "Dīvainās",
+    "worldgen": "Pasaules izveide",
+    "storage": "Krātuve",
+    "food": "Pārtika",
+    "equipment": "Aprīkojums",
+    "miscellaneous": "Dažādi",
+    "challenging": "Izaicinājums",
+    "combat": "Kauja",
+    "kitchen-sink": "Virtuves Izlietne",
+    "lightweight": "Viegla",
+    "multiplayer": "Vairākspēlētāju",
+    "quests": "Uzdevumi",
+    "optimization": "Optimizācija",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Serveris",
+    "client": "Klients",
+    "good": "Laba",
+    "trash": "Slikta",
+    "misc": "Dažādi"
+  }
+}
