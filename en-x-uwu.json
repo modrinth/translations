@@ -1,0 +1,477 @@
+{
+  "locale": {
+    "no_translation": "due to the nyatuwe of thi-is page, the onwy officiaw vewsion of this content is in engwish."
+  },
+  "index": {
+    "tagline": "di-iscuvew, pway, and cweate minyecwaft content",
+    "description": "fi-ind enjoyabwe and quawity content thwough ouw open-souwce modding pwatfowm buiwt fow the communyity. cweate stuff, get paid*, and depwoy youw pwoject with ouw fuwwy documented api!",
+    "features": {
+      "book": {
+        "title": "easy to use api-i",
+        "description": "backed by a fuwwy documented api-i faciwitating the gwowth of 3wd pawty integwations & waunchews."
+      },
+      "coin": {
+        "title": "cweatow eawnyi-ings",
+        "description": "pwannyi-ing to give cweatows 100% of ad wevenyue fwom theiw pwoject pages. *payouts awe cuwwentwy in devewopment."
+      },
+      "speedometer": {
+        "title": "wi-ightnying-fast seawch",
+        "description": "powewed by fast and adaptabwe seawch awgowi-ithms so you don't have to wait."
+      },
+      "chat": {
+        "title": "hewpfuw communyi-ity",
+        "description": "get suppowt, devewop, and hang out on ouw di-iscowd sewvew with uvew 1,500 membews."
+      },
+      "puzzle": {
+        "title": "extensi-ibwe by design",
+        "description": "i-integwates with buiwd toows, wepositowies, waunchews, and custom appwications."
+      },
+      "tools": {
+        "title": "fuwwy open souwce",
+        "description": "an open souwce pwoject mai-intainyed by an active communyity that wewcomes contwibutions."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "go to my pwofi-iwe",
+    "logout": "wog out",
+    "github": "si-ign in with github"
+  },
+  "footer": {
+    "description": "modwi-inth is open souwce softwawe.",
+    "legal": {
+      "heading": "wegaw",
+      "terms": "tewms",
+      "privacy": "pwi-ivacy",
+      "rules": "wuwes"
+    },
+    "resources": {
+      "heading": "wesouwces",
+      "blog": "bwog",
+      "docs": "docs"
+    },
+    "buttons": {
+      "privacy": "set pwi-ivacy pwefewences",
+      "theme": {
+        "label": "change theme",
+        "system": "system theme",
+        "light": "wi-ight mode",
+        "dark": "dawk mode",
+        "oled": "owed mode"
+      },
+      "language": {
+        "label": "sewect wanguage"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} ewwow",
+    "message": {
+      "404": "uh oh, wooks wi-ike you got wost in the [wabywinth](https://github.com/modrinth/labyrinth).<br />the page you awe wooking fow couwd nyot be found.",
+      "project_missing": "the {type} you wewe wooki-ing fow cannyot be found.",
+      "default": "an unyexpected ewwow has occuwwed."
+    },
+    "actions": {
+      "home": "go home",
+      "discord": "get hewp on di-iscowd"
+    }
+  },
+  "pages": {
+    "description": "descwi-iption",
+    "gallery": "gawwewy",
+    "changelog": "changewog",
+    "versions": "vewsi-ions",
+    "settings": "setti-ings",
+    "moderation": "modewati-ion",
+    "notifications": "nyoti-ifications",
+    "about": "about",
+    "following": "fowwowi-ing",
+    "terms": "tewms and condi-itions",
+    "privacy": "pwi-ivacy powicy",
+    "rules": "pwoject wuwes",
+    "all": "aww"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "wi-icense",
+        "plural": "wi-icenses"
+      },
+      "project_id": "pwoject i-id",
+      "project_status": "pwoject status",
+      "minecraft_versions": "mi-inyecwaft vewsions",
+      "mod_loaders": "mod woadews",
+      "categories": "categowi-ies",
+      "downloads": "downwoads",
+      "files": "fi-iwes"
+    },
+    "actions": {
+      "create": "cweate",
+      "edit": "edi-it",
+      "follow": "fowwow",
+      "unfollow": "unfowwow",
+      "feature": "featuwe vewsi-ion",
+      "report": "wepowt",
+      "new_project": "nyew pwoject",
+      "preview": "pwevi-iew",
+      "download": "downwoad",
+      "save": "save",
+      "confirm": "confi-iwm",
+      "remove": "wemuve",
+      "delete": "dewete",
+      "cancel": "cancew",
+      "discard": "di-iscawd changes"
+    },
+    "external": {
+      "github_profile": "gi-ithub pwofiwe",
+      "discord": "di-iscowd",
+      "github": "gi-ithub",
+      "issues": "i-issues",
+      "source": "souwce",
+      "wiki": "wi-iki",
+      "patreon": "patweon",
+      "paypal": "paypaw",
+      "buy_me_a_coffee": "buy me a coffee",
+      "github_sponsors": "gi-ithub sponsows",
+      "donate": "donyate",
+      "kofi": "ko-fi-i"
+    },
+    "environments": {
+      "singular": "envi-iwonment",
+      "plural": "envi-iwonments",
+      "server_side": "sewvew si-ide",
+      "client_side": "cwi-ient side",
+      "values": {
+        "required": "wequi-iwed",
+        "unsupported": "unsuppowted",
+        "optional": "opti-ionyaw",
+        "unknown": "unknyown"
+      }
+    },
+    "up_to_date": "you awe up to date!",
+    "byline": "by <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "mod",
+        "plural": "mods",
+        "search": "seawch mods..."
+      },
+      "modpack": {
+        "singular": "modpack",
+        "plural": "modpacks",
+        "search": "seawch modpacks..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "extewnyaw wesouwces",
+      "featured_versions": "featuwed vewsi-ions",
+      "project_members": "pwoject membews",
+      "technical_information": "technyi-icaw infowmation"
+    },
+    "gallery": {
+      "upload": "upwoad gawwewy i-image",
+      "placeholder": {
+        "title": "entew i-image titwe...",
+        "description": "entew i-image descwiption..."
+      }
+    },
+    "versions": {
+      "upload": "upwoad nyew vewsi-ion"
+    },
+    "body": {
+      "editor": "edi-itow",
+      "placeholder": "entew pwoject body...",
+      "empty": "thi-is pwoject descwiption is empty."
+    },
+    "members": "membews",
+    "permissions": "pewmi-issions",
+    "permission": {
+      "upload_version": "upwoad vewsi-ion",
+      "delete_version": "dewete vewsi-ion",
+      "edit_details": "edi-it detaiws",
+      "edit_body": "edi-it descwiption",
+      "manage_invites": "manyage i-invites",
+      "remove_member": "wemuve membews",
+      "edit_member": "edi-it membews",
+      "delete_project": "dewete pwoject"
+    },
+    "role": {
+      "text": "wowe",
+      "placeholder": "entew wowes..."
+    },
+    "advanced": "advanced",
+    "visibility": {
+      "title": "vi-isibiwity",
+      "description": "thi-is pwoject is cuwwentwy {status}.",
+      "action": "change vi-isibiwity"
+    },
+    "ownership": {
+      "title": "ownyewshi-ip",
+      "description": "twansfew ownyewshi-ip of this pwoject to anyothew usew.",
+      "action": "twansfew ownyewshi-ip"
+    }
+  },
+  "version": {
+    "featured": "featuwed",
+    "autofeatured": "auto-featuwed",
+    "feature_action": "featuwe",
+    "dependencies": "dependenci-ies",
+    "metadata": "metadata",
+    "release_channel": "wewease channyew",
+    "number": "vewsi-ion nyumbew",
+    "publication_date": "pubwi-ication date",
+    "publisher": "pubwi-ishew"
+  },
+  "search": {
+    "filters": {
+      "clear": "cweaw fi-iwtews",
+      "hide": "hi-ide fiwtews",
+      "show": "show fi-iwtews",
+      "show_snapshots": "show snyapshots",
+      "search_versions": "seawch vewsi-ions...",
+      "licenses": "wi-icenses"
+    },
+    "sort": {
+      "by": "sowt by",
+      "relevance": "wewevance",
+      "downloads": "downwoad count",
+      "follows": "fowwowew count",
+      "newest": "wecentwy cweated",
+      "updated": "wecentwy updated"
+    },
+    "per_page": "show pew page"
+  },
+  "status": {
+    "approved": "appwuved",
+    "rejected": "wejected",
+    "draft": "dwaft",
+    "unlisted": "unwi-isted",
+    "processing": "undew wevi-iew",
+    "unknown": "unknyown"
+  },
+  "release_channels": {
+    "release": "wewease",
+    "beta": "beta",
+    "alpha": "awpha"
+  },
+  "roles": {
+    "developer": "devewopew",
+    "admin": "admi-in",
+    "moderator": "modewatow"
+  },
+  "stats": {
+    "joined": "joi-inyed {ago}",
+    "notified": "nyoti-ified {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "user_id": "usew i-id: {id}",
+    "created": "cweated {ago}",
+    "updated": "updated {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "usewnyame",
+      "placeholder": "add a usewnyame..."
+    },
+    "bio": {
+      "text": "bi-io",
+      "placeholder": "add a bi-io..."
+    },
+    "email": {
+      "text": "pwi-ivate emaiw",
+      "helper": "onwy vi-isibwe to modewatows.",
+      "placeholder": "add an emai-iw..."
+    },
+    "avatar": "upwoad avataw"
+  },
+  "report": {
+    "singular": "wepowt",
+    "plural": "wepowts",
+    "type": {
+      "spam": "spam",
+      "copyright": "copywi-ight",
+      "inappropriate": "i-inyappwopwiate",
+      "malicious": "mawi-icious",
+      "name-squatting": "nyame-squatti-ing",
+      "other": "othew"
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "woadi-ing fowwowed pwojects...",
+      "none": "you haven't fowwowed any pwojects."
+    },
+    "delete": {
+      "title": "dewete account",
+      "body": "once you dewete youw account, thewe i-is nyo going back. deweting youw account wiww wemuve aww attached data, incwuding pwojects, fwom ouw sewvews."
+    },
+    "auth": {
+      "title": "authowi-ization token",
+      "body": "youw authowi-ization token can be used with the modwinth api, the minyotauw gwadwe pwugin, and othew appwications that intewact with modwinth's api. be suwe to keep this secwet!",
+      "copy": "copy token to cwi-ipboawd",
+      "copied": "copi-ied token to cwipboawd",
+      "revoke": "wevoke token"
+    },
+    "revoke_token": {
+      "title": "wevoke youw modwi-inth token",
+      "body": "wevoki-ing youw modwinth token can have unyintended consequences. pwease be awawe that the fowwowing couwd bweak:\n - any appwication that uses youw token to access the api.\n - gwadwe - if minyotauw is given a incowwect token, youw gwadwe buiwds couwd faiw.\n - github - if you use a github action that uses the modwinth api, it wiww cause ewwows.\n\nif you awe wiwwing to continyue, compwete the fowwowing steps:\n\n 1. head to the [modwinth appwication page on github](https://github.com/settings/connyections/appwications/3acffb2e808d16d4b226). make suwe to be wogged into the github account you used fow modwinth!\n 2. pwess the big wed \"wevoke access\" button nyext to the \"pewmissions\" headew.\n\nonce you have compweted those steps, pwess the \"wog out\" button bewow.\n\n**this wiww wog you out of modwinth, howevew, when you wog back in, youw token wiww be wegenyewated.**",
+      "action": "wog out"
+    }
+  },
+  "images": {
+    "replace": "wepwace i-image",
+    "how_to": "dwag and dwop to upwoad ow cwi-ick to sewect"
+  },
+  "ads": {
+    "privacy_respecting": "a pwi-ivacy-wespecting ad wouwd have been shown hewe.",
+    "console": {
+      "line1": "you awe usi-ing an adbwockew.",
+      "line2": "youw adbwockew pwevented modwi-inth fwom showing an ad, ouw onwy souwce of income.",
+      "line3": "i-if you stiww want to hewp modwinth without viewing ads, you can contwibute to modwinth on github!",
+      "line4": "https://gi-ithub.com/modwinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "thi-is is extwemewy impowtant.",
+        "verify": "to vewi-ify, type <i>{key}</i> bewow:",
+        "placeholder": "type hewe..."
+      },
+      "project": {
+        "title": "dewete pwoject",
+        "description": "deweti-ing a pwoject ewases aww pwoject data, incwuding vewsions.",
+        "action": "dewete pwoject"
+      },
+      "version": {
+        "title": "dewete vewsi-ion",
+        "description": "awe you suwe you want to dewete thi-is vewsion? aww fiwes and metadata wiww be iwwecuvewabwy wost.",
+        "action": "dewete vewsi-ion"
+      },
+      "account": {
+        "title": "awe you suwe you want to do thi-is?",
+        "description": "thi-is wiww **immediatewy dewete aww of youw pwojects** and fowwows. deweting youw account cannyot be wevewsed.\n\nif you nyeed hewp with youw account, get suppowt on the [modwinth discowd](/discord).",
+        "action": "yes, i-iwwecuvewabwy dewete my account"
+      },
+      "image": {
+        "title": "dewete gawwewy i-image",
+        "description": "awe you suwe you want to dewete thi-is image fiwe and metadata? this action cannyot be undonye.",
+        "action": "dewete i-image"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "moddi-ing shouwd be safe fow evewyonye, so we take abuse and mawicious intent sewiouswy at modwinth. we want to heaw about hawmfuw content on the site that viowates ouw [tos](/legal/terms) and [wuwes](/legal/rules). west assuwed, we’ww keep youw identifying infowmation pwivate.",
+        "fields": {
+          "reason": {
+            "label": "weason"
+          },
+          "information": {
+            "label": "addi-itionyaw infowmation",
+            "helper": "i-incwude winks and images if possibwe. mawkdown fowmatting is suppowted.",
+            "placeholder": "entew addi-itionyaw infowmation..."
+          }
+        }
+      },
+      "project": {
+        "action": "wepowt pwoject"
+      },
+      "version": {
+        "action": "wepowt vewsi-ion"
+      },
+      "user": {
+        "action": "wepowt usew"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "cweate pwoject",
+        "description": "nyew pwojects awe cweated as dwafts, and can be found undew youw pwofi-iwe page.",
+        "action": "conti-inyue",
+        "fields": {
+          "project_type": {
+            "label": "pwoject type"
+          },
+          "name": {
+            "label": "nyame",
+            "placeholder": "entew pwoject nyame..."
+          },
+          "summary": {
+            "label": "summawy",
+            "helper": "thi-is appeaws in seawch and on the sidebaw of youw pwoject's page.",
+            "placeholder": "entew showt summawy of pwoject..."
+          }
+        }
+      },
+      "image": {
+        "title": "add gawwewy i-image",
+        "action": "add i-image",
+        "fields": {
+          "title": {
+            "label": "ti-itwe",
+            "placeholder": "entew i-image titwe..."
+          },
+          "description": {
+            "label": "descwi-iption",
+            "placeholder": "entew i-image descwiption..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "change pwoject status",
+        "action": "confi-iwm",
+        "fields": {
+          "status": {
+            "label": "status",
+            "options": {
+              "approve": "appwuve",
+              "unlist": "unwi-ist",
+              "reject": "weject"
+            }
+          },
+          "moderation_message": {
+            "label": "modewati-ion message",
+            "helper": "opti-ionyawwy incwude infowmation to communyicate pwobwems with a pwoject's team membews. mawkdown fowmatting is suppowted.",
+            "placeholder": "entew addi-itionyaw infowmation..."
+          }
+        }
+      }
+    }
+  },
+  "tags": {
+    "technology": "technyowogy",
+    "adventure": "adventuwe",
+    "magic": "magi-ic",
+    "utility": "uti-iwity",
+    "decoration": "decowati-ion",
+    "library": "wi-ibwawy",
+    "cursed": "cuwsed",
+    "worldgen": "wowwd genyewati-ion",
+    "storage": "stowage",
+    "food": "food",
+    "equipment": "equi-ipment",
+    "miscellaneous": "mi-iscewwanyeous",
+    "challenging": "chawwengi-ing",
+    "combat": "combat",
+    "kitchen-sink": "ki-itchen sink",
+    "lightweight": "wi-ightweight",
+    "multiplayer": "muwti-ipwayew",
+    "quests": "quests",
+    "optimization": "opti-imization",
+    "fabric": "fabwi-ic",
+    "forge": "fowge",
+    "quilt": "qui-iwt",
+    "modloader": "modwoadew",
+    "rift": "wi-ift",
+    "server": "sewvew",
+    "client": "cwi-ient",
+    "good": "good",
+    "trash": "twash",
+    "misc": "mi-iscewwanyeous"
+  }
+}
