@@ -1,13 +1,13 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Sivun aiheen vuoksi virallinen versio sisällöstä on saatavilla ainoastaan englanniksi."
   },
   "index": {
     "tagline": "Discover, play, and create Minecraft content",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
-        "title": "Easy to use API",
+        "title": "Helppokäyttöinen ohjelmointirajapinta",
         "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
       },
       "coin": {
@@ -15,7 +15,7 @@
         "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
+        "title": "Salamannopea haku",
         "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
       },
       "chat": {
@@ -27,69 +27,69 @@
         "description": "Integrates with build tools, repositories, launchers, and custom applications."
       },
       "tools": {
-        "title": "Fully open source",
+        "title": "Täysin avoin lähdekoodi",
         "description": "An open source project maintained by an active community that welcomes contributions."
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "my_profile": "Mene profiiliini",
+    "logout": "Kirjaudu ulos",
+    "github": "Kirjaudu GitHubilla"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth on avoimen lähdekoodin ohjelmisto.",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "heading": "Oikeudelliset tiedot",
+      "terms": "Ehdot",
+      "privacy": "Tietosuoja",
+      "rules": "Säännöt"
     },
     "resources": {
       "heading": "Resources",
-      "blog": "Blog",
+      "blog": "Blogi",
       "docs": "Docs"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Aseta yksityisyysasetukset",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Vaihda teemaa",
+        "system": "Järjestelmän teema",
+        "light": "Vaalea tila",
+        "dark": "Tumma tila",
+        "oled": "OLED-tila"
       },
       "language": {
-        "label": "Select language"
+        "label": "Valitse kieli"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "{status} Virhe",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Voi ei, vaikuttaisi siltä, että eksyit [labyrinttiin](https://github.com/modrinth/labrinth).<br />Emme voinut löytää sivua mitä etsit.",
+      "project_missing": "Emme voinut löytää etsimääsi {type}:a.",
+      "default": "Tapahtui tuntematon virhe."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Mene kotisivulle",
+      "discord": "Saa apua Discordista"
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
-    "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
-    "rules": "Project rules",
-    "all": "All"
+    "description": "Kuvaus",
+    "gallery": "Kuvat",
+    "changelog": "Muutosloki",
+    "versions": "Versiot",
+    "settings": "Asetukset",
+    "moderation": "Valvonta",
+    "notifications": "Ilmoitukset",
+    "about": "Tietoa meistä",
+    "following": "Seuratut",
+    "terms": "Käyttöehdot",
+    "privacy": "Tietosuojakäytäntö",
+    "rules": "Projektisäännöt",
+    "all": "Kaikki"
   },
   "generic": {
     "labels": {
@@ -97,215 +97,215 @@
         "singular": "License",
         "plural": "Licenses"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "project_id": "Projektin tunnus",
+      "project_status": "Projektin tila",
+      "minecraft_versions": "Minecraft-versiot",
+      "mod_loaders": "Modilataajat",
+      "categories": "Luokat",
+      "downloads": "Lataukset",
+      "files": "Tiedostot"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
+      "create": "Luo",
+      "edit": "Muokkaa",
+      "follow": "Seuraa",
+      "unfollow": "Lopeta seuraaminen",
       "feature": "Feature version",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
-      "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
-      "cancel": "Cancel",
-      "discard": "Discard changes"
+      "report": "Ilmianna",
+      "new_project": "Uusi projekti",
+      "preview": "Esikatselu",
+      "download": "Lataa",
+      "save": "Tallenna",
+      "confirm": "Vahvista",
+      "remove": "Poista",
+      "delete": "Poista",
+      "cancel": "Peruuta",
+      "discard": "Hylkää muutokset"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "GitHub-profiili",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
-      "source": "Source",
+      "issues": "Ongelmat",
+      "source": "Lähdekoodi",
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "github_sponsors": "GitHub-sponsorit",
+      "donate": "Lahjoita",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "Server side",
+      "singular": "Ympäristö",
+      "plural": "Ympäristöt",
+      "server_side": "Palvelimen puolella",
       "client_side": "Client side",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Vaadittu",
+        "unsupported": "Ei tuettu",
+        "optional": "Valinnainen",
+        "unknown": "Tuntematon"
       }
     },
-    "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "up_to_date": "Olet ajan tasalla!",
+    "byline": "käyttäjältä <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "singular": "Modi",
+        "plural": "Modit",
+        "search": "Hae modeja..."
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "Modipaketti",
+        "plural": "Modipaketit",
+        "search": "Hae modipaketteja..."
       }
     },
     "sidebar_headings": {
       "external_resources": "External resources",
       "featured_versions": "Featured versions",
-      "project_members": "Project members",
-      "technical_information": "Technical information"
+      "project_members": "Projektin jäsenet",
+      "technical_information": "Tekniset tiedot"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "Lataa kuva",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "Syötä kuvan otsikko...",
+        "description": "Syötä kuvan kuvaus..."
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Lataa uusi versio"
     },
     "body": {
-      "editor": "Editor",
+      "editor": "Muokkaus",
       "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "empty": "Projektilla ei ole kuvausta."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Jäsenet",
+    "permissions": "Oikeudet",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "Lataa versio",
+      "delete_version": "Poista versio",
+      "edit_details": "Muokkaa tietoja",
+      "edit_body": "Muokkaa kuvausta",
+      "manage_invites": "Hallinnoi kutsuja",
+      "remove_member": "Poista jäseniä",
+      "edit_member": "Muokkaa jäseniä",
+      "delete_project": "Poista projekti"
     },
     "role": {
-      "text": "Role",
+      "text": "Rooli",
       "placeholder": "Enter roles..."
     },
-    "advanced": "Advanced",
+    "advanced": "Lisäasetukset",
     "visibility": {
-      "title": "Visibility",
+      "title": "Näkyvyys",
       "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "action": "Muuta näkyvyyttä"
     },
     "ownership": {
-      "title": "Ownership",
+      "title": "Omistajuus",
       "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "action": "Siirrä omistajuus"
     }
   },
   "version": {
     "featured": "Featured",
     "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
+    "feature_action": "Ominaisuus",
     "dependencies": "Dependencies",
     "metadata": "Metadata",
     "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "number": "Versionumero",
+    "publication_date": "Julkaisupäivä",
+    "publisher": "Julkaisija"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
+      "clear": "Tyhjennä suodattimet",
+      "hide": "Piilota suodattimet",
+      "show": "Näytä suodattimet",
+      "show_snapshots": "Näytä kehitysversiot",
+      "search_versions": "Hae versioita...",
       "licenses": "Licenses"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "by": "Järjestä",
+      "relevance": "Osuvimmat",
+      "downloads": "Latausmäärä",
+      "follows": "Seuraajien määrä",
+      "newest": "Äskettäin luotu",
+      "updated": "Äskettäin päivitetty"
     },
-    "per_page": "Show per page"
+    "per_page": "Määrä sivulla"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
+    "approved": "Hyväksytty",
+    "rejected": "Hylätty",
+    "draft": "Luonnos",
+    "unlisted": "Piilotettu",
     "processing": "Under review",
-    "unknown": "Unknown"
+    "unknown": "Tuntematon"
   },
   "release_channels": {
-    "release": "Release",
-    "beta": "Beta",
-    "alpha": "Alpha"
+    "release": "Julkaisu",
+    "beta": "Beeta",
+    "alpha": "Alfa"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "Kehittäjä",
+    "admin": "Ylläpitäjä",
+    "moderator": "Valvoja"
   },
   "stats": {
-    "joined": "Joined {ago}",
+    "joined": "Liittyi {ago}",
     "notified": "Notified {ago}",
     "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
     "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "created": "Luotu {ago}",
+    "updated": "Päivitetty {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Käyttäjätunnus",
+      "placeholder": "Lisää käyttäjätunnus..."
     },
     "bio": {
       "text": "Bio",
       "placeholder": "Add a bio..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "Yksityinen sähköposti",
+      "helper": "Näkyvissä vain järjestelmänvalvojille.",
+      "placeholder": "Lisää sähköpostiosoite..."
     },
-    "avatar": "Upload avatar"
+    "avatar": "Lataa profiilikuva"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "Ilmoita",
+    "plural": "Ilmoitukset",
     "type": {
-      "spam": "Spam",
+      "spam": "Roskapostia",
       "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
+      "inappropriate": "Sopimaton",
+      "malicious": "Haitallinen",
       "name-squatting": "Name-squatting",
-      "other": "Other"
+      "other": "Muu"
     }
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "Ladataan seurattuja projekteja...",
+      "none": "Et seuraa yhtäänkään projektia."
     },
     "delete": {
-      "title": "Delete account",
+      "title": "Poista käyttäjätili",
       "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
     },
     "auth": {
@@ -318,18 +318,18 @@
     "revoke_token": {
       "title": "Revoke your Modrinth token",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "action": "Kirjaudu ulos"
     }
   },
   "images": {
-    "replace": "Replace image",
+    "replace": "Korvaa kuva",
     "how_to": "Drag and drop to upload or click to select"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Tässä olisi esitetty yksityisyyttä kunnioittava mainos.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
+      "line1": "Käytät mainoksen estäjää.",
+      "line2": "Mainosten estäjäsi esti Modrinthiä lataamasta mainoksia, mitkä ovat ainoa tulonlähteemme.",
       "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
       "line4": "https://github.com/modrinth/"
     }
@@ -337,29 +337,29 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Tämä on erittäin tärkeää.",
+        "verify": "Vahvistaaksesi, kirjoita <i>{key}</i> alas:",
+        "placeholder": "Kirjoita tähän..."
       },
       "project": {
-        "title": "Delete project",
+        "title": "Poista projekti",
         "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "action": "Poista projekti"
       },
       "version": {
-        "title": "Delete version",
+        "title": "Poista versio",
         "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "action": "Poista versio"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "Haluatko varmasti tehdä tämän?",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "action": "Kyllä, peruuttamattomasti poista tilini"
       },
       "image": {
-        "title": "Delete gallery image",
+        "title": "Poista kuva",
         "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "action": "Poista kuva"
       }
     },
     "report": {
@@ -367,55 +367,55 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Syy"
           },
           "information": {
-            "label": "Additional information",
+            "label": "Lisätiedot",
             "helper": "Include links and images if possible. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Ilmoita projektista"
       },
       "version": {
-        "action": "Report version"
+        "action": "Ilmoita versiosta"
       },
       "user": {
-        "action": "Report user"
+        "action": "Ilmoita käyttäjä"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
+        "title": "Luo projekti",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "action": "Jatka",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projektin tyyppi"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Nimi",
+            "placeholder": "Syötä projektin nimi..."
           },
           "summary": {
-            "label": "Summary",
+            "label": "Yhteenveto",
             "helper": "This appears in search and on the sidebar of your project's page.",
             "placeholder": "Enter short summary of project..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Lisää kuva",
+        "action": "Lisää kuva",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Otsikko",
+            "placeholder": "Syötä kuvan otsikko..."
           },
           "description": {
-            "label": "Description",
+            "label": "Kuvaus",
             "placeholder": "Enter image description..."
           }
         }
@@ -423,15 +423,15 @@
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Muuta projektin tilaa",
+        "action": "Vahvista",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Tila",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Hyväksy",
+              "unlist": "Piilota",
+              "reject": "Hylkää"
             }
           },
           "moderation_message": {
@@ -444,34 +444,34 @@
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
+    "technology": "Teknologia",
+    "adventure": "Seikkailu",
+    "magic": "Taika",
     "utility": "Utility",
-    "decoration": "Decoration",
+    "decoration": "Koristus",
     "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
-    "combat": "Combat",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "cursed": "Kirottu",
+    "worldgen": "Maailmageneraatio",
+    "storage": "Varasto",
+    "food": "Ruoka",
+    "equipment": "Varusteet",
+    "miscellaneous": "Sekalaiset",
+    "challenging": "Haastava",
+    "combat": "Taisteleminen",
+    "kitchen-sink": "Kaikenlaista",
+    "lightweight": "Kevyt",
+    "multiplayer": "Moninpeli",
+    "quests": "Tehtävät",
+    "optimization": "Optimointi",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
+    "server": "Palvelin",
     "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "good": "Hyvä",
+    "trash": "Roskaa",
+    "misc": "Sekalaiset"
   }
 }
