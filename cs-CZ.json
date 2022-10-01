@@ -1,0 +1,477 @@
+{
+  "locale": {
+    "no_translation": "Vzhledem k povaze této stránky je jediná oficiální verze tohoto obsahu v angličtině."
+  },
+  "index": {
+    "tagline": "Discover, play, and create Minecraft content",
+    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "features": {
+      "book": {
+        "title": "Easy to use API",
+        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+      },
+      "coin": {
+        "title": "Creator earnings",
+        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+      },
+      "speedometer": {
+        "title": "Bleskurychlé vyhledávání",
+        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+      },
+      "chat": {
+        "title": "Helpful community",
+        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+      },
+      "puzzle": {
+        "title": "Extensible by design",
+        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+      },
+      "tools": {
+        "title": "Fully open source",
+        "description": "An open source project maintained by an active community that welcomes contributions."
+      }
+    }
+  },
+  "header": {
+    "my_profile": "Přejít na můj profil",
+    "logout": "Odhlásit se",
+    "github": "Sign in with GitHub"
+  },
+  "footer": {
+    "description": "Modrinth is open source software.",
+    "legal": {
+      "heading": "Legal",
+      "terms": "Terms",
+      "privacy": "Ochrana soukromí",
+      "rules": "Pravidla"
+    },
+    "resources": {
+      "heading": "Resources",
+      "blog": "Blog",
+      "docs": "Dokumentace"
+    },
+    "buttons": {
+      "privacy": "Set privacy preferences",
+      "theme": {
+        "label": "Změnit motiv",
+        "system": "System theme",
+        "light": "Light mode",
+        "dark": "Dark mode",
+        "oled": "OLED mode"
+      },
+      "language": {
+        "label": "Vybrat jazyk"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} Error",
+    "message": {
+      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
+      "project_missing": "The {type} you were looking for cannot be found.",
+      "default": "An unexpected error has occurred."
+    },
+    "actions": {
+      "home": "Go home",
+      "discord": "Získejte pomoc na Discordu"
+    }
+  },
+  "pages": {
+    "description": "Popis",
+    "gallery": "Galerie",
+    "changelog": "Changelog",
+    "versions": "Verze",
+    "settings": "Nastavení",
+    "moderation": "Moderace",
+    "notifications": "Oznámení",
+    "about": "O nás",
+    "following": "Following",
+    "terms": "Terms and conditions",
+    "privacy": "Privacy policy",
+    "rules": "Project rules",
+    "all": "Vše"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "Licence",
+        "plural": "Licence"
+      },
+      "project_id": "ID projektu",
+      "project_status": "Stav projektu",
+      "minecraft_versions": "Minecraft versions",
+      "mod_loaders": "Mod loaders",
+      "categories": "Kategorie",
+      "downloads": "Downloads",
+      "files": "Soubory"
+    },
+    "actions": {
+      "create": "Vytvořit",
+      "edit": "Upravit",
+      "follow": "Sledovat",
+      "unfollow": "Přestat sledovat",
+      "feature": "Feature version",
+      "report": "Nahlásit",
+      "new_project": "Nový projekt",
+      "preview": "Náhled",
+      "download": "Stáhnout",
+      "save": "Uložit",
+      "confirm": "Potvrdit",
+      "remove": "Odstranit",
+      "delete": "Odstranit",
+      "cancel": "Zrušit",
+      "discard": "Zrušit změny"
+    },
+    "external": {
+      "github_profile": "GitHub profil",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "Issues",
+      "source": "Zdrojový kód",
+      "wiki": "Wiki",
+      "patreon": "Patreon",
+      "paypal": "PayPal",
+      "buy_me_a_coffee": "Buy Me a Coffee",
+      "github_sponsors": "GitHub Sponsors",
+      "donate": "Donate",
+      "kofi": "Ko-fi"
+    },
+    "environments": {
+      "singular": "Prostředí",
+      "plural": "Prostředí",
+      "server_side": "Server side",
+      "client_side": "Client side",
+      "values": {
+        "required": "Povinné",
+        "unsupported": "Nepodporované",
+        "optional": "Volitelné",
+        "unknown": "Neznámé"
+      }
+    },
+    "up_to_date": "You are up to date!",
+    "byline": "by <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "Mod",
+        "plural": "Mods",
+        "search": "Search mods..."
+      },
+      "modpack": {
+        "singular": "Modpack",
+        "plural": "Modpacks",
+        "search": "Search modpacks..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "Externí zdroje",
+      "featured_versions": "Featured versions",
+      "project_members": "Členové projektu",
+      "technical_information": "Technické informace"
+    },
+    "gallery": {
+      "upload": "Upload gallery image",
+      "placeholder": {
+        "title": "Enter image title...",
+        "description": "Enter image description..."
+      }
+    },
+    "versions": {
+      "upload": "Nahrát novou verzi"
+    },
+    "body": {
+      "editor": "Editor",
+      "placeholder": "Enter project body...",
+      "empty": "This project description is empty."
+    },
+    "members": "Členové",
+    "permissions": "Oprávnění",
+    "permission": {
+      "upload_version": "Nahrát verzi",
+      "delete_version": "Odstranit verzi",
+      "edit_details": "Upravit podrobnosti",
+      "edit_body": "Upravit popis",
+      "manage_invites": "Spravovat pozvánky",
+      "remove_member": "Remove members",
+      "edit_member": "Edit members",
+      "delete_project": "Odstranit projekt"
+    },
+    "role": {
+      "text": "Role",
+      "placeholder": "Enter roles..."
+    },
+    "advanced": "Rozšířené",
+    "visibility": {
+      "title": "Viditelnost",
+      "description": "This project is currently {status}.",
+      "action": "Změnit viditelnost"
+    },
+    "ownership": {
+      "title": "Vlastnictví",
+      "description": "Převést vlastnictví tohoto projektu na jiného uživatele.",
+      "action": "Převést vlastnictví"
+    }
+  },
+  "version": {
+    "featured": "Featured",
+    "autofeatured": "Auto-featured",
+    "feature_action": "Feature",
+    "dependencies": "Závislosti",
+    "metadata": "Metadata",
+    "release_channel": "Release channel",
+    "number": "Číslo verze",
+    "publication_date": "Datum zveřejnění",
+    "publisher": "Vydavatel"
+  },
+  "search": {
+    "filters": {
+      "clear": "Vymazat filtry",
+      "hide": "Skrýt filtry",
+      "show": "Zobrazit filtry",
+      "show_snapshots": "Zobraz vývojové verze",
+      "search_versions": "Search versions...",
+      "licenses": "Licence"
+    },
+    "sort": {
+      "by": "Seřadit podle",
+      "relevance": "Relevance",
+      "downloads": "Počet stažení",
+      "follows": "Follower count",
+      "newest": "Nedávno vytvořené",
+      "updated": "Nedávno aktualizované"
+    },
+    "per_page": "Show per page"
+  },
+  "status": {
+    "approved": "Schváleno",
+    "rejected": "Zamítnuto",
+    "draft": "Koncept",
+    "unlisted": "Unlisted",
+    "processing": "Under review",
+    "unknown": "Neznámé"
+  },
+  "release_channels": {
+    "release": "Release",
+    "beta": "Beta",
+    "alpha": "Alfa"
+  },
+  "roles": {
+    "developer": "Vývojář",
+    "admin": "Administrátor",
+    "moderator": "Moderátor"
+  },
+  "stats": {
+    "joined": "Joined {ago}",
+    "notified": "Notified {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "user_id": "ID uživatele: {id}",
+    "created": "Created {ago}",
+    "updated": "Updated {ago}"
+  },
+  "settings": {
+    "username": {
+      "text": "Uživatelské jméno",
+      "placeholder": "Přidat uživatelské jméno..."
+    },
+    "bio": {
+      "text": "Bio",
+      "placeholder": "Add a bio..."
+    },
+    "email": {
+      "text": "Soukromý e-mail",
+      "helper": "Viditelné pouze pro moderátory.",
+      "placeholder": "Přidat e-mail..."
+    },
+    "avatar": "Nahrát profilový obrázek"
+  },
+  "report": {
+    "singular": "Nahlásit",
+    "plural": "Reports",
+    "type": {
+      "spam": "Spam",
+      "copyright": "Autorská práva",
+      "inappropriate": "Nevhodné",
+      "malicious": "Malicious",
+      "name-squatting": "Name-squatting",
+      "other": "Jiné"
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "Loading followed projects...",
+      "none": "You haven't followed any projects."
+    },
+    "delete": {
+      "title": "Odstranit účet",
+      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+    },
+    "auth": {
+      "title": "Authorization token",
+      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
+      "copy": "Zkopírovat token do schránky",
+      "copied": "Token zkopírován do schránky",
+      "revoke": "Odvolat token"
+    },
+    "revoke_token": {
+      "title": "Odvolat svůj Modrinth token",
+      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "action": "Odhlásit se"
+    }
+  },
+  "images": {
+    "replace": "Replace image",
+    "how_to": "Drag and drop to upload or click to select"
+  },
+  "ads": {
+    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "console": {
+      "line1": "Používáte blokátor reklam.",
+      "line2": "Váš blokátor reklam zabránil Modrinthu zobrazit reklamu, náš jediný zdroj příjmů.",
+      "line3": "Pokud stále chcete pomoci Modrinthu bez zobrazování reklam, můžete přispět k Modrinthu na GitHubu!",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "This is extremely important.",
+        "verify": "To verify, type <i>{key}</i> below:",
+        "placeholder": "Type here..."
+      },
+      "project": {
+        "title": "Odstranit projekt",
+        "description": "Deleting a project erases all project data, including versions.",
+        "action": "Odstranit projekt"
+      },
+      "version": {
+        "title": "Odstranit verzi",
+        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "action": "Odstranit verzi"
+      },
+      "account": {
+        "title": "Opravdu to chcete udělat?",
+        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "action": "Ano, nevratně smazat můj účet"
+      },
+      "image": {
+        "title": "Odstranit obrázek galerie",
+        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "action": "Odstranit obrázek"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "fields": {
+          "reason": {
+            "label": "Důvod"
+          },
+          "information": {
+            "label": "Additional information",
+            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      },
+      "project": {
+        "action": "Nahlásit projekt"
+      },
+      "version": {
+        "action": "Nahlásit verzi"
+      },
+      "user": {
+        "action": "Nahlásit uživatele"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "Vytvořit projekt",
+        "description": "Nové projekty jsou vytvořeny jako koncepty a lze je nalézt na stránce vašeho profilu.",
+        "action": "Pokračovat",
+        "fields": {
+          "project_type": {
+            "label": "Typ projektu"
+          },
+          "name": {
+            "label": "Název",
+            "placeholder": "Zadejte název projektu..."
+          },
+          "summary": {
+            "label": "Summary",
+            "helper": "This appears in search and on the sidebar of your project's page.",
+            "placeholder": "Enter short summary of project..."
+          }
+        }
+      },
+      "image": {
+        "title": "Přidat obrázek galerie",
+        "action": "Přidat obrázek",
+        "fields": {
+          "title": {
+            "label": "Title",
+            "placeholder": "Zadejte název obrázku..."
+          },
+          "description": {
+            "label": "Popis",
+            "placeholder": "Zadejte popis obrázku..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "Change project status",
+        "action": "Potvrdit",
+        "fields": {
+          "status": {
+            "label": "Status",
+            "options": {
+              "approve": "Approve",
+              "unlist": "Unlist",
+              "reject": "Reject"
+            }
+          },
+          "moderation_message": {
+            "label": "Moderation message",
+            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "placeholder": "Enter additional information..."
+          }
+        }
+      }
+    }
+  },
+  "tags": {
+    "technology": "Technologie",
+    "adventure": "Dobrodružné",
+    "magic": "Magie",
+    "utility": "Utilita",
+    "decoration": "Dekorace",
+    "library": "Knihovna",
+    "cursed": "Prokletý",
+    "worldgen": "Generování světa",
+    "storage": "Úložiště",
+    "food": "Jídlo",
+    "equipment": "Vybavení",
+    "miscellaneous": "Různé",
+    "challenging": "Výzva",
+    "combat": "Boj",
+    "kitchen-sink": "Kitchen Sink",
+    "lightweight": "Lightweight",
+    "multiplayer": "Multiplayer",
+    "quests": "Úkoly",
+    "optimization": "Optimalizace",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "Server",
+    "client": "Klient",
+    "good": "Dobrý",
+    "trash": "Odpad",
+    "misc": "Různé"
+  }
+}
