@@ -7,7 +7,7 @@
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
-        "title": "Easy to use API",
+        "title": "Snadno použitelné API",
         "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
       },
       "coin": {
@@ -133,7 +133,7 @@
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "donate": "Přispět",
       "kofi": "Ko-fi"
     },
     "environments": {
@@ -171,7 +171,7 @@
       "technical_information": "Technické informace"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "Nahrát obrázek galerie",
       "placeholder": {
         "title": "Enter image title...",
         "description": "Enter image description..."
@@ -183,7 +183,7 @@
     "body": {
       "editor": "Editor",
       "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "empty": "Popis projektu je prázdný."
     },
     "members": "Členové",
     "permissions": "Oprávnění",
