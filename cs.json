@@ -193,8 +193,8 @@
       "edit_details": "Upravit podrobnosti",
       "edit_body": "Upravit popis",
       "manage_invites": "Spravovat pozvánky",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
+      "remove_member": "Odebrat členy",
+      "edit_member": "Upravit členy",
       "delete_project": "Odstranit projekt"
     },
     "role": {
@@ -295,7 +295,7 @@
       "copyright": "Autorská práva",
       "inappropriate": "Nevhodné",
       "malicious": "Škodlivý",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "Krádež názvu",
       "other": "Jiné"
     }
   },
@@ -306,7 +306,7 @@
     },
     "delete": {
       "title": "Odstranit účet",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "Jakmile odstraníte svůj účet, není cesty zpět. Odstraněním účtu se z našich serverů odstraní všechna připojená data včetně projektů."
     },
     "auth": {
       "title": "Autorizační token",
@@ -323,10 +323,10 @@
   },
   "images": {
     "replace": "Nahradit obrázek",
-    "how_to": "Drag and drop to upload or click to select"
+    "how_to": "Přetažením nahrajte nebo kliknutím vyberte"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Zde by byla zobrazena reklama respektující soukromí.",
     "console": {
       "line1": "Používáte blokátor reklam.",
       "line2": "Váš blokátor reklam zabránil Modrinthu zobrazit reklamu, náš jediný zdroj příjmů.",
@@ -337,18 +337,18 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
+        "important": "Toto je nesmírně důležité.",
+        "verify": "Pro ověření zadejte <i>{key}</i> níže:",
         "placeholder": "Type here..."
       },
       "project": {
         "title": "Odstranit projekt",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "Smazání projektu vymaže všechna data projektu, včetně verzí.",
         "action": "Odstranit projekt"
       },
       "version": {
         "title": "Odstranit verzi",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Opravdu chcete odstranit tuto verzi? Všechny soubory a metadata budou nenávratně ztraceny.",
         "action": "Odstranit verzi"
       },
       "account": {
@@ -358,7 +358,7 @@
       },
       "image": {
         "title": "Odstranit obrázek galerie",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "description": "Opravdu chcete odstranit tento obrázek a metadata? Tuto akci nelze vrátit zpět.",
         "action": "Odstranit obrázek"
       }
     },
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
+            "helper": "Zobrazí se ve vyhledávání a na postranním panelu stránky vašeho projektu.",
             "placeholder": "Enter short summary of project..."
           }
         }
@@ -423,7 +423,7 @@
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
+        "title": "Změnit stav projektu",
         "action": "Potvrdit",
         "fields": {
           "status": {
@@ -436,8 +436,8 @@
           },
           "moderation_message": {
             "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "helper": "Volitelně uveďte informace ke komunikaci o problémech se členy týmu projektu. Formátování Markdown je podporováno.",
+            "placeholder": "Zadejte další informace..."
           }
         }
       }
