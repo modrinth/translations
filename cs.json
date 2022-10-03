@@ -3,7 +3,7 @@
     "no_translation": "Vzhledem k povaze této stránky je jediná oficiální verze tohoto obsahu v angličtině."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
+    "tagline": "Objevujte, hrajte a tvořte Minecraft obsah",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
@@ -27,7 +27,7 @@
         "description": "Integrates with build tools, repositories, launchers, and custom applications."
       },
       "tools": {
-        "title": "Fully open source",
+        "title": "Zcela open source",
         "description": "An open source project maintained by an active community that welcomes contributions."
       }
     }
@@ -35,10 +35,10 @@
   "header": {
     "my_profile": "Přejít na můj profil",
     "logout": "Odhlásit se",
-    "github": "Sign in with GitHub"
+    "github": "Přihlásit se přes GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth je open source software.",
     "legal": {
       "heading": "Legal",
       "terms": "Terms",
