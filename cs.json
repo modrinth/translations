@@ -19,7 +19,7 @@
         "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
       },
       "chat": {
-        "title": "Helpful community",
+        "title": "Nápomocná komunita",
         "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
       },
       "puzzle": {
@@ -189,13 +189,13 @@
     "permissions": "Oprávnění",
     "permission": {
       "upload_version": "Nahrát verzi",
-      "delete_version": "Odstranit verzi",
+      "delete_version": "Smazat verzi",
       "edit_details": "Upravit podrobnosti",
       "edit_body": "Upravit popis",
       "manage_invites": "Spravovat pozvánky",
       "remove_member": "Odebrat členy",
       "edit_member": "Upravit členy",
-      "delete_project": "Odstranit projekt"
+      "delete_project": "Smazat projekt"
     },
     "role": {
       "text": "Role",
@@ -305,8 +305,8 @@
       "none": "Nesledujete žádné projekty."
     },
     "delete": {
-      "title": "Odstranit účet",
-      "body": "Jakmile odstraníte svůj účet, není cesty zpět. Odstraněním účtu se z našich serverů odstraní všechna připojená data včetně projektů."
+      "title": "Smazat účet",
+      "body": "Jakmile smažete svůj účet, není cesty zpět. Smazáním účtu se z našich serverů odstraní všechna připojená data včetně projektů."
     },
     "auth": {
       "title": "Autorizační token",
@@ -342,14 +342,14 @@
         "placeholder": "Type here..."
       },
       "project": {
-        "title": "Odstranit projekt",
+        "title": "Smazat projekt",
         "description": "Smazání projektu vymaže všechna data projektu, včetně verzí.",
-        "action": "Odstranit projekt"
+        "action": "Smazat projekt"
       },
       "version": {
-        "title": "Odstranit verzi",
-        "description": "Opravdu chcete odstranit tuto verzi? Všechny soubory a metadata budou nenávratně ztraceny.",
-        "action": "Odstranit verzi"
+        "title": "Smazat verzi",
+        "description": "Opravdu chcete smazat tuto verzi? Všechny soubory a metadata budou nenávratně ztraceny.",
+        "action": "Smazat verzi"
       },
       "account": {
         "title": "Opravdu to chcete udělat?",
@@ -357,9 +357,9 @@
         "action": "Ano, nevratně smazat můj účet"
       },
       "image": {
-        "title": "Odstranit obrázek galerie",
-        "description": "Opravdu chcete odstranit tento obrázek a metadata? Tuto akci nelze vrátit zpět.",
-        "action": "Odstranit obrázek"
+        "title": "Smazat obrázek galerie",
+        "description": "Opravdu chcete smazat tento obrázek a metadata? Tuto akci nelze vrátit zpět.",
+        "action": "Smazat obrázek"
       }
     },
     "report": {
