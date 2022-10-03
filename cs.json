@@ -289,7 +289,7 @@
   },
   "report": {
     "singular": "Nahlásit",
-    "plural": "Reports",
+    "plural": "Hlášení",
     "type": {
       "spam": "Spam",
       "copyright": "Autorská práva",
@@ -370,9 +370,9 @@
             "label": "Důvod"
           },
           "information": {
-            "label": "Additional information",
+            "label": "Další informace",
             "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Zadejte další informace..."
           }
         }
       },
@@ -411,7 +411,7 @@
         "action": "Přidat obrázek",
         "fields": {
           "title": {
-            "label": "Title",
+            "label": "Název",
             "placeholder": "Zadejte název obrázku..."
           },
           "description": {
