@@ -262,9 +262,9 @@
     "moderator": "Moderátor"
   },
   "stats": {
-    "joined": "Joined {ago}",
-    "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
+    "joined": "Připojil se {ago}",
+    "notified": "Oznámeno {ago}",
+    "downloads": "{downloads, plural, other {<b>#</b> stažení}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
     "user_id": "ID uživatele: {id}",
