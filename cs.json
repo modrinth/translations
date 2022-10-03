@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Creator earnings",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "Plánuje poskytnout tvůrcům 100% výnosů z reklamy z jejich projektových stránek. *Výplaty jsou v současné době ve vývoji."
       },
       "speedometer": {
         "title": "Bleskurychlé vyhledávání",
@@ -68,11 +68,11 @@
     "status": "{status} Error",
     "message": {
       "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "project_missing": "Hledaný {type} nebyl nalezen.",
+      "default": "Došlo k neočekávané chybě."
     },
     "actions": {
-      "home": "Go home",
+      "home": "Přejít domů",
       "discord": "Získejte pomoc na Discordu"
     }
   },
@@ -252,7 +252,7 @@
     "unknown": "Neznámé"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "Stabilní",
     "beta": "Beta",
     "alpha": "Alfa"
   },
