@@ -42,7 +42,7 @@
     "legal": {
       "heading": "Соглашения",
       "terms": "Условия использования",
-      "privacy": "Сбор данных",
+      "privacy": "Конфиденциальность",
       "rules": "Правила"
     },
     "resources": {
@@ -127,7 +127,7 @@
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Баг‑трекер",
-      "source": "Исходный код",
+      "source": "Исходный код",
       "wiki": "Вики",
       "patreon": "Patreon",
       "paypal": "PayPal",
