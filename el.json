@@ -143,9 +143,9 @@
       "client_side": "Πλευρά πελάτη",
       "values": {
         "required": "Απαιτούμενο",
-        "unsupported": "Μη Υποστηριζόμενο",
+        "unsupported": "Δεν Υποστηρίζεται",
         "optional": "Προαιρετικό",
-        "unknown": "Άγνωστη"
+        "unknown": "Άγνωστο"
       }
     },
     "up_to_date": "Είσαι ενημερωμένος!",
