@@ -4,19 +4,19 @@
   },
   "index": {
     "tagline": "Objevujte, hrajte a tvořte Minecraft obsah",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "description": "Najděte zábavný a kvalitní obsah prostřednictvím naší open-source platformy pro modování vytvořené pro komunitu. Vytvářejte věci, dostávejte peníze* a nasaďte svůj projekt pomocí našeho plně zdokumentovaného rozhraní API!",
     "features": {
       "book": {
         "title": "Snadno použitelné API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "Podporováno plně zdokumentovaným rozhraním API, které usnadňuje nárůst integrací a launcherů třetích stran."
       },
       "coin": {
-        "title": "Creator earnings",
+        "title": "Výdělky tvůrců",
         "description": "Plánuje poskytnout tvůrcům 100% výnosů z reklamy z jejich projektových stránek. *Výplaty jsou v současné době ve vývoji."
       },
       "speedometer": {
         "title": "Bleskurychlé vyhledávání",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "description": "Využívá rychlé a přizpůsobivé vyhledávací algoritmy, abyste nemuseli čekat."
       },
       "chat": {
         "title": "Nápomocná komunita",
@@ -46,12 +46,12 @@
       "rules": "Pravidla"
     },
     "resources": {
-      "heading": "Resources",
+      "heading": "Zdroje",
       "blog": "Blog",
       "docs": "Dokumentace"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Nastavit předvolby ochrany osobních údajů",
       "theme": {
         "label": "Změnit motiv",
         "system": "System theme",
@@ -88,7 +88,7 @@
     "following": "Following",
     "terms": "Terms and conditions",
     "privacy": "Zásady ochrany osobních údajů",
-    "rules": "Project rules",
+    "rules": "Pravidla projektu",
     "all": "Vše"
   },
   "generic": {
@@ -102,7 +102,7 @@
       "minecraft_versions": "Minecraft verze",
       "mod_loaders": "Mod loaders",
       "categories": "Kategorie",
-      "downloads": "Downloads",
+      "downloads": "Stažení",
       "files": "Soubory"
     },
     "actions": {
@@ -371,7 +371,7 @@
           },
           "information": {
             "label": "Další informace",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "helper": "Pokud je to možné, uveďte odkazy a obrázky. Formátování Markdown je podporované.",
             "placeholder": "Zadejte další informace..."
           }
         }
@@ -400,9 +400,9 @@
             "placeholder": "Zadejte název projektu..."
           },
           "summary": {
-            "label": "Summary",
+            "label": "Souhrn",
             "helper": "Zobrazí se ve vyhledávání a na postranním panelu stránky vašeho projektu.",
-            "placeholder": "Enter short summary of project..."
+            "placeholder": "Zadejte krátké shrnutí projektu..."
           }
         }
       },
@@ -429,13 +429,13 @@
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
+              "approve": "Schválit",
               "unlist": "Unlist",
-              "reject": "Reject"
+              "reject": "Zamítnout"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Moderátorská zpráva",
             "helper": "Volitelně uveďte informace ke komunikaci o problémech se členy týmu projektu. Formátování Markdown je podporováno.",
             "placeholder": "Zadejte další informace..."
           }
