@@ -54,10 +54,10 @@
       "privacy": "Nastavit předvolby ochrany osobních údajů",
       "theme": {
         "label": "Změnit motiv",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "system": "Motiv systému",
+        "light": "Světlý režim",
+        "dark": "Tmavý režim",
+        "oled": "OLED režim"
       },
       "language": {
         "label": "Vybrat jazyk"
@@ -65,7 +65,7 @@
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "Chyba {status}",
     "message": {
       "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
       "project_missing": "Hledaný {type} nebyl nalezen.",
@@ -139,8 +139,8 @@
     "environments": {
       "singular": "Prostředí",
       "plural": "Prostředí",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "server_side": "Strana serveru",
+      "client_side": "Strana klienta",
       "values": {
         "required": "Povinné",
         "unsupported": "Nepodporované",
@@ -173,8 +173,8 @@
     "gallery": {
       "upload": "Nahrát obrázek galerie",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "Zadejte název obrázku...",
+        "description": "Zadejte popis obrázku..."
       }
     },
     "versions": {
