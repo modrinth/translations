@@ -81,11 +81,11 @@
     "gallery": "Ye hoard 'o images",
     "changelog": "Things have changed",
     "versions": "Different ol' stuff",
-    "settings": "Settings",
+    "settings": "Scribbles",
     "moderation": "Moderation",
     "notifications": "Notifications",
-    "about": "About",
-    "following": "Following",
+    "about": "'bout",
+    "following": "Followin'",
     "terms": "Terms and conditions",
     "privacy": "Privacy policy",
     "rules": "Project rules",
@@ -106,20 +106,20 @@
       "files": "Files"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
+      "create": "Be creatin'",
+      "edit": "Be editin'",
+      "follow": "Be followin'",
+      "unfollow": "Be unfollowin'",
       "feature": "Feature version",
-      "report": "Report",
+      "report": "Be squawkin'",
       "new_project": "New project",
       "preview": "Preview",
       "download": "Download",
       "save": "Save",
       "confirm": "Confirm",
-      "remove": "Remove",
+      "remove": "Toss overboard",
       "delete": "Delete",
-      "cancel": "Cancel",
+      "cancel": "Avast",
       "discard": "Discard changes"
     },
     "external": {
@@ -133,7 +133,7 @@
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "donate": "Hand over some of ye loot",
       "kofi": "Ko-fi"
     },
     "environments": {
@@ -185,7 +185,7 @@
       "placeholder": "Enter project body...",
       "empty": "This project description is empty."
     },
-    "members": "Members",
+    "members": "Th' crew",
     "permissions": "Permissions",
     "permission": {
       "upload_version": "Upload version",
@@ -193,7 +193,7 @@
       "edit_details": "Edit details",
       "edit_body": "Edit description",
       "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
+      "remove_member": "Make yer mateys walk th' plank",
       "edit_member": "Edit members",
       "delete_project": "Delete project"
     },
@@ -210,7 +210,7 @@
     "ownership": {
       "title": "Ownership",
       "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "action": "Appoint cap'n"
     }
   },
   "version": {
@@ -229,7 +229,7 @@
       "clear": "Clear filters",
       "hide": "Hide filters",
       "show": "Show filters",
-      "show_snapshots": "Show snapshots",
+      "show_snapshots": "Be showin' prototypes",
       "search_versions": "Search versions...",
       "licenses": "Licenses"
     },
@@ -273,7 +273,7 @@
   },
   "settings": {
     "username": {
-      "text": "Username",
+      "text": "Moniker",
       "placeholder": "Add a username..."
     },
     "bio": {
@@ -328,8 +328,8 @@
   "ads": {
     "privacy_respecting": "A privacy-respecting ad would have been shown here.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
+      "line1": "Ye be usin' an adblock'r.",
+      "line2": "Yer adblock'r prevent'd Modrinth from showin' an ad, arr only source o' treasure.",
       "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
       "line4": "https://github.com/modrinth/"
     }
@@ -339,7 +339,7 @@
       "generic": {
         "important": "This is extremely important.",
         "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "placeholder": "Type 'ere..."
       },
       "project": {
         "title": "Delete project",
@@ -390,7 +390,7 @@
       "project": {
         "title": "Create project",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "action": "Go forth",
         "fields": {
           "project_type": {
             "label": "Project type"
@@ -471,7 +471,7 @@
     "server": "Server",
     "client": "Client",
     "good": "Good",
-    "trash": "Trash",
+    "trash": "Scurvy",
     "misc": "Miscellaneous"
   }
 }
