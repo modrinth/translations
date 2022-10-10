@@ -118,7 +118,7 @@
       "save": "Save",
       "confirm": "Confirm",
       "remove": "Toss overboard",
-      "delete": "Delete",
+      "delete": "Keelhaul",
       "cancel": "Avast",
       "discard": "Discard changes"
     },
@@ -167,7 +167,7 @@
     "sidebar_headings": {
       "external_resources": "External resources",
       "featured_versions": "Featured versions",
-      "project_members": "Project members",
+      "project_members": "Project crew",
       "technical_information": "Technical information"
     },
     "gallery": {
@@ -194,7 +194,7 @@
       "edit_body": "Edit description",
       "manage_invites": "Manage invites",
       "remove_member": "Make yer mateys walk th' plank",
-      "edit_member": "Edit members",
+      "edit_member": "Edit crew",
       "delete_project": "Delete project"
     },
     "role": {
@@ -295,7 +295,7 @@
       "copyright": "Copyright",
       "inappropriate": "Inappropriate",
       "malicious": "Malicious",
-      "name-squatting": "Name-squatting",
+      "name-squatting": "Name-squattin'",
       "other": "Other"
     }
   },
@@ -330,7 +330,7 @@
     "console": {
       "line1": "Ye be usin' an adblock'r.",
       "line2": "Yer adblock'r prevent'd Modrinth from showin' an ad, arr only source o' treasure.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line3": "If ye still want t' help Modrinth without viewin' ads, ye can contribute t' Modrinth on GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -352,7 +352,7 @@
         "action": "Delete version"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "Are ye sure ye want t' do 'tis?",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
         "action": "Yes, irrecoverably delete my account"
       },
