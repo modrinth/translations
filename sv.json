@@ -131,7 +131,7 @@
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Köp Mig Kaffe",
+      "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub-sponsorer",
       "donate": "Donera",
       "kofi": "Ko-fi"
@@ -214,8 +214,8 @@
     }
   },
   "version": {
-    "featured": "Framhävda",
-    "autofeatured": "Automatiskt framhävt",
+    "featured": "Utvalda",
+    "autofeatured": "Automatiskt utvald",
     "feature_action": "Framhäv",
     "dependencies": "Beroenden",
     "metadata": "Metadata",
@@ -239,7 +239,7 @@
       "downloads": "Nedladdningsantal",
       "follows": "Följarantal",
       "newest": "Nyligen skapat",
-      "updated": "Nyligen uppdaterat"
+      "updated": "Nyligen uppdaterade"
     },
     "per_page": "Visa per sida"
   },
