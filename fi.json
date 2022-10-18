@@ -3,7 +3,7 @@
     "no_translation": "Sivun aiheen vuoksi virallinen versio sisällöstä on saatavilla ainoastaan englanniksi."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
+    "tagline": "Löydä, pelaa ja luo Minecraft-sisältöä",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
@@ -11,7 +11,7 @@
         "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
       },
       "coin": {
-        "title": "Creator earnings",
+        "title": "Tekijöiden tulot",
         "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
       },
       "speedometer": {
@@ -19,7 +19,7 @@
         "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
       },
       "chat": {
-        "title": "Helpful community",
+        "title": "Auttavainen yhteisö",
         "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
       },
       "puzzle": {
@@ -28,7 +28,7 @@
       },
       "tools": {
         "title": "Täysin avoin lähdekoodi",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "description": "Aktiivisen yhteisön ylläpitämä avoimen lähdekoodin projekti, johon osallistuminen on tervetullutta."
       }
     }
   },
@@ -67,7 +67,7 @@
   "error": {
     "status": "{status} Virhe",
     "message": {
-      "404": "Voi ei, vaikuttaisi siltä, että eksyit [labyrinttiin](https://github.com/modrinth/labrinth).<br />Emme voineet löytää sivua mitä etsit.",
+      "404": "Voi ei, vaikuttaisi siltä, että eksyit [labyrinttiin](https://github.com/modrinth/labrinth).<br />Emme voineet löytää sivua, jota etsit.",
       "project_missing": "Emme voineet löytää etsimääsi {type}:a.",
       "default": "Tapahtui tuntematon virhe."
     },
@@ -110,7 +110,7 @@
       "edit": "Muokkaa",
       "follow": "Seuraa",
       "unfollow": "Lopeta seuraaminen",
-      "feature": "Feature version",
+      "feature": "Esittele versiota",
       "report": "Ilmianna",
       "new_project": "Uusi projekti",
       "preview": "Esikatselu",
@@ -214,12 +214,12 @@
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
+    "featured": "Esittelyssä",
+    "autofeatured": "Automaattisesti esittelyssä",
     "feature_action": "Ominaisuus",
     "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
+    "metadata": "Metatiedot",
+    "release_channel": "Julkaisukanava",
     "number": "Versionumero",
     "publication_date": "Julkaisupäivä",
     "publisher": "Julkaisija"
@@ -292,7 +292,7 @@
     "plural": "Ilmoitukset",
     "type": {
       "spam": "Roskapostia",
-      "copyright": "Copyright",
+      "copyright": "Tekijänoikeudet",
       "inappropriate": "Sopimaton",
       "malicious": "Haitallinen",
       "name-squatting": "Name-squatting",
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Modauksen kuuluisi olla turvallista kaikille, joten suhtaudumme vakavasti väärinkäyttöön ja vihamielisiin pyrkimykseen. Haluamme kuulla sivustolla esiintyvästä haitallisesta sisällöstä, joka loukkaa [käyttöehtojamme](/legal/terms) ja [sääntöjämme](/legal/rules). Voitte olla varmoja, että pidämme yksilöivät tiedot yksityisinä.",
         "fields": {
           "reason": {
             "label": "Syy"
@@ -402,7 +402,7 @@
           "summary": {
             "label": "Yhteenveto",
             "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "placeholder": "Syötä lyhyt yhteenveto projektista..."
           }
         }
       },
@@ -437,7 +437,7 @@
           "moderation_message": {
             "label": "Moderation message",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Syötä lisätietoja..."
           }
         }
       }
