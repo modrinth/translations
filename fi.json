@@ -67,8 +67,8 @@
   "error": {
     "status": "{status} Virhe",
     "message": {
-      "404": "Voi ei, vaikuttaisi siltä, että eksyit [labyrinttiin](https://github.com/modrinth/labrinth).<br />Emme voinut löytää sivua mitä etsit.",
-      "project_missing": "Emme voinut löytää etsimääsi {type}:a.",
+      "404": "Voi ei, vaikuttaisi siltä, että eksyit [labyrinttiin](https://github.com/modrinth/labrinth).<br />Emme voineet löytää sivua mitä etsit.",
+      "project_missing": "Emme voineet löytää etsimääsi {type}:a.",
       "default": "Tapahtui tuntematon virhe."
     },
     "actions": {
@@ -78,7 +78,7 @@
   },
   "pages": {
     "description": "Kuvaus",
-    "gallery": "Kuvat",
+    "gallery": "Galleria",
     "changelog": "Muutosloki",
     "versions": "Versiot",
     "settings": "Asetukset",
@@ -328,8 +328,8 @@
   "ads": {
     "privacy_respecting": "Tässä olisi esitetty yksityisyyttä kunnioittava mainos.",
     "console": {
-      "line1": "Käytät mainoksen estäjää.",
-      "line2": "Mainosten estäjäsi esti Modrinthiä lataamasta mainoksia, mitkä ovat ainoa tulonlähteemme.",
+      "line1": "Käytät mainosten estäjää.",
+      "line2": "Mainosten estäjäsi esti Modrinthiä lataamasta mainoksia, jotka ovat ainoa tulonlähteemme.",
       "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
       "line4": "https://github.com/modrinth/"
     }
@@ -343,12 +343,12 @@
       },
       "project": {
         "title": "Poista projekti",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "Projektin poistaminen poistaa kaikki sen tiedot, mukaan lukien versiot.",
         "action": "Poista projekti"
       },
       "version": {
         "title": "Poista versio",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "Haluatko varmasti poistaa tämän version? Kaikki tiedostot ja metatiedot katoavat peruuttamattomasti.",
         "action": "Poista versio"
       },
       "account": {
@@ -357,7 +357,7 @@
         "action": "Kyllä, peruuttamattomasti poista tilini"
       },
       "image": {
-        "title": "Poista kuva",
+        "title": "Poista kuva galleriasta",
         "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
         "action": "Poista kuva"
       }
@@ -371,7 +371,7 @@
           },
           "information": {
             "label": "Lisätiedot",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
+            "helper": "Sisällytä linkkejä ja kuvia, jos mahdollista. Voit käyttää Markdown-muotoilua.",
             "placeholder": "Enter additional information..."
           }
         }
@@ -407,7 +407,7 @@
         }
       },
       "image": {
-        "title": "Lisää kuva",
+        "title": "Lisää kuva galleriaan",
         "action": "Lisää kuva",
         "fields": {
           "title": {
@@ -416,7 +416,7 @@
           },
           "description": {
             "label": "Kuvaus",
-            "placeholder": "Enter image description..."
+            "placeholder": "Syötä kuvan kuvaus..."
           }
         }
       }
@@ -449,7 +449,7 @@
     "magic": "Taika",
     "utility": "Utility",
     "decoration": "Koristus",
-    "library": "Library",
+    "library": "Kirjasto",
     "cursed": "Kirottu",
     "worldgen": "Maailmageneraatio",
     "storage": "Varasto",
