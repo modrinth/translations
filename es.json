@@ -174,7 +174,7 @@
       "upload": "Subir una imagen a la galería",
       "placeholder": {
         "title": "Introduce el título de la imagen...",
-        "description": "Introducir una descripción para la imagen..."
+        "description": "Introduce una descripción para la imagen..."
       }
     },
     "versions": {
@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Introducir la descripción del proyecto...",
+      "placeholder": "Introducir una descripción para proyecto...",
       "empty": "La descripción del proyecto está vacía."
     },
     "members": "Miembros",
