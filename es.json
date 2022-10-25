@@ -174,7 +174,7 @@
       "upload": "Subir una imagen a la galería",
       "placeholder": {
         "title": "Introduce el título de la imagen...",
-        "description": "Introducir la descripción de la imagen..."
+        "description": "Introducir una descripción para la imagen..."
       }
     },
     "versions": {
@@ -282,7 +282,7 @@
     },
     "email": {
       "text": "Email privado",
-      "helper": "Solo visible para los moderadores.",
+      "helper": "Visible solo para los moderadores.",
       "placeholder": "Agrega un correo electrónico..."
     },
     "avatar": "Subir avatar"
@@ -337,23 +337,23 @@
   "modal": {
     "deletion": {
       "generic": {
-        "important": "Esto es extremadamente importante.",
+        "important": "Esto es sumamente importante.",
         "verify": "Para verificar, escribe <i>{key}</i> a continuación:",
         "placeholder": "Escribe aquí..."
       },
       "project": {
         "title": "Eliminar proyecto",
-        "description": "Eliminar un proyecto elimina todos los datos del proyecto, incluidas las versiones.",
+        "description": "Eliminar un proyecto elimina todos los datos del proyecto, incluyendo las versiones.",
         "action": "Eliminar proyecto"
       },
       "version": {
         "title": "Eliminar versión",
-        "description": "¿Estás seguro de que quieres eliminar esta versión? Todos los archivos y metadata serán borrados para siempre.",
+        "description": "¿Estás seguro de que quieres eliminar esta versión? Todos los archivos y metadata no se podrán recuperar una vez eliminados.",
         "action": "Eliminar versión"
       },
       "account": {
         "title": "¿Está seguro que quieres hacer esto?",
-        "description": "Esto **inmediatamente eliminará todos tus proyectos** y seguidores. Este proceso es irreversible.\n\nSi necesitas ayuda con tu cuenta, la puedes conseguir en [Modrinth Discord](/discord).",
+        "description": "Esto **eliminará inmediatamente todos tus proyectos** y seguidores. Borrar tu cuenta no se puede revertir.\n\nSi necesitas ayuda con tu cuenta, obtén soporte en [Modrinth Discord](/discord).",
         "action": "Sí, quiero borrar mi cuenta permanentemente"
       },
       "image": {
@@ -364,15 +364,15 @@
     },
     "report": {
       "generic": {
-        "description": "El desarrollo de mods debería ser seguro para todos, así que nos tomamos el abuso y el contenido malicioso con seriedad aquí en Modrinth. Queremos saber sobre el contenido malicioso que viola nuestro [ToS](/legal/terms) y [Rules](/legal/rules). No te preocupes, mantendremos tu información de identificación en privado.",
+        "description": "Usar mods debería ser seguro para todos, así que en Modrinth nos tomamos el abuso y el contenido malicioso con seriedad. Haznos saber sobre el contenido malicioso que viola nuestro [ToS](/legal/terms) y [Rules](/legal/rules). Descuida, mantendremos tu información de identificación privada.",
         "fields": {
           "reason": {
-            "label": "Razón"
+            "label": "Motivo"
           },
           "information": {
             "label": "Información adicional",
             "helper": "Incluya enlaces e imágenes si es posible. El formato Markdown está soportado.",
-            "placeholder": "Introducir información adicional..."
+            "placeholder": "Introduce información adicional..."
           }
         }
       },
@@ -407,8 +407,8 @@
         }
       },
       "image": {
-        "title": "Agregar imagen de la galería",
-        "action": "Agregar imagen",
+        "title": "Añadir imagen de la galería",
+        "action": "Añadir imagen",
         "fields": {
           "title": {
             "label": "Título",
@@ -430,14 +430,14 @@
             "label": "Estado",
             "options": {
               "approve": "Aprobar",
-              "unlist": "Deslistar",
+              "unlist": "Quitar de la lista",
               "reject": "Rechazar"
             }
           },
           "moderation_message": {
             "label": "Mensaje de moderación",
             "helper": "Opcionalmente, incluya información para comunicar problemas con los miembros del equipo del proyecto. El formato Markdown es soportado.",
-            "placeholder": "Introducir información adicional..."
+            "placeholder": "Introduzca información adicional..."
           }
         }
       }
