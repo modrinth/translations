@@ -108,8 +108,8 @@
     "actions": {
       "create": "Create",
       "edit": "แก้ไข",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
+      "follow": "ติดตาม",
+      "unfollow": "เลิกติดตาม",
       "feature": "Feature version",
       "report": "แจ้งปัญหา",
       "new_project": "New project",
@@ -117,10 +117,10 @@
       "download": "ดาวน์โหลด",
       "save": "บันทึก",
       "confirm": "ยืนยัน",
-      "remove": "Remove",
+      "remove": "ปลดออก",
       "delete": "ลบ",
       "cancel": "ยกเลิก",
-      "discard": "Discard changes"
+      "discard": "ยกเลิกการเปลี่ยนแปลง"
     },
     "external": {
       "github_profile": "GitHub profile",
@@ -305,7 +305,7 @@
       "none": "You haven't followed any projects."
     },
     "delete": {
-      "title": "Delete account",
+      "title": "ลบบัญชี",
       "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
     },
     "auth": {
@@ -318,11 +318,11 @@
     "revoke_token": {
       "title": "Revoke your Modrinth token",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "action": "ออกจากระบบ"
     }
   },
   "images": {
-    "replace": "Replace image",
+    "replace": "เปลี่ยนรูป",
     "how_to": "Drag and drop to upload or click to select"
   },
   "ads": {
@@ -367,7 +367,7 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "เหตุผล"
           },
           "information": {
             "label": "Additional information",
@@ -396,7 +396,7 @@
             "label": "Project type"
           },
           "name": {
-            "label": "Name",
+            "label": "ชื่อโปรเจคท์",
             "placeholder": "Enter project name..."
           },
           "summary": {
@@ -415,7 +415,7 @@
             "placeholder": "Enter image title..."
           },
           "description": {
-            "label": "Description",
+            "label": "คำอธิบาย",
             "placeholder": "Enter image description..."
           }
         }
@@ -444,20 +444,20 @@
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
+    "technology": "เทคโนโลยี",
+    "adventure": "ผจญภัย",
     "magic": "Magic",
     "utility": "Utility",
-    "decoration": "Decoration",
+    "decoration": "ของตกแต่ง",
     "library": "Library",
     "cursed": "Cursed",
     "worldgen": "World generation",
     "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
+    "food": "อาหาร",
+    "equipment": "อุปกรณ์",
+    "miscellaneous": "เบ็ดเตล็ด",
     "challenging": "Challenging",
-    "combat": "Combat",
+    "combat": "ต่อสู้",
     "kitchen-sink": "Kitchen Sink",
     "lightweight": "Lightweight",
     "multiplayer": "Multiplayer",
