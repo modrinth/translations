@@ -35,7 +35,7 @@
   "header": {
     "my_profile": "Go to my profile",
     "logout": "ออกจากระบบ",
-    "github": "Sign in with GitHub"
+    "github": "เข้าระบบผ่าน GitHub"
   },
   "footer": {
     "description": "Modrinth is open source software.",
@@ -46,7 +46,7 @@
       "rules": "กฎ"
     },
     "resources": {
-      "heading": "Resources",
+      "heading": "แหล่งข้อมูล",
       "blog": "บล็อก",
       "docs": "คู่มือ"
     },
@@ -54,7 +54,7 @@
       "privacy": "Set privacy preferences",
       "theme": {
         "label": "เปลี่ยนธีม",
-        "system": "System theme",
+        "system": "ธีมตามระบบ",
         "light": "Light mode",
         "dark": "Dark Mode",
         "oled": "OLED mode"
