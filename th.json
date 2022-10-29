@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "ฉบับทางการของหน้านี้มีเฉพาะภาษาอังกฤษเท่านั้น"
+    "no_translation": "ด้วยเหตุผลทางกฎหมาย ฉบับทางการของหน้านี้มีเฉพาะภาษาอังกฤษเท่านั้น"
   },
   "index": {
     "tagline": "ค้นหา เล่นและสร้างม็อดมายคราฟ",
@@ -95,7 +95,7 @@
     "labels": {
       "license": {
         "singular": "License",
-        "plural": "Licenses"
+        "plural": "ใบอนุญาต"
       },
       "project_id": "Project ID",
       "project_status": "Project status",
@@ -103,10 +103,10 @@
       "mod_loaders": "Mod loaders",
       "categories": "หมวดหมู่",
       "downloads": "ยอดดาวน์โหลด",
-      "files": "Files"
+      "files": "ไฟล์"
     },
     "actions": {
-      "create": "Create",
+      "create": "สร้าง",
       "edit": "แก้ไข",
       "follow": "ติดตาม",
       "unfollow": "เลิกติดตาม",
@@ -139,23 +139,23 @@
     "environments": {
       "singular": "Environment",
       "plural": "Environments",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "server_side": "ฝั่งเสิรฟ์เวอร์",
+      "client_side": "ฝั่งผู้เล่น",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "จำเป็นต้องใช้",
+        "unsupported": "ไม่สนับสนุน",
+        "optional": "ไม่บังคับ",
+        "unknown": "ไม่ทราบ"
       }
     },
     "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "byline": "โดย <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
+        "singular": "ม็อด",
+        "plural": "ม็อด",
         "search": "Search mods..."
       },
       "modpack": {
@@ -167,7 +167,7 @@
     "sidebar_headings": {
       "external_resources": "External resources",
       "featured_versions": "Featured versions",
-      "project_members": "Project members",
+      "project_members": "สนาชิกโปรเจค",
       "technical_information": "Technical information"
     },
     "gallery": {
@@ -185,23 +185,23 @@
       "placeholder": "Enter project body...",
       "empty": "This project description is empty."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "สมาชิกทั้งหมด",
+    "permissions": "สิทธิ์",
     "permission": {
       "upload_version": "Upload version",
-      "delete_version": "Delete version",
+      "delete_version": "ลบเวอร์ชัน",
       "edit_details": "Edit details",
       "edit_body": "Edit description",
       "manage_invites": "Manage invites",
       "remove_member": "Remove members",
       "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "delete_project": "ลบโปรเจกต์"
     },
     "role": {
-      "text": "Role",
+      "text": "หน้าที่",
       "placeholder": "Enter roles..."
     },
-    "advanced": "Advanced",
+    "advanced": "ตั้งค่าขั้นสูง",
     "visibility": {
       "title": "Visibility",
       "description": "This project is currently {status}.",
@@ -210,19 +210,19 @@
     "ownership": {
       "title": "Ownership",
       "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "action": "โอนความเป็นเจ้าของ"
     }
   },
   "version": {
-    "featured": "Featured",
+    "featured": "แนะนำ",
     "autofeatured": "Auto-featured",
     "feature_action": "Feature",
     "dependencies": "Dependencies",
     "metadata": "Metadata",
     "release_channel": "Release channel",
     "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "publication_date": "วันที่เผยแพร่",
+    "publisher": "ผู้สร้าง"
   },
   "search": {
     "filters": {
@@ -231,20 +231,20 @@
       "show": "Show filters",
       "show_snapshots": "Show snapshots",
       "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "licenses": "ใบอนุญาต"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
+      "by": "จัดลำดับโดย",
+      "relevance": "ความเกี่ยวข้อง",
+      "downloads": "ยอดดาวน์โหลด",
       "follows": "Follower count",
       "newest": "Recently created",
-      "updated": "Recently updated"
+      "updated": "อัพเดตเร็วๆนี้"
     },
     "per_page": "Show per page"
   },
   "status": {
-    "approved": "Approved",
+    "approved": "อนุมัติแล้ว",
     "rejected": "Rejected",
     "draft": "Draft",
     "unlisted": "Unlisted",
@@ -257,9 +257,9 @@
     "alpha": "Alpha"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "ผู้พัฒนา",
+    "admin": "แอดมิน",
+    "moderator": "ผู้ดูแล"
   },
   "stats": {
     "joined": "Joined {ago}",
@@ -277,8 +277,8 @@
       "placeholder": "Add a username..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "ประวัติ",
+      "placeholder": "เพิ่มประวัติ"
     },
     "email": {
       "text": "Private email",
@@ -288,15 +288,15 @@
     "avatar": "Upload avatar"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "แจ้งปัญหา",
+    "plural": "รายงาน",
     "type": {
-      "spam": "Spam",
-      "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
-      "name-squatting": "Name-squatting",
-      "other": "Other"
+      "spam": "สแปม",
+      "copyright": "ลิขสิทธิ์",
+      "inappropriate": "ไม่เหมาะสม",
+      "malicious": "อันตราย",
+      "name-squatting": "แย่งชื่อคนอื่น",
+      "other": "อื่นๆ"
     }
   },
   "user": {
@@ -342,17 +342,17 @@
         "placeholder": "Type here..."
       },
       "project": {
-        "title": "Delete project",
+        "title": "ลบโปรเจกต์",
         "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "action": "ลบโปรเจกต์"
       },
       "version": {
-        "title": "Delete version",
+        "title": "ลบเวอร์ชัน",
         "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "action": "ลบเวอร์ชัน"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
+        "title": "คุณต้องการทำแบบนี้ใช่หรือไม่",
         "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
         "action": "Yes, irrecoverably delete my account"
       },
@@ -388,19 +388,19 @@
     },
     "creation": {
       "project": {
-        "title": "Create project",
+        "title": "สร้างโครงงาน",
         "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "action": "ดำเนินการต่อ",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "ประเภทโปรเจกต์"
           },
           "name": {
             "label": "ชื่อโปรเจคท์",
             "placeholder": "Enter project name..."
           },
           "summary": {
-            "label": "Summary",
+            "label": "สรุป",
             "helper": "This appears in search and on the sidebar of your project's page.",
             "placeholder": "Enter short summary of project..."
           }
@@ -446,11 +446,11 @@
   "tags": {
     "technology": "เทคโนโลยี",
     "adventure": "ผจญภัย",
-    "magic": "Magic",
+    "magic": "เวทมนตร์",
     "utility": "Utility",
     "decoration": "ของตกแต่ง",
-    "library": "Library",
-    "cursed": "Cursed",
+    "library": "ไลบรารี",
+    "cursed": "มีเพื่อ?",
     "worldgen": "World generation",
     "storage": "Storage",
     "food": "อาหาร",
@@ -458,8 +458,8 @@
     "miscellaneous": "เบ็ดเตล็ด",
     "challenging": "Challenging",
     "combat": "ต่อสู้",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
+    "kitchen-sink": "ไม่เข้าพวก",
+    "lightweight": "เบาเครื่อง",
     "multiplayer": "Multiplayer",
     "quests": "Quests",
     "optimization": "Optimization",
