@@ -15,7 +15,7 @@
         "description": "İçerik üreticilerine, kendi proje sayfalarından %100 reklam geliri verilmesi planlanıyor. *Ödemeler, şu an geliştirme aşamasında."
       },
       "speedometer": {
-        "title": "Şimşek hızında arama",
+        "title": "Işık hızında arama",
         "description": "Hızlı ve uyumlu arama algoritmaları ile güçlendirildi ki beklemek zorunda kalmayın."
       },
       "chat": {
@@ -23,7 +23,7 @@
         "description": "1500'ü aşkın kullanıcılarımızla Discord sunucumuzda destek alın, geliştirin ve takılın."
       },
       "puzzle": {
-        "title": "Tasarımla genişletilebilir",
+        "title": "Genişletilebilir olarak tasarlandı",
         "description": "Yapım araçları, depolar, başlatıcılar ve özel uygulamalar ile entegreli."
       },
       "tools": {
@@ -41,7 +41,7 @@
     "description": "Modrinth açık kaynaklı bir yazılımdır.",
     "legal": {
       "heading": "Yasal",
-      "terms": "Şartlar",
+      "terms": "Koşullar",
       "privacy": "Gizlilik",
       "rules": "Kurallar"
     },
@@ -51,7 +51,7 @@
       "docs": "Dokümantasyon"
     },
     "buttons": {
-      "privacy": "Gizlilik tercihleri ayarla",
+      "privacy": "Gizlilik tercihlerini ayarla",
       "theme": {
         "label": "Tema değiştir",
         "system": "Sistem teması",
