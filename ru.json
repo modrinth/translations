@@ -137,8 +137,8 @@
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Окружение",
-      "plural": "Окружения",
+      "singular": "Среда",
+      "plural": "Среда",
       "server_side": "Сервер",
       "client_side": "Клиент",
       "values": {
