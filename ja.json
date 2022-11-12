@@ -84,12 +84,12 @@
     "settings": "設定",
     "moderation": "管理",
     "notifications": "通知",
-    "about": "約",
+    "about": "概要",
     "following": "フォロー中",
-    "terms": "規約と条件",
+    "terms": "利用規約",
     "privacy": "プライバシーポリシー",
     "rules": "プロジェクトのルール",
-    "all": "全て"
+    "all": "すべて"
   },
   "generic": {
     "labels": {
@@ -100,19 +100,19 @@
       "project_id": "プロジェクトID",
       "project_status": "プロジェクトの状態",
       "minecraft_versions": "Minecraft のバージョン",
-      "mod_loaders": "Mod のローダー",
-      "categories": "カテゴリ",
+      "mod_loaders": "Mod Loader",
+      "categories": "カテゴリー",
       "downloads": "ダウンロード",
       "files": "ファイル"
     },
     "actions": {
-      "create": "作成",
+      "create": "新規作成",
       "edit": "編集",
       "follow": "フォロー",
       "unfollow": "フォロー解除",
       "feature": "注目のバージョン",
       "report": "報告",
-      "new_project": "新しいプロジェクト",
+      "new_project": "新規プロジェクト",
       "preview": "プレビュー",
       "download": "ダウンロード",
       "save": "保存",
@@ -155,13 +155,13 @@
     "types": {
       "mod": {
         "singular": "Mod",
-        "plural": "Mods",
+        "plural": "Mod",
         "search": "Modを検索..."
       },
       "modpack": {
         "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Modpackを検索..."
+        "plural": "Modパック",
+        "search": "Modパックを検索..."
       }
     },
     "sidebar_headings": {
@@ -447,9 +447,9 @@
     "technology": "技術",
     "adventure": "冒険",
     "magic": "魔法",
-    "utility": "実用的",
+    "utility": "ユーティリティ",
     "decoration": "装飾",
-    "library": "ライブラリ",
+    "library": "前提Mod",
     "cursed": "奇妙",
     "worldgen": "ワールド生成",
     "storage": "ストレージ",
@@ -458,7 +458,7 @@
     "miscellaneous": "その他",
     "challenging": "挑戦",
     "combat": "戦闘",
-    "kitchen-sink": "台所の流し台",
+    "kitchen-sink": "キッチンシンク",
     "lightweight": "軽量",
     "multiplayer": "マルチプレイヤー",
     "quests": "クエスト",
@@ -471,7 +471,7 @@
     "server": "サーバー",
     "client": "クライアント",
     "good": "良い",
-    "trash": "ごみ",
+    "trash": "ゴミ",
     "misc": "その他"
   }
 }
