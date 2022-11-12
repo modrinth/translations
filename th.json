@@ -79,10 +79,10 @@
   "pages": {
     "description": "คำอธิบาย",
     "gallery": "แกลเลอรี่",
-    "changelog": "Changelog",
+    "changelog": "บันทึกการเปลี่ยนแปลง",
     "versions": "รุ่น",
     "settings": "การตั้งค่า",
-    "moderation": "Moderation",
+    "moderation": "การคัดกรอง",
     "notifications": "การแจ้งเตือน",
     "about": "เกี่ยวกับ",
     "following": "ผู้ติดตาม",
@@ -94,7 +94,7 @@
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
+        "singular": "ใบอนุญาต",
         "plural": "ใบอนุญาต"
       },
       "project_id": "Project ID",
@@ -133,7 +133,7 @@
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "donate": "บริจาค/สนับสนุน",
       "kofi": "Ko-fi"
     },
     "environments": {
@@ -359,7 +359,7 @@
       "image": {
         "title": "Delete gallery image",
         "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "action": "ลบรูป"
       }
     },
     "report": {
@@ -370,7 +370,7 @@
             "label": "เหตุผล"
           },
           "information": {
-            "label": "Additional information",
+            "label": "ข้อมูลเพิ่มเติม",
             "helper": "Include links and images if possible. Markdown formatting is supported.",
             "placeholder": "Enter additional information..."
           }
@@ -383,7 +383,7 @@
         "action": "Report version"
       },
       "user": {
-        "action": "Report user"
+        "action": "แจ้งพบผู้ใช้ที่ไม่เหมาะสม"
       }
     },
     "creation": {
