@@ -3,8 +3,8 @@
     "no_translation": "Door de aard van deze pagina is de enige officiële versie van deze inhoud in het Engels."
   },
   "index": {
-    "tagline": "Vind, speel en creëer Minecraft content",
-    "description": "Vind leuke en hoogwaardige content via ons open-source modding platform gebouwd voor de community. Maak iets, krijg betaald*, en implementeer je project met onze volledig gedocumenteerde API!",
+    "tagline": "Ontdek, speel en creëer Minecraft content",
+    "description": "Vind leuke en hoogwaardige content via ons open-source modding platform gebouwd voor de community. Maak dingen, word betaald*, en voer je project uit met onze volledig gedocumenteerde API!",
     "features": {
       "book": {
         "title": "Eenvoudig te gebruiken API",
@@ -23,7 +23,7 @@
         "description": "Krijg ondersteuning, ontwikkel, en hang rond op onze Discord server met meer dan 1,500 leden."
       },
       "puzzle": {
-        "title": "Uitbreidbaar per ontwerp",
+        "title": "Ontworpen om uit te bereiden",
         "description": "Integreert met build-tools, repositories, launchers en maatwerk applicaties."
       },
       "tools": {
@@ -77,7 +77,7 @@
     }
   },
   "pages": {
-    "description": "Omschrijving",
+    "description": "Beschrijving",
     "gallery": "Galerij",
     "changelog": "Wijzigingsoverzicht",
     "versions": "Versies",
