@@ -35,7 +35,7 @@
   "header": {
     "my_profile": "Ga naar mijn profiel",
     "logout": "Uitloggen",
-    "github": "Inloggen met GitHub"
+    "github": "Log in met GitHub"
   },
   "footer": {
     "description": "Modrinth is open source software.",
@@ -89,7 +89,7 @@
     "terms": "Algemene voorwaarden",
     "privacy": "Privacybeleid",
     "rules": "Project regels",
-    "all": "Alles"
+    "all": "Alle"
   },
   "generic": {
     "labels": {
@@ -118,7 +118,7 @@
       "save": "Opslaan",
       "confirm": "Bevestigen",
       "remove": "Verwijder",
-      "delete": "Verwijder",
+      "delete": "Verwijderen",
       "cancel": "Annuleren",
       "discard": "Wijzigingen negeren"
     },
