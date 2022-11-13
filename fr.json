@@ -159,9 +159,9 @@
         "search": "Rechercher un mod..."
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Rechercher un modpack..."
+        "singular": "Pack de mods",
+        "plural": "Packs de mods",
+        "search": "Rechercher un pack de mods..."
       }
     },
     "sidebar_headings": {

@@ -7,7 +7,7 @@
     "description": "コミュニティのために構築されたオープンソースのModdingプラットフォームで、楽しくて質の高いコンテンツを見つけましょう。完全に文書化されたAPIを使用して、ものを作成し、報酬*を受け取り、プロジェクトを展開しましょう！",
     "features": {
       "book": {
-        "title": "使いやすいAPI",
+        "title": "簡易API",
         "description": "完全に文書化されたAPIにより、サードパーティの統合やランチャーの成長を促進します。"
       },
       "coin": {
@@ -84,12 +84,12 @@
     "settings": "設定",
     "moderation": "管理",
     "notifications": "通知",
-    "about": "約",
+    "about": "概要",
     "following": "フォロー中",
-    "terms": "規約と条件",
+    "terms": "利用規約",
     "privacy": "プライバシーポリシー",
     "rules": "プロジェクトのルール",
-    "all": "全て"
+    "all": "すべて"
   },
   "generic": {
     "labels": {
@@ -100,19 +100,19 @@
       "project_id": "プロジェクトID",
       "project_status": "プロジェクトの状態",
       "minecraft_versions": "Minecraft のバージョン",
-      "mod_loaders": "Mod のローダー",
-      "categories": "カテゴリ",
+      "mod_loaders": "Mod Loader",
+      "categories": "カテゴリー",
       "downloads": "ダウンロード",
       "files": "ファイル"
     },
     "actions": {
-      "create": "作成",
+      "create": "新規作成",
       "edit": "編集",
       "follow": "フォロー",
       "unfollow": "フォロー解除",
       "feature": "注目のバージョン",
       "report": "報告",
-      "new_project": "新しいプロジェクト",
+      "new_project": "新規プロジェクト",
       "preview": "プレビュー",
       "download": "ダウンロード",
       "save": "保存",
@@ -155,13 +155,13 @@
     "types": {
       "mod": {
         "singular": "Mod",
-        "plural": "Mods",
+        "plural": "Mod",
         "search": "Modを検索..."
       },
       "modpack": {
         "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Modpackを検索..."
+        "plural": "Modパック",
+        "search": "Modパックを検索..."
       }
     },
     "sidebar_headings": {
@@ -317,7 +317,7 @@
     },
     "revoke_token": {
       "title": "Modrinthトークンを破棄",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Modrinthトークンを破棄すると、意図しない結果が生じる可能性があります。以下が破損する可能性がありますのでご注意ください:\n - トークンを使用してAPIにアクセスするアプリケーション。\n - Gradle - Minotaurに不正なトークンが与えられた場合、Gradleビルドが失敗する可能性があります。\n - GitHub - Modrinth APIを利用するGitHubアクションを使用すると、エラーが発生します。\n\n続行する場合は、次の手順を実行してください:\n\n 1. [GitHubのModrinthアプリケーションページ](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)へ移動してください。 Modrinthに使用したGitHubのアカウントに必ずログインしてください！\n 2. 「Permissions」ヘッダーの横にある大きな赤い「Revoke Access」ボタンを押します。\n\nこれらの手順を完了したら、下の続行ボタンを押してください。\n\n**これにより、Modrinthからログアウトされますが、再度ログインすると、トークンが再生成されます。**",
       "action": "ログアウト"
     }
   },
@@ -447,9 +447,9 @@
     "technology": "技術",
     "adventure": "冒険",
     "magic": "魔法",
-    "utility": "実用的",
+    "utility": "ユーティリティ",
     "decoration": "装飾",
-    "library": "ライブラリ",
+    "library": "前提Mod",
     "cursed": "奇妙",
     "worldgen": "ワールド生成",
     "storage": "ストレージ",
@@ -458,7 +458,7 @@
     "miscellaneous": "その他",
     "challenging": "挑戦",
     "combat": "戦闘",
-    "kitchen-sink": "台所の流し台",
+    "kitchen-sink": "キッチンシンク",
     "lightweight": "軽量",
     "multiplayer": "マルチプレイヤー",
     "quests": "クエスト",
@@ -471,7 +471,7 @@
     "server": "サーバー",
     "client": "クライアント",
     "good": "良い",
-    "trash": "ごみ",
+    "trash": "ゴミ",
     "misc": "その他"
   }
 }

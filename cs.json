@@ -20,15 +20,15 @@
       },
       "chat": {
         "title": "Nápomocná komunita",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "description": "Získejte podporu, vývoj a zavěšení na našem Discord serveru s více než 1500 členy."
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "Rozšiřitelné díky designu",
+        "description": "Integruje se stavebními nástroji, repositáři, spouštěči a uživatelskými aplikacemi."
       },
       "tools": {
         "title": "Zcela open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "description": "Otevřený zdrojový projekt udržovaný aktivní komunitou, která vítá příspěvky."
       }
     }
   },
@@ -40,8 +40,8 @@
   "footer": {
     "description": "Modrinth je open source software.",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
+      "heading": "Právní",
+      "terms": "Podmínky",
       "privacy": "Ochrana soukromí",
       "rules": "Pravidla"
     },
@@ -67,7 +67,7 @@
   "error": {
     "status": "Chyba {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
+      "404": "Ale ne, vypadá to, že jste ztratili v [Labyrinth](https://github.com/modrinth/labrinth).<br />Stránka, kterou hledáte, nebyla nalezena.",
       "project_missing": "Hledaný {type} nebyl nalezen.",
       "default": "Došlo k neočekávané chybě."
     },
@@ -85,8 +85,8 @@
     "moderation": "Moderace",
     "notifications": "Oznámení",
     "about": "O nás",
-    "following": "Following",
-    "terms": "Terms and conditions",
+    "following": "Sledování",
+    "terms": "Pravidla a podmínky",
     "privacy": "Zásady ochrany osobních údajů",
     "rules": "Pravidla projektu",
     "all": "Vše"
@@ -100,7 +100,7 @@
       "project_id": "ID projektu",
       "project_status": "Stav projektu",
       "minecraft_versions": "Minecraft verze",
-      "mod_loaders": "Mod loaders",
+      "mod_loaders": "Nakladače Doplňků",
       "categories": "Kategorie",
       "downloads": "Stažení",
       "files": "Soubory"
@@ -110,7 +110,7 @@
       "edit": "Upravit",
       "follow": "Sledovat",
       "unfollow": "Přestat sledovat",
-      "feature": "Feature version",
+      "feature": "Hlavní verze",
       "report": "Nahlásit",
       "new_project": "Nový projekt",
       "preview": "Náhled",
@@ -126,7 +126,7 @@
       "github_profile": "GitHub profil",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Issues",
+      "issues": "Problém",
       "source": "Zdrojový kód",
       "wiki": "Wiki",
       "patreon": "Patreon",
@@ -148,25 +148,25 @@
         "unknown": "Neznámé"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "Jste aktualizován!",
     "byline": "od <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "singular": "Modifikace",
+        "plural": "Modifikace",
+        "search": "Vyhledat mody..."
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "Balíček Modifikací",
+        "plural": "Balíčky Modifikací",
+        "search": "Hledat Balíčky Modifikací..."
       }
     },
     "sidebar_headings": {
       "external_resources": "Externí zdroje",
-      "featured_versions": "Featured versions",
+      "featured_versions": "Doporučené verze",
       "project_members": "Členové projektu",
       "technical_information": "Technické informace"
     },
@@ -199,12 +199,12 @@
     },
     "role": {
       "text": "Role",
-      "placeholder": "Enter roles..."
+      "placeholder": "Přidejte role..."
     },
     "advanced": "Rozšířené",
     "visibility": {
       "title": "Viditelnost",
-      "description": "This project is currently {status}.",
+      "description": "Tento projekt je v současné době {status}.",
       "action": "Změnit viditelnost"
     },
     "ownership": {
@@ -214,12 +214,12 @@
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
+    "featured": "Doporučené",
+    "autofeatured": "Automatické doporučené",
+    "feature_action": "Vlastnost",
     "dependencies": "Závislosti",
     "metadata": "Metadata",
-    "release_channel": "Release channel",
+    "release_channel": "Kanál vydání",
     "number": "Číslo verze",
     "publication_date": "Datum zveřejnění",
     "publisher": "Vydavatel"
@@ -230,14 +230,14 @@
       "hide": "Skrýt filtry",
       "show": "Zobrazit filtry",
       "show_snapshots": "Zobraz vývojové verze",
-      "search_versions": "Search versions...",
+      "search_versions": "Hledat verze...",
       "licenses": "Licence"
     },
     "sort": {
       "by": "Seřadit podle",
       "relevance": "Relevance",
       "downloads": "Počet stažení",
-      "follows": "Follower count",
+      "follows": "Počet sledovaných",
       "newest": "Nedávno vytvořené",
       "updated": "Nedávno aktualizované"
     },
@@ -247,8 +247,8 @@
     "approved": "Schváleno",
     "rejected": "Zamítnuto",
     "draft": "Koncept",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
+    "unlisted": "Neveřejná",
+    "processing": "Probíhá kontrola",
     "unknown": "Neznámé"
   },
   "release_channels": {
@@ -265,7 +265,7 @@
     "joined": "Připojil se {ago}",
     "notified": "Oznámeno {ago}",
     "downloads": "{downloads, plural, other {<b>#</b> stažení}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> sledující projektů} few {<b>#</b> následovníci projektů} many {<b>#</b> následovníci projektů} other {<b>#</b> následovníci projektů}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
     "user_id": "ID uživatele: {id}",
     "created": "Vytvořeno {ago}",
@@ -277,8 +277,8 @@
       "placeholder": "Přidat uživatelské jméno..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Popis",
+      "placeholder": "Přidejte popis..."
     },
     "email": {
       "text": "Soukromý e-mail",
@@ -310,14 +310,14 @@
     },
     "auth": {
       "title": "Autorizační token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
+      "body": "Váš autorizační token může být použit s Modrinth API, pluginem Minotaur Gradle a dalšími aplikacemi, které komunikují s Modrinth's API. Ujistěte se, že chceš toto tajemství!",
       "copy": "Zkopírovat token do schránky",
       "copied": "Token zkopírován do schránky",
       "revoke": "Odvolat token"
     },
     "revoke_token": {
       "title": "Odvolat svůj Modrinth token",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "Zrušení vašeho Modrinthova žetonu může mít nezamýšlené důsledky. Mějte prosím na paměti, že následující se mohou rozbítit:\n - Jakákoliv aplikace, která používá váš token pro přístup k API.\n - Gradle - pokud je Minotaur zadán nesprávný token, sestavení radle může selhat.\n - GitHub - pokud používáte GitHub akci, která používá Modrinth API, způsobí to chyby.\n\nPokud jste ochotni pokračovat, vyplňte následující kroky:\n\n 1. Navštivte [stránku Modrinth Application on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Ujistěte se, že jste přihlášeni k GitHub účtu, který jste použili pro Modrinth!\n 2. Stiskněte velké červené tlačítko \"Zrušit přístup\" vedle hlavičky \"Oprávnění\".\n\nPo dokončení těchto kroků stiskněte tlačítko \"Odhlásit\" níže.\n\n**Odhlásí se z Modrinthu, ale jakmile se přihlásíte, váš token bude obnoven.**",
       "action": "Odhlásit se"
     }
   },
@@ -339,7 +339,7 @@
       "generic": {
         "important": "Toto je nesmírně důležité.",
         "verify": "Pro ověření zadejte <i>{key}</i> níže:",
-        "placeholder": "Type here..."
+        "placeholder": "Pište sem..."
       },
       "project": {
         "title": "Smazat projekt",
@@ -353,7 +353,7 @@
       },
       "account": {
         "title": "Opravdu to chcete udělat?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "description": "Toto **okamžitě smaže všechny tvé projekty** a následuje. Smazání tvého účtu. Toto nelze vrátit zpět.\n\nPokud potřebujete pomoc s účtem, získejte pomoc na [Modrinth Discord](/discord).",
         "action": "Ano, nevratně smazat můj účet"
       },
       "image": {
@@ -427,10 +427,10 @@
         "action": "Potvrdit",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Stav",
             "options": {
               "approve": "Schválit",
-              "unlist": "Unlist",
+              "unlist": "Neveřejná",
               "reject": "Zamítnout"
             }
           },
@@ -458,9 +458,9 @@
     "miscellaneous": "Různé",
     "challenging": "Výzva",
     "combat": "Boj",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
+    "kitchen-sink": "Náhodné",
+    "lightweight": "Lehká",
+    "multiplayer": "Hra pro více hráčů",
     "quests": "Úkoly",
     "optimization": "Optimalizace",
     "fabric": "Fabric",

@@ -227,18 +227,18 @@
   "search": {
     "filters": {
       "clear": "Esborra els filtres",
-      "hide": "Hide filters",
-      "show": "Show filters",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "hide": "Amaga els filtres",
+      "show": "Mostra/amaga Els filtres",
+      "show_snapshots": "Mostra instantànies",
+      "search_versions": "Cerca versions...",
+      "licenses": "Llicències"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
+      "by": "Ordenar per",
+      "relevance": "Pertinença",
+      "downloads": "Recompte de descàrregues",
+      "follows": "Recompte de seguidors",
+      "newest": "Creat recentment",
       "updated": "Recently updated"
     },
     "per_page": "Show per page"

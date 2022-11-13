@@ -3,7 +3,7 @@
     "no_translation": "På grund av denna sidas syfte är det enda officiella innehållet på Engelska."
   },
   "index": {
-    "tagline": "Upptäcka, spela och skapa Minecraft-innehåll",
+    "tagline": "Upptäck, spela och skapa Minecraft-innehåll",
     "description": "Hitta roligt och kvalitativt innehåll genom vår modding-plattform med öppen källkod, byggt för gemenskapen. Skapa saker, få betalt* och sprid ditt projekt med vårt helt dokumenterade API!",
     "features": {
       "book": {
@@ -131,7 +131,7 @@
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Köp Mig Kaffe",
+      "buy_me_a_coffee": "Buy Me a Coffee",
       "github_sponsors": "GitHub-sponsorer",
       "donate": "Donera",
       "kofi": "Ko-fi"
@@ -214,8 +214,8 @@
     }
   },
   "version": {
-    "featured": "Framhävda",
-    "autofeatured": "Automatiskt framhävt",
+    "featured": "Utvalda",
+    "autofeatured": "Automatiskt utvald",
     "feature_action": "Framhäv",
     "dependencies": "Beroenden",
     "metadata": "Metadata",
@@ -239,7 +239,7 @@
       "downloads": "Nedladdningsantal",
       "follows": "Följarantal",
       "newest": "Nyligen skapat",
-      "updated": "Nyligen uppdaterat"
+      "updated": "Nyligen uppdaterade"
     },
     "per_page": "Visa per sida"
   },
@@ -294,7 +294,7 @@
       "spam": "Spam",
       "copyright": "Upphovsrätt",
       "inappropriate": "Olämpligt",
-      "malicious": "Uppsåtligt",
+      "malicious": "Skadlig",
       "name-squatting": "Namn-ockupation",
       "other": "Annat"
     }
@@ -338,12 +338,12 @@
     "deletion": {
       "generic": {
         "important": "Detta är mycket viktigt.",
-        "verify": "För att bekräfta, skriv <i>{key}</i> nedan:",
+        "verify": "För att verifiera, skriv <i>{key}</i> nedan:",
         "placeholder": "Skriv här..."
       },
       "project": {
         "title": "Radera projekt",
-        "description": "Raderandet av ett projekt raderar all projectdata, inklusive versioner.",
+        "description": "Att radera ett projekt raderar all projektdata, inklusive versioner.",
         "action": "Radera projekt"
       },
       "version": {
@@ -352,7 +352,7 @@
         "action": "Radera version"
       },
       "account": {
-        "title": "Är du säker att du vill göra detta?",
+        "title": "Är du säker på att du vill göra detta?",
         "description": "Detta kommer **omedelbart ta bort alla dina projekt** och följningar. Att ta bort ditt konto är permanent och ditt konto kan inte återställas.\n\nOm du behöver hjälp med ditt konto, få support i [Modrinths Discord](/discord).",
         "action": "Ja, ta bort mitt konto permanent"
       },
@@ -364,15 +364,15 @@
     },
     "report": {
       "generic": {
-        "description": "Modding bör vara säkert för alla, så vi tar missbruk och skadligt beteende på allvar. Därför vill vi höra om skadligt innehåll som bryter mot våra [ToS](/legal/terms) och [Rules](/legal/regler). Du kan lita på att vi kommer hålla din personliga information privat.",
+        "description": "Modding bör vara säkert för alla, så vi tar missbruk och skadligt beteende på allvar. Därför vill vi höra om skadligt innehåll som bryter mot våra [ToS](/legal/terms) och [Rules](/legal/rules). Du kan lita på att vi kommer hålla din personliga information privat.",
         "fields": {
           "reason": {
-            "label": "Orsak"
+            "label": "Anledning"
           },
           "information": {
             "label": "Övrig information",
             "helper": "Inkludera länkar och bilder om möjligt. Markdown-formattering stöds.",
-            "placeholder": "Ange extra information..."
+            "placeholder": "Ange ytterligare information..."
           }
         }
       },
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Sammanfattning",
-            "helper": "Detta visas i sökning och i sidofältet på ditt projekts sida.",
+            "helper": "Detta visas i sökfunktionen och i sidofältet på ditt projekts sida.",
             "placeholder": "Ange en kort sammanfattning av projektet..."
           }
         }
@@ -431,7 +431,7 @@
             "options": {
               "approve": "Godkänn",
               "unlist": "Avlista",
-              "reject": "Avslå"
+              "reject": "Neka"
             }
           },
           "moderation_message": {
