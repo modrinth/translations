@@ -309,14 +309,14 @@
       "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
-      "revoke": "Revoke token"
+      "title": "Tunnistautumisen avain",
+      "body": "Tunnistautumisen avaintasi voi käyttää Modrinthin API:n, Minotaur Gradle lisäosan ja muiden Modrinthin API:a käyttävien sovellusten kanssa. Pidä tämä salaisena!",
+      "copy": "Kopioi avain leikepöydälle",
+      "copied": "Kopioitu avain leikepöydälle",
+      "revoke": "Kumoa avain"
     },
     "revoke_token": {
-      "title": "Revoke your Modrinth token",
+      "title": "Kumoa Modrinth avaimesi",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "Kirjaudu ulos"
     }
@@ -435,8 +435,8 @@
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "label": "Moderointiviesti",
+            "helper": "Vaihtoehtoisesti sisällytä tietoa kommunikoidaksesi ongelmia projektin tiimin jäsenten kanssa. Markdown -muotoilua on tuettu.",
             "placeholder": "Syötä lisätietoja..."
           }
         }
@@ -447,7 +447,7 @@
     "technology": "Teknologia",
     "adventure": "Seikkailu",
     "magic": "Taika",
-    "utility": "Utility",
+    "utility": "Hyödyke",
     "decoration": "Koristus",
     "library": "Kirjasto",
     "cursed": "Kirottu",
@@ -469,7 +469,7 @@
     "modloader": "ModLoader",
     "rift": "Rift",
     "server": "Palvelin",
-    "client": "Client",
+    "client": "Asiakasohjelma",
     "good": "Hyvä",
     "trash": "Roskaa",
     "misc": "Sekalaiset"
