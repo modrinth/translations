@@ -67,7 +67,7 @@
   "error": {
     "status": "Erro {status}",
     "message": {
-      "404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não foi encontrada.[Labyrinth].",
+      "404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não pode ser encontrada.",
       "project_missing": "O {type} que você estava procurando não foi encontrado.",
       "default": "Um erro inesperado aconteceu."
     },
