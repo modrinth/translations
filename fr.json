@@ -1,6 +1,6 @@
 {
   "locale": {
-    "no_translation": "En raison de la nature de cette page, la seule version officielle de ce contenu est en anglais."
+    "no_translation": "En raison de la nature de cette page, seule la version anglaise de ce contenu est officielle."
   },
   "index": {
     "tagline": "Découvrez, jouez, et créez du contenu Minecraft",
@@ -201,7 +201,7 @@
       "text": "Rôle",
       "placeholder": "Saisir les rôles..."
     },
-    "advanced": "Avancé",
+    "advanced": "Paramètres avancés",
     "visibility": {
       "title": "Visibilité",
       "description": "Ce projet est actuellement {status}.",
