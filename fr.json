@@ -3,7 +3,7 @@
     "no_translation": "En raison de la nature de cette page, seule la version anglaise de ce contenu est officielle."
   },
   "index": {
-    "tagline": "Découvrez, jouez, et créez du contenu Minecraft",
+    "tagline": "Découvrez, créez du contenu Minecraft et jouez avec",
     "description": "Trouvez du contenu agréable et de qualité grâce à notre plateforme de modding open-source conçue pour la communauté. Créez des choses, soyez payé*, et déployez votre projet avec notre API entièrement documentée !",
     "features": {
       "book": {
@@ -19,7 +19,7 @@
         "description": "Alimenté par des algorithmes de recherche rapides et adaptables pour que vous n'ayez pas à attendre."
       },
       "chat": {
-        "title": "Communauté serviable",
+        "title": "Communauté attentive",
         "description": "Obtenez de l'aide (en anglais), développez et échangez sur notre serveur Discord qui compte plus de 1 500 membres."
       },
       "puzzle": {
@@ -67,7 +67,7 @@
   "error": {
     "status": "Erreur {status}",
     "message": {
-      "404": "Oh oh, il semblerait que vous vous êtes perdu dans le [Labyrinth](https://github.com/modrinth/labrinth). <br />La page que vous recherchez n'a pas pu être trouvée.",
+      "404": "Oh oh, il semblerait que vous vous êtes perdu dans le [Labyrinthe](https://github.com/modrinth/labrinth). <br />La page que vous recherchez n'a pas pu être trouvée.",
       "project_missing": "Le {type} que vous cherchez n'a pas été trouvé.",
       "default": "Une erreur imprévue s'est produite."
     },
@@ -108,9 +108,9 @@
     "actions": {
       "create": "Créer",
       "edit": "Modifier",
-      "follow": "S'abonner",
-      "unfollow": "Se désabonner",
-      "feature": "Recommander cette version",
+      "follow": "Suivre",
+      "unfollow": "Ne plus suivre",
+      "feature": "Mettre cette version en avant",
       "report": "Signaler",
       "new_project": "Nouveau projet",
       "preview": "Aperçu",
@@ -166,7 +166,7 @@
     },
     "sidebar_headings": {
       "external_resources": "Ressources externes",
-      "featured_versions": "Versions recommandées",
+      "featured_versions": "Versions mises en avant",
       "project_members": "Membres du projet",
       "technical_information": "Informations techniques"
     },
@@ -208,14 +208,14 @@
       "action": "Modifier la visibilité"
     },
     "ownership": {
-      "title": "Propriétaire",
+      "title": "Propriété",
       "description": "Transférer la propriété de ce projet à un autre utilisateur.",
       "action": "Transférer la propriété"
     }
   },
   "version": {
-    "featured": "Recommandé",
-    "autofeatured": "Recommandé automatiquement",
+    "featured": "Mise en avant",
+    "autofeatured": "Mise en avant automatiquement",
     "feature_action": "Fonctionnalité",
     "dependencies": "Dépendances",
     "metadata": "Metadonnés",
@@ -292,7 +292,7 @@
     "plural": "Signalements",
     "type": {
       "spam": "Spam",
-      "copyright": "Copyright",
+      "copyright": "Droits d'auteur",
       "inappropriate": "Inapproprié",
       "malicious": "Malveillant",
       "name-squatting": "Vol de nom",
@@ -359,7 +359,7 @@
       "image": {
         "title": "Supprimer l'image de la galerie",
         "description": "Êtes-vous sûr de vouloir supprimer cette image et ses métadonnées ? Cette action ne peut être annulée.",
-        "action": "Supprimer l`image"
+        "action": "Supprimer l'image"
       }
     },
     "report": {
@@ -450,7 +450,7 @@
     "utility": "Utilitaire",
     "decoration": "Décoration",
     "library": "Bibliothèque",
-    "cursed": "Maudit",
+    "cursed": "Bizarre",
     "worldgen": "Génération du monde",
     "storage": "Stockage",
     "food": "Nourriture",
