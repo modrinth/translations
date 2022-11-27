@@ -1,184 +1,184 @@
 {
   "locale": {
-    "no_translation": "Pro la natura de tiu ĉi paĝo, la nura versio de tiu ĉi enhavo estas en la angla."
+    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
   },
   "index": {
-    "tagline": "Malkrovu, ludu, kaj kreu Minecraft enhavo",
-    "description": "Trovu agrablan kaj kvalitan enhavon per nia malfermfonta modifa platformo por la komunumo. Kreu aferojn, ricevu pagon*, kaj disfaldu vian projekton kun nia tute dokumentis API!",
+    "tagline": "Discover, play, and create Minecraft content",
+    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
-        "title": "Facile uzi API",
-        "description": "Apogitis de tute dokumentis API ke faciligas la kreskon de 3a partiaj integriĝoj & lanĉiloj."
+        "title": "Easy to use API",
+        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
       },
       "coin": {
-        "title": "Kreinto gajnoj",
-        "description": "Planas doni kreintoj 100% de reklama enspezo de ilia projektaj paĝoj. *Elpagoj estas nuntempe en evoluo."
+        "title": "Creator earnings",
+        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
       },
       "speedometer": {
-        "title": "Fulmrapida serĉo",
-        "description": "Funkciigita de rapida kaj adaptebla serĉa algoritmoj do vi ne sevas atendi."
+        "title": "Lightning-fast search",
+        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
       },
       "chat": {
-        "title": "Helpeme komunumo",
-        "description": "Akiru subtenon, disvolvu, kaj pendiĝu ĉe nia Discord servilo ke havas super 1,500 membroj."
+        "title": "Helpful community",
+        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
       },
       "puzzle": {
-        "title": "Etendebla laŭ designo",
-        "description": "Integras kun kompiloj iloj, deponejoj, lanĉiloj, kaj kutimaj aplikoj."
+        "title": "Extensible by design",
+        "description": "Integrates with build tools, repositories, launchers, and custom applications."
       },
       "tools": {
-        "title": "Tute malfermfonta",
-        "description": "Malfermfonta projekto konservas de aktiva komunumo ke bonvenigas kontribuaĵojn."
+        "title": "Fully open source",
+        "description": "An open source project maintained by an active community that welcomes contributions."
       }
     }
   },
   "header": {
-    "my_profile": "Iru al mia profilo",
-    "logout": "Ensalutu",
-    "github": "Ensalutu per GitHub"
+    "my_profile": "Go to my profile",
+    "logout": "Log out",
+    "github": "Sign in with GitHub"
   },
   "footer": {
-    "description": "Modrinth estas malfermfontan programaron.",
+    "description": "Modrinth is open source software.",
     "legal": {
-      "heading": "Jura Juro",
-      "terms": "Uzkondiĉoj",
-      "privacy": "Privateca",
-      "rules": "Reguloj"
+      "heading": "Legal",
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "rules": "Rules"
     },
     "resources": {
-      "heading": "Rimedoj",
-      "blog": "Blogo",
-      "docs": "Dokoj"
+      "heading": "Resources",
+      "blog": "Blog",
+      "docs": "Docs"
     },
     "buttons": {
-      "privacy": "Agordu privatecajn preferojn",
+      "privacy": "Set privacy preferences",
       "theme": {
-        "label": "Ŝanĝu temo",
-        "system": "Sistema temo",
-        "light": "Luma modo",
-        "dark": "Malluma modo",
-        "oled": "OLED modo"
+        "label": "Change theme",
+        "system": "System theme",
+        "light": "Light mode",
+        "dark": "Dark mode",
+        "oled": "OLED mode"
       },
       "language": {
-        "label": "Elektu lingvon"
+        "label": "Select language"
       }
     }
   },
   "error": {
-    "status": "{status} Eraro",
+    "status": "{status} Error",
     "message": {
-      "404": "Uh ho, vidas kvazaŭ vi perdiĝis en la [Labirinto](https://github.com/modrinth/labrinth).<br />La paĝo ke vi serĉis ne povis troviĝi.",
-      "project_missing": "La {type} ke vi serĉis ne povas troviĝi.",
-      "default": "Neatendita eraro okazis."
+      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
+      "project_missing": "The {type} you were looking for cannot be found.",
+      "default": "An unexpected error has occurred."
     },
     "actions": {
-      "home": "Iru al domo",
-      "discord": "Ricevu helpon de Discord"
+      "home": "Go home",
+      "discord": "Get help on Discord"
     }
   },
   "pages": {
-    "description": "Priskribo",
-    "gallery": "Galerio",
-    "changelog": "Ŝanĝprotokolo",
-    "versions": "Versioj",
-    "settings": "Agordoj",
-    "moderation": "Moderaĵo",
-    "notifications": "Atentigoj",
-    "about": "Pri",
-    "following": "Sekvanta",
-    "terms": "Kondiĉoj de uzado",
-    "privacy": "Privateca politiko",
-    "rules": "Projektaj reguloj",
-    "all": "Ĉiuj"
+    "description": "Description",
+    "gallery": "Gallery",
+    "changelog": "Changelog",
+    "versions": "Versions",
+    "settings": "Settings",
+    "moderation": "Moderation",
+    "notifications": "Notifications",
+    "about": "About",
+    "following": "Following",
+    "terms": "Terms and conditions",
+    "privacy": "Privacy policy",
+    "rules": "Project rules",
+    "all": "All"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "Permesilo",
-        "plural": "Permesiloj"
+        "singular": "License",
+        "plural": "Licenses"
       },
-      "project_id": "Projekta ID",
-      "project_status": "Projekta statuso",
-      "minecraft_versions": "Minecraft versioj",
-      "mod_loaders": "Modifaj ŝargiloj",
-      "categories": "Kategorioj",
-      "downloads": "Elŝutaroj",
-      "files": "Dosieroj"
+      "project_id": "Project ID",
+      "project_status": "Project status",
+      "minecraft_versions": "Minecraft versions",
+      "mod_loaders": "Mod loaders",
+      "categories": "Categories",
+      "downloads": "Downloads",
+      "files": "Files"
     },
     "actions": {
-      "create": "Kreu",
-      "edit": "Modifu",
-      "follow": "Sekvu",
-      "unfollow": "Malsekvu",
-      "feature": "Elstara versio",
-      "report": "Denuncu",
-      "new_project": "Nova projekto",
-      "preview": "Antaŭrigardu",
-      "download": "Elŝutu",
-      "save": "Konservu",
-      "confirm": "Konfirmu",
-      "remove": "Forigu",
-      "delete": "Forigu",
-      "cancel": "Nuligu",
-      "discard": "Forĵetu ŝanĝoj"
+      "create": "Create",
+      "edit": "Edit",
+      "follow": "Follow",
+      "unfollow": "Unfollow",
+      "feature": "Feature version",
+      "report": "Report",
+      "new_project": "New project",
+      "preview": "Preview",
+      "download": "Download",
+      "save": "Save",
+      "confirm": "Confirm",
+      "remove": "Remove",
+      "delete": "Delete",
+      "cancel": "Cancel",
+      "discard": "Discard changes"
     },
     "external": {
-      "github_profile": "GitHub profilo",
+      "github_profile": "GitHub profile",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "Biletoj",
-      "source": "Fonto",
-      "wiki": "Vikio",
+      "issues": "Issues",
+      "source": "Source",
+      "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsorantoj",
-      "donate": "Donacu",
+      "github_sponsors": "GitHub Sponsors",
+      "donate": "Donate",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Medio",
-      "plural": "Medioj",
-      "server_side": "Servilflanka",
-      "client_side": "Klientflanka",
+      "singular": "Environment",
+      "plural": "Environments",
+      "server_side": "Server side",
+      "client_side": "Client side",
       "values": {
-        "required": "Bezonata",
-        "unsupported": "Nesubtenata",
-        "optional": "Nedeviga",
-        "unknown": "Nekonata"
+        "required": "Required",
+        "unsupported": "Unsupported",
+        "optional": "Optional",
+        "unknown": "Unknown"
       }
     },
-    "up_to_date": "Vi estas ĝisdatigita!",
-    "byline": "de <u>{author}</u>"
+    "up_to_date": "You are up to date!",
+    "byline": "by <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
-        "singular": "Modifo",
-        "plural": "Modifoj",
-        "search": "Serĉu modifoj..."
+        "singular": "Mod",
+        "plural": "Mods",
+        "search": "Search mods..."
       },
       "modpack": {
-        "singular": "Modifpako",
-        "plural": "Modifpakoj",
-        "search": "Serĉu modifpakoj..."
+        "singular": "Modpack",
+        "plural": "Modpacks",
+        "search": "Search modpacks..."
       }
     },
     "sidebar_headings": {
-      "external_resources": "Eksteraj rimedoj",
-      "featured_versions": "Elstaraj versioj",
-      "project_members": "Membroj de projekta",
-      "technical_information": "Teknikaj informoj"
+      "external_resources": "External resources",
+      "featured_versions": "Featured versions",
+      "project_members": "Project members",
+      "technical_information": "Technical information"
     },
     "gallery": {
-      "upload": "Alŝutu galerian bildon",
+      "upload": "Upload gallery image",
       "placeholder": {
-        "title": "Enskribu bildan titolon...",
-        "description": "Enskribu bildan priskribon..."
+        "title": "Enter image title...",
+        "description": "Enter image description..."
       }
     },
     "versions": {
-      "upload": "Alŝutu novan version"
+      "upload": "Upload new version"
     },
     "body": {
       "editor": "Redaktilo",
