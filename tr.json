@@ -342,24 +342,24 @@
         "placeholder": "Buraya yazın..."
       },
       "project": {
-        "title": "Proje sil",
+        "title": "Projeyi sil",
         "description": "Bir projeyi silmek, sürümler dahil olmak üzere tüm proje verisini kaldırır.",
-        "action": "Proje sil"
+        "action": "Projeyi sil"
       },
       "version": {
-        "title": "Sürüm sil",
-        "description": "Bu sürümü silmek istediğinizden emin misiniz? Tüm dosyalar ve üstveriler geri dönülemez bir şekilde kaybolacak.",
-        "action": "Sürüm sil"
+        "title": "Sürümü sil",
+        "description": "Bu sürümü silmek istediğinizden emin misiniz? Tüm dosyalar ve üstveriler kurtarılamayacak bir şekilde kaybolacak.",
+        "action": "Sürümü sil"
       },
       "account": {
-        "title": "Bunu yapmak istediğinden emin misin?",
+        "title": "Bunu yapmak istediğinizden emin misiniz?",
         "description": "Bu **bütün projelerinizi ve takip ettiklerinizi derhal kaldıracaktır**. Hesabın silinmesi geri alınamaz.\n\nHesabınızla ilgili yardıma ihtiyacınız varsa, [Modrinth Discord](/discord) üzerinden destek alın.",
-        "action": "Evet, geri alınamaz şekilde hesabımı sil"
+        "action": "Evet, kurtarılamayacak şekilde hesabımı sil"
       },
       "image": {
         "title": "Galeri görselini sil",
         "description": "Bu görsel dosyasını ve üstveriyi silmek istediğinizden emin misiniz? Bu eylem geriye alınamaz.",
-        "action": "Görsel sil"
+        "action": "Görseli sil"
       }
     },
     "report": {
@@ -371,7 +371,7 @@
           },
           "information": {
             "label": "Ek bilgi",
-            "helper": "Mümkünse bağlantı ve görselleri dahil edin. Markdown formatı desteklidir.",
+            "helper": "Mümkünse bağlantı ve görselleri dahil edin. Markdown biçimlendirmesi desteklidir.",
             "placeholder": "Ek bilgi gir..."
           }
         }
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Özet",
-            "helper": "Bu aramada ve proje sayfanızın kenar çubuğunda gözüküyor.",
+            "helper": "Bu, aramada ve proje sayfanızın kenar çubuğunda gözükür.",
             "placeholder": "Projenin kısa özetini gir..."
           }
         }
@@ -429,14 +429,14 @@
           "status": {
             "label": "Durum",
             "options": {
-              "approve": "Onaylı",
-              "unlist": "Liste dışı",
-              "reject": "Reddedildi"
+              "approve": "Onayla",
+              "unlist": "Liste dışı bırak",
+              "reject": "Reddet"
             }
           },
           "moderation_message": {
-            "label": "Moderasyon mesajı",
-            "helper": "Bir projenin takım üyeleriyle sorunları iletmek için tercihen bilgi dahil edin. Markdown formatı desteklidir.",
+            "label": "Yönetim mesajı",
+            "helper": "Bir projenin takım üyeleriyle ilgili sorunları iletmek için tercihen bilgi dahil edin. Markdown biçimlendirmesi desteklidir.",
             "placeholder": "Ek bilgi gir..."
           }
         }
@@ -446,18 +446,18 @@
   "tags": {
     "technology": "Teknoloji",
     "adventure": "Macera",
-    "magic": "Sihir",
+    "magic": "Büyü",
     "utility": "Yardımcı",
     "decoration": "Dekorasyon",
     "library": "Kitaplık",
     "cursed": "Lanetli",
-    "worldgen": "Dünya Oluşumu",
+    "worldgen": "Dünya oluşumu",
     "storage": "Depolama",
-    "food": "Yemek",
+    "food": "Yiyecek",
     "equipment": "Ekipman",
     "miscellaneous": "Çeşitli",
-    "challenging": "Meydan Okuyucu",
-    "combat": "Savaşma",
+    "challenging": "Zorlayıcı",
+    "combat": "Savaş",
     "kitchen-sink": "Eviye",
     "lightweight": "Hafif",
     "multiplayer": "Çok Oyunculu",
