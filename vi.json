@@ -19,7 +19,7 @@
         "description": "Cung cấp bởi thuật toán tìm kiếm nhanh và thích nghi để bạn không phải chờ đợi."
       },
       "chat": {
-        "title": "Helpful community",
+        "title": "Cộng đồng thân thiện",
         "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
       },
       "puzzle": {
@@ -33,31 +33,31 @@
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "my_profile": "Hồ sơ của tôi",
+    "logout": "Đăng xuất",
+    "github": "Đăng nhập với GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth là phần mềm mã nguồn mở.",
     "legal": {
       "heading": "Legal",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "terms": "Điều khoản",
+      "privacy": "Quyền Riêng tư",
+      "rules": "Quy tắc"
     },
     "resources": {
-      "heading": "Resources",
+      "heading": "Tài nguyên",
       "blog": "Blog",
-      "docs": "Docs"
+      "docs": "Tài liệu"
     },
     "buttons": {
       "privacy": "Set privacy preferences",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Thay đổi chủ đề",
+        "system": "Chủ đề hệ thống",
+        "light": "Chế độ sáng",
+        "dark": "Chế độ tối",
+        "oled": "Chế độ OLED"
       },
       "language": {
         "label": "Select language"
@@ -65,19 +65,19 @@
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "Lỗi {status}",
     "message": {
       "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
       "project_missing": "The {type} you were looking for cannot be found.",
       "default": "An unexpected error has occurred."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Về trang chủ",
+      "discord": "Nhận trợ giúp trên Discord"
     }
   },
   "pages": {
-    "description": "Description",
+    "description": "Mô tả",
     "gallery": "Gallery",
     "changelog": "Changelog",
     "versions": "Versions",
