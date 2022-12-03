@@ -40,7 +40,7 @@
   "footer": {
     "description": "Modrinth là phần mềm mã nguồn mở.",
     "legal": {
-      "heading": "Legal",
+      "heading": "Pháp lý",
       "terms": "Điều khoản",
       "privacy": "Quyền Riêng tư",
       "rules": "Quy tắc"
@@ -51,7 +51,7 @@
       "docs": "Tài liệu"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Tuỳ chọn quyền riêng tư của bạn",
       "theme": {
         "label": "Thay đổi chủ đề",
         "system": "Chủ đề hệ thống",
@@ -60,16 +60,16 @@
         "oled": "Chế độ OLED"
       },
       "language": {
-        "label": "Select language"
+        "label": "Chọn ngôn ngữ"
       }
     }
   },
   "error": {
     "status": "Lỗi {status}",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Ôi không, có vẻ như bạn đã bị lạc trong [Labyrinth](https://github.com/modrinth/labrinth) rồi.<br />Trang mà bạn đang tìm kiếm không thể tìm thấy được.",
+      "project_missing": "Không thể tìm thấy {type} mà bạn đang cần tìm.",
+      "default": "Đã xảy ra lỗi không mong muốn."
     },
     "actions": {
       "home": "Về trang chủ",
@@ -78,12 +78,12 @@
   },
   "pages": {
     "description": "Mô tả",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
+    "gallery": "Thư viện",
+    "changelog": "Nhật ký thay đổi",
+    "versions": "Phiên bản",
+    "settings": "Cài đặt",
+    "moderation": "Kiểm duyệt",
+    "notifications": "Thông báo",
     "about": "Giới thiệu",
     "following": "Đang theo dõi",
     "terms": "Điều khoản và điều kiện",
@@ -97,10 +97,10 @@
         "singular": "Giấy phép",
         "plural": "Giấy phép"
       },
-      "project_id": "Project ID",
+      "project_id": "ID dự án",
       "project_status": "Trạng thái dự án",
       "minecraft_versions": "Phiên bản minecraft",
-      "mod_loaders": "Mod loaders",
+      "mod_loaders": "Mod loader",
       "categories": "Thể loại",
       "downloads": "Lượt tải",
       "files": "Các tập tin"
@@ -123,7 +123,7 @@
       "discard": "Hủy các thay đổi"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "Hồ sơ GitHub",
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Vấn đề",
@@ -139,8 +139,8 @@
     "environments": {
       "singular": "Môi trường",
       "plural": "Môi trường",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "server_side": "Phía máy chủ",
+      "client_side": "Phía máy khách",
       "values": {
         "required": "Cần thiết",
         "unsupported": "Không hỗ trợ",
@@ -148,67 +148,67 @@
         "unknown": "Không rõ"
       }
     },
-    "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "up_to_date": "Bạn đã bắt kịp thời thông tin!",
+    "byline": "bởi <u>{author}</u>"
   },
   "project": {
     "types": {
       "mod": {
         "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "plural": "Mod",
+        "search": "Tìm mod..."
       },
       "modpack": {
         "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "plural": "Modpack",
+        "search": "Tìm modpack..."
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
+      "external_resources": "Tài nguyên bên ngoài",
       "featured_versions": "Featured versions",
-      "project_members": "Project members",
-      "technical_information": "Technical information"
+      "project_members": "Thành viên dự án",
+      "technical_information": "Thông tin kỹ thuật"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "Tải ảnh lên",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "Nhập tiêu đề ảnh...",
+        "description": "Nhập mô tả ảnh..."
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Tải lên phiên bản mới"
     },
     "body": {
-      "editor": "Editor",
-      "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "editor": "Trình biên tập",
+      "placeholder": "Nhập thông tin dự án...",
+      "empty": "Mô tả dự án này bị bỏ trống."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Thành viên",
+    "permissions": "Quyền hạn",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "Tải lên phiên bản",
+      "delete_version": "Xoá phiên bản",
+      "edit_details": "Chỉnh sửa chi tiết",
+      "edit_body": "Chỉnh sửa mô tả",
+      "manage_invites": "Quản lý thư mời",
+      "remove_member": "Loại bỏ thành viên",
+      "edit_member": "Chỉnh sửa thành viên",
+      "delete_project": "Xoá dự án"
     },
     "role": {
-      "text": "Role",
-      "placeholder": "Enter roles..."
+      "text": "Vai trò",
+      "placeholder": "Nhập vai trò..."
     },
-    "advanced": "Advanced",
+    "advanced": "Nâng cao",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "Hiển thị",
+      "description": "Dự án này đã {status}.",
+      "action": "Thay đổi hiển thị"
     },
     "ownership": {
-      "title": "Ownership",
+      "title": "Quyền sở hữu",
       "description": "Transfer ownership of this project to another user.",
       "action": "Transfer ownership"
     }
@@ -217,86 +217,86 @@
     "featured": "Featured",
     "autofeatured": "Auto-featured",
     "feature_action": "Feature",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "dependencies": "Phụ thuộc vào",
+    "metadata": "Thông tin",
+    "release_channel": "Kênh phát hành",
+    "number": "Phiên bản",
+    "publication_date": "Ngày đăng tải",
+    "publisher": "Người đăng tải"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "clear": "Xóa bộ lọc",
+      "hide": "Ẩn bộ lọc",
+      "show": "Hiển thị bộ lọc",
+      "show_snapshots": "Hiện các bản snapshot",
+      "search_versions": "Tìm phiên bản...",
+      "licenses": "Giấy phép"
     },
     "sort": {
-      "by": "Sort by",
-      "relevance": "Relevance",
-      "downloads": "Download count",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "Recently updated"
+      "by": "Sắp xếp theo",
+      "relevance": "Mức độ liên quan",
+      "downloads": "Số lượng tải về",
+      "follows": "Số lượng theo dõi",
+      "newest": "Tạo gần đây",
+      "updated": "Cập nhật gần đây"
     },
-    "per_page": "Show per page"
+    "per_page": "Mỗi trang hiển thị"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "approved": "Được duyệt",
+    "rejected": "Bị từ chối",
+    "draft": "Nháp",
+    "unlisted": "Không công khai",
+    "processing": "Đang phê duyệt",
+    "unknown": "Không rõ"
   },
   "release_channels": {
-    "release": "Release",
-    "beta": "Beta",
-    "alpha": "Alpha"
+    "release": "Bản Release",
+    "beta": "Bản Beta",
+    "alpha": "Bản Alpha"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "Nhà phát triển",
+    "admin": "Quản trị",
+    "moderator": "Người điều hành"
   },
   "stats": {
-    "joined": "Joined {ago}",
-    "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "joined": "Đã tham gia {ago}",
+    "notified": "Đã thông báo {ago}",
+    "downloads": "{downloads, plural, other {<b>#</b> lượt tải về}}",
+    "followers_of_projects": "{followers, plural, other {<b>#</b> dự án được theo dõi}}",
+    "followers": "{followers, plural, other {<b>#</b> người theo dõi}}",
+    "user_id": "ID người dùng: {id}",
+    "created": "Đã tạo {ago}",
+    "updated": "Đã cập nhật {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Tên người dùng",
+      "placeholder": "Thêm tên người dùng..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Tiểu sử",
+      "placeholder": "Thêm tiểu sử..."
     },
     "email": {
-      "text": "Private email",
+      "text": "Email riêng tư",
       "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "placeholder": "Thêm một email..."
     },
-    "avatar": "Upload avatar"
+    "avatar": "Tải hình đại diện lên"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "Báo cáo",
+    "plural": "Báo cáo",
     "type": {
       "spam": "Spam",
-      "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
+      "copyright": "Bản quyền",
+      "inappropriate": "Không phù hợp",
+      "malicious": "Độc hại",
       "name-squatting": "Name-squatting",
-      "other": "Other"
+      "other": "Khác"
     }
   },
   "user": {
@@ -305,61 +305,61 @@
       "none": "You haven't followed any projects."
     },
     "delete": {
-      "title": "Delete account",
+      "title": "Xoá tài khoản",
       "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
     },
     "auth": {
-      "title": "Authorization token",
+      "title": "Token xác thực",
       "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
       "copy": "Copy token to clipboard",
       "copied": "Copied token to clipboard",
-      "revoke": "Revoke token"
+      "revoke": "Thu hồi token"
     },
     "revoke_token": {
       "title": "Revoke your Modrinth token",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "action": "Đăng xuất"
     }
   },
   "images": {
-    "replace": "Replace image",
-    "how_to": "Drag and drop to upload or click to select"
+    "replace": "Thay đổi ảnh",
+    "how_to": "Kéo thả vào đây hoặc bấm đây để chọn"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Một quảng cáo có sự tôn trọng về quyền riêng tư có lẽ sẽ được hiện ở đây.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Bạn đang sử dụng trình chặn quảng cáo.",
+      "line2": "Trình chặn quảng cáo của bạn đã chặn Modrinth hiện thị quảng cáo, và nó là nguồn thu nhập duy nhất của chúng tôi.",
+      "line3": "Nếu bạn vẫn muốn hỗ trợ Modrinth mà không muốn hiện thị quảng cáo, bạn có thể đóng góp cho Modrinth trên GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Đây là một lựa chọn quan trọng.",
+        "verify": "Để xác thực, nhập <i>{key}</i> vào đây:",
+        "placeholder": "Điền vào đây..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Xoá dự án",
+        "description": "Xoá dự án sẽ xoá tất cả thông tin về dự án, bao gồm cả phiên bản.",
+        "action": "Xoá dự án"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Xoá phiên bản",
+        "description": "Bạn có chắc chắn xoá phiên bản này không? Tất cả tệp tin và thông tin sẽ bị mất mãi mãi.",
+        "action": "Xoá phiên bản"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Bạn có chắc chắn thực hiện điều này không?",
+        "description": "Điều này sẽ **xoá hết tất cả dự án của bạn** và người theo dõi. Một khi đã xoá thì không thể lấy lại được.\n\nNếu bạn cần trợ giúp về tài khoản của bạn, hãy tham gia [Discord Modrinth](/discord).",
+        "action": "Vâng, hãy xoá tài khoản của tôi"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Xoá ảnh",
+        "description": "Bạn chắc chắn muốn xoá ảnh này và thông tin về ảnh? Hành động này không thể hoàn tác.",
+        "action": "Xoá ảnh"
       }
     },
     "report": {
@@ -367,102 +367,102 @@
         "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Lý do"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Thông tin bổ sung",
+            "helper": "Hãy bao gồm nhiều liên kết và ảnh càng tốt. Có hỗ trợ kiểu định dạng Markdown.",
+            "placeholder": "Bổ sung thông tin..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Báo cáo dự án"
       },
       "version": {
-        "action": "Report version"
+        "action": "Báo cáo phiên bản"
       },
       "user": {
-        "action": "Report user"
+        "action": "Báo cáo người dùng"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Tạo dự án",
+        "description": "Dự án mới sẽ được tạo ở dạng bản thảo, và có thể tìm thấy ở dưới trang hồ sơ của bạn.",
+        "action": "Tiếp",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Loại dự án"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Tên",
+            "placeholder": "Nhập tên dự án..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Tóm tắt",
+            "helper": "Mục này sẽ hiện ở phần tìm kiếm và thanh bên trái ở trang dự án của bạn.",
+            "placeholder": "Nhập tóm tắt ngắn về dự án của bạn..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Thêm ảnh",
+        "action": "Thêm ảnh",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Tiêu đề",
+            "placeholder": "Nhập tiêu đề ảnh..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Mô tả",
+            "placeholder": "Nhập mô tả ảnh..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Thay đổi trạng thái dự án",
+        "action": "Xác nhận",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Trạng thái",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Phê duyệt",
+              "unlist": "Không công khai",
+              "reject": "Từ chối"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
+            "label": "Lời nhắn từ người điều hành",
             "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Bổ sung thêm thông tin..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
-    "combat": "Combat",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "technology": "Công nghệ",
+    "adventure": "Phiêu lưu",
+    "magic": "Phép thuật",
+    "utility": "Tiện ích",
+    "decoration": "Trang trí",
+    "library": "Thư viện",
+    "cursed": "Quyền rủa",
+    "worldgen": "Cấu tạo thế giới",
+    "storage": "Lưu trữ",
+    "food": "Thức ăn",
+    "equipment": "Thiết bị",
+    "miscellaneous": "Khác",
+    "challenging": "Thử thách",
+    "combat": "Giao chiến",
+    "kitchen-sink": "Bồn rửa bếp",
+    "lightweight": "Nhẹ",
+    "multiplayer": "Nhiều người chơi",
+    "quests": "Thử thách",
+    "optimization": "Tối ưu hóa",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
