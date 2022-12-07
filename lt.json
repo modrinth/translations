@@ -156,16 +156,16 @@
       "mod": {
         "singular": "Modas",
         "plural": "Modai",
-        "search": "Search mods..."
+        "search": "Ieškoti modų..."
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "Modpakas",
+        "plural": "Modpakai",
+        "search": "Ieškoti modpakų..."
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
+      "external_resources": "Išoriniai šaltiniai",
       "featured_versions": "Featured versions",
       "project_members": "Project members",
       "technical_information": "Technical information"
@@ -262,11 +262,11 @@
     "moderator": "Moderatorius"
   },
   "stats": {
-    "joined": "Prisijungta {ago}",
-    "notified": "Pranešta {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> Atsisiuntimas} few {<b>#</b> Atsisiuntimai} many {<b>#</b> Atsisiuntimai} other {<b>#</b> Atsisiuntimai}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> Projektų stebėtojas} few {<b>#</b> Projektų stebėtojai} many {<b>#</b> Projektų stebėtojai} other {<b>#</b> Projektų stebėtojai}}",
-    "followers": "{followers, plural, one {<b>#</b> Stebėtojas} few {<b>#</b> Stebėtojai} many {<b>#</b> Stebėtojai} other {<b>#</b> Stebėtojai}}",
+    "joined": "Prisijungta: {ago}",
+    "notified": "Pranešta: {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> Atsisiuntimas} few {<b>#</b> Atsisiuntimai} many {<b>#</b> Atsisiuntimų} other {<b>#</b> Atsisiuntimų}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> Projektų stebėtojas} few {<b>#</b> Projektų stebėtojai} many {<b>#</b> Projektų stebėtojų} other {<b>#</b> Projektų stebėtojų}}",
+    "followers": "{followers, plural, one {<b>#</b> Stebėtojas} few {<b>#</b> Stebėtojai} many {<b>#</b> Stebėtojų} other {<b>#</b> Stebėtojų}}",
     "user_id": "User ID: {id}",
     "created": "Created {ago}",
     "updated": "Updated {ago}"
@@ -445,7 +445,7 @@
   },
   "tags": {
     "technology": "Technology",
-    "adventure": "Nuotykiai",
+    "adventure": "Nuotykių",
     "magic": "Magija",
     "utility": "Naudinga",
     "decoration": "Apdaila",
