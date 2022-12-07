@@ -166,75 +166,75 @@
     },
     "sidebar_headings": {
       "external_resources": "Išoriniai šaltiniai",
-      "featured_versions": "Featured versions",
-      "project_members": "Project members",
-      "technical_information": "Technical information"
+      "featured_versions": "Rekomenduojamos versijos",
+      "project_members": "Projekto nariai",
+      "technical_information": "Techninė informacija"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "Įkelti galerijos nuotrauką",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "Įveskite nuotraukos pavadinimą...",
+        "description": "Įveskite nuotraukos aprašymą..."
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Įkelti naują versiją"
     },
     "body": {
-      "editor": "Editor",
-      "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "editor": "Redaktorius",
+      "placeholder": "Įveskite projekto turinį...",
+      "empty": "Šis projekto aprašymas yra tuščias."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Nariai",
+    "permissions": "Leidimai",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "Įkelti versiją",
+      "delete_version": "Naikinti versiją",
+      "edit_details": "Redaguoti informaciją",
+      "edit_body": "Redaguoti aprašymą",
+      "manage_invites": "Tvarkyti kvietimus",
+      "remove_member": "Naikinti narius",
+      "edit_member": "Redaguoti narius",
+      "delete_project": "Panaikinti projektą"
     },
     "role": {
-      "text": "Role",
-      "placeholder": "Enter roles..."
+      "text": "Rolė",
+      "placeholder": "Įveskite roles..."
     },
-    "advanced": "Advanced",
+    "advanced": "Išplėstiniai",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "Matomumas",
+      "description": "Šiuo metu šis projektas yra {status}.",
+      "action": "Pakeisti matomumą"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "title": "Valdymas",
+      "description": "Perduokite šio projekto valdymą kitam naudotojui.",
+      "action": "Perduoti valdymą"
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "featured": "Rekomenduojama",
+    "autofeatured": "Automatiškai rekomenduojama",
+    "feature_action": "Rekomenduoti",
+    "dependencies": "Priklausomybės",
+    "metadata": "Metaduomenys",
+    "release_channel": "Leidimo kanalas",
+    "number": "Versijos numeris",
+    "publication_date": "Leidimo data",
+    "publisher": "Leidėjas"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
-      "licenses": "Licenses"
+      "clear": "Valyti filtrus",
+      "hide": "Paslėpti filtrus",
+      "show": "Rodyti filtrus",
+      "show_snapshots": "Rodyti snapshotus",
+      "search_versions": "Ieškoti versijų...",
+      "licenses": "Licenzijos"
     },
     "sort": {
-      "by": "Sort by",
+      "by": "Rūšiuoti pagal",
       "relevance": "Aktualumas",
       "downloads": "Parsisiuntimų kiekis",
       "follows": "Stebėtojų kiekis",
@@ -267,184 +267,184 @@
     "downloads": "{downloads, plural, one {<b>#</b> Atsisiuntimas} few {<b>#</b> Atsisiuntimai} many {<b>#</b> Atsisiuntimų} other {<b>#</b> Atsisiuntimų}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> Projektų stebėtojas} few {<b>#</b> Projektų stebėtojai} many {<b>#</b> Projektų stebėtojų} other {<b>#</b> Projektų stebėtojų}}",
     "followers": "{followers, plural, one {<b>#</b> Stebėtojas} few {<b>#</b> Stebėtojai} many {<b>#</b> Stebėtojų} other {<b>#</b> Stebėtojų}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "user_id": "Naudotojo ID: {id}",
+    "created": "Sukurita: {ago}",
+    "updated": "Atnaujinta: {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Slapyvardis",
+      "placeholder": "Pridėti slapyvardį..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Apie mane",
+      "placeholder": "Pridėti aprašymą apie save..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "Privatus el. paštas",
+      "helper": "Matoma tik moderatoriams.",
+      "placeholder": "Pridėti el. paštą..."
     },
-    "avatar": "Upload avatar"
+    "avatar": "Įkelti Avatarą"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "Pranešimas",
+    "plural": "Pranešimai",
     "type": {
-      "spam": "Spam",
-      "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
-      "name-squatting": "Name-squatting",
-      "other": "Other"
+      "spam": "Šlamštas",
+      "copyright": "Autorinės teisės",
+      "inappropriate": "Netinkama",
+      "malicious": "Piktybiška",
+      "name-squatting": "Netinkamas vardo naudojimas",
+      "other": "Kita"
     }
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "Įkeliami sekami projektai...",
+      "none": "Nesekėte jokių projektų."
     },
     "delete": {
-      "title": "Delete account",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "title": "Ištrinti paskyrą",
+      "body": "Kai ištrinsite paskyrą, kelio atgal nebebus. Ištrynus paskyrą iš mūsų serverių bus pašalinti visi prie jos prijungti duomenys, įskaitant projektus."
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
-      "revoke": "Revoke token"
+      "title": "Leidimo kodas",
+      "body": "Jūsų autorizavimo kodas gali būti naudojamas \"Modrinth\" API, \"Minotaur Gradle\" pluginui ir kitoms programoms, kurios sąveikauja su \"Modrinth\" API. Būtinai saugokite tai paslaptyje!",
+      "copy": "Kopijuoti kodą į iškarpinę",
+      "copied": "Kodas nukopijuotas į iškarpinę",
+      "revoke": "Atšaukti kodą"
     },
     "revoke_token": {
-      "title": "Revoke your Modrinth token",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "title": "Atšaukti jūsų \"Modrinth\" kodą",
+      "body": "\"Modrinth\" kodo atšaukimas gali turėti nenumatytų pasekmių. Turėkite omenyje, kad gali sutrikti:\n - Bet kuri programa, kuri naudoja jūsų kodą prieigai prie API.\n - \"Gradle\" - jei \"Minotaur\" suteikiamas neteisingas kodas, jūsų \"Gradle\" kūrimas gali nepavykti.\n - GitHub - jei naudosite GitHub veiksmą, kuris naudoja Modrinth API, tai sukels klaidų.\n\nJei norite tęsti, atlikite toliau nurodytus veiksmus:\n\n 1. Eikite į [\"Modrinth\" paraiškos puslapį \"GitHub\"] (https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Įsitikinkite, kad esate prisijungę prie \"GitHub\" paskyros, kurią naudojote \"Modrinth\"!\n 2. Paspauskite didelį raudoną mygtuką \"Revoke Access\" (atšaukti prieigą), esantį šalia antraštės \"Permissions\" (leidimai).\n\nAtlikę šiuos veiksmus, paspauskite žemiau esantį mygtuką \"Atsijungti\".\n\n**Taip išeisite iš \"Modrinth\", tačiau kai vėl prisijungsite, jūsų žetonas bus atkurtas.**",
+      "action": "Atsijungti"
     }
   },
   "images": {
-    "replace": "Replace image",
-    "how_to": "Drag and drop to upload or click to select"
+    "replace": "Pakeisti nuotrauką",
+    "how_to": "Norėdami įkelti, vilkite ir nuleiskite arba spustelėkite, kad pasirinktumėte"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Čia būtų rodoma privatumą gerbianti reklama.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Naudojate reklamos blokatorių.",
+      "line2": "Jūsų reklamos blokatorius neleido \"Modrinth\" rodyti reklamos, kuri yra vienintelis mūsų pajamų šaltinis.",
+      "line3": "Jei vis dar norite padėti \"Modrinth\" nežiūrėdami reklamų, galite prisidėti prie \"Modrinth\" per \"GitHub\"!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "Tai yra nepaprastai svarbu.",
+        "verify": "Norėdami patikrinti, toliau įveskite <i>{key}</i>:",
+        "placeholder": "Rašykite čia..."
       },
       "project": {
-        "title": "Delete project",
-        "description": "Deleting a project erases all project data, including versions.",
-        "action": "Delete project"
+        "title": "Panaikinti projektą",
+        "description": "Ištrynus projektą ištrinami visi projekto duomenys, įskaitant versijas.",
+        "action": "Panaikinti projektą"
       },
       "version": {
-        "title": "Delete version",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
-        "action": "Delete version"
+        "title": "Panaikinti versiją",
+        "description": "Ar tikrai norite ištrinti šią versiją? Visi failai ir metaduomenys bus negrįžtamai prarasti.",
+        "action": "Panaikinti versiją"
       },
       "account": {
-        "title": "Are you sure you want to do this?",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "title": "Ar tikrai norite tai padaryti?",
+        "description": "Tai **iš karto ištrins visus jūsų projektus** ir toliau. Paskyros ištrynimo negalima atšaukti.\n\nJei jums reikia pagalbos su paskyra, kreipkitės pagalbos į [Modrinth Discord](/discord).",
+        "action": "Taip, negrįžtamai ištrinti mano paskyrą"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
-        "action": "Delete image"
+        "title": "Ištrinti galerijos nuotrauką",
+        "description": "Ar tikrai norite ištrinti šį vaizdo failą ir metaduomenis? Šio veiksmo atšaukti negalima.",
+        "action": "Ištrinti nuotrauką"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Moddingas turėtų būti saugus visiems, todėl \"Modrinth\" rimtai žiūrime į piktnaudžiavimą ir piktavališkus ketinimus. Norime išgirsti apie žalingą svetainės turinį, kuris pažeidžia mūsų [ToS](/legal/terms) ir [Taisykles](/legal/rules). Būkite tikri, kad jūsų identifikacinę informaciją saugosime.",
         "fields": {
           "reason": {
-            "label": "Reason"
+            "label": "Priežastis"
           },
           "information": {
-            "label": "Additional information",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Papildoma informacija",
+            "helper": "Jei įmanoma, įtraukite nuorodas ir paveikslėlius. Palaikomas \"Markdown\" formatavimas.",
+            "placeholder": "Įveskite papildomą informaciją..."
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "Pranešti apie projektą"
       },
       "version": {
-        "action": "Report version"
+        "action": "Praneškite apie versiją"
       },
       "user": {
-        "action": "Report user"
+        "action": "Pranešti apie vartotoją"
       }
     },
     "creation": {
       "project": {
-        "title": "Create project",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
-        "action": "Continue",
+        "title": "Sukurti projektą",
+        "description": "Nauji projektai kuriami kaip juodraščiai ir yra jūsų profilio puslapyje.",
+        "action": "Tęsti",
         "fields": {
           "project_type": {
-            "label": "Project type"
+            "label": "Projekto rūšis"
           },
           "name": {
-            "label": "Name",
-            "placeholder": "Enter project name..."
+            "label": "Pavadinimas",
+            "placeholder": "Įveskite projekto pavadinimą..."
           },
           "summary": {
-            "label": "Summary",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "label": "Santrauka",
+            "helper": "Ji rodoma paieškoje ir projekto puslapio šoninėje juostoje.",
+            "placeholder": "Įveskite trumpą projekto santrauką..."
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
-        "action": "Add image",
+        "title": "Įkelti galerijos nuotrauką",
+        "action": "Įkelti nuotrauką",
         "fields": {
           "title": {
-            "label": "Title",
-            "placeholder": "Enter image title..."
+            "label": "Pavadinimas",
+            "placeholder": "Įveskite nuotraukos pavadinimą..."
           },
           "description": {
-            "label": "Description",
-            "placeholder": "Enter image description..."
+            "label": "Aprašymas",
+            "placeholder": "Įveskite nuotraukos aprašymą..."
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
-        "action": "Confirm",
+        "title": "Keisti projekto būseną",
+        "action": "Patvirtinti",
         "fields": {
           "status": {
-            "label": "Status",
+            "label": "Būsena",
             "options": {
-              "approve": "Approve",
-              "unlist": "Unlist",
-              "reject": "Reject"
+              "approve": "Patvirtinti",
+              "unlist": "Išbraukti iš sąrašo",
+              "reject": "Atmesti"
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "Moderacijos pranešimas",
+            "helper": "Pasirinktinai įtraukite informaciją, skirtą pranešti apie problemas projekto komandos nariams. Palaikomas \"Markdown\" formatavimas.",
+            "placeholder": "Įveskite papildomą informaciją..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
+    "technology": "Technologijos",
     "adventure": "Nuotykių",
     "magic": "Magija",
     "utility": "Naudinga",
