@@ -190,8 +190,8 @@
     "permission": {
       "upload_version": "Upload version",
       "delete_version": "ลบเวอร์ชัน",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
+      "edit_details": "แก้ไขรายละเอียด",
+      "edit_body": "แก้ไขคำอธิบาย",
       "manage_invites": "Manage invites",
       "remove_member": "Remove members",
       "edit_member": "Edit members",
@@ -226,9 +226,9 @@
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
+      "clear": "ล้างตัวกรอง",
+      "hide": "ซ่อนตัวกรอง",
+      "show": "แสดงตัวกรอง",
       "show_snapshots": "Show snapshots",
       "search_versions": "Search versions...",
       "licenses": "ใบอนุญาต"
@@ -245,11 +245,11 @@
   },
   "status": {
     "approved": "อนุมัติแล้ว",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
+    "rejected": "ไม่อนุมัติ",
+    "draft": "ฉบับร่าง",
+    "unlisted": "ไม่เป็นสาธารณะ",
     "processing": "Under review",
-    "unknown": "Unknown"
+    "unknown": "ไม่ทราบ"
   },
   "release_channels": {
     "release": "Release",
@@ -273,7 +273,7 @@
   },
   "settings": {
     "username": {
-      "text": "Username",
+      "text": "ชื่อผู้ใช้",
       "placeholder": "Add a username..."
     },
     "bio": {
