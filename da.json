@@ -89,7 +89,7 @@
     "terms": "Terms and conditions",
     "privacy": "Privatlivspolitik",
     "rules": "Project rules",
-    "all": "All"
+    "all": "Alle"
   },
   "generic": {
     "labels": {
@@ -99,7 +99,7 @@
       },
       "project_id": "Projekt-ID",
       "project_status": "Projektstatus",
-      "minecraft_versions": "Minecraft versions",
+      "minecraft_versions": "Minecraft-versioner",
       "mod_loaders": "Mod loaders",
       "categories": "Kategorier",
       "downloads": "Downloads",
@@ -112,7 +112,7 @@
       "unfollow": "Unfollow",
       "feature": "Feature version",
       "report": "Rapportér",
-      "new_project": "New project",
+      "new_project": "Nyt projekt",
       "preview": "Preview",
       "download": "Download",
       "save": "Gem",
@@ -142,9 +142,9 @@
       "server_side": "Server side",
       "client_side": "Client side",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
+        "required": "Påkrævet",
+        "unsupported": "Ikke understøttet",
+        "optional": "Valgfrit",
         "unknown": "Unknown"
       }
     },
