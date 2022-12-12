@@ -1,9 +1,9 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Grundet karakteren af denne side er den eneste officielle version af dette indhold på engelsk."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
+    "tagline": "Opdag, spil og opret Minecraft-indhold",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
@@ -15,11 +15,11 @@
         "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
+        "title": "Lynhurtig søgning",
         "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
       },
       "chat": {
-        "title": "Helpful community",
+        "title": "Hjælpsomt fællesskab",
         "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
       },
       "puzzle": {
