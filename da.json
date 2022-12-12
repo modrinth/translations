@@ -27,40 +27,40 @@
         "description": "Integrates with build tools, repositories, launchers, and custom applications."
       },
       "tools": {
-        "title": "Fully open source",
+        "title": "Fuldstændigt open source",
         "description": "An open source project maintained by an active community that welcomes contributions."
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "my_profile": "Gå til min profil",
+    "logout": "Log ud",
+    "github": "Log ind med GitHub"
   },
   "footer": {
     "description": "Modrinth is open source software.",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
-      "privacy": "Privacy",
-      "rules": "Rules"
+      "heading": "Juridisk",
+      "terms": "Vilkår",
+      "privacy": "Privatliv",
+      "rules": "Regler"
     },
     "resources": {
-      "heading": "Resources",
+      "heading": "Ressourcer",
       "blog": "Blog",
       "docs": "Docs"
     },
     "buttons": {
       "privacy": "Set privacy preferences",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Skift tema",
+        "system": "Systemtema",
+        "light": "Lys tilstand",
+        "dark": "Mørk tilstand",
+        "oled": "OLED-tilstand"
       },
       "language": {
-        "label": "Select language"
+        "label": "Vælg sprog"
       }
     }
   },
@@ -72,53 +72,53 @@
       "default": "An unexpected error has occurred."
     },
     "actions": {
-      "home": "Go home",
-      "discord": "Get help on Discord"
+      "home": "Gå til hjem",
+      "discord": "Få hjælp på Discord"
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
+    "description": "Beskrivelse",
+    "gallery": "Galleri",
     "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
+    "versions": "Versioner",
+    "settings": "Indstillinger",
     "moderation": "Moderation",
-    "notifications": "Notifications",
+    "notifications": "Notifikationer",
     "about": "About",
     "following": "Following",
     "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
+    "privacy": "Privatlivspolitik",
     "rules": "Project rules",
     "all": "All"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Licens",
+        "plural": "Licenser"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
+      "project_id": "Projekt-ID",
+      "project_status": "Projektstatus",
       "minecraft_versions": "Minecraft versions",
       "mod_loaders": "Mod loaders",
-      "categories": "Categories",
+      "categories": "Kategorier",
       "downloads": "Downloads",
-      "files": "Files"
+      "files": "Filer"
     },
     "actions": {
       "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
+      "edit": "Rediger",
+      "follow": "Følg",
       "unfollow": "Unfollow",
       "feature": "Feature version",
-      "report": "Report",
+      "report": "Rapportér",
       "new_project": "New project",
       "preview": "Preview",
       "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
-      "remove": "Remove",
-      "delete": "Delete",
+      "save": "Gem",
+      "confirm": "Bekræft",
+      "remove": "Fjern",
+      "delete": "Slet",
       "cancel": "Cancel",
       "discard": "Discard changes"
     },
