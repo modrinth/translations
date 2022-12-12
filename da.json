@@ -3,7 +3,7 @@
     "no_translation": "Grundet karakteren af denne side er den eneste officielle version af dette indhold på engelsk."
   },
   "index": {
-    "tagline": "Opdag, spil og opret Minecraft-indhold",
+    "tagline": "Opdag, spil og skab Minecraft-indhold",
     "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
     "features": {
       "book": {
@@ -119,11 +119,11 @@
       "confirm": "Bekræft",
       "remove": "Fjern",
       "delete": "Slet",
-      "cancel": "Cancel",
+      "cancel": "Annuller",
       "discard": "Discard changes"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "GitHub-profil",
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Issues",
@@ -165,10 +165,10 @@
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
+      "external_resources": "Eksterne ressourcer",
       "featured_versions": "Featured versions",
-      "project_members": "Project members",
-      "technical_information": "Technical information"
+      "project_members": "Projektmedlemmer",
+      "technical_information": "Teknisk information"
     },
     "gallery": {
       "upload": "Upload gallery image",
@@ -185,30 +185,30 @@
       "placeholder": "Enter project body...",
       "empty": "This project description is empty."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Medlemmer",
+    "permissions": "Rettigheder",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
+      "upload_version": "Uploade version",
+      "delete_version": "Slette version",
+      "edit_details": "Redigere detaljer",
+      "edit_body": "Redigere beskrivelse",
       "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "remove_member": "Fjerne medlemmer",
+      "edit_member": "Redigere medlemmer",
+      "delete_project": "Slet projekt"
     },
     "role": {
-      "text": "Role",
+      "text": "Rolle",
       "placeholder": "Enter roles..."
     },
-    "advanced": "Advanced",
+    "advanced": "Avanceret",
     "visibility": {
-      "title": "Visibility",
+      "title": "Synlighed",
       "description": "This project is currently {status}.",
       "action": "Change visibility"
     },
     "ownership": {
-      "title": "Ownership",
+      "title": "Ejerskab",
       "description": "Transfer ownership of this project to another user.",
       "action": "Transfer ownership"
     }
