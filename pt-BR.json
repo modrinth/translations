@@ -3,42 +3,42 @@
     "no_translation": "Devido à fonte desta página, a única versão oficial deste conteúdo é em inglês."
   },
   "index": {
-    "tagline": "Descubra, jogue e crie conteúdo de Minecraft",
-    "description": "Encontre conteúdo de qualidade através da nossa plataforma de código aberto de modding construída para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto com nossa API completamente documentada!",
+    "tagline": "Encontre, jogue e crie conteúdo para o Minecraft",
+    "description": "Encontre conteúdo de alta qualidade através de nossa plataforma open-source de modding feita para a comunidade. Crie coisas, ganhe dinheiro*, e lance seu projeto usando nossa API completamente documentada!",
     "features": {
       "book": {
         "title": "API fácil de usar",
-        "description": "Estruturado por uma API completamente documentada, facilitando integrações em launchers e outras integrações de terceiros."
+        "description": "Estruturado por uma API 100% documentada facilitando integrações em serviços e launchers de terceiros."
       },
       "coin": {
-        "title": "Receita dos Criadores",
-        "description": "Planejamos dar aos criadores 100% da receita dos anúncios exibidos nas páginas de seus projetos. *Receita dos Criadores ainda em desenvolvimento."
+        "title": "Receita de Criadores",
+        "description": "Planejamos presentear nossos criadores com 100% da receita dos anúncios nas páginas de seus projetos. *Monetização de criadores em desenvolvimento."
       },
       "speedometer": {
         "title": "Pesquisa ultrarrápida",
-        "description": "Desenvolvido com algoritmos de busca rápidos e para que você mal precise esperar."
+        "description": "Usamos um algorítimo de pesquisa rápido e adaptável para que você não precise esperar."
       },
       "chat": {
-        "title": "Comunidade prestativa",
-        "description": "Receba suporte, desenvolva e divirta-se em nosso servidor do Discord com mais de 1.500 membros."
+        "title": "Suporte Comunitário",
+        "description": "Receba suporte, desenvolva e se diverta em nosso Servidor do Discord com mais de 2.500 membros."
       },
       "puzzle": {
         "title": "Ampliável por design",
-        "description": "Integração com ferramentas de compilação, repositórios, launchers e aplicações personalizadas."
+        "description": "Integra com ferramentas de compilação, repositórios, launchers e programas personalizados."
       },
       "tools": {
-        "title": "Completamente open source",
-        "description": "Um projeto de código-aberto mantido por uma comunidade ativa que acolhe contribuições."
+        "title": "Código Completamente Aberto",
+        "description": "Um projeto open-source mantido por uma comunidade ativa que permite contribuições."
       }
     }
   },
   "header": {
-    "my_profile": "Ir pro meu perfil",
+    "my_profile": "Ir pro Meu Perfil",
     "logout": "Sair",
     "github": "Entrar com GitHub"
   },
   "footer": {
-    "description": "Modrinth é software open source.",
+    "description": "Modrinth é um software open-source.",
     "legal": {
       "heading": "Jurídico",
       "terms": "Termos",
@@ -51,7 +51,7 @@
       "docs": "Documentação"
     },
     "buttons": {
-      "privacy": "Definir configurações de privacidade",
+      "privacy": "Configurar preferências de privacidade",
       "theme": {
         "label": "Mudar tema",
         "system": "Tema do sistema",
@@ -60,7 +60,7 @@
         "oled": "Modo OLED"
       },
       "language": {
-        "label": "Selecionar linguagem"
+        "label": "Selecionar idioma"
       }
     }
   },
