@@ -372,7 +372,7 @@
           "information": {
             "label": "Lisätiedot",
             "helper": "Sisällytä linkkejä ja kuvia, jos mahdollista. Voit käyttää Markdown-muotoilua.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Syötä lisätietoja..."
           }
         }
       },
