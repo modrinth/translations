@@ -84,7 +84,7 @@
     "settings": "设置",
     "moderation": "管理",
     "notifications": "通知",
-    "about": "相关信息",
+    "about": "关于",
     "following": "关注中",
     "terms": "服务条款与条件",
     "privacy": "隐私政策",
@@ -143,13 +143,13 @@
       "client_side": "客户端",
       "values": {
         "required": "必需的",
-        "unsupported": "不支持",
+        "unsupported": "无效的",
         "optional": "可选",
         "unknown": "未知"
       }
     },
     "up_to_date": "您已更新至最新版！",
-    "byline": "由 <u>{author}</u> 创作"
+    "byline": "制作者： <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -227,7 +227,7 @@
   "search": {
     "filters": {
       "clear": "清空筛选",
-      "hide": "隐藏筛选条件",
+      "hide": "隐藏筛选",
       "show": "展开筛选",
       "show_snapshots": "显示快照",
       "search_versions": "搜索版本...",
@@ -318,7 +318,7 @@
     "revoke_token": {
       "title": "撤销你的 Modrinth 令牌",
       "body": "撤销你的 Modrinth 令牌会产生意想不到的后果。请注意，以下相关的服务可能会出现问题：\n - 任何使用你的令牌来访问 API 的应用程序。\n - Gradle - 如果 Minotaur 使用一个不正确的令牌，你的 Gradle 构建可能会失败。\n - GitHub - 如果你使用一个与 Modrinth API 进行交互的 GitHub Action，将产生错误。\n\n如果你愿意继续，请完成以下步骤：\n\n 1. 前往[Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，确保登录到你 Modrinth 账号所绑定的GitHub账户!\n 2. 按下 \"Permissions \"标题旁边的红色 \"Revoke Access\" 按钮。\n\n一旦你完成了这些步骤，请点击下方的 \"Log out\" 按钮。\n\n**这将使你退出Modrinth。当你重新登录时，你的令牌将被重新生成。**",
-      "action": "登出"
+      "action": "退出登录"
     }
   },
   "images": {
