@@ -19,8 +19,8 @@
         "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "Nápomocná komunita",
+        "description": "Získajte podporu, rozvíjajte sa a stretávajte sa na našom Discord servery s viac ako 1500 členmi."
       },
       "puzzle": {
         "title": "Extensible by design",
@@ -33,25 +33,25 @@
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
-    "logout": "Log out",
-    "github": "Sign in with GitHub"
+    "my_profile": "Prejsť na profil",
+    "logout": "Odhlásiť sa",
+    "github": "Prihlásiť sa cez GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth je softvér s otvoreným zdrojovým kódom.",
     "legal": {
       "heading": "Legal",
       "terms": "Terms",
-      "privacy": "Privacy",
+      "privacy": "Ochrana osobných údajov",
       "rules": "Rules"
     },
     "resources": {
       "heading": "Resources",
       "blog": "Blog",
-      "docs": "Docs"
+      "docs": "Dokumentácia"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "Spravovať predvoľby ochrany osobných údajov",
       "theme": {
         "label": "Change theme",
         "system": "System theme",
@@ -73,14 +73,14 @@
     },
     "actions": {
       "home": "Go home",
-      "discord": "Get help on Discord"
+      "discord": "Získať pomoc na Discorde"
     }
   },
   "pages": {
     "description": "Popis",
     "gallery": "Galéria",
     "changelog": "Zoznam zmien",
-    "versions": "Versions",
+    "versions": "Verzie",
     "settings": "Nastavenie",
     "moderation": "Moderation",
     "notifications": "Upozornenia",
@@ -88,18 +88,18 @@
     "following": "Sledovanie",
     "terms": "Všeobecné obchodné podmienky",
     "privacy": "Zásady ochrany osobných údajov",
-    "rules": "Project rules",
-    "all": "All"
+    "rules": "Pravidlá projektu",
+    "all": "Všetky"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "Licencia",
+        "plural": "Licencie"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
+      "project_id": "ID projektu",
+      "project_status": "Status projektu",
+      "minecraft_versions": "Minecraft verzie",
       "mod_loaders": "Mod loaders",
       "categories": "Kategórie",
       "downloads": "Downloads",
@@ -132,24 +132,24 @@
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
-      "donate": "Donate",
+      "github_sponsors": "GitHub sponzori",
+      "donate": "Prispieť",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "Server side",
-      "client_side": "Client side",
+      "singular": "Prostredie",
+      "plural": "Prostredia",
+      "server_side": "Na strane servera",
+      "client_side": "Na strane klienta",
       "values": {
-        "required": "Required",
-        "unsupported": "Unsupported",
-        "optional": "Optional",
-        "unknown": "Unknown"
+        "required": "Požadované",
+        "unsupported": "Nepodporované",
+        "optional": "Voliteľné",
+        "unknown": "Neznáme"
       }
     },
     "up_to_date": "You are up to date!",
-    "byline": "by <u>{author}</u>"
+    "byline": "od <u>{author}</u>"
   },
   "project": {
     "types": {
@@ -167,50 +167,50 @@
     "sidebar_headings": {
       "external_resources": "External resources",
       "featured_versions": "Featured versions",
-      "project_members": "Project members",
-      "technical_information": "Technical information"
+      "project_members": "Členovia projektu",
+      "technical_information": "Technické informácie"
     },
     "gallery": {
       "upload": "Upload gallery image",
       "placeholder": {
         "title": "Enter image title...",
-        "description": "Enter image description..."
+        "description": "Zadajte opis obrázku..."
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "Nahrať novú verziu"
     },
     "body": {
       "editor": "Editor",
       "placeholder": "Enter project body...",
       "empty": "This project description is empty."
     },
-    "members": "Members",
-    "permissions": "Permissions",
+    "members": "Členovia",
+    "permissions": "Oprávnenia",
     "permission": {
-      "upload_version": "Upload version",
-      "delete_version": "Delete version",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
-      "delete_project": "Delete project"
+      "upload_version": "Nahrať verziu",
+      "delete_version": "Odstrániť verziu",
+      "edit_details": "Upraviť podrobnosti",
+      "edit_body": "Upraviť popis",
+      "manage_invites": "Spravovať pozvánky",
+      "remove_member": "Odstrániť členov",
+      "edit_member": "Upraviť členov",
+      "delete_project": "Zmazať projekt"
     },
     "role": {
-      "text": "Role",
-      "placeholder": "Enter roles..."
+      "text": "Rola",
+      "placeholder": "Pridať rolu..."
     },
-    "advanced": "Advanced",
+    "advanced": "Rozšírené",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "Viditeľnosť",
+      "description": "Tento projekt je v súčasnej dobe {status}.",
+      "action": "Zmeniť viditeľnosť"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "Transfer ownership"
+      "title": "Vlastníctvo",
+      "description": "Preniesť vlastníctvo tohoto projektu na iného používateľa.",
+      "action": "Preniesť vlastníctvo"
     }
   },
   "version": {
@@ -267,52 +267,52 @@
     "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
     "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "user_id": "ID používateľa: {id}",
+    "created": "Vytvorené {ago}",
+    "updated": "Aktualizované {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Používateľské meno",
+      "placeholder": "Pridať používateľské meno..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Popis",
+      "placeholder": "Pridať popis..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "Súkromný e-mail",
+      "helper": "Viditeľne len pre moderátorov.",
+      "placeholder": "Pridať e-mail..."
     },
-    "avatar": "Upload avatar"
+    "avatar": "Nahrať avatar"
   },
   "report": {
-    "singular": "Report",
-    "plural": "Reports",
+    "singular": "Nahlásiť",
+    "plural": "Nahlásenia",
     "type": {
       "spam": "Spam",
-      "copyright": "Copyright",
-      "inappropriate": "Inappropriate",
-      "malicious": "Malicious",
-      "name-squatting": "Name-squatting",
-      "other": "Other"
+      "copyright": "Autorské práva",
+      "inappropriate": "Nevhodné",
+      "malicious": "Škodlivé",
+      "name-squatting": "Krádež názvu",
+      "other": "Iný"
     }
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "Načítavajú sa sledované projekty...",
+      "none": "Nesledujete žiadne projekty."
     },
     "delete": {
-      "title": "Delete account",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "title": "Zmazať účet",
+      "body": "Po odstránení účtu už niet cesty späť. Odstránením účtu sa z našich serverov odstránia všetky pripojené údaje vrátane projektov."
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
+      "title": "Autorizačný token",
+      "body": "Váš autorizačný token možno použiť s Modrinth API, doplnkom Minotaur Gradle a ďalšími aplikáciami, ktoré interagujú s Modrinth API. Buďte si istý, udržať toto tajomstvom!",
+      "copy": "Skopírovať token do schránky",
+      "copied": "Token skopírovaný do schránky",
       "revoke": "Revoke token"
     },
     "revoke_token": {
