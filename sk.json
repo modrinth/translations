@@ -77,9 +77,9 @@
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
+    "description": "Popis",
+    "gallery": "Galéria",
+    "changelog": "Zoznam zmien",
     "versions": "Versions",
     "settings": "Nastavenie",
     "moderation": "Moderation",
@@ -101,9 +101,9 @@
       "project_status": "Project status",
       "minecraft_versions": "Minecraft versions",
       "mod_loaders": "Mod loaders",
-      "categories": "Categories",
+      "categories": "Kategórie",
       "downloads": "Downloads",
-      "files": "Files"
+      "files": "Súbory"
     },
     "actions": {
       "create": "Create",
