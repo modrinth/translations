@@ -1,17 +1,17 @@
 {
   "locale": {
-    "no_translation": "Due to the nature of this page, the only official version of this content is in English."
+    "no_translation": "Vzhľadom na charakter tejto stránky je jediná oficiálna verzia tohto obsahu v angličtine."
   },
   "index": {
-    "tagline": "Discover, play, and create Minecraft content",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "Objavujte, hrajte a vytvárajte obsah Minecraft",
+    "description": "Nájdite príjemný a kvalitný obsah prostredníctvom našej open-source platformy pre módy vytvorenej pre komunitu. Vytvárajte veci, dostávajte peniaze* a nasadzujte svoj projekt pomocou nášho plne zdokumentovaného API!",
     "features": {
       "book": {
-        "title": "Easy to use API",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "title": "Jednoduché používanie rozhrania API",
+        "description": "Podporované plne zdokumentovaným rozhraním API, ktoré uľahčuje vývoj integrácií a spúšťacích programov tretích strán."
       },
       "coin": {
-        "title": "Creator earnings",
+        "title": "Príjmy tvorcu",
         "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
       },
       "speedometer": {
@@ -81,13 +81,13 @@
     "gallery": "Gallery",
     "changelog": "Changelog",
     "versions": "Versions",
-    "settings": "Settings",
+    "settings": "Nastavenie",
     "moderation": "Moderation",
-    "notifications": "Notifications",
-    "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
+    "notifications": "Upozornenia",
+    "about": "O aplikácii",
+    "following": "Sledovanie",
+    "terms": "Všeobecné obchodné podmienky",
+    "privacy": "Zásady ochrany osobných údajov",
     "rules": "Project rules",
     "all": "All"
   },
