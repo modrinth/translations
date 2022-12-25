@@ -12,23 +12,23 @@
       },
       "coin": {
         "title": "Príjmy tvorcu",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "Plánuje poskytnúť tvorcom 100 % príjmov z reklám na stránkach ich projektov. *Výplaty sú v súčasnosti vo vývoji."
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "Bleskové vyhľadávanie",
+        "description": "Využíva rýchle a prispôsobivé vyhľadávacie algoritmy, takže nemusíte čakať."
       },
       "chat": {
         "title": "Nápomocná komunita",
         "description": "Získajte podporu, rozvíjajte sa a stretávajte sa na našom Discord servery s viac ako 1500 členmi."
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "Rozšíriteľnosť podľa návrhu",
+        "description": "Integruje sa s nástrojmi na zostavovanie, úložiskami, spúšťačmi a vlastnými aplikáciami."
       },
       "tools": {
-        "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "title": "Plne otvorený zdrojový kód",
+        "description": "Projekt s otvoreným zdrojovým kódom udržiavaný aktívnou komunitou, ktorá víta príspevky."
       }
     }
   },
@@ -40,36 +40,36 @@
   "footer": {
     "description": "Modrinth je softvér s otvoreným zdrojovým kódom.",
     "legal": {
-      "heading": "Legal",
-      "terms": "Terms",
+      "heading": "Právne informácie",
+      "terms": "Podmienky",
       "privacy": "Ochrana osobných údajov",
-      "rules": "Rules"
+      "rules": "Pravidlá"
     },
     "resources": {
-      "heading": "Resources",
+      "heading": "Zdroje",
       "blog": "Blog",
       "docs": "Dokumentácia"
     },
     "buttons": {
       "privacy": "Spravovať predvoľby ochrany osobných údajov",
       "theme": {
-        "label": "Change theme",
-        "system": "System theme",
-        "light": "Light mode",
-        "dark": "Dark mode",
-        "oled": "OLED mode"
+        "label": "Zmeniť tému",
+        "system": "Téma systému",
+        "light": "Svetlý režim",
+        "dark": "Tmavý režim",
+        "oled": "OLED režim"
       },
       "language": {
-        "label": "Select language"
+        "label": "Vyberte jazyk"
       }
     }
   },
   "error": {
-    "status": "{status} Error",
+    "status": "{status} Chyba",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "Uf, zdá sa, že ste sa stratili v [Labyrinth](https://github.com/modrinth/labrinth).<br />Stránku, ktorú hľadáte, sa nepodarilo nájsť.",
+      "project_missing": "Hľadaný {type} sa nedá najsť.",
+      "default": "Vyskytla sa neočakávaná chyba."
     },
     "actions": {
       "home": "Go home",
@@ -82,7 +82,7 @@
     "changelog": "Zoznam zmien",
     "versions": "Verzie",
     "settings": "Nastavenie",
-    "moderation": "Moderation",
+    "moderation": "Moderovanie",
     "notifications": "Upozornenia",
     "about": "O aplikácii",
     "following": "Sledovanie",
@@ -102,28 +102,28 @@
       "minecraft_versions": "Minecraft verzie",
       "mod_loaders": "Mod loaders",
       "categories": "Kategórie",
-      "downloads": "Downloads",
+      "downloads": "Sťahovania",
       "files": "Súbory"
     },
     "actions": {
-      "create": "Create",
-      "edit": "Edit",
-      "follow": "Follow",
-      "unfollow": "Unfollow",
+      "create": "Vytvoriť",
+      "edit": "Editovať",
+      "follow": "Sledovať",
+      "unfollow": "Prestať sledovať",
       "feature": "Feature version",
-      "report": "Report",
-      "new_project": "New project",
-      "preview": "Preview",
-      "download": "Download",
-      "save": "Save",
-      "confirm": "Confirm",
+      "report": "Nahlásiť",
+      "new_project": "Nový projekt",
+      "preview": "Náhľad",
+      "download": "Stiahnuť",
+      "save": "Uložiť",
+      "confirm": "Potvrdiť",
       "remove": "Remove",
       "delete": "Delete",
-      "cancel": "Cancel",
-      "discard": "Discard changes"
+      "cancel": "Zrušiť",
+      "discard": "Zahodiť zmeny"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "GitHub profil",
       "discord": "Discord",
       "github": "GitHub",
       "issues": "Problémy",
@@ -155,8 +155,8 @@
     "types": {
       "mod": {
         "singular": "Mod",
-        "plural": "Mods",
-        "search": "Search mods..."
+        "plural": "Mody",
+        "search": "Vyhľadávanie modov..."
       },
       "modpack": {
         "singular": "Modpack",
