@@ -11,7 +11,7 @@
         "description": "Soutenu par une API entièrement documentée facilitant le développement d'intégrations et de launchers tiers."
       },
       "coin": {
-        "title": "Rémunération du créateur",
+        "title": "Revenus de créateur",
         "description": "Nous prévoyons de donner aux créateurs 100% des revenus publicitaires provenant des pages de leurs projets. *Les paiements sont actuellement en cours de développement."
       },
       "speedometer": {
@@ -19,7 +19,7 @@
         "description": "Alimenté par des algorithmes de recherche rapides et adaptables pour que vous n'ayez pas à attendre."
       },
       "chat": {
-        "title": "Communauté attentive",
+        "title": "Communauté d'entraide",
         "description": "Obtenez de l'aide (en anglais), développez et échangez sur notre serveur Discord qui compte plus de 1 500 membres."
       },
       "puzzle": {
@@ -248,7 +248,7 @@
     "rejected": "Rejeté",
     "draft": "Brouillon",
     "unlisted": "Non répertorié",
-    "processing": "En examen",
+    "processing": "En cours d'examen",
     "unknown": "Inconnu"
   },
   "release_channels": {
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Le modding devrait être sûr pour tout le monde, c'est pourquoi nous prenons les abus et les intentions malveillantes au sérieux chez Modrinth. Nous voulons être informés de tout contenu préjudiciable sur le site qui viole nos [CGU](/légal/termes) et [Règles](/légal/règles). Soyez assuré que vos informations d'identification resteront confidentielles.",
+        "description": "Le modding devrait être sûr pour tout le monde, c'est pourquoi nous prenons les abus et les intentions malveillantes au sérieux chez Modrinth. Nous voulons être informés de tout contenu préjudiciable sur le site qui viole nos [CGU](/legal/terms) et [Règles](/legal/rules). Soyez assuré que vos informations d'identification resteront confidentielles.",
         "fields": {
           "reason": {
             "label": "Raison"
