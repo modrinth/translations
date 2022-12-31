@@ -108,8 +108,8 @@
     "actions": {
       "create": "Créer",
       "edit": "Modifier",
-      "follow": "Suivre",
-      "unfollow": "Ne plus suivre",
+      "follow": "S'abonner",
+      "unfollow": "Se désabonner",
       "feature": "Mettre cette version en avant",
       "report": "Signaler",
       "new_project": "Nouveau projet",
