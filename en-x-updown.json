@@ -73,40 +73,40 @@
     },
     "actions": {
       "home": "ǝɯoɥ oפ",
-      "discord": "Get help on Discord"
+      "discord": "pɹoɔsᴉp uo dlǝɥ ʇǝפ"
     }
   },
   "pages": {
-    "description": "Description",
-    "gallery": "Gallery",
-    "changelog": "Changelog",
-    "versions": "Versions",
-    "settings": "Settings",
-    "moderation": "Moderation",
-    "notifications": "Notifications",
-    "about": "About",
-    "following": "Following",
-    "terms": "Terms and conditions",
-    "privacy": "Privacy policy",
-    "rules": "Project rules",
-    "all": "All"
+    "description": "uoᴉʇdᴉɹɔsǝp",
+    "gallery": "ʎɹǝllɐפ",
+    "changelog": "ƃolǝƃuɐɥƆ",
+    "versions": "suoᴉsɹǝΛ",
+    "settings": "sƃuᴉʇʇǝS",
+    "moderation": "uoᴉʇɐɹǝpoW",
+    "notifications": "suoᴉʇɐɔᴉɟᴉʇoN",
+    "about": "ʇnoq∀",
+    "following": "ƃuᴉʍolloℲ",
+    "terms": "suoᴉʇᴉpuoɔ puɐ sɯɹǝ┴",
+    "privacy": "ʎɔᴉlod ʎɔɐʌᴉɹԀ",
+    "rules": "sǝlnɹ ʇɔǝɾoɹԀ",
+    "all": "ll∀"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "License",
-        "plural": "Licenses"
+        "singular": "ǝsuǝɔᴉ˥",
+        "plural": "sǝsuǝɔᴉ˥"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
-      "categories": "Categories",
-      "downloads": "Downloads",
-      "files": "Files"
+      "project_id": "pI ʇɔǝɾoɹԀ",
+      "project_status": "snʇɐʇs ʇɔǝɾoɹԀ",
+      "minecraft_versions": "suoᴉsɹǝʌ ʇɟɐɹɔǝuᴉW",
+      "mod_loaders": "sɹǝpɐol poW",
+      "categories": "sǝᴉɹoƃǝʇɐƆ",
+      "downloads": "spɐoluʍop",
+      "files": "sǝlᴉℲ"
     },
     "actions": {
-      "create": "Create",
+      "create": "ǝʇɐǝɹƆ",
       "edit": "Edit",
       "follow": "Follow",
       "unfollow": "Unfollow",
