@@ -4,7 +4,7 @@
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
-    "description": "Finde spaßige und hochwertige Minecraft Inhalte auf unserer Quelloffenen Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
+    "description": "Finde unterhaltsame und hochwertige Minecraft Inhalte auf unserer Quelloffenen Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
     "features": {
       "book": {
         "title": "Einfach verwendbare API",
@@ -78,7 +78,7 @@
   },
   "pages": {
     "description": "Beschreibung",
-    "gallery": "Gallerie",
+    "gallery": "Galerie",
     "changelog": "Änderungsprotokoll",
     "versions": "Versionen",
     "settings": "Einstellungen",
