@@ -110,7 +110,7 @@
       "edit": "Bearbeiten",
       "follow": "Folgen",
       "unfollow": "Entfolgen",
-      "feature": "Hebe Version hervor",
+      "feature": "Version hervorheben",
       "report": "Melden",
       "new_project": "Neues Projekt",
       "preview": "Vorschau",
@@ -306,7 +306,7 @@
     },
     "delete": {
       "title": "Account löschen",
-      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
+      "body": "Sobald du deinen Account löscht, gibt es kein Zurück. Deinen Account zu löschen heißt, dass auch alle Daten, die zugehörigen Daten, einschließlich aller Projekte, von unseren Servern gelöscht werden."
     },
     "auth": {
       "title": "Authentifizierungs-Token",
