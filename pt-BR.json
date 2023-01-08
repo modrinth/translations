@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Digite o corpo do texto...",
+      "placeholder": "Insira o corpo do texto...",
       "empty": "A descrição deste projeto está vazia."
     },
     "members": "Membros",
@@ -397,12 +397,12 @@
           },
           "name": {
             "label": "Nome",
-            "placeholder": "Digite o nome do projeto..."
+            "placeholder": "Insira o nome do projeto..."
           },
           "summary": {
             "label": "Sumário",
             "helper": "Isso aparece em buscas e na barra lateral da página do seu projeto.",
-            "placeholder": "Insira um resumo breve do projeto..."
+            "placeholder": "Insira um breve resumo do projeto..."
           }
         }
       },
