@@ -1,9 +1,9 @@
 {
   "locale": {
-    "no_translation": "Devido à fonte desta página, a única versão oficial deste conteúdo é em inglês."
+    "no_translation": "Devido à natureza desta página, a única versão oficial deste conteúdo é em Inglês."
   },
   "index": {
-    "tagline": "Encontre, jogue e crie conteúdo para o Minecraft",
+    "tagline": "Descubra, jogue e crie conteúdo de Minecraft",
     "description": "Encontre conteúdo de alta qualidade através de nossa plataforma open-source de modding feita para a comunidade. Crie coisas, ganhe dinheiro*, e lance seu projeto usando nossa API completamente documentada!",
     "features": {
       "book": {
@@ -69,7 +69,7 @@
     "message": {
       "404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não pode ser encontrada.",
       "project_missing": "O {type} que você estava procurando não foi encontrado.",
-      "default": "Um erro inesperado aconteceu."
+      "default": "Ocorreu um erro inesperado."
     },
     "actions": {
       "home": "Voltar",
@@ -98,7 +98,7 @@
         "plural": "Licenças"
       },
       "project_id": "ID do projeto",
-      "project_status": "Status do projeto",
+      "project_status": "Estado do projeto",
       "minecraft_versions": "Versões do Minecraft",
       "mod_loaders": "Mod loaders",
       "categories": "Categorias",
@@ -111,14 +111,14 @@
       "follow": "Seguir",
       "unfollow": "Parar de seguir",
       "feature": "Destacar versão",
-      "report": "Reportar",
+      "report": "Denunciar",
       "new_project": "Novo projeto",
-      "preview": "Pré-visualização",
+      "preview": "Prévia",
       "download": "Baixar",
       "save": "Salvar",
       "confirm": "Confirmar",
       "remove": "Remover",
-      "delete": "Deletar",
+      "delete": "Excluir",
       "cancel": "Cancelar",
       "discard": "Descartar mudanças"
     },
