@@ -54,7 +54,7 @@
       "privacy": "設定隱私權偏好",
       "theme": {
         "label": "變更主題",
-        "system": "系統主題",
+        "system": "跟隨系統主題",
         "light": "淺色模式",
         "dark": "深色模式",
         "oled": "OLED 模式"
@@ -78,7 +78,7 @@
   },
   "pages": {
     "description": "描述",
-    "gallery": "圖庫",
+    "gallery": "畫廊",
     "changelog": "更新日誌",
     "versions": "版本",
     "settings": "設定",
@@ -469,7 +469,7 @@
     "modloader": "ModLoader",
     "rift": "Rift",
     "server": "伺服器端",
-    "client": "用戶端",
+    "client": "客戶端",
     "good": "良好",
     "trash": "不佳",
     "misc": "其他"
