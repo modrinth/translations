@@ -4,11 +4,11 @@
   },
   "index": {
     "tagline": "Descubra, jogue e crie conteúdo de Minecraft",
-    "description": "Encontre conteúdo de alta qualidade através de nossa plataforma open-source de modding feita para a comunidade. Crie coisas, ganhe dinheiro*, e lance seu projeto usando nossa API completamente documentada!",
+    "description": "Encontre conteúdo de qualidade através da nossa plataforma de código aberto para mods feitos para a comunidade. Crie coisas, seja pago(a)* e lance seu projeto usando nossa API completamente documentada!",
     "features": {
       "book": {
         "title": "API fácil de usar",
-        "description": "Estruturado por uma API 100% documentada facilitando integrações em serviços e launchers de terceiros."
+        "description": "Estruturado por uma API completamente documentada, facilitando integrações em launchers e outras integrações de terceiros."
       },
       "coin": {
         "title": "Receita de Criadores",
@@ -19,26 +19,26 @@
         "description": "Usamos um algorítimo de pesquisa rápido e adaptável para que você não precise esperar."
       },
       "chat": {
-        "title": "Suporte Comunitário",
-        "description": "Receba suporte, desenvolva e se diverta em nosso Servidor do Discord com mais de 2.500 membros."
+        "title": "Comunidade prestativa",
+        "description": "Receba suporte, desenvolva e divirta-se em nosso servidor do Discord com mais de 1.500 membros."
       },
       "puzzle": {
         "title": "Ampliável por design",
         "description": "Integra com ferramentas de compilação, repositórios, launchers e programas personalizados."
       },
       "tools": {
-        "title": "Código Completamente Aberto",
-        "description": "Um projeto open-source mantido por uma comunidade ativa que permite contribuições."
+        "title": "Código aberto",
+        "description": "Um projeto de código aberto mantido por uma comunidade ativa que permite contribuições."
       }
     }
   },
   "header": {
-    "my_profile": "Ir pro Meu Perfil",
+    "my_profile": "Ir ao meu perfil",
     "logout": "Sair",
     "github": "Entrar com GitHub"
   },
   "footer": {
-    "description": "Modrinth é um software open-source.",
+    "description": "Modrinth é um software de código aberto.",
     "legal": {
       "heading": "Jurídico",
       "terms": "Termos",
@@ -67,7 +67,7 @@
   "error": {
     "status": "Erro {status}",
     "message": {
-      "404": "Uh oh, parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não pode ser encontrada.",
+      "404": "Oh, não! Parece que você se perdeu no [Labirinto](https://github.com/modrinth/labrinth).<br />A página que você estava procurando não foi encontrada.",
       "project_missing": "O {type} que você estava procurando não foi encontrado.",
       "default": "Ocorreu um erro inesperado."
     },
@@ -89,7 +89,7 @@
     "terms": "Termos e condições",
     "privacy": "Política de privacidade",
     "rules": "Regras do projeto",
-    "all": "Tudo"
+    "all": "Todos"
   },
   "generic": {
     "labels": {
@@ -109,7 +109,7 @@
       "create": "Criar",
       "edit": "Editar",
       "follow": "Seguir",
-      "unfollow": "Parar de seguir",
+      "unfollow": "Deixar de seguir",
       "feature": "Destacar versão",
       "report": "Denunciar",
       "new_project": "Novo projeto",
@@ -156,7 +156,7 @@
       "mod": {
         "singular": "Mod",
         "plural": "Mods",
-        "search": "Pesquisar mods..."
+        "search": "Buscar mods..."
       },
       "modpack": {
         "singular": "Modpack",
@@ -451,14 +451,14 @@
     "decoration": "Decoração",
     "library": "Biblioteca",
     "cursed": "Amaldiçoado",
-    "worldgen": "Geração de Mundo",
+    "worldgen": "Geração de mundo",
     "storage": "Armazenamento",
     "food": "Comida",
     "equipment": "Equipamento",
-    "miscellaneous": "Miscelâneos",
+    "miscellaneous": "Variados",
     "challenging": "Desafiador",
     "combat": "Combate",
-    "kitchen-sink": "Kitchen Sink",
+    "kitchen-sink": "Misto",
     "lightweight": "Leve",
     "multiplayer": "Multijogador",
     "quests": "Missões",
@@ -472,6 +472,6 @@
     "client": "Cliente",
     "good": "Bom",
     "trash": "Lixo",
-    "misc": "Outros"
+    "misc": "Variados"
   }
 }
