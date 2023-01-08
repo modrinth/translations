@@ -140,9 +140,9 @@
       "singular": "執行環境",
       "plural": "執行環境",
       "server_side": "伺服器端",
-      "client_side": "用戶端",
+      "client_side": "客戶端",
       "values": {
-        "required": "需要",
+        "required": "必需",
         "unsupported": "不支援",
         "optional": "可選",
         "unknown": "未知"
@@ -171,7 +171,7 @@
       "technical_information": "技術上的資訊"
     },
     "gallery": {
-      "upload": "上傳圖片至圖庫",
+      "upload": "上傳圖片至畫廊",
       "placeholder": {
         "title": "輸入圖片標題…",
         "description": "輸入圖片說明…"
@@ -205,11 +205,11 @@
     "visibility": {
       "title": "專案能見度",
       "description": "該專案目前{status}",
-      "action": "變更能見度"
+      "action": "變更可見度"
     },
     "ownership": {
       "title": "所有權",
-      "description": "將此專案的所有權轉移給其他人。",
+      "description": "將此專案的所有權轉移給其他使用者。",
       "action": "轉移所有權"
     }
   },
@@ -248,7 +248,7 @@
     "rejected": "已拒絕",
     "draft": "草稿",
     "unlisted": "未列出",
-    "processing": "正在審核中",
+    "processing": "審核中",
     "unknown": "未知"
   },
   "release_channels": {
@@ -281,7 +281,7 @@
       "placeholder": "輸入簡介..."
     },
     "email": {
-      "text": "私人 email",
+      "text": "私人電子郵件",
       "helper": "僅版主可見。",
       "placeholder": "新增電子郵件……"
     },
@@ -292,7 +292,7 @@
     "plural": "檢舉",
     "type": {
       "spam": "垃圾訊息",
-      "copyright": "侵權",
+      "copyright": "侵害版權",
       "inappropriate": "內容不恰當",
       "malicious": "惡意軟體",
       "name-squatting": "名稱搶註",
@@ -306,7 +306,7 @@
     },
     "delete": {
       "title": "刪除帳號",
-      "body": "當你刪除了你的帳號，就不可能回去了。刪除你的帳號會把所有附加的所有資料（包含專案） 從我們的伺服器上移除。"
+      "body": "當你刪除了你的帳號，就不可能復原了。刪除你的帳號會把所有附加的資料（包含專案） 從我們的伺服器上移除。"
     },
     "auth": {
       "title": "授權權杖",
@@ -343,35 +343,35 @@
       },
       "project": {
         "title": "刪除專案",
-        "description": "刪除專案會清除所有專案資料，包括版本。",
+        "description": "刪除專案將會清除所有專案資料，也包括版本。",
         "action": "刪除專案"
       },
       "version": {
         "title": "刪除版本",
-        "description": "您確定要刪除此版本嗎？此版本的全部檔案及metadata都將會丟失且無法恢復。",
+        "description": "您確定要刪除此版本嗎？此版本的全部檔案及後設資料都將會丟失且無法恢復。",
         "action": "刪除版本"
       },
       "account": {
         "title": "你確定要這樣做？",
         "description": "這將會**立即刪除您所有的專案**及追蹤者。此動作無法撤銷。\n\n如需尋求帳號相關的協助，請前往 [Modrinth Discord](/discord) 詢問。",
-        "action": "是的，不可回復的刪除我的帳號"
+        "action": "是的，不可恢復的刪除我的帳號"
       },
       "image": {
-        "title": "刪除圖庫照片",
-        "description": "您確定要刪除此圖片檔及metadata嗎？此動作無法撤銷。",
+        "title": "刪除畫廊照片",
+        "description": "您確定要刪除此圖片檔及後設資料嗎？此動作無法復原。",
         "action": "刪除圖片"
       }
     },
     "report": {
       "generic": {
-        "description": "模組對於每個人都應該是安全的，所以我們在 Modrinth 將會認真對待濫用和惡意的使用。 我們希望了解網站上違反我們的 [ToS](/legal/terms) 和 [Rules](/legal/rules) 的有害內容。 請放心，我們會將您提供的資訊保密。",
+        "description": "模組對於每個人都應該是安全的，所以我們在 Modrinth 將會認真對待濫用和惡意的行為。我們希望了解網站上違反我們的 [ToS](/legal/terms) 和 [Rules](/legal/rules) 的有害內容。請放心，我們會將您提供的資訊保密。",
         "fields": {
           "reason": {
             "label": "原因"
           },
           "information": {
             "label": "附加資訊",
-            "helper": "如果可以，包括連結和圖片。支援 Markdown 格式。",
+            "helper": "盡可能的提供連結和圖片。支援 Markdown 格式。",
             "placeholder": "輸入附加資訊…"
           }
         }
@@ -407,7 +407,7 @@
         }
       },
       "image": {
-        "title": "新增圖庫照片",
+        "title": "新增畫廊照片",
         "action": "新增圖片",
         "fields": {
           "title": {
@@ -458,7 +458,7 @@
     "miscellaneous": "其他",
     "challenging": "副本戰鬥",
     "combat": "戰鬥",
-    "kitchen-sink": "廚房水槽",
+    "kitchen-sink": "水槽",
     "lightweight": "輕量",
     "multiplayer": "多人遊戲",
     "quests": "任務",
