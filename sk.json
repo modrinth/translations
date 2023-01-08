@@ -72,7 +72,7 @@
       "default": "Vyskytla sa neočakávaná chyba."
     },
     "actions": {
-      "home": "Go home",
+      "home": "Prejsť na domovskú stránku",
       "discord": "Získať pomoc na Discorde"
     }
   },
@@ -100,7 +100,7 @@
       "project_id": "ID projektu",
       "project_status": "Status projektu",
       "minecraft_versions": "Minecraft verzie",
-      "mod_loaders": "Mod loaders",
+      "mod_loaders": "Módovacie loadery",
       "categories": "Kategórie",
       "downloads": "Sťahovania",
       "files": "Súbory"
@@ -110,15 +110,15 @@
       "edit": "Editovať",
       "follow": "Sledovať",
       "unfollow": "Prestať sledovať",
-      "feature": "Feature version",
+      "feature": "Odporúčať verziu",
       "report": "Nahlásiť",
       "new_project": "Nový projekt",
       "preview": "Náhľad",
       "download": "Stiahnuť",
       "save": "Uložiť",
       "confirm": "Potvrdiť",
-      "remove": "Remove",
-      "delete": "Delete",
+      "remove": "Odstrániť",
+      "delete": "Vymazať",
       "cancel": "Zrušiť",
       "discard": "Zahodiť zmeny"
     },
@@ -148,7 +148,7 @@
         "unknown": "Neznáme"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "Ste aktuálni!",
     "byline": "od <u>{author}</u>"
   },
   "project": {
@@ -160,20 +160,20 @@
       },
       "modpack": {
         "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "plural": "Modpacky",
+        "search": "Vyhľadávať modpacky..."
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
-      "featured_versions": "Featured versions",
+      "external_resources": "Externé zdroje",
+      "featured_versions": "Odporúčané verzie",
       "project_members": "Členovia projektu",
       "technical_information": "Technické informácie"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "Nahrať obrázok do galérie",
       "placeholder": {
-        "title": "Enter image title...",
+        "title": "Zadajte nadpis obrázka...",
         "description": "Zadajte opis obrázku..."
       }
     },
@@ -182,8 +182,8 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "placeholder": "Zadajte telo projektu...",
+      "empty": "Popis tohto projektu je prázdny."
     },
     "members": "Členovia",
     "permissions": "Oprávnenia",
@@ -214,21 +214,21 @@
     }
   },
   "version": {
-    "featured": "Featured",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
-    "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
-    "publication_date": "Publication date",
-    "publisher": "Publisher"
+    "featured": "Odporúčané",
+    "autofeatured": "Automaticky odporúčané",
+    "feature_action": "Odporučiť",
+    "dependencies": "Závislosti",
+    "metadata": "Metadáta",
+    "release_channel": "Kanál vydaní",
+    "number": "Číslo verzie",
+    "publication_date": "Dátum zverejnenia",
+    "publisher": "Vydavateľ"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
+      "clear": "Zrušiť filtre",
+      "hide": "Skryť filtre",
+      "show": "Zobraziť filtre",
       "show_snapshots": "Show snapshots",
       "search_versions": "Search versions...",
       "licenses": "Licenses"
