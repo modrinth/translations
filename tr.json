@@ -309,15 +309,15 @@
       "body": "Hesabınızı bir kere silerseniz geri dönüşü yok. Hesabını silmek, projeler dahil olmak üzere tüm alakalı verileri sunucumuzdan kaldıracaktır."
     },
     "auth": {
-      "title": "Kimlik doğrulama jetonu",
-      "body": "Kimlik doğrulama jetonunuz, Modrinth API, Minotaur Gradle eklentisi ve Modrinth API'yle etkileşime giren diğer uygulamalarla kullanılabilir. Bunu saklı tuttuğunuzdan emin olun!",
-      "copy": "Jetonu panoya kopyala",
-      "copied": "Jeton panoya kopyalandı",
-      "revoke": "Jetonu iptal et"
+      "title": "Kimlik doğrulama belirteci",
+      "body": "Kimlik doğrulama belirteciniz, Modrinth API, Minotaur Gradle eklentisi ve Modrinth API'yle etkileşime giren diğer uygulamalarla kullanılabilir. Bunu saklı tuttuğunuzdan emin olun!",
+      "copy": "Belirteci panoya kopyala",
+      "copied": "Belirteç panoya kopyalandı",
+      "revoke": "Belirteci iptal et"
     },
     "revoke_token": {
-      "title": "Modrinth jetonunu iptal et",
-      "body": "Modrinth tokeninizi iptal etmenin istenmeyen sonuçları olabilir. Lütfen aşağıdakilerinin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a geçersiz token verildiyse, Gradle yapılarınızda hata oluşabilir.\n - GitHub - eğer Modrinth API'sini kullanan bir GitHub Action'ı kullanıyorsanız, hataya sebep verecek.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub üzerinden Modrinth Uygulama sayfasına](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) geçin. Modrinth için kullanmış olduğunuz GitHub hesabıyla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kez bu adımları tamamladığınızda, aşağıdaki \"Çıkış yap\" tuşuna basın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracak, ancak geri giriş yaptığınızda, tokeniniz yeniden oluşturulacak.**",
+      "title": "Modrinth belirtecini iptal et",
+      "body": "Modrinth tokeninizi iptal etmenin istenmeyen sonuçları olabilir. Lütfen aşağıdakilerinin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a geçersiz token verildiyse, Gradle derlemelerinizde hata oluşabilir.\n - GitHub - eğer Modrinth API'sini kullanan bir GitHub Action'ı kullanıyorsanız, hataya sebep verecek.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub üzerinden Modrinth Uygulama sayfasına](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) geçin. Modrinth için kullanmış olduğunuz GitHub hesabıyla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kez bu adımları tamamladığınızda, aşağıdaki \"Çıkış yap\" tuşuna basın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracak, ancak geri giriş yaptığınızda, tokeniniz yeniden oluşturulacak.**",
       "action": "Çıkış yap"
     }
   },
