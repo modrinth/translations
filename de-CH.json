@@ -1,101 +1,101 @@
 {
   "locale": {
-    "no_translation": "Aufgrund des Inhalts dieser Seite ist die offizielle Version nur in Englisch verfügbar."
+    "no_translation": "Uf grund vo vom inhalt vo därä websitä isch dä inhalt nur uf änglisch verfüägbar."
   },
   "index": {
-    "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
-    "description": "Finde spassige und hochwertige Minecraft Inhalte auf unserere Quelloffenen Modplatform - erstellt für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Project mit unserer vollständig dokumentierten API!",
+    "tagline": "Entdeck, spil, und erstell Minecraft Content",
+    "description": "Find spassigi und hochwertigi Minecraft inhalt uf oisärä quällä ofänä Modplattform - erstellt fürd community. Erstell öpis und wird bezahlt, und veröfentlichä dis projekt mit öisärä volständig dokumentiärtä API!",
     "features": {
       "book": {
-        "title": "Einfach anwendbare API",
-        "description": "Gestützt von einer vollständig dokumentierten API, die Launcher und weitere Integrationen von Dritten erlaubt."
+        "title": "Eifach verwendbari API",
+        "description": "Gschüzt vorernere vollständige dokumentierte API, wo Launcher und wiiter Integratione von Dritte erlaubt."
       },
       "coin": {
-        "title": "Ersteller-Einnahmen",
-        "description": "Wir planen, Autoren 100% der Werbeeinnahmen ihrer Projectseiten zu geben. *Auszahlungen sind aktuell in der Entwicklung."
+        "title": "Ersteller-Inahme",
+        "description": "Mir planed, Autore 100% vode Werbeihname vo irem projekt zgäh. *Uuszahlige sind aktuell ide Entwicklig."
       },
       "speedometer": {
-        "title": "Blitzschnelle Suche",
+        "title": "Blitzschnälli suächi",
         "description": "Angetrieben von schnellen und anpassbaren Suchalgorithmen, damit du nicht warten musst."
       },
       "chat": {
-        "title": "Hilsbereite Community",
-        "description": "Erhalte support, entwickle etwas und hänge auf unserem Discord Server mit über 1'500 Mitgliedern ab."
+        "title": "Hilfsbereiti community",
+        "description": "Bechum support, entwiklä, und chill uf öisäm Discord server mit über 1500 members."
       },
       "puzzle": {
-        "title": "Von Grund auf erweiterbar",
+        "title": "Vo Design uf erweiterbar",
         "description": "Integriert in Entwicklungswerkzeuge, Repositories, Launcher und benutzerdefinierten Anwendungen."
       },
       "tools": {
-        "title": "Vollständig Quelloffen",
-        "description": "Ein Quelloffenes Project, entwickelt von einer aktiven Community welche Beiträge willkommen heisst."
+        "title": "Komplett opensource",
+        "description": "Es Open source Projekt, entwicklet vonere aktiven Community wo Biträg willkomme heisst."
       }
     }
   },
   "header": {
     "my_profile": "Zu meinem Profil",
-    "logout": "Abmelden",
-    "github": "Mit GitHub anmelden"
+    "logout": "Uuuslogge",
+    "github": "Mit GitHub amelden"
   },
   "footer": {
-    "description": "Modrinth ist quelloffene Software.",
+    "description": "Modrinth isch ä Open Source Software.",
     "legal": {
-      "heading": "Rechtliches",
-      "terms": "AGB",
-      "privacy": "Datenschutz",
-      "rules": "Regeln"
+      "heading": "Rächtliches",
+      "terms": "Terms",
+      "privacy": "Dateschutz",
+      "rules": "Regle"
     },
     "resources": {
-      "heading": "Ressourcen",
+      "heading": "Ressource",
       "blog": "Blog",
-      "docs": "Dokumentation"
+      "docs": "Docs"
     },
     "buttons": {
-      "privacy": "Datenschutzeinstellungen",
+      "privacy": "Dateschutzistellige",
       "theme": {
-        "label": "Farbschema ändern",
-        "system": "Systemweites Farbschema",
-        "light": "Heller Modus",
-        "dark": "Dunkler Modus",
+        "label": "Theme ändere",
+        "system": "System theme",
+        "light": "Hell Modus",
+        "dark": "Dunkel Modus",
         "oled": "OLED Modus"
       },
       "language": {
-        "label": "Sprache auswählen"
+        "label": "Sprache uswähle"
       }
     }
   },
   "error": {
-    "status": "{status} Fehler",
+    "status": "{status} Fähler",
     "message": {
-      "404": "Oh oh, siehst so aus als wärst du im [Labyrinth](https://github.com/modrinth/labrinth) verloren gegangen.<br />Die Seite nach der du suchst konnte nicht gefunden werden.",
-      "project_missing": "Die {type} nach dem du gesucht hast konnte nicht gefunden werden.",
-      "default": "Ein unerwarteter Fehler ist aufgetreten."
+      "404": "Oh dumm glaufe, du hesch dich wohl im [Labyrinth](https://github.com/modrinth/labrinth) verirrt.<br />Di Siite da gits nämlich gahr nöd.",
+      "project_missing": "De {type} wonach du gsuecht hesch, finded mir i eusere Datebank leider nid.",
+      "default": "En unerwartete Fehler ist uftrete."
     },
     "actions": {
-      "home": "Zur Startseite",
-      "discord": "Erhalte Hilfe im englischen Discord"
+      "home": "Startsiite",
+      "discord": "Hilf gits im Discord"
     }
   },
   "pages": {
-    "description": "Beschreibung",
+    "description": "Beschribig",
     "gallery": "Galerie",
-    "changelog": "Änderungen",
+    "changelog": "Änderigslischte",
     "versions": "Versionen",
-    "settings": "Einstellungen",
+    "settings": "Istellige",
     "moderation": "Moderation",
-    "notifications": "Benachrichtigungen",
-    "about": "Über uns",
-    "following": "Abonniert",
-    "terms": "Nutzunsbedingungen",
-    "privacy": "Datenschutzerklärung",
+    "notifications": "Benachrichtigunge",
+    "about": "Über eus",
+    "following": "Gfolgt",
+    "terms": "Nuterbedinige",
+    "privacy": "Datenschutzerklärige",
     "rules": "Projektregeln",
-    "all": "Alle"
+    "all": "Alles"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "Lizenz",
-        "plural": "Lizenzen"
+        "singular": "Lizenze",
+        "plural": "Lizenzene"
       },
       "project_id": "Projekt ID",
       "project_status": "Projektstatus",
