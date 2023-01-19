@@ -1,101 +1,101 @@
 {
   "locale": {
-    "no_translation": "Uf grund vo vom inhalt vo därä websitä isch dä inhalt nur uf änglisch verfüägbar."
+    "no_translation": "Aufgrund des Inhalts dieser Seite ist die offizielle Version nur in Englisch verfügbar."
   },
   "index": {
-    "tagline": "Entdeck, spil, und erstell Minecraft Content",
-    "description": "Find spassigi und hochwertigi Minecraft inhalt uf oisärä quällä ofänä Modplattform - erstellt fürd community. Erstell öpis und wird bezahlt, und veröfentlichä dis projekt mit öisärä volständig dokumentiärtä API!",
+    "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
+    "description": "Finde spassige und hochwertige Minecraft Inhalte auf unserere Quelloffenen Modplatform - erstellt für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Project mit unserer vollständig dokumentierten API!",
     "features": {
       "book": {
-        "title": "Eifach verwendbari API",
-        "description": "Gschüzt vorernere vollständige dokumentierte API, wo Launcher und wiiter Integratione von Dritte erlaubt."
+        "title": "Einfach anwendbare API",
+        "description": "Gestützt von einer vollständig dokumentierten API, die Launcher und weitere Integrationen von Dritten erlaubt."
       },
       "coin": {
-        "title": "Ersteller-Inahme",
-        "description": "Mir planed, Autore 100% vode Werbeihname vo irem projekt zgäh. *Uuszahlige sind aktuell ide Entwicklig."
+        "title": "Ersteller-Einnahmen",
+        "description": "Wir planen, Autoren 100% der Werbeeinnahmen ihrer Projektseiten zu geben. *Auszahlungen sind aktuell in der Entwicklung."
       },
       "speedometer": {
-        "title": "Blitzschnälli suächi",
+        "title": "Blitzschnelle Suche",
         "description": "Angetrieben von schnellen und anpassbaren Suchalgorithmen, damit du nicht warten musst."
       },
       "chat": {
-        "title": "Hilfsbereiti community",
-        "description": "Bechum support, entwiklä, und chill uf öisäm Discord server mit über 1500 members."
+        "title": "Hilsbereite Community",
+        "description": "Erhalte support, entwickle etwas und hänge auf unserem Discord Server mit über 1'500 Mitgliedern ab."
       },
       "puzzle": {
-        "title": "Vo Design uf erweiterbar",
+        "title": "Von Grund auf erweiterbar",
         "description": "Integriert in Entwicklungswerkzeuge, Repositories, Launcher und benutzerdefinierten Anwendungen."
       },
       "tools": {
-        "title": "Komplett opensource",
-        "description": "Es Open source Projekt, entwicklet vonere aktiven Community wo Biträg willkomme heisst."
+        "title": "Vollständig Quelloffen",
+        "description": "Ein Quelloffenes Project, entwickelt von einer aktiven Community welche Beiträge willkommen heisst."
       }
     }
   },
   "header": {
     "my_profile": "Zu meinem Profil",
-    "logout": "Uuuslogge",
-    "github": "Mit GitHub amelden"
+    "logout": "Abmelden",
+    "github": "Mit GitHub anmelden"
   },
   "footer": {
-    "description": "Modrinth isch ä Open Source Software.",
+    "description": "Modrinth ist quelloffene Software.",
     "legal": {
-      "heading": "Rächtliches",
-      "terms": "Terms",
-      "privacy": "Dateschutz",
-      "rules": "Regle"
+      "heading": "Rechtliches",
+      "terms": "AGB",
+      "privacy": "Datenschutz",
+      "rules": "Regeln"
     },
     "resources": {
-      "heading": "Ressource",
+      "heading": "Ressourcen",
       "blog": "Blog",
-      "docs": "Docs"
+      "docs": "Dokumentation"
     },
     "buttons": {
-      "privacy": "Dateschutzistellige",
+      "privacy": "Datenschutzeinstellungen",
       "theme": {
-        "label": "Theme ändere",
-        "system": "System theme",
-        "light": "Hell Modus",
-        "dark": "Dunkel Modus",
+        "label": "Farbschema ändern",
+        "system": "Systemweites Farbschema",
+        "light": "Heller Modus",
+        "dark": "Dunkler Modus",
         "oled": "OLED Modus"
       },
       "language": {
-        "label": "Sprache uswähle"
+        "label": "Sprache auswählen"
       }
     }
   },
   "error": {
-    "status": "{status} Fähler",
+    "status": "{status} Fehler",
     "message": {
-      "404": "Oh dumm glaufe, du hesch dich wohl im [Labyrinth](https://github.com/modrinth/labrinth) verirrt.<br />Di Siite da gits nämlich gahr nöd.",
-      "project_missing": "De {type} wonach du gsuecht hesch, finded mir i eusere Datebank leider nid.",
-      "default": "En unerwartete Fehler ist uftrete."
+      "404": "Oh oh, siehst so aus als wärst du im [Labyrinth](https://github.com/modrinth/labrinth) verloren gegangen.<br />Die Seite nach der du suchst konnte nicht gefunden werden.",
+      "project_missing": "Die {type} nach dem du gesucht hast konnte nicht gefunden werden.",
+      "default": "Ein unerwarteter Fehler ist aufgetreten."
     },
     "actions": {
-      "home": "Startsiite",
-      "discord": "Hilf gits im Discord"
+      "home": "Zur Startseite",
+      "discord": "Erhalte Hilfe im englischen Discord"
     }
   },
   "pages": {
-    "description": "Beschribig",
+    "description": "Beschreibung",
     "gallery": "Galerie",
-    "changelog": "Änderigslischte",
+    "changelog": "Änderungen",
     "versions": "Versionen",
-    "settings": "Istellige",
+    "settings": "Einstellungen",
     "moderation": "Moderation",
-    "notifications": "Benachrichtigunge",
-    "about": "Über eus",
-    "following": "Gfolgt",
-    "terms": "Nuterbedinige",
-    "privacy": "Datenschutzerklärige",
+    "notifications": "Benachrichtigungen",
+    "about": "Über uns",
+    "following": "Abonniert",
+    "terms": "Nutzunsbedingungen",
+    "privacy": "Datenschutzerklärung",
     "rules": "Projektregeln",
     "all": "Alles"
   },
   "generic": {
     "labels": {
       "license": {
-        "singular": "Lizenze",
-        "plural": "Lizenzene"
+        "singular": "Lizenz",
+        "plural": "Lizenzen"
       },
       "project_id": "Projekt ID",
       "project_status": "Projektstatus",
@@ -137,7 +137,7 @@
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Umbgebung",
+      "singular": "Umgebung",
       "plural": "Umgebungen",
       "server_side": "Serverseitig",
       "client_side": "Clientseitig",
@@ -204,7 +204,7 @@
     "advanced": "Erweitert",
     "visibility": {
       "title": "Sichtbarkeit",
-      "description": "Dieses Projekt ist actuell {status}.",
+      "description": "Dieses Projekt ist aktuell {status}.",
       "action": "Sichtbarkeit ändern"
     },
     "ownership": {
@@ -220,7 +220,7 @@
     "dependencies": "Abhängigkeiten",
     "metadata": "Metadaten",
     "release_channel": "Veröffentlichungskanal",
-    "number": "Versionsnumme",
+    "number": "Versionsnummer",
     "publication_date": "Veröffentlichungsdatum",
     "publisher": "Veröffentlicher"
   },
@@ -269,7 +269,7 @@
     "followers": "{followers, plural, one {<b>#</b> Abonnent} other {<b>#</b> Abonnenten}}",
     "user_id": "Nutzer ID: {id}",
     "created": "Erstellt {ago}",
-    "updated": "Aktualisier {ago}"
+    "updated": "Aktualisiert {ago}"
   },
   "settings": {
     "username": {
@@ -330,7 +330,7 @@
     "console": {
       "line1": "Du verwendest einen Adblocker.",
       "line2": "Dein Adblocker hat verhindert, das Modrinth eine Werbung - unsere einzige Einnahmequelle - zeigen konnte.",
-      "line3": "Wenn du Modrinth helfen willst, ohen Werbung zu sehen, kannst du zu Modrinth auf GitHub beitragen!",
+      "line3": "Wenn du Modrinth helfen willst, ohne Werbung zu sehen, kannst du zu Modrinth auf GitHub beitragen!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -343,35 +343,35 @@
       },
       "project": {
         "title": "Projekt löschen",
-        "description": "Das löschen eines Projekts entfernt sämtliche Projektdaten, inklusive versionen.",
+        "description": "Das löschen eines Projekts entfernt sämtliche Projektdaten, inklusive Versionen.",
         "action": "Projekt löschen"
       },
       "version": {
         "title": "Version löschen",
-        "description": "Bist du dir sicher, dass du diese Version löschen willst? Sämtliche Dateien und Metadaten werden unwiederuflich verloren gehen.",
+        "description": "Bist du dir sicher, dass du diese Version löschen willst? Sämtliche Dateien und Metadaten werden unwiderruflich verloren gehen.",
         "action": "Version löschen"
       },
       "account": {
         "title": "Bist du dir sicher, dass du das tun willst?",
-        "description": "Dies wird **alle deine Projekte sofort löschen**, inklusive Abonnenten. Das löschen deines Accounts kann nicht ungeschehen gemacht werden\n\nWenn du hilfe mit deinem Account brauchstm kannst du auf dem [englischen Modrinth Discord](/discord) fragen.",
-        "action": "Ja, mein Account unwiederruflich löschen"
+        "description": "Dies wird **alle deine Projekte sofort löschen**, inklusive Abonnenten. Das löschen deines Accounts kann nicht ungeschehen gemacht werden\n\nWenn du Hilfe mit deinem Account brauchst, kannst du auf dem [englischen Modrinth Discord](/discord) fragen.",
+        "action": "Ja, mein Account unwiderruflich löschen"
       },
       "image": {
         "title": "Galeriebild löschen",
-        "description": "Bist du dir sicher, dass du dieses Bild und seine Metadaten löschen willst? Diese Aktion kann nicht rückgangig gemacht werden.",
+        "description": "Bist du dir sicher, dass du dieses Bild und seine Metadaten löschen willst? Diese Aktion kann nicht rückgängig gemacht werden.",
         "action": "Bild löschen"
       }
     },
     "report": {
       "generic": {
-        "description": "Modden sollte sicher für jeden sein, darum nehmen wir bei Modrinth Missbrauch und schädliche Absichten ernst. Wir möchten über schädlichen Content auf unserer Seite, welche unsere [AGB](/legal/terms) und [Regeln](/legal/rules) verletzt hören. Sei versichert, dass wir deine Identität geheim halten werden.",
+        "description": "Modden sollte sicher für jeden sein, darum nehmen wir bei Modrinth Missbrauch und schädliche Absichten ernst. Wir möchten über schädliche Inhalte auf unserer Seite, welche unsere [AGB](/legal/terms) und [Regeln](/legal/rules) verletzen hören. Sei versichert, dass wir deine Identität geheim halten werden.",
         "fields": {
           "reason": {
             "label": "Grund"
           },
           "information": {
             "label": "Weitere Informationen",
-            "helper": "Wenn möglich, füge Links und Bilder hinzu. Markdown Formattierung wird unterstützt.",
+            "helper": "Wenn möglich, füge Links und Bilder hinzu. Markdown Formatierung wird unterstützt.",
             "placeholder": "Füge weitere Informationen hinzu..."
           }
         }
@@ -393,7 +393,7 @@
         "action": "Weiter",
         "fields": {
           "project_type": {
-            "label": "Projetktyp"
+            "label": "Projekttyp"
           },
           "name": {
             "label": "Name",
@@ -436,8 +436,8 @@
           },
           "moderation_message": {
             "label": "Moderationsnachricht",
-            "helper": "Füge optionale informationen hinzu um das Problem mit dem Team eines Projekts zu besprechen. Markdown formattierung wird unterstützt.",
-            "placeholder": "Füge weitere informationen hinzu..."
+            "helper": "Füge optionale Informationen hinzu, um das Problem mit dem Team eines Projekts zu besprechen. Markdown Formatierung wird unterstützt.",
+            "placeholder": "Füge weitere Informationen hinzu..."
           }
         }
       }
