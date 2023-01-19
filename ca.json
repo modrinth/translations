@@ -241,60 +241,60 @@
       "newest": "Creat recentment",
       "updated": "Actualitzats recentment"
     },
-    "per_page": "Show per page"
+    "per_page": "Mostrar per pàgina"
   },
   "status": {
-    "approved": "Approved",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "approved": "Aprovat",
+    "rejected": "Rebutjat",
+    "draft": "Esborrany",
+    "unlisted": "No llistat",
+    "processing": "En revisió",
+    "unknown": "Desconegut"
   },
   "release_channels": {
-    "release": "Release",
+    "release": "Llançament",
     "beta": "Beta",
-    "alpha": "Alpha"
+    "alpha": "Alfa"
   },
   "roles": {
-    "developer": "Developer",
-    "admin": "Admin",
-    "moderator": "Moderator"
+    "developer": "Desenvolupador/a",
+    "admin": "Administrador/a",
+    "moderator": "Moderador/a"
   },
   "stats": {
-    "joined": "Joined {ago}",
+    "joined": "Es va unir fa {ago}",
     "notified": "Notificat fa {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "downloads": "{downloads, plural, one {<b>#</b> descarrega}other {<b>#</b> descarregues}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> seguidor dels projectes} other {<b>#</b> seguidors dels projectes}}",
+    "followers": "{followers, plural, one {<b>#</b> seguidor}other {<b>#</b> seguidors}}",
+    "user_id": "ID d'usuari/a: {id}",
+    "created": "Creat fa {ago}",
+    "updated": "Actualitzat fa {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "Nom d'usuari/a",
+      "placeholder": "Afegir un nom d'usuari/a..."
     },
     "bio": {
-      "text": "Bio",
-      "placeholder": "Add a bio..."
+      "text": "Biografia",
+      "placeholder": "Afegeix una biografia..."
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "Correu electrònic privat",
+      "helper": "Sols visible per els moderadors.",
+      "placeholder": "Afegeix un correu electrònic..."
     },
     "avatar": "Pujar avatar"
   },
   "report": {
-    "singular": "Report",
+    "singular": "Informa",
     "plural": "Reports",
     "type": {
       "spam": "Contingut brossa",
       "copyright": "Copyright",
       "inappropriate": "Inadequat",
-      "malicious": "Malicious",
+      "malicious": "Maliciós",
       "name-squatting": "Robatori de nom",
       "other": "Altres"
     }
@@ -306,10 +306,10 @@
     },
     "delete": {
       "title": "Esborrar compte",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "Un cop has esborrat el teu compte, no hi ha marxa enrere. Esborrar el teu compte eliminarà tota la informació relacionada, inclosos projectes, dels nostres servidors."
     },
     "auth": {
-      "title": "Authorization token",
+      "title": "Token d'autenticació",
       "body": "El token d'autorització pot utilitzar-se per l'API de Modrinth, el connector de Gradel anomenat Minotaur i altres aplicacions que interactuen amb l'API de Modrinth. Assegura't de mantenir-ho secret!",
       "copy": "Copiar el token al porta-retalls",
       "copied": "Token copiat al porta-retalls",
@@ -317,8 +317,8 @@
     },
     "revoke_token": {
       "title": "Revocar el token de Modrinth",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
-      "action": "Log out"
+      "body": "Revocar el teu token de Modrinth pot tenir conseqüències imprevistes. Si us plau, sigues conscient de que el següent es pot trencar:\n - Qualsevol aplicació que utilitza el teu token per accedir a l'API.\n - Gradle - si Minotaur rep un token incorrecte, la compilació amb Gradle pot fallar.\n - GitHub - si utilitzes una acció de GitHub que utilitza l'API del Modrinth, pot provocar errors.\n\nSi realment vols continuar, completa les següents passes:\n\n 1. Accedeix a [la pàgina d'Aplicació de Modrinth a GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Assegura't de estar connectat amb el compte de GitHub que vas utilitzar per Modrinth!\n 2. Pressiona el botó vermell gran que diu \"Revocar accés\" al costat del títol \"Permisos\".\n\nUn cop has completat aquests passos, pressiona el botó \"Tancar sessió\" de sota.\n\n**Això tancarà la teva sessió de Modrinth, però, quan tornis a iniciar-la, el teu token es tornarà a generar**",
+      "action": "Tancar la sessió"
     }
   },
   "images": {
@@ -326,11 +326,11 @@
     "how_to": "Arrossega i deixa anar per pujar-ho o clica per seleccionar"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "Un anunci que respecta la teva privacitat s'hauria mostrat aquí.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "Estàs utilitzant un bloquejador d'anuncis.",
+      "line2": "El teu bloquejador d'anuncis ha evitat que Modrinth et mostrés un anunci, la nostra única font de ingressos.",
+      "line3": "Si tot i així vols ajudar a Modrinth sense veure anuncis, pots contribuir a Modrinth a GitHub!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -436,7 +436,7 @@
           },
           "moderation_message": {
             "label": "Missatge de moderació",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
+            "helper": "Opcionalment inclou informació per comunicar als membres del equip del projecte. Markdown està suportat.",
             "placeholder": "Enter additional information..."
           }
         }
