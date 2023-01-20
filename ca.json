@@ -267,14 +267,14 @@
     "downloads": "{downloads, plural, one {<b>#</b> descarrega}other {<b>#</b> descarregues}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> seguidor dels projectes} other {<b>#</b> seguidors dels projectes}}",
     "followers": "{followers, plural, one {<b>#</b> seguidor}other {<b>#</b> seguidors}}",
-    "user_id": "ID d'usuari/a: {id}",
+    "user_id": "ID d'usuari: {id}",
     "created": "Creat fa {ago}",
     "updated": "Actualitzat fa {ago}"
   },
   "settings": {
     "username": {
-      "text": "Nom d'usuari/a",
-      "placeholder": "Afegir un nom d'usuari/a..."
+      "text": "Nom d'usuari",
+      "placeholder": "Afegir un nom d'usuari..."
     },
     "bio": {
       "text": "Biografia",
@@ -437,41 +437,41 @@
           "moderation_message": {
             "label": "Missatge de moderació",
             "helper": "Opcionalment inclou informació per comunicar als membres del equip del projecte. Markdown està suportat.",
-            "placeholder": "Enter additional information..."
+            "placeholder": "Introdueix informació addicional..."
           }
         }
       }
     }
   },
   "tags": {
-    "technology": "Technology",
-    "adventure": "Adventure",
-    "magic": "Magic",
-    "utility": "Utility",
-    "decoration": "Decoration",
-    "library": "Library",
-    "cursed": "Cursed",
-    "worldgen": "World generation",
-    "storage": "Storage",
-    "food": "Food",
-    "equipment": "Equipment",
-    "miscellaneous": "Miscellaneous",
-    "challenging": "Challenging",
+    "technology": "Tecnologia",
+    "adventure": "Aventura",
+    "magic": "Màgia",
+    "utility": "Utilitat",
+    "decoration": "Decoració",
+    "library": "Llibreria",
+    "cursed": "Extrany",
+    "worldgen": "Generació de mon",
+    "storage": "Emmagatzematge",
+    "food": "Menjar",
+    "equipment": "Equipament",
+    "miscellaneous": "Altres",
+    "challenging": "Desafiant",
     "combat": "Combat",
-    "kitchen-sink": "Kitchen Sink",
-    "lightweight": "Lightweight",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "kitchen-sink": "Una mica de tot",
+    "lightweight": "Lleuger",
+    "multiplayer": "Multijugador",
+    "quests": "Missions",
+    "optimization": "Optimització",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
+    "server": "Servidor",
     "client": "Client",
-    "good": "Good",
-    "trash": "Trash",
-    "misc": "Miscellaneous"
+    "good": "Bo",
+    "trash": "Brossa",
+    "misc": "Altres"
   }
 }
