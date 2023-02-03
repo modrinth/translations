@@ -8,7 +8,7 @@
     "features": {
       "book": {
         "title": "Łatwe w użyciu API",
-        "description": "W pełni udokumentowany interfejs API ułatwiający rozwój integracji i launcherów innych firm."
+        "description": "W pełni udokumentowany interfejs API ułatwiający rozwój integracji i launcherów stron trzecich."
       },
       "coin": {
         "title": "Zarobki twórców",
@@ -193,8 +193,8 @@
       "edit_details": "Edytowanie szczegółów",
       "edit_body": "Edytowanie treści",
       "manage_invites": "Zarządzanie zaproszeniami",
-      "remove_member": "Usuwanie członków",
-      "edit_member": "Edytowanie członków",
+      "remove_member": "Usuń członków",
+      "edit_member": "Edytuj członków",
       "delete_project": "Usuń projekt"
     },
     "role": {
@@ -294,7 +294,7 @@
       "spam": "Spam",
       "copyright": "Prawa autorskie",
       "inappropriate": "Nieodpowiedni",
-      "malicious": "Złośliwy",
+      "malicious": "Złośliwe",
       "name-squatting": "Skradziona nazwa",
       "other": "Inne"
     }
@@ -450,7 +450,7 @@
     "utility": "Narzędzia",
     "decoration": "Dekoracja",
     "library": "Biblioteka",
-    "cursed": "Cursed",
+    "cursed": "Przeklęte",
     "worldgen": "Generacja świata",
     "storage": "Magazynowanie",
     "food": "Jedzenie",
@@ -459,7 +459,7 @@
     "challenging": "Wyzwanie",
     "combat": "Walka",
     "kitchen-sink": "Zlew kuchenny",
-    "lightweight": "Niskie wymagania",
+    "lightweight": "Lekkie",
     "multiplayer": "Wieloosobowy",
     "quests": "Zadania",
     "optimization": "Optymalizacja",
