@@ -3,7 +3,7 @@
     "no_translation": "ด้วยเหตุผลทางกฎหมาย ฉบับทางการของหน้านี้มีเฉพาะภาษาอังกฤษเท่านั้น"
   },
   "index": {
-    "tagline": "ค้นหา เล่นและสร้างม็อดมายคราฟ",
+    "tagline": "ค้นหา เล่น และสร้างม็อดมายคราฟ",
     "description": "พบกับคอนเทนต์ที่สนุกและมีคุณภาพผ่านแพลตฟอร์มการม็อดแบบโอเพนซอร์สของพวกเรา ที่สร้างขึ้นมาเพื่อชาวคอมมูนิตี้โดยเฉพาะ สร้างผลงาน สร้างรายได้* และใช้งานโปรเจกต์ของคุณเพียบพร้อมด้วย API ที่ผ่านการบันทึกมาอย่างดี",
     "features": {
       "book": {
@@ -326,7 +326,7 @@
     "how_to": "Drag and drop to upload or click to select"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "โฆษณาที่เคารพความเป็นส่วนตัวของคุณจะแสดงขึ้นที่นี่",
     "console": {
       "line1": "คุณกำลังใช้ตัวบล็อกโฆษณาอยู่",
       "line2": "ตัวบล็อกโฆษณาของคุณกีดกันไม่ให้ Modrinth แสดงโฆษณา ซึ่งเป็นแหล่งรายได้ทางเดียวของพวกเราได้",
@@ -377,10 +377,10 @@
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "รายงานโปรเจกต์"
       },
       "version": {
-        "action": "Report version"
+        "action": "รายงานเวอร์ชัน"
       },
       "user": {
         "action": "แจ้งพบผู้ใช้ที่ไม่เหมาะสม"
@@ -397,33 +397,33 @@
           },
           "name": {
             "label": "ชื่อโปรเจกต์",
-            "placeholder": "Enter project name..."
+            "placeholder": "กรอกชื่อโปรเจกต์"
           },
           "summary": {
             "label": "สรุป",
             "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "placeholder": "สรุปใจความสั้น ๆ เกี่ยวกับโปรเจกต์ของคุณ"
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
+        "title": "เพิ่มรูปภาพลงแกลเลอรี่",
         "action": "เพิ่มรูป",
         "fields": {
           "title": {
             "label": "ชื่อ",
-            "placeholder": "Enter image title..."
+            "placeholder": "กรอกหัวข้อของรูปภาพ"
           },
           "description": {
             "label": "คำอธิบาย",
-            "placeholder": "Enter image description..."
+            "placeholder": "กรอกคำอธิบายรูปภาพ"
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
+        "title": "เปลี่ยนสถานะของโปรเจกต์",
         "action": "ยืนยัน",
         "fields": {
           "status": {
@@ -435,9 +435,9 @@
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "ข้อความจากฝ่ายคัดกรอง",
+            "helper": "เพิ่มข้อมูลแบบไม่บังคับเพื่อติดต่อปัญหากับสมาชิกของทีมโปรเจกต์ สามารถใช้ฟอร์แมท Markdown ร่วมด้วยได้",
+            "placeholder": "กรอกข้อมูลเพิ่มเติม"
           }
         }
       }
@@ -447,22 +447,22 @@
     "technology": "เทคโนโลยี",
     "adventure": "ผจญภัย",
     "magic": "เวทมนตร์",
-    "utility": "Utility",
+    "utility": "เครื่องมือ",
     "decoration": "ของตกแต่ง",
     "library": "ไลบรารี",
     "cursed": "มีเพื่อ?",
-    "worldgen": "World generation",
-    "storage": "Storage",
+    "worldgen": "การสร้างโลก",
+    "storage": "สิ่งจัดเก็บ",
     "food": "อาหาร",
     "equipment": "อุปกรณ์",
     "miscellaneous": "เบ็ดเตล็ด",
-    "challenging": "Challenging",
+    "challenging": "ท้าทาย",
     "combat": "ต่อสู้",
     "kitchen-sink": "ไม่เข้าพวก",
     "lightweight": "เบาเครื่อง",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "multiplayer": "ผู้เล่นหลายคน",
+    "quests": "ภารกิจ",
+    "optimization": "เพิ่มประสิทธิภาพ",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",
