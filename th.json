@@ -4,41 +4,41 @@
   },
   "index": {
     "tagline": "ค้นหา เล่นและสร้างม็อดมายคราฟ",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "description": "พบกับคอนเทนต์ที่สนุกและมีคุณภาพผ่านแพลตฟอร์มการม็อดแบบโอเพนซอร์สของพวกเรา ที่สร้างขึ้นมาเพื่อชาวคอมมูนิตี้โดยเฉพาะ สร้างผลงาน สร้างรายได้* และใช้งานโปรเจกต์ของคุณเพียบพร้อมด้วย API ที่ผ่านการบันทึกมาอย่างดี",
     "features": {
       "book": {
         "title": "API ใช้ง่าย",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "มี API ที่ผ่านการบันทึกมาอย่างดีคอยส่งเสริมการบูรณาการและลันเชอร์บุคคลที่สาม"
       },
       "coin": {
         "title": "รายได้ครีเอเตอร์",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "ให้ค่าตอบแทนจากโฆษณาจากหน้าเพจของโปรเจกต์แก่ครีเอเตอร์แบบเต็มร้อย *ระบบการจ่ายเงินยังอยู่ในระหว่างการพัฒนา"
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "การค้นหาที่รวดเร็วทันใจ",
+        "description": "ขับเคลื่อนด้วยอัลกอริทึมการค้นหาที่รวดเร็วและยืดหยุ่น เพื่อที่คุณจะไม่ต้องเสียเวลารออีกต่อไป"
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "มีคอมมูนิตี้ที่พร้อมช่วยเหลือคุณ",
+        "description": "รับการช่วยเหลือ พัฒนา และพูดคุยได้ทางเซิร์ฟเวอร์ Discord ที่มีสมาชิกกว่า 1,500 คน"
       },
       "puzzle": {
         "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "description": "เพียบพร้อมด้วยอุปกรณ์การสร้าง คลังเก็บข้อมูล Launcher และแอพพลิเคชันที่กำหนดได้เอง"
       },
       "tools": {
-        "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "title": "เป็นโอเพนซอร์สอย่างเต็มรูปแบบ",
+        "description": "เป็นโปรเจกต์โอเพนซอร์สควบคุมโดยคอมมูนิตี้ที่คอยต้อนรับการมีส่วนร่วมในการพัฒนา"
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
+    "my_profile": "ดูโปรไฟล์",
     "logout": "ออกจากระบบ",
     "github": "เข้าระบบผ่าน GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth เป็นซอฟต์แวร์แบบโอเพนซอร์ส",
     "legal": {
       "heading": "ช้อมูลด้านกฎหมาย",
       "terms": "ข้อตกลง",
@@ -51,13 +51,13 @@
       "docs": "คู่มือ"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "ตั้งค่าความเป็นส่วนตัว",
       "theme": {
         "label": "เปลี่ยนธีม",
         "system": "ธีมตามระบบ",
         "light": "Light mode",
         "dark": "Dark Mode",
-        "oled": "OLED mode"
+        "oled": "โหมด OLED"
       },
       "language": {
         "label": "เลือกภาษา"
