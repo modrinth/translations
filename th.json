@@ -42,7 +42,7 @@
     "legal": {
       "heading": "ช้อมูลด้านกฎหมาย",
       "terms": "ข้อตกลง",
-      "privacy": "การตั้งค่าความเป็นส่วนตัว",
+      "privacy": "ความเป็นส่วนตัว",
       "rules": "กฎ"
     },
     "resources": {
@@ -55,9 +55,9 @@
       "theme": {
         "label": "เปลี่ยนธีม",
         "system": "ธีมตามระบบ",
-        "light": "Light mode",
-        "dark": "Dark Mode",
-        "oled": "โหมด OLED"
+        "light": "ธีมสว่าง",
+        "dark": "ธีมมืด",
+        "oled": "ธีม OLED"
       },
       "language": {
         "label": "เลือกภาษา"
@@ -67,28 +67,28 @@
   "error": {
     "status": "{status} Error",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "ไม่พบหน้าเว็บเพจที่คุณกำลังมองหา เหมือนว่าคุณจะหลงเข้าไปใน[เขาวงกต](https://github.com/modrinth/labrinth)ซะแล้วสิ",
+      "project_missing": "ไม่พบ {type} ที่คุณกำลังมองหา",
+      "default": "เกิดข้อผิดพลาดกะทันหัน"
     },
     "actions": {
       "home": "กลับหน้าหลัก",
-      "discord": "Get help on Discord"
+      "discord": "ขอความช่วยเหลือทาง Discord"
     }
   },
   "pages": {
     "description": "คำอธิบาย",
     "gallery": "แกลเลอรี่",
     "changelog": "บันทึกการเปลี่ยนแปลง",
-    "versions": "รุ่น",
+    "versions": "เวอร์ชัน",
     "settings": "การตั้งค่า",
     "moderation": "การคัดกรอง",
     "notifications": "การแจ้งเตือน",
     "about": "เกี่ยวกับ",
-    "following": "ผู้ติดตาม",
+    "following": "สิ่งที่ติดตาม",
     "terms": "ข้อตกลงและเงื่อนไข",
     "privacy": "นโยบายความเป็นส่วนตัว",
-    "rules": "Project rules",
+    "rules": "กฎของโปรเจกต์",
     "all": "ทั้งหมด"
   },
   "generic": {
@@ -97,9 +97,9 @@
         "singular": "ใบอนุญาต",
         "plural": "ใบอนุญาต"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
+      "project_id": "ID ของโปรเจกต์",
+      "project_status": "สถานะของโปรเจกต์",
+      "minecraft_versions": "เวอร์ชันของ Minecraft",
       "mod_loaders": "Mod loaders",
       "categories": "หมวดหมู่",
       "downloads": "ยอดดาวน์โหลด",
@@ -110,9 +110,9 @@
       "edit": "แก้ไข",
       "follow": "ติดตาม",
       "unfollow": "เลิกติดตาม",
-      "feature": "Feature version",
-      "report": "แจ้งปัญหา",
-      "new_project": "New project",
+      "feature": "เวอร์ชันแนะนำ",
+      "report": "รายงาน",
+      "new_project": "สร้างโปรเจกต์ใหม่",
       "preview": "ดูตัวอย่าง",
       "download": "ดาวน์โหลด",
       "save": "บันทึก",
@@ -123,23 +123,23 @@
       "discard": "ยกเลิกการเปลี่ยนแปลง"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "โปรไฟล์ GitHub",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "ปัญหา",
+      "issues": "รายงานปัญหา",
       "source": "ซอร์ซโค้ด",
       "wiki": "วิกิ",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
+      "buy_me_a_coffee": "อุดหนุนกาแฟให้ผู้พัฒนา",
+      "github_sponsors": "เป็นสปอนเซอร์ให้ทาง GitHub",
       "donate": "บริจาค/สนับสนุน",
       "kofi": "Ko-fi"
     },
     "environments": {
       "singular": "Environment",
       "plural": "Environments",
-      "server_side": "ฝั่งเสิรฟ์เวอร์",
+      "server_side": "ฝั่งเซิรฟ์เวอร์",
       "client_side": "ฝั่งผู้เล่น",
       "values": {
         "required": "จำเป็นต้องใช้",
@@ -148,7 +148,7 @@
         "unknown": "ไม่ทราบ"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "คุณตามทันหมดแล้วเรียบร้อย!",
     "byline": "โดย <u>{author}</u>"
   },
   "project": {
@@ -156,71 +156,71 @@
       "mod": {
         "singular": "ม็อด",
         "plural": "ม็อด",
-        "search": "Search mods..."
+        "search": "ค้นหาม็อด"
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "ม็อดแพ็ก",
+        "plural": "ม็อดแพ็ก",
+        "search": "ค้นหาม็อดแพ็ก"
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
-      "featured_versions": "Featured versions",
+      "external_resources": "แหล่งที่มาภายนอก",
+      "featured_versions": "เวอร์ชันแนะนำ",
       "project_members": "สนาชิกโปรเจค",
-      "technical_information": "Technical information"
+      "technical_information": "ข้อมูลทางเทคนิค"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "อัพโหลดรูปภาพลงแกลเลอรี่",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "กรอกหัวข้อของรูปภาพ",
+        "description": "กรอกคำอธิบายรูปภาพ"
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "อัพโหลดเวอร์ชันใหม่"
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "placeholder": "กรอกรายละเอียดของโปรเจกต์",
+      "empty": "ไม่พบคำอธิบายของโปรเจกต์"
     },
     "members": "สมาชิกทั้งหมด",
     "permissions": "สิทธิ์",
     "permission": {
-      "upload_version": "Upload version",
+      "upload_version": "อัพโหลดเวอร์ชัน",
       "delete_version": "ลบเวอร์ชัน",
       "edit_details": "แก้ไขรายละเอียด",
       "edit_body": "แก้ไขคำอธิบาย",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
+      "manage_invites": "ควบคุมการเชิญ",
+      "remove_member": "นำสมาชิกออก",
+      "edit_member": "แก้ไขสมาชิก",
       "delete_project": "ลบโปรเจกต์"
     },
     "role": {
       "text": "หน้าที่",
-      "placeholder": "Enter roles..."
+      "placeholder": "ใส่บทบาท"
     },
     "advanced": "ตั้งค่าขั้นสูง",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "การเปิดเผย",
+      "description": "ในขณะนี้ โปรเจกต์นี้มีสถานะ {status}",
+      "action": "เปลี่ยนการเปิดเผย"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "โอนความเป็นเจ้าของ"
+      "title": "ความเป็นเจ้าของ",
+      "description": "โอนสถานะความเป็นเจ้าของ ๆ โปรเจกต์นี้ให้แก่ผู้ใช้อีกราย",
+      "action": "โอนสถานะความเป็นเจ้าของ"
     }
   },
   "version": {
     "featured": "แนะนำ",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
+    "autofeatured": "แนะนำโดยอัตโนมัติ",
+    "feature_action": "ฟีเจอร์",
+    "dependencies": "ความต้องการ",
     "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
+    "release_channel": "ช่องทางการปล่อย",
+    "number": "หมายเลขเวอร์ชัน",
     "publication_date": "วันที่เผยแพร่",
     "publisher": "ผู้สร้าง"
   },
@@ -229,61 +229,61 @@
       "clear": "ล้างตัวกรอง",
       "hide": "ซ่อนตัวกรอง",
       "show": "แสดงตัวกรอง",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
+      "show_snapshots": "แสดง Snapshot",
+      "search_versions": "ค้นหาเวอร์ชัน...",
       "licenses": "ใบอนุญาต"
     },
     "sort": {
       "by": "จัดลำดับโดย",
       "relevance": "ความเกี่ยวข้อง",
       "downloads": "ยอดดาวน์โหลด",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "อัพเดตเร็วๆนี้"
+      "follows": "จำนวนผู้ติดตาม",
+      "newest": "สร้างขึ้นล่าสุด",
+      "updated": "อัพเดตล่าสุด"
     },
-    "per_page": "Show per page"
+    "per_page": "จำนวนรายการต่อหน้า"
   },
   "status": {
     "approved": "อนุมัติแล้ว",
     "rejected": "ไม่อนุมัติ",
     "draft": "ฉบับร่าง",
     "unlisted": "ไม่เป็นสาธารณะ",
-    "processing": "Under review",
+    "processing": "อยู่ภายใต้การพิจารณา",
     "unknown": "ไม่ทราบ"
   },
   "release_channels": {
-    "release": "Release",
-    "beta": "Beta",
-    "alpha": "Alpha"
+    "release": "ตัวเต็ม",
+    "beta": "เบตา",
+    "alpha": "แอลฟา"
   },
   "roles": {
     "developer": "ผู้พัฒนา",
-    "admin": "แอดมิน",
+    "admin": "ผู้ดูแล",
     "moderator": "ผู้ดูแล"
   },
   "stats": {
-    "joined": "Joined {ago}",
-    "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "joined": "เข้าร่วมเมื่อ {ago}",
+    "notified": "แจ้งเตือนเมื่อ {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> ดาวน์โหลด} other {<b>#</b> ดาวน์โหลด}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> ผู้ติดตามโปรเจกต์} other {<b>#</b> ผู้ติดตามโปรเจกต์}}",
+    "followers": "{followers, plural, one {<b>#</b> ผู้ติดตาม} other {<b>#</b> ผู้ติดตาม}}",
+    "user_id": "ID ผู้ใช้: {id}",
+    "created": "สร้างขึ้นเมื่อ {ago}",
+    "updated": "อัพเดตเมื่อ {ago}"
   },
   "settings": {
     "username": {
       "text": "ชื่อผู้ใช้",
-      "placeholder": "Add a username..."
+      "placeholder": "ใส่ชื่อผู้ใช้"
     },
     "bio": {
       "text": "ประวัติ",
       "placeholder": "เพิ่มประวัติ"
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "อีเมลส่วนตัว",
+      "helper": "เปิดเผยเฉพาะกับผู้ดูแลเท่านั้น",
+      "placeholder": "ใส่อีเมล"
     },
     "avatar": "อัพโหลดรูปประจำตัว"
   },
@@ -301,18 +301,18 @@
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "กำลังโหลดโปรเจกต์ที่ติดตาม",
+      "none": "คุณยังไม่ได้ติดตามโปรเจกต์อะไรเลย"
     },
     "delete": {
       "title": "ลบบัญชี",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "เมื่อคุณลบบัญชีของคุณแล้ว คุณจะนำบัญชีกลับคืนมาไม่ได้อีก ข้อมูลต่าง ๆ ที่ติดกับบัญชี ซึ่งรวมทั้งโปรเจกต์ของคุณ ก็จะถูกลบออกไปจากเซิร์ฟเวอร์ของพวกเราพร้อมกับบัญชีของคุณด้วยเช่นกัน"
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
+      "title": "โทเค็นสำหรับการตรวจสอบ",
+      "body": "โทเค็นสำหรับการตรวจสอบของคุณสามารถใช้ร่วมกับ API ของ Modrinth ปลั๊กอินของ Minotaur Gradle และแอพพลิเคชันอื่น ๆ ที่มีปฏิสัมพันธ์กับ API ของ Modrinth ได้ด้วย อย่าเอาไปบอกใครนะ!",
+      "copy": "คัดลอกโทเค็นไปยังคลิปบอร์ด",
+      "copied": "คัดลอกโทเค็นไปยังคลิปบอร์ดเรียบร้อย",
       "revoke": "Revoke token"
     },
     "revoke_token": {
@@ -328,18 +328,18 @@
   "ads": {
     "privacy_respecting": "A privacy-respecting ad would have been shown here.",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "คุณกำลังใช้ตัวบล็อกโฆษณาอยู่",
+      "line2": "ตัวบล็อกโฆษณาของคุณกีดกันไม่ให้ Modrinth แสดงโฆษณา ซึ่งเป็นแหล่งรายได้ทางเดียวของพวกเราได้",
+      "line3": "หากคุณยังต้องการสนับสนุนทีมงาน Modrinth โดยที่ไม่ต้องดูโฆษณา คุณสามารถมีส่วนร่วมในการพัฒนา Modrinth บน GitHub ได้!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "เรื่องนี้สำคัญมาก",
+        "verify": "โปรดพิมพ์ <i>{key}</i> ลงในช่องด้านล่างนี้เพื่อยืนยัน",
+        "placeholder": "พิมพ์ที่นี่"
       },
       "project": {
         "title": "ลบโปรเจกต์",
@@ -388,7 +388,7 @@
     },
     "creation": {
       "project": {
-        "title": "สร้างโครงงาน",
+        "title": "สร้างโปรเจกต์",
         "description": "New projects are created as drafts, and can be found under your profile page.",
         "action": "ดำเนินการต่อ",
         "fields": {
@@ -396,7 +396,7 @@
             "label": "ประเภทโปรเจกต์"
           },
           "name": {
-            "label": "ชื่อโปรเจคท์",
+            "label": "ชื่อโปรเจกต์",
             "placeholder": "Enter project name..."
           },
           "summary": {
