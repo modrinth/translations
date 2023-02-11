@@ -98,7 +98,7 @@
         "plural": "Licences"
       },
       "project_id": "Project ID",
-      "project_status": "Project status",
+      "project_status": "Project Status",
       "minecraft_versions": "Minecraft versions",
       "mod_loaders": "Mod loaders",
       "categories": "Categories",
@@ -131,7 +131,7 @@
       "wiki": "Wiki",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Buy Me a Coffee",
+      "buy_me_a_coffee": "Buy me a coffee",
       "github_sponsors": "GitHub Sponsors",
       "donate": "Donate",
       "kofi": "Ko-fi"
