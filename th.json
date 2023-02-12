@@ -317,13 +317,13 @@
     },
     "revoke_token": {
       "title": "คืนค่าโทเค็น Modrinth ของคุณ",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "body": "การคืนค่าโทเค็น Modrinth ของคุณอาจทำให้พบกับผลที่ตามมาที่ไม่คาดคิดได้ โปรดระวังไว้ว่าสิ่งเหล่านี่้อาจเกิดพังขึ้นมาได้\n- แอพพลิเคชันที่ใช้โทเค็นของคุณในการเข้าถึง API\n- Gradle - ถ้าหาก Minotaur ได้รับโทเค็นที่ไม่ถูกต้อง Gradle Build ของคุณจะเกิดข้อผิดพลาดได้\n- GitHub - ถ้าคุณใช้ GitHub Action ที่ใช้ API ของ Modrinth จะเกิดข้อผิดพลาดขึ้นได้\n\nหากคุณต้องการดำเนินการต่อ โปรดทำตามสิ่งที่กล่าวข้างต้นต่อไปนี้\n\n1. ไปที่ [หน้าเพจแอพพลิเคชันของ Modrinth บน GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) และต้องมั่นใจว่าคุณได้ทำการเข้าสู่ระบบบัญชี GitHub ที่คุณใช้อยู่กับ Modrinth ไว้เรียบร้อยแล้วด้วย!\n2. กดปุ่มสีแดงขนาดใหญ่ที่เขียนว่า \"Revoke Access\" ข้าง ๆ หัวข้อ \"Permission\"\n\nเมื่อคุณได้ทำตามขั้นตอนเหล่านี้เรียบร้อยแล้ว ให้กดปุ่ม \"Log out\" ด้านล่าง\n\n**เมื่อทำเช่นนี้ จะออกจากระบบของ Modrinth อย่างไรก็ตาม เมื่อคุณเข้าสู่ระบบเข้ามาใหม่ โทเค็นของคุณจะถูกสร้างขึ้นมาใหม่**",
       "action": "ออกจากระบบ"
     }
   },
   "images": {
     "replace": "เปลี่ยนรูป",
-    "how_to": "Drag and drop to upload or click to select"
+    "how_to": "ลากไฟล์แล้ววางไว้ที่นี่ เพื่ออัพโหลด หรือคลิกเพื่อเลือกไฟล์"
   },
   "ads": {
     "privacy_respecting": "โฆษณาที่เคารพความเป็นส่วนตัวของคุณจะแสดงขึ้นที่นี่",
@@ -348,31 +348,31 @@
       },
       "version": {
         "title": "ลบเวอร์ชัน",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "คุณแน่ใจที่จะลบเวอร์ชันนี้หรือไม่? ไฟล์และ Metadata ทั้งหมดจะหายไปและไม่สามารถกู้คืนได้",
         "action": "ลบเวอร์ชัน"
       },
       "account": {
         "title": "คุณต้องการทำแบบนี้ใช่หรือไม่",
         "description": "เมื่อทำแบบนี้แล้ว**จะเป็นการลบโปรเจกต์ทั้งหมดของคุณ** และผู้ที่ติดตามคุณอยู่ด้วย เมื่อลบบัญชีไปแล้วจะไม่สามารถกู้กลับคืนมาได้\n\nหากคุณต้องการความช่วยเหลือกับบัญชีของคุณ สามารถติดต่อได้ที่ [Modrinth Discord](/discord)",
-        "action": "Yes, irrecoverably delete my account"
+        "action": "ใช่ ลบบัญชีของฉันอย่างถาวรเลย"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "title": "ลบรูปภาพในแกลเลอรี่",
+        "description": "คุณยืนยันหรือไม่ว่าจะลบรูปและ Metadata นี้หรือไม่? การดำเนินการนี้ไม่สามารถเลิกทำได้",
         "action": "ลบรูป"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "ด้วยความที่การม็อดต้องมีความปลอดภัยสำหรับทุกคน ดังนั้นเราจึงจริงจังกับเรื่องเจตนาร้ายหรือที่มิชอบมาก เราต้องการที่จะรับทราบเกี่ยวกับเนื้อหาที่รุนแรงบนเว็บไซต์ที่ละเมิด [ToS](/legal/terms) และ [Rules](legal/rules) พวกเราจะเก็บข้อมูลการระบุตัวตนไว้เป็นความลับ เพราะฉะนั้นวางใจพวกเราได้",
         "fields": {
           "reason": {
             "label": "เหตุผล"
           },
           "information": {
             "label": "ข้อมูลเพิ่มเติม",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "helper": "โปรดระบุลิงก์และรูปภาพ ถ้ามี ฟอร์แมท Markdown สามารถใช้ได้",
+            "placeholder": "กรอกข้อมูลเพิ่มเติม"
           }
         }
       },
@@ -389,7 +389,7 @@
     "creation": {
       "project": {
         "title": "สร้างโปรเจกต์",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "description": "โปรเจกต์ใหม่ ๆ จะถูกสร้างขึ้นเป็นแบบร่าง และจะสามารถพบได้ด้านล่างของหน้าโปรไฟล์ของคุณ",
         "action": "ดำเนินการต่อ",
         "fields": {
           "project_type": {
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "สรุป",
-            "helper": "This appears in search and on the sidebar of your project's page.",
+            "helper": "สิ่งนี้จะปรากฏอยู่ในการค้นหาและแถบด้านข้างของหน้าโปรเจกต์ของคุณ",
             "placeholder": "สรุปใจความสั้น ๆ เกี่ยวกับโปรเจกต์ของคุณ"
           }
         }
