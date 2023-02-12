@@ -23,7 +23,7 @@
         "description": "รับการช่วยเหลือ พัฒนา และพูดคุยได้ทางเซิร์ฟเวอร์ Discord ที่มีสมาชิกกว่า 1,500 คน"
       },
       "puzzle": {
-        "title": "Extensible by design",
+        "title": "มาพร้อมดีไซน์ที่ยืดขยายได้",
         "description": "เพียบพร้อมด้วยอุปกรณ์การสร้าง คลังเก็บข้อมูล Launcher และแอพพลิเคชันที่กำหนดได้เอง"
       },
       "tools": {
@@ -100,7 +100,7 @@
       "project_id": "ID ของโปรเจกต์",
       "project_status": "สถานะของโปรเจกต์",
       "minecraft_versions": "เวอร์ชันของ Minecraft",
-      "mod_loaders": "Mod loaders",
+      "mod_loaders": "ม็อดโหลดเดอร์",
       "categories": "หมวดหมู่",
       "downloads": "ยอดดาวน์โหลด",
       "files": "ไฟล์"
@@ -137,8 +137,8 @@
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
+      "singular": "สภาพแวดล้อม",
+      "plural": "สภาพแวดล้อม",
       "server_side": "ฝั่งเซิรฟ์เวอร์",
       "client_side": "ฝั่งผู้เล่น",
       "values": {
@@ -313,10 +313,10 @@
       "body": "โทเค็นสำหรับการตรวจสอบของคุณสามารถใช้ร่วมกับ API ของ Modrinth ปลั๊กอินของ Minotaur Gradle และแอพพลิเคชันอื่น ๆ ที่มีปฏิสัมพันธ์กับ API ของ Modrinth ได้ด้วย อย่าเอาไปบอกใครนะ!",
       "copy": "คัดลอกโทเค็นไปยังคลิปบอร์ด",
       "copied": "คัดลอกโทเค็นไปยังคลิปบอร์ดเรียบร้อย",
-      "revoke": "Revoke token"
+      "revoke": "คืนค่าโทเค็น"
     },
     "revoke_token": {
-      "title": "Revoke your Modrinth token",
+      "title": "คืนค่าโทเค็น Modrinth ของคุณ",
       "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
       "action": "ออกจากระบบ"
     }
@@ -343,7 +343,7 @@
       },
       "project": {
         "title": "ลบโปรเจกต์",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "การลบโปรเจกต์จะเป็นการลบข้อมูลทุกอย่างของโปรเจกต์ทิ้ง รวมทั้งเวอร์ชันด้วย",
         "action": "ลบโปรเจกต์"
       },
       "version": {
@@ -353,7 +353,7 @@
       },
       "account": {
         "title": "คุณต้องการทำแบบนี้ใช่หรือไม่",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
+        "description": "เมื่อทำแบบนี้แล้ว**จะเป็นการลบโปรเจกต์ทั้งหมดของคุณ** และผู้ที่ติดตามคุณอยู่ด้วย เมื่อลบบัญชีไปแล้วจะไม่สามารถกู้กลับคืนมาได้\n\nหากคุณต้องการความช่วยเหลือกับบัญชีของคุณ สามารถติดต่อได้ที่ [Modrinth Discord](/discord)",
         "action": "Yes, irrecoverably delete my account"
       },
       "image": {
