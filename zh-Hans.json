@@ -1,0 +1,477 @@
+{
+  "locale": {
+    "no_translation": "由于本页的法律性质，英文是唯一的官方版本。"
+  },
+  "index": {
+    "tagline": "探索、游玩并创建 Minecraft 相关内容",
+    "description": "通过我们为社区建立的开源模组平台，来提供令人愉快的高质量内容。创建模组，获得报酬*，并通过我们完整的API来发布你的项目！",
+    "features": {
+      "book": {
+        "title": "易于使用的API",
+        "description": "通过一个完整的 API 来促进第三方集成和启动器的发展。"
+      },
+      "coin": {
+        "title": "创作者收益",
+        "description": "我们计划让项目页面中 100% 的广告收入均归创作者所有。*结算系统正在开发中。"
+      },
+      "speedometer": {
+        "title": "闪电般的搜索",
+        "description": "基于一个快速且适应性强的搜索算法——你再也不必等待！"
+      },
+      "chat": {
+        "title": "互帮互助的社区",
+        "description": "在我们拥有超过1500名成员的Discord服务器上获取支持、开发讨论或者进行友善交流。"
+      },
+      "puzzle": {
+        "title": "与生俱来的可拓展性",
+        "description": "与构建工具，代码仓库，启动器，甚至是自定义应用快捷高效地集成。"
+      },
+      "tools": {
+        "title": "完全开源",
+        "description": "这是一个由活跃的社区维护的开源项目，我们期待您的贡献。"
+      }
+    }
+  },
+  "header": {
+    "my_profile": "前往我的个人主页",
+    "logout": "退出登录",
+    "github": "通过 GitHub 登录"
+  },
+  "footer": {
+    "description": "Modrinth 是一个开源软件。",
+    "legal": {
+      "heading": "法律文件",
+      "terms": "服务条款",
+      "privacy": "隐私政策",
+      "rules": "社区守则"
+    },
+    "resources": {
+      "heading": "相关链接",
+      "blog": "博客",
+      "docs": "文档"
+    },
+    "buttons": {
+      "privacy": "设置隐私偏好",
+      "theme": {
+        "label": "改变 Modrinth 主题",
+        "system": "跟随系统设置",
+        "light": "亮色模式",
+        "dark": "暗色模式",
+        "oled": "荧光模式"
+      },
+      "language": {
+        "label": "选择语言"
+      }
+    }
+  },
+  "error": {
+    "status": "{status} 错误",
+    "message": {
+      "404": "看样子你好像被困在[迷宫](https://github.com/modrinth/labrinth)中了……<br />我们找不到你想要的页面。",
+      "project_missing": "未找到您想要的 {type} 。",
+      "default": "发生了一个意外的错误。"
+    },
+    "actions": {
+      "home": "回到主页",
+      "discord": "在Discord上寻求帮助"
+    }
+  },
+  "pages": {
+    "description": "描述",
+    "gallery": "图库",
+    "changelog": "更新日志",
+    "versions": "版本",
+    "settings": "设置",
+    "moderation": "管理",
+    "notifications": "通知",
+    "about": "关于",
+    "following": "关注中",
+    "terms": "服务条款与条件",
+    "privacy": "隐私政策",
+    "rules": "项目规则",
+    "all": "全部"
+  },
+  "generic": {
+    "labels": {
+      "license": {
+        "singular": "许可证",
+        "plural": "许可证"
+      },
+      "project_id": "项目 ID",
+      "project_status": "项目状态",
+      "minecraft_versions": "Minecraft 版本",
+      "mod_loaders": "模组加载器",
+      "categories": "类别",
+      "downloads": "下载量",
+      "files": "文件"
+    },
+    "actions": {
+      "create": "创建",
+      "edit": "编辑",
+      "follow": "关注",
+      "unfollow": "取消关注",
+      "feature": "推荐版本",
+      "report": "举报",
+      "new_project": "新建项目",
+      "preview": "预览",
+      "download": "下载",
+      "save": "保存",
+      "confirm": "确认",
+      "remove": "移除",
+      "delete": "删除",
+      "cancel": "取消",
+      "discard": "放弃修改"
+    },
+    "external": {
+      "github_profile": "GitHub 个人资料",
+      "discord": "Discord",
+      "github": "GitHub",
+      "issues": "问题反馈",
+      "source": "源代码",
+      "wiki": "百科",
+      "patreon": "通过 Patreon 赞助",
+      "paypal": "通过 PayPal 赞助",
+      "buy_me_a_coffee": "通过 Buy Me a Coffee 赞助",
+      "github_sponsors": "通过 GitHub Sponsors 赞助",
+      "donate": "赞助",
+      "kofi": "通过 Ko-fi 赞助"
+    },
+    "environments": {
+      "singular": "运行环境",
+      "plural": "运行环境",
+      "server_side": "服务端",
+      "client_side": "客户端",
+      "values": {
+        "required": "必需的",
+        "unsupported": "无效的",
+        "optional": "可选",
+        "unknown": "未知"
+      }
+    },
+    "up_to_date": "您已更新至最新版！",
+    "byline": "制作者： <u>{author}</u>"
+  },
+  "project": {
+    "types": {
+      "mod": {
+        "singular": "模组",
+        "plural": "模组",
+        "search": "搜索模组..."
+      },
+      "modpack": {
+        "singular": "整合包",
+        "plural": "整合包",
+        "search": "搜索整合包..."
+      }
+    },
+    "sidebar_headings": {
+      "external_resources": "外部资源",
+      "featured_versions": "推荐版本",
+      "project_members": "项目成员",
+      "technical_information": "技术信息"
+    },
+    "gallery": {
+      "upload": "上传图像至项目图库",
+      "placeholder": {
+        "title": "输入图像标题...",
+        "description": "输入图像描述……"
+      }
+    },
+    "versions": {
+      "upload": "上传新版本"
+    },
+    "body": {
+      "editor": "编辑",
+      "placeholder": "在此输入描述项目的正文...",
+      "empty": "此项目尚未提供项目描述。"
+    },
+    "members": "成员",
+    "permissions": "项目权限",
+    "permission": {
+      "upload_version": "更新版本",
+      "delete_version": "删除版本",
+      "edit_details": "编辑项目信息",
+      "edit_body": "编辑项目描述",
+      "manage_invites": "管理邀请",
+      "remove_member": "移除成员",
+      "edit_member": "编辑成员",
+      "delete_project": "删除项目"
+    },
+    "role": {
+      "text": "身份",
+      "placeholder": "在此输入此人在项目中的身份..."
+    },
+    "advanced": "高级设置",
+    "visibility": {
+      "title": "可见性",
+      "description": "该项目目前处于{status}。",
+      "action": "更改可见性"
+    },
+    "ownership": {
+      "title": "所有权",
+      "description": "将这个项目的所有权转移给另一个用户。",
+      "action": "转让所有权"
+    }
+  },
+  "version": {
+    "featured": "精选",
+    "autofeatured": "自动精选",
+    "feature_action": "推荐",
+    "dependencies": "依赖",
+    "metadata": "元数据",
+    "release_channel": "发布渠道",
+    "number": "版本号",
+    "publication_date": "发布日期",
+    "publisher": "著作人"
+  },
+  "search": {
+    "filters": {
+      "clear": "清空筛选",
+      "hide": "隐藏筛选",
+      "show": "展开筛选",
+      "show_snapshots": "显示快照",
+      "search_versions": "搜索版本...",
+      "licenses": "许可协议"
+    },
+    "sort": {
+      "by": "排序方式",
+      "relevance": "相关性",
+      "downloads": "下载量",
+      "follows": "关注数",
+      "newest": "最近发布",
+      "updated": "最近更新"
+    },
+    "per_page": "每页显示数量"
+  },
+  "status": {
+    "approved": "已批准",
+    "rejected": "被驳回",
+    "draft": "草稿",
+    "unlisted": "未列出",
+    "processing": "审核中",
+    "unknown": "未知"
+  },
+  "release_channels": {
+    "release": "稳定版",
+    "beta": "Beta测试版",
+    "alpha": "Alpha测试版"
+  },
+  "roles": {
+    "developer": "开发者",
+    "admin": "管理员",
+    "moderator": "版主"
+  },
+  "stats": {
+    "joined": "于 {ago} 加入",
+    "notified": "于 {ago} 收到通知",
+    "downloads": "{downloads, plural, one {<b>#</b> 次下载} other {<b>#</b> 次下载}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> 位所有项目的关注者} other {<b>#</b> 位所有项目的关注者}}",
+    "followers": "{followers, plural, one {<b>#</b> 位关注者} other {<b>#</b> 位关注者}}",
+    "user_id": "用户 ID：{id}",
+    "created": "于 {ago} 创建",
+    "updated": "于 {ago} 更新"
+  },
+  "settings": {
+    "username": {
+      "text": "用户名",
+      "placeholder": "输入一个用户名……"
+    },
+    "bio": {
+      "text": "简介",
+      "placeholder": "输入简介..."
+    },
+    "email": {
+      "text": "私人邮箱",
+      "helper": "仅对版主可见。",
+      "placeholder": "在这里输入邮箱地址……"
+    },
+    "avatar": "上传头像"
+  },
+  "report": {
+    "singular": "举报",
+    "plural": "举报",
+    "type": {
+      "spam": "灌水",
+      "copyright": "版权争议",
+      "inappropriate": "内容不恰当",
+      "malicious": "恶意行为",
+      "name-squatting": "抢注名称",
+      "other": "其它原因"
+    }
+  },
+  "user": {
+    "following": {
+      "loading": "正在加载已关注的项目...",
+      "none": "你尚未关注任何项目。"
+    },
+    "delete": {
+      "title": "删除账户",
+      "body": "一旦删除账户，将无法复原，请谨慎度量。删除你的账户将从我们的服务器上删除所有附加的数据，包括账户下的所有项目。"
+    },
+    "auth": {
+      "title": "授权令牌",
+      "body": "你的的授权令牌可以应用到 Modrinth API、Minotaur Gradle插件和其他与 Modrinth 的 API 交互的应用程序。请务必保守这个秘密!",
+      "copy": "复制令牌到剪贴板",
+      "copied": "已复制令牌至剪贴板",
+      "revoke": "撤销令牌"
+    },
+    "revoke_token": {
+      "title": "撤销你的 Modrinth 令牌",
+      "body": "撤销你的 Modrinth 令牌会产生意想不到的后果。请注意，以下相关的服务可能会出现问题：\n - 任何使用你的令牌来访问 API 的应用程序。\n - Gradle - 如果 Minotaur 使用一个不正确的令牌，你的 Gradle 构建可能会失败。\n - GitHub - 如果你使用一个与 Modrinth API 进行交互的 GitHub Action，将产生错误。\n\n如果你愿意继续，请完成以下步骤：\n\n 1. 前往[Modrinth 在 GitHub 上的应用页面](https://github.com/settings/connections/applications/3acffb2e808d16d4b226)，确保登录到你 Modrinth 账号所绑定的GitHub账户!\n 2. 按下 \"Permissions \"标题旁边的红色 \"Revoke Access\" 按钮。\n\n一旦你完成了这些步骤，请点击下方的 \"Log out\" 按钮。\n\n**这将使你退出Modrinth。当你重新登录时，你的令牌将被重新生成。**",
+      "action": "退出登录"
+    }
+  },
+  "images": {
+    "replace": "替换图像",
+    "how_to": "拖拽上传或点击选择"
+  },
+  "ads": {
+    "privacy_respecting": "这里理应会显示一个尊重隐私的广告。",
+    "console": {
+      "line1": "您正在使用一个广告拦截器。",
+      "line2": "你的广告拦截器拦截了 Modrinth 向你展示的广告，这是我们唯一的收入来源。",
+      "line3": "如果你仍想在不观看广告的情况下帮助 Modrinth，你可以在 Github 上为 Modrinth 做出贡献！",
+      "line4": "https://github.com/modrinth/"
+    }
+  },
+  "modal": {
+    "deletion": {
+      "generic": {
+        "important": "此操作十分重要，请三思而后行。",
+        "verify": "请在下方输入 <i>{key}</i> 以确认操作。",
+        "placeholder": "在此输入……"
+      },
+      "project": {
+        "title": "删除项目",
+        "description": "删除项目将删除项目的所有数据，包括各版本内容。",
+        "action": "删除项目"
+      },
+      "version": {
+        "title": "删除版本",
+        "description": "您确定要删除此版本吗？所有文件和元数据都将丢失且无法恢复。",
+        "action": "删除版本"
+      },
+      "account": {
+        "title": "你确定你想这样做吗？",
+        "description": "这将会**立即删除你所有的项目**及关注者。此操作无法撤销。\n\n如需获取账户相关的帮助，请前往[Modrinth Discord](/discord)提问。",
+        "action": "是的，请彻底删除我的账户。"
+      },
+      "image": {
+        "title": "删除图库图像",
+        "description": "您确定要删除此图像和元数据吗？此操作无法撤消。",
+        "action": "删除图像"
+      }
+    },
+    "report": {
+      "generic": {
+        "description": "模组开发对每个人来说都应该是安全的，因此我们决不容忍滥用 Modrinth 或在该平台上投放病毒的行为。我们希望那些违反 [ToS](/legal/terms) 和 [Rules](/legal/rules) 行为的内容受到举报。请放心，我们会对您的身份信息保密。",
+        "fields": {
+          "reason": {
+            "label": "原因"
+          },
+          "information": {
+            "label": "附加信息",
+            "helper": "有条件的话请尽可能提供链接和图像。编辑器支持 Markdown 格式。",
+            "placeholder": "在此输入附加信息..."
+          }
+        }
+      },
+      "project": {
+        "action": "举报项目"
+      },
+      "version": {
+        "action": "举报版本"
+      },
+      "user": {
+        "action": "举报用户"
+      }
+    },
+    "creation": {
+      "project": {
+        "title": "创建项目",
+        "description": "新项目最初以草案的方式创建，您可以在您的个人资料页面中找到。",
+        "action": "继续",
+        "fields": {
+          "project_type": {
+            "label": "项目类型"
+          },
+          "name": {
+            "label": "项目名称",
+            "placeholder": "在此输入项目名称..."
+          },
+          "summary": {
+            "label": "项目概述",
+            "helper": "这些信息将显示在搜索结果及项目页面的侧边栏中。",
+            "placeholder": "在此输入项目的概述..."
+          }
+        }
+      },
+      "image": {
+        "title": "向图库添加图像",
+        "action": "添加图像",
+        "fields": {
+          "title": {
+            "label": "标题",
+            "placeholder": "在此输入图像标题……"
+          },
+          "description": {
+            "label": "描述",
+            "placeholder": "输入图像描述..."
+          }
+        }
+      }
+    },
+    "moderation": {
+      "project_status": {
+        "title": "更改项目状态",
+        "action": "确认",
+        "fields": {
+          "status": {
+            "label": "状态",
+            "options": {
+              "approve": "已批准",
+              "unlist": "未被列出",
+              "reject": "被驳回"
+            }
+          },
+          "moderation_message": {
+            "label": "审核信息",
+            "helper": "您可以通过附加信息来与项目团队成员进行交流。文本支持 Markdown 格式。",
+            "placeholder": "在此输入附加信息……"
+          }
+        }
+      }
+    }
+  },
+  "tags": {
+    "technology": "科技",
+    "adventure": "冒险",
+    "magic": "魔法",
+    "utility": "实用",
+    "decoration": "装饰",
+    "library": "类库",
+    "cursed": "怪异",
+    "worldgen": "世界生成",
+    "storage": "存储",
+    "food": "食物",
+    "equipment": "装备",
+    "miscellaneous": "杂项",
+    "challenging": "挑战",
+    "combat": "战斗",
+    "kitchen-sink": "综合",
+    "lightweight": "轻量",
+    "multiplayer": "多人",
+    "quests": "任务",
+    "optimization": "优化",
+    "fabric": "Fabric",
+    "forge": "Forge",
+    "quilt": "Quilt",
+    "modloader": "ModLoader",
+    "rift": "Rift",
+    "server": "服务端",
+    "client": "客户端",
+    "good": "优质作品",
+    "trash": "垃圾",
+    "misc": "杂项"
+  }
+}

@@ -12,7 +12,7 @@
       },
       "coin": {
         "title": "Ersteller-Einnahmen",
-        "description": "Wir planen, Autoren 100% der Werbeeinnahmen ihrer Projectseiten zu geben. *Auszahlungen sind aktuell in der Entwicklung."
+        "description": "Wir planen, Autoren 100% der Werbeeinnahmen ihrer Projektseiten zu geben. *Auszahlungen sind aktuell in der Entwicklung."
       },
       "speedometer": {
         "title": "Blitzschnelle Suche",
@@ -89,7 +89,7 @@
     "terms": "Nutzunsbedingungen",
     "privacy": "Datenschutzerklärung",
     "rules": "Projektregeln",
-    "all": "Alle"
+    "all": "Alles"
   },
   "generic": {
     "labels": {
@@ -137,7 +137,7 @@
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Umbgebung",
+      "singular": "Umgebung",
       "plural": "Umgebungen",
       "server_side": "Serverseitig",
       "client_side": "Clientseitig",
@@ -204,7 +204,7 @@
     "advanced": "Erweitert",
     "visibility": {
       "title": "Sichtbarkeit",
-      "description": "Dieses Projekt ist actuell {status}.",
+      "description": "Dieses Projekt ist aktuell {status}.",
       "action": "Sichtbarkeit ändern"
     },
     "ownership": {
@@ -220,7 +220,7 @@
     "dependencies": "Abhängigkeiten",
     "metadata": "Metadaten",
     "release_channel": "Veröffentlichungskanal",
-    "number": "Versionsnumme",
+    "number": "Versionsnummer",
     "publication_date": "Veröffentlichungsdatum",
     "publisher": "Veröffentlicher"
   },
@@ -269,7 +269,7 @@
     "followers": "{followers, plural, one {<b>#</b> Abonnent} other {<b>#</b> Abonnenten}}",
     "user_id": "Nutzer ID: {id}",
     "created": "Erstellt {ago}",
-    "updated": "Aktualisier {ago}"
+    "updated": "Aktualisiert {ago}"
   },
   "settings": {
     "username": {
@@ -330,7 +330,7 @@
     "console": {
       "line1": "Du verwendest einen Adblocker.",
       "line2": "Dein Adblocker hat verhindert, das Modrinth eine Werbung - unsere einzige Einnahmequelle - zeigen konnte.",
-      "line3": "Wenn du Modrinth helfen willst, ohen Werbung zu sehen, kannst du zu Modrinth auf GitHub beitragen!",
+      "line3": "Wenn du Modrinth helfen willst, ohne Werbung zu sehen, kannst du zu Modrinth auf GitHub beitragen!",
       "line4": "https://github.com/modrinth/"
     }
   },
@@ -343,35 +343,35 @@
       },
       "project": {
         "title": "Projekt löschen",
-        "description": "Das löschen eines Projekts entfernt sämtliche Projektdaten, inklusive versionen.",
+        "description": "Das löschen eines Projekts entfernt sämtliche Projektdaten, inklusive Versionen.",
         "action": "Projekt löschen"
       },
       "version": {
         "title": "Version löschen",
-        "description": "Bist du dir sicher, dass du diese Version löschen willst? Sämtliche Dateien und Metadaten werden unwiederuflich verloren gehen.",
+        "description": "Bist du dir sicher, dass du diese Version löschen willst? Sämtliche Dateien und Metadaten werden unwiderruflich verloren gehen.",
         "action": "Version löschen"
       },
       "account": {
         "title": "Bist du dir sicher, dass du das tun willst?",
-        "description": "Dies wird **alle deine Projekte sofort löschen**, inklusive Abonnenten. Das löschen deines Accounts kann nicht ungeschehen gemacht werden\n\nWenn du hilfe mit deinem Account brauchstm kannst du auf dem [englischen Modrinth Discord](/discord) fragen.",
-        "action": "Ja, mein Account unwiederruflich löschen"
+        "description": "Dies wird **alle deine Projekte sofort löschen**, inklusive Abonnenten. Das löschen deines Accounts kann nicht ungeschehen gemacht werden\n\nWenn du Hilfe mit deinem Account brauchst, kannst du auf dem [englischen Modrinth Discord](/discord) fragen.",
+        "action": "Ja, mein Account unwiderruflich löschen"
       },
       "image": {
         "title": "Galeriebild löschen",
-        "description": "Bist du dir sicher, dass du dieses Bild und seine Metadaten löschen willst? Diese Aktion kann nicht rückgangig gemacht werden.",
+        "description": "Bist du dir sicher, dass du dieses Bild und seine Metadaten löschen willst? Diese Aktion kann nicht rückgängig gemacht werden.",
         "action": "Bild löschen"
       }
     },
     "report": {
       "generic": {
-        "description": "Modden sollte sicher für jeden sein, darum nehmen wir bei Modrinth Missbrauch und schädliche Absichten ernst. Wir möchten über schädlichen Content auf unserer Seite, welche unsere [AGB](/legal/terms) und [Regeln](/legal/rules) verletzt hören. Sei versichert, dass wir deine Identität geheim halten werden.",
+        "description": "Modden sollte sicher für jeden sein, darum nehmen wir bei Modrinth Missbrauch und schädliche Absichten ernst. Wir möchten über schädliche Inhalte auf unserer Seite, welche unsere [AGB](/legal/terms) und [Regeln](/legal/rules) verletzen hören. Sei versichert, dass wir deine Identität geheim halten werden.",
         "fields": {
           "reason": {
             "label": "Grund"
           },
           "information": {
             "label": "Weitere Informationen",
-            "helper": "Wenn möglich, füge Links und Bilder hinzu. Markdown Formattierung wird unterstützt.",
+            "helper": "Wenn möglich, füge Links und Bilder hinzu. Markdown Formatierung wird unterstützt.",
             "placeholder": "Füge weitere Informationen hinzu..."
           }
         }
@@ -393,7 +393,7 @@
         "action": "Weiter",
         "fields": {
           "project_type": {
-            "label": "Projetktyp"
+            "label": "Projekttyp"
           },
           "name": {
             "label": "Name",
@@ -436,8 +436,8 @@
           },
           "moderation_message": {
             "label": "Moderationsnachricht",
-            "helper": "Füge optionale informationen hinzu um das Problem mit dem Team eines Projekts zu besprechen. Markdown formattierung wird unterstützt.",
-            "placeholder": "Füge weitere informationen hinzu..."
+            "helper": "Füge optionale Informationen hinzu, um das Problem mit dem Team eines Projekts zu besprechen. Markdown Formatierung wird unterstützt.",
+            "placeholder": "Füge weitere Informationen hinzu..."
           }
         }
       }

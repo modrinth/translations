@@ -1,9 +1,9 @@
 {
   "locale": {
-    "no_translation": "En raison de la nature de cette page, la seule version officielle de ce contenu est en anglais."
+    "no_translation": "En raison de la nature de cette page, seule la version anglaise de ce contenu est officielle."
   },
   "index": {
-    "tagline": "Découvrez, jouez, et créez du contenu Minecraft",
+    "tagline": "Découvrez, créez du contenu Minecraft et jouez avec",
     "description": "Trouvez du contenu agréable et de qualité grâce à notre plateforme de modding open-source conçue pour la communauté. Créez des choses, soyez payé*, et déployez votre projet avec notre API entièrement documentée !",
     "features": {
       "book": {
@@ -11,7 +11,7 @@
         "description": "Soutenu par une API entièrement documentée facilitant le développement d'intégrations et de launchers tiers."
       },
       "coin": {
-        "title": "Rémunération du créateur",
+        "title": "Revenus de créateur",
         "description": "Nous prévoyons de donner aux créateurs 100% des revenus publicitaires provenant des pages de leurs projets. *Les paiements sont actuellement en cours de développement."
       },
       "speedometer": {
@@ -19,7 +19,7 @@
         "description": "Alimenté par des algorithmes de recherche rapides et adaptables pour que vous n'ayez pas à attendre."
       },
       "chat": {
-        "title": "Communauté serviable",
+        "title": "Communauté d'entraide",
         "description": "Obtenez de l'aide (en anglais), développez et échangez sur notre serveur Discord qui compte plus de 1 500 membres."
       },
       "puzzle": {
@@ -67,7 +67,7 @@
   "error": {
     "status": "Erreur {status}",
     "message": {
-      "404": "Oh oh, il semblerait que vous vous êtes perdu dans le [Labyrinth](https://github.com/modrinth/labrinth). <br />La page que vous recherchez n'a pas pu être trouvée.",
+      "404": "Oh oh, il semblerait que vous vous êtes perdu dans le [Labyrinthe](https://github.com/modrinth/labrinth). <br />La page que vous recherchez n'a pas pu être trouvée.",
       "project_missing": "Le {type} que vous cherchez n'a pas été trouvé.",
       "default": "Une erreur imprévue s'est produite."
     },
@@ -110,7 +110,7 @@
       "edit": "Modifier",
       "follow": "S'abonner",
       "unfollow": "Se désabonner",
-      "feature": "Recommander cette version",
+      "feature": "Mettre cette version en avant",
       "report": "Signaler",
       "new_project": "Nouveau projet",
       "preview": "Aperçu",
@@ -166,7 +166,7 @@
     },
     "sidebar_headings": {
       "external_resources": "Ressources externes",
-      "featured_versions": "Versions recommandées",
+      "featured_versions": "Versions mises en avant",
       "project_members": "Membres du projet",
       "technical_information": "Informations techniques"
     },
@@ -201,21 +201,21 @@
       "text": "Rôle",
       "placeholder": "Saisir les rôles..."
     },
-    "advanced": "Avancé",
+    "advanced": "Paramètres avancés",
     "visibility": {
       "title": "Visibilité",
       "description": "Ce projet est actuellement {status}.",
       "action": "Modifier la visibilité"
     },
     "ownership": {
-      "title": "Propriétaire",
+      "title": "Propriété",
       "description": "Transférer la propriété de ce projet à un autre utilisateur.",
       "action": "Transférer la propriété"
     }
   },
   "version": {
-    "featured": "Recommandé",
-    "autofeatured": "Recommandé automatiquement",
+    "featured": "Mise en avant",
+    "autofeatured": "Mise en avant automatiquement",
     "feature_action": "Fonctionnalité",
     "dependencies": "Dépendances",
     "metadata": "Metadonnés",
@@ -248,7 +248,7 @@
     "rejected": "Rejeté",
     "draft": "Brouillon",
     "unlisted": "Non répertorié",
-    "processing": "En examen",
+    "processing": "En cours d'examen",
     "unknown": "Inconnu"
   },
   "release_channels": {
@@ -292,7 +292,7 @@
     "plural": "Signalements",
     "type": {
       "spam": "Spam",
-      "copyright": "Copyright",
+      "copyright": "Droits d'auteur",
       "inappropriate": "Inapproprié",
       "malicious": "Malveillant",
       "name-squatting": "Vol de nom",
@@ -359,12 +359,12 @@
       "image": {
         "title": "Supprimer l'image de la galerie",
         "description": "Êtes-vous sûr de vouloir supprimer cette image et ses métadonnées ? Cette action ne peut être annulée.",
-        "action": "Supprimer l`image"
+        "action": "Supprimer l'image"
       }
     },
     "report": {
       "generic": {
-        "description": "Le modding devrait être sûr pour tout le monde, c'est pourquoi nous prenons les abus et les intentions malveillantes au sérieux chez Modrinth. Nous voulons être informés de tout contenu préjudiciable sur le site qui viole nos [CGU](/légal/termes) et [Règles](/légal/règles). Soyez assuré que vos informations d'identification resteront confidentielles.",
+        "description": "Le modding devrait être sûr pour tout le monde, c'est pourquoi nous prenons les abus et les intentions malveillantes au sérieux chez Modrinth. Nous voulons être informés de tout contenu préjudiciable sur le site qui viole nos [CGU](/legal/terms) et [Règles](/legal/rules). Soyez assuré que vos informations d'identification resteront confidentielles.",
         "fields": {
           "reason": {
             "label": "Raison"
@@ -450,7 +450,7 @@
     "utility": "Utilitaire",
     "decoration": "Décoration",
     "library": "Bibliothèque",
-    "cursed": "Maudit",
+    "cursed": "Bizarre",
     "worldgen": "Génération du monde",
     "storage": "Stockage",
     "food": "Nourriture",

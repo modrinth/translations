@@ -182,7 +182,7 @@
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Enter project body...",
+      "placeholder": "Vložte tělo projektu...",
       "empty": "Popis projektu je prázdný."
     },
     "members": "Členové",
@@ -266,7 +266,7 @@
     "notified": "Oznámeno {ago}",
     "downloads": "{downloads, plural, other {<b>#</b> stažení}}",
     "followers_of_projects": "{followers, plural, one {<b>#</b> sledující projektů} few {<b>#</b> následovníci projektů} many {<b>#</b> následovníci projektů} other {<b>#</b> následovníci projektů}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
+    "followers": "{followers, plural, one {<b>#</b> sledující} other {<b>#</b> sledujících}}",
     "user_id": "ID uživatele: {id}",
     "created": "Vytvořeno {ago}",
     "updated": "Aktualizováno {ago}"
@@ -364,7 +364,7 @@
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "Módování by mělo být bezpečné pro všechny, tedy my v Modrintu bereme zneužívání a zlý úmysl vážně. Chceme tedy slyšet o škodlivém obsahu na stránkách, který porušuje naše [ToS](/legal/terms) a [Rules](/legal/rules). Zaručujeme, že Vaše identifikační údaje zůstanou soukromé.",
         "fields": {
           "reason": {
             "label": "Důvod"

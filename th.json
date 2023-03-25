@@ -3,46 +3,46 @@
     "no_translation": "ด้วยเหตุผลทางกฎหมาย ฉบับทางการของหน้านี้มีเฉพาะภาษาอังกฤษเท่านั้น"
   },
   "index": {
-    "tagline": "ค้นหา เล่นและสร้างม็อดมายคราฟ",
-    "description": "Find enjoyable and quality content through our open-source modding platform built for the community. Create stuff, get paid*, and deploy your project with our fully documented API!",
+    "tagline": "ค้นหา เล่น และสร้างม็อดมายคราฟ",
+    "description": "พบกับคอนเทนต์ที่สนุกและมีคุณภาพผ่านแพลตฟอร์มการม็อดแบบโอเพนซอร์สของพวกเรา ที่สร้างขึ้นมาเพื่อชาวคอมมูนิตี้โดยเฉพาะ สร้างผลงาน สร้างรายได้* และใช้งานโปรเจกต์ของคุณเพียบพร้อมด้วย API ที่ผ่านการบันทึกมาอย่างดี",
     "features": {
       "book": {
         "title": "API ใช้ง่าย",
-        "description": "Backed by a fully documented API facilitating the growth of 3rd party integrations & launchers."
+        "description": "มี API ที่ผ่านการบันทึกมาอย่างดีคอยส่งเสริมการบูรณาการและลันเชอร์บุคคลที่สาม"
       },
       "coin": {
         "title": "รายได้ครีเอเตอร์",
-        "description": "Planning to give creators 100% of ad revenue from their project pages. *Payouts are currently in development."
+        "description": "ให้ค่าตอบแทนจากโฆษณาจากหน้าเพจของโปรเจกต์แก่ครีเอเตอร์แบบเต็มร้อย *ระบบการจ่ายเงินยังอยู่ในระหว่างการพัฒนา"
       },
       "speedometer": {
-        "title": "Lightning-fast search",
-        "description": "Powered by fast and adaptable search algorithms so you don't have to wait."
+        "title": "การค้นหาที่รวดเร็วทันใจ",
+        "description": "ขับเคลื่อนด้วยอัลกอริทึมการค้นหาที่รวดเร็วและยืดหยุ่น เพื่อที่คุณจะไม่ต้องเสียเวลารออีกต่อไป"
       },
       "chat": {
-        "title": "Helpful community",
-        "description": "Get support, develop, and hang out on our Discord server with over 1,500 members."
+        "title": "มีคอมมูนิตี้ที่พร้อมช่วยเหลือคุณ",
+        "description": "รับการช่วยเหลือ พัฒนา และพูดคุยได้ทางเซิร์ฟเวอร์ Discord ที่มีสมาชิกกว่า 1,500 คน"
       },
       "puzzle": {
-        "title": "Extensible by design",
-        "description": "Integrates with build tools, repositories, launchers, and custom applications."
+        "title": "มาพร้อมดีไซน์ที่ยืดขยายได้",
+        "description": "เพียบพร้อมด้วยอุปกรณ์การสร้าง คลังเก็บข้อมูล Launcher และแอพพลิเคชันที่กำหนดได้เอง"
       },
       "tools": {
-        "title": "Fully open source",
-        "description": "An open source project maintained by an active community that welcomes contributions."
+        "title": "เป็นโอเพนซอร์สอย่างเต็มรูปแบบ",
+        "description": "เป็นโปรเจกต์โอเพนซอร์สควบคุมโดยคอมมูนิตี้ที่คอยต้อนรับการมีส่วนร่วมในการพัฒนา"
       }
     }
   },
   "header": {
-    "my_profile": "Go to my profile",
+    "my_profile": "ดูโปรไฟล์",
     "logout": "ออกจากระบบ",
     "github": "เข้าระบบผ่าน GitHub"
   },
   "footer": {
-    "description": "Modrinth is open source software.",
+    "description": "Modrinth เป็นซอฟต์แวร์แบบโอเพนซอร์ส",
     "legal": {
       "heading": "ช้อมูลด้านกฎหมาย",
       "terms": "ข้อตกลง",
-      "privacy": "การตั้งค่าความเป็นส่วนตัว",
+      "privacy": "ความเป็นส่วนตัว",
       "rules": "กฎ"
     },
     "resources": {
@@ -51,13 +51,13 @@
       "docs": "คู่มือ"
     },
     "buttons": {
-      "privacy": "Set privacy preferences",
+      "privacy": "ตั้งค่าความเป็นส่วนตัว",
       "theme": {
         "label": "เปลี่ยนธีม",
         "system": "ธีมตามระบบ",
-        "light": "Light mode",
-        "dark": "Dark Mode",
-        "oled": "OLED mode"
+        "light": "ธีมสว่าง",
+        "dark": "ธีมมืด",
+        "oled": "ธีม OLED"
       },
       "language": {
         "label": "เลือกภาษา"
@@ -67,28 +67,28 @@
   "error": {
     "status": "{status} Error",
     "message": {
-      "404": "Uh oh, looks like you got lost in the [Labyrinth](https://github.com/modrinth/labrinth).<br />The page you are looking for could not be found.",
-      "project_missing": "The {type} you were looking for cannot be found.",
-      "default": "An unexpected error has occurred."
+      "404": "ไม่พบหน้าเว็บเพจที่คุณกำลังมองหา เหมือนว่าคุณจะหลงเข้าไปใน[เขาวงกต](https://github.com/modrinth/labrinth)ซะแล้วสิ",
+      "project_missing": "ไม่พบ {type} ที่คุณกำลังมองหา",
+      "default": "เกิดข้อผิดพลาดกะทันหัน"
     },
     "actions": {
       "home": "กลับหน้าหลัก",
-      "discord": "Get help on Discord"
+      "discord": "ขอความช่วยเหลือทาง Discord"
     }
   },
   "pages": {
     "description": "คำอธิบาย",
     "gallery": "แกลเลอรี่",
     "changelog": "บันทึกการเปลี่ยนแปลง",
-    "versions": "รุ่น",
+    "versions": "เวอร์ชัน",
     "settings": "การตั้งค่า",
     "moderation": "การคัดกรอง",
     "notifications": "การแจ้งเตือน",
     "about": "เกี่ยวกับ",
-    "following": "ผู้ติดตาม",
+    "following": "สิ่งที่ติดตาม",
     "terms": "ข้อตกลงและเงื่อนไข",
     "privacy": "นโยบายความเป็นส่วนตัว",
-    "rules": "Project rules",
+    "rules": "กฎของโปรเจกต์",
     "all": "ทั้งหมด"
   },
   "generic": {
@@ -97,10 +97,10 @@
         "singular": "ใบอนุญาต",
         "plural": "ใบอนุญาต"
       },
-      "project_id": "Project ID",
-      "project_status": "Project status",
-      "minecraft_versions": "Minecraft versions",
-      "mod_loaders": "Mod loaders",
+      "project_id": "ID ของโปรเจกต์",
+      "project_status": "สถานะของโปรเจกต์",
+      "minecraft_versions": "เวอร์ชันของ Minecraft",
+      "mod_loaders": "ม็อดโหลดเดอร์",
       "categories": "หมวดหมู่",
       "downloads": "ยอดดาวน์โหลด",
       "files": "ไฟล์"
@@ -110,9 +110,9 @@
       "edit": "แก้ไข",
       "follow": "ติดตาม",
       "unfollow": "เลิกติดตาม",
-      "feature": "Feature version",
-      "report": "แจ้งปัญหา",
-      "new_project": "New project",
+      "feature": "เวอร์ชันแนะนำ",
+      "report": "รายงาน",
+      "new_project": "สร้างโปรเจกต์ใหม่",
       "preview": "ดูตัวอย่าง",
       "download": "ดาวน์โหลด",
       "save": "บันทึก",
@@ -123,23 +123,23 @@
       "discard": "ยกเลิกการเปลี่ยนแปลง"
     },
     "external": {
-      "github_profile": "GitHub profile",
+      "github_profile": "โปรไฟล์ GitHub",
       "discord": "Discord",
       "github": "GitHub",
-      "issues": "ปัญหา",
+      "issues": "รายงานปัญหา",
       "source": "ซอร์ซโค้ด",
       "wiki": "วิกิ",
       "patreon": "Patreon",
       "paypal": "PayPal",
-      "buy_me_a_coffee": "Buy Me a Coffee",
-      "github_sponsors": "GitHub Sponsors",
+      "buy_me_a_coffee": "อุดหนุนกาแฟให้ผู้พัฒนา",
+      "github_sponsors": "เป็นสปอนเซอร์ให้ทาง GitHub",
       "donate": "บริจาค/สนับสนุน",
       "kofi": "Ko-fi"
     },
     "environments": {
-      "singular": "Environment",
-      "plural": "Environments",
-      "server_side": "ฝั่งเสิรฟ์เวอร์",
+      "singular": "สภาพแวดล้อม",
+      "plural": "สภาพแวดล้อม",
+      "server_side": "ฝั่งเซิรฟ์เวอร์",
       "client_side": "ฝั่งผู้เล่น",
       "values": {
         "required": "จำเป็นต้องใช้",
@@ -148,7 +148,7 @@
         "unknown": "ไม่ทราบ"
       }
     },
-    "up_to_date": "You are up to date!",
+    "up_to_date": "คุณตามทันหมดแล้วเรียบร้อย!",
     "byline": "โดย <u>{author}</u>"
   },
   "project": {
@@ -156,136 +156,136 @@
       "mod": {
         "singular": "ม็อด",
         "plural": "ม็อด",
-        "search": "Search mods..."
+        "search": "ค้นหาม็อด"
       },
       "modpack": {
-        "singular": "Modpack",
-        "plural": "Modpacks",
-        "search": "Search modpacks..."
+        "singular": "ม็อดแพ็ก",
+        "plural": "ม็อดแพ็ก",
+        "search": "ค้นหาม็อดแพ็ก"
       }
     },
     "sidebar_headings": {
-      "external_resources": "External resources",
-      "featured_versions": "Featured versions",
+      "external_resources": "แหล่งที่มาภายนอก",
+      "featured_versions": "เวอร์ชันแนะนำ",
       "project_members": "สนาชิกโปรเจค",
-      "technical_information": "Technical information"
+      "technical_information": "ข้อมูลทางเทคนิค"
     },
     "gallery": {
-      "upload": "Upload gallery image",
+      "upload": "อัพโหลดรูปภาพลงแกลเลอรี่",
       "placeholder": {
-        "title": "Enter image title...",
-        "description": "Enter image description..."
+        "title": "กรอกหัวข้อของรูปภาพ",
+        "description": "กรอกคำอธิบายรูปภาพ"
       }
     },
     "versions": {
-      "upload": "Upload new version"
+      "upload": "อัพโหลดเวอร์ชันใหม่"
     },
     "body": {
       "editor": "Editor",
-      "placeholder": "Enter project body...",
-      "empty": "This project description is empty."
+      "placeholder": "กรอกรายละเอียดของโปรเจกต์",
+      "empty": "ไม่พบคำอธิบายของโปรเจกต์"
     },
     "members": "สมาชิกทั้งหมด",
     "permissions": "สิทธิ์",
     "permission": {
-      "upload_version": "Upload version",
+      "upload_version": "อัพโหลดเวอร์ชัน",
       "delete_version": "ลบเวอร์ชัน",
-      "edit_details": "Edit details",
-      "edit_body": "Edit description",
-      "manage_invites": "Manage invites",
-      "remove_member": "Remove members",
-      "edit_member": "Edit members",
+      "edit_details": "แก้ไขรายละเอียด",
+      "edit_body": "แก้ไขคำอธิบาย",
+      "manage_invites": "ควบคุมการเชิญ",
+      "remove_member": "นำสมาชิกออก",
+      "edit_member": "แก้ไขสมาชิก",
       "delete_project": "ลบโปรเจกต์"
     },
     "role": {
       "text": "หน้าที่",
-      "placeholder": "Enter roles..."
+      "placeholder": "ใส่บทบาท"
     },
     "advanced": "ตั้งค่าขั้นสูง",
     "visibility": {
-      "title": "Visibility",
-      "description": "This project is currently {status}.",
-      "action": "Change visibility"
+      "title": "การเปิดเผย",
+      "description": "ในขณะนี้ โปรเจกต์นี้มีสถานะ {status}",
+      "action": "เปลี่ยนการเปิดเผย"
     },
     "ownership": {
-      "title": "Ownership",
-      "description": "Transfer ownership of this project to another user.",
-      "action": "โอนความเป็นเจ้าของ"
+      "title": "ความเป็นเจ้าของ",
+      "description": "โอนสถานะความเป็นเจ้าของ ๆ โปรเจกต์นี้ให้แก่ผู้ใช้อีกราย",
+      "action": "โอนสถานะความเป็นเจ้าของ"
     }
   },
   "version": {
     "featured": "แนะนำ",
-    "autofeatured": "Auto-featured",
-    "feature_action": "Feature",
-    "dependencies": "Dependencies",
+    "autofeatured": "แนะนำโดยอัตโนมัติ",
+    "feature_action": "ฟีเจอร์",
+    "dependencies": "ความต้องการ",
     "metadata": "Metadata",
-    "release_channel": "Release channel",
-    "number": "Version number",
+    "release_channel": "ช่องทางการปล่อย",
+    "number": "หมายเลขเวอร์ชัน",
     "publication_date": "วันที่เผยแพร่",
     "publisher": "ผู้สร้าง"
   },
   "search": {
     "filters": {
-      "clear": "Clear filters",
-      "hide": "Hide filters",
-      "show": "Show filters",
-      "show_snapshots": "Show snapshots",
-      "search_versions": "Search versions...",
+      "clear": "ล้างตัวกรอง",
+      "hide": "ซ่อนตัวกรอง",
+      "show": "แสดงตัวกรอง",
+      "show_snapshots": "แสดง Snapshot",
+      "search_versions": "ค้นหาเวอร์ชัน...",
       "licenses": "ใบอนุญาต"
     },
     "sort": {
       "by": "จัดลำดับโดย",
       "relevance": "ความเกี่ยวข้อง",
       "downloads": "ยอดดาวน์โหลด",
-      "follows": "Follower count",
-      "newest": "Recently created",
-      "updated": "อัพเดตเร็วๆนี้"
+      "follows": "จำนวนผู้ติดตาม",
+      "newest": "สร้างขึ้นล่าสุด",
+      "updated": "อัพเดตล่าสุด"
     },
-    "per_page": "Show per page"
+    "per_page": "จำนวนรายการต่อหน้า"
   },
   "status": {
     "approved": "อนุมัติแล้ว",
-    "rejected": "Rejected",
-    "draft": "Draft",
-    "unlisted": "Unlisted",
-    "processing": "Under review",
-    "unknown": "Unknown"
+    "rejected": "ไม่อนุมัติ",
+    "draft": "ฉบับร่าง",
+    "unlisted": "ไม่เป็นสาธารณะ",
+    "processing": "อยู่ภายใต้การพิจารณา",
+    "unknown": "ไม่ทราบ"
   },
   "release_channels": {
-    "release": "Release",
-    "beta": "Beta",
-    "alpha": "Alpha"
+    "release": "ตัวเต็ม",
+    "beta": "เบตา",
+    "alpha": "แอลฟา"
   },
   "roles": {
     "developer": "ผู้พัฒนา",
-    "admin": "แอดมิน",
+    "admin": "ผู้ดูแล",
     "moderator": "ผู้ดูแล"
   },
   "stats": {
-    "joined": "Joined {ago}",
-    "notified": "Notified {ago}",
-    "downloads": "{downloads, plural, one {<b>#</b> download} other {<b>#</b> downloads}}",
-    "followers_of_projects": "{followers, plural, one {<b>#</b> follower of projects} other {<b>#</b> followers of projects}}",
-    "followers": "{followers, plural, one {<b>#</b> follower} other {<b>#</b> followers}}",
-    "user_id": "User ID: {id}",
-    "created": "Created {ago}",
-    "updated": "Updated {ago}"
+    "joined": "เข้าร่วมเมื่อ {ago}",
+    "notified": "แจ้งเตือนเมื่อ {ago}",
+    "downloads": "{downloads, plural, one {<b>#</b> ดาวน์โหลด} other {<b>#</b> ดาวน์โหลด}}",
+    "followers_of_projects": "{followers, plural, one {<b>#</b> ผู้ติดตามโปรเจกต์} other {<b>#</b> ผู้ติดตามโปรเจกต์}}",
+    "followers": "{followers, plural, one {<b>#</b> ผู้ติดตาม} other {<b>#</b> ผู้ติดตาม}}",
+    "user_id": "ID ผู้ใช้: {id}",
+    "created": "สร้างขึ้นเมื่อ {ago}",
+    "updated": "อัพเดตเมื่อ {ago}"
   },
   "settings": {
     "username": {
-      "text": "Username",
-      "placeholder": "Add a username..."
+      "text": "ชื่อผู้ใช้",
+      "placeholder": "ใส่ชื่อผู้ใช้"
     },
     "bio": {
       "text": "ประวัติ",
       "placeholder": "เพิ่มประวัติ"
     },
     "email": {
-      "text": "Private email",
-      "helper": "Only visible to moderators.",
-      "placeholder": "Add an email..."
+      "text": "อีเมลส่วนตัว",
+      "helper": "เปิดเผยเฉพาะกับผู้ดูแลเท่านั้น",
+      "placeholder": "ใส่อีเมล"
     },
-    "avatar": "Upload avatar"
+    "avatar": "อัพโหลดรูปประจำตัว"
   },
   "report": {
     "singular": "แจ้งปัญหา",
@@ -301,86 +301,86 @@
   },
   "user": {
     "following": {
-      "loading": "Loading followed projects...",
-      "none": "You haven't followed any projects."
+      "loading": "กำลังโหลดโปรเจกต์ที่ติดตาม",
+      "none": "คุณยังไม่ได้ติดตามโปรเจกต์อะไรเลย"
     },
     "delete": {
       "title": "ลบบัญชี",
-      "body": "Once you delete your account, there is no going back. Deleting your account will remove all attached data, including projects, from our servers."
+      "body": "เมื่อคุณลบบัญชีของคุณแล้ว คุณจะนำบัญชีกลับคืนมาไม่ได้อีก ข้อมูลต่าง ๆ ที่ติดกับบัญชี ซึ่งรวมทั้งโปรเจกต์ของคุณ ก็จะถูกลบออกไปจากเซิร์ฟเวอร์ของพวกเราพร้อมกับบัญชีของคุณด้วยเช่นกัน"
     },
     "auth": {
-      "title": "Authorization token",
-      "body": "Your authorization token can be used with the Modrinth API, the Minotaur Gradle plugin, and other applications that interact with Modrinth's API. Be sure to keep this secret!",
-      "copy": "Copy token to clipboard",
-      "copied": "Copied token to clipboard",
-      "revoke": "Revoke token"
+      "title": "โทเค็นสำหรับการตรวจสอบ",
+      "body": "โทเค็นสำหรับการตรวจสอบของคุณสามารถใช้ร่วมกับ API ของ Modrinth ปลั๊กอินของ Minotaur Gradle และแอพพลิเคชันอื่น ๆ ที่มีปฏิสัมพันธ์กับ API ของ Modrinth ได้ด้วย อย่าเอาไปบอกใครนะ!",
+      "copy": "คัดลอกโทเค็นไปยังคลิปบอร์ด",
+      "copied": "คัดลอกโทเค็นไปยังคลิปบอร์ดเรียบร้อย",
+      "revoke": "คืนค่าโทเค็น"
     },
     "revoke_token": {
-      "title": "Revoke your Modrinth token",
-      "body": "Revoking your Modrinth token can have unintended consequences. Please be aware that the following could break:\n - Any application that uses your token to access the API.\n - Gradle - if Minotaur is given a incorrect token, your Gradle builds could fail.\n - GitHub - if you use a GitHub action that uses the Modrinth API, it will cause errors.\n\nIf you are willing to continue, complete the following steps:\n\n 1. Head to the [Modrinth Application page on GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226). Make sure to be logged into the GitHub account you used for Modrinth!\n 2. Press the big red \"Revoke Access\" button next to the \"Permissions\" header.\n\nOnce you have completed those steps, press the \"Log out\" button below.\n\n**This will log you out of Modrinth, however, when you log back in, your token will be regenerated.**",
+      "title": "คืนค่าโทเค็น Modrinth ของคุณ",
+      "body": "การคืนค่าโทเค็น Modrinth ของคุณอาจทำให้พบกับผลที่ตามมาที่ไม่คาดคิดได้ โปรดระวังไว้ว่าสิ่งเหล่านี่้อาจเกิดพังขึ้นมาได้\n- แอพพลิเคชันที่ใช้โทเค็นของคุณในการเข้าถึง API\n- Gradle - ถ้าหาก Minotaur ได้รับโทเค็นที่ไม่ถูกต้อง Gradle Build ของคุณจะเกิดข้อผิดพลาดได้\n- GitHub - ถ้าคุณใช้ GitHub Action ที่ใช้ API ของ Modrinth จะเกิดข้อผิดพลาดขึ้นได้\n\nหากคุณต้องการดำเนินการต่อ โปรดทำตามสิ่งที่กล่าวข้างต้นต่อไปนี้\n\n1. ไปที่ [หน้าเพจแอพพลิเคชันของ Modrinth บน GitHub](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) และต้องมั่นใจว่าคุณได้ทำการเข้าสู่ระบบบัญชี GitHub ที่คุณใช้อยู่กับ Modrinth ไว้เรียบร้อยแล้วด้วย!\n2. กดปุ่มสีแดงขนาดใหญ่ที่เขียนว่า \"Revoke Access\" ข้าง ๆ หัวข้อ \"Permission\"\n\nเมื่อคุณได้ทำตามขั้นตอนเหล่านี้เรียบร้อยแล้ว ให้กดปุ่ม \"Log out\" ด้านล่าง\n\n**เมื่อทำเช่นนี้ จะออกจากระบบของ Modrinth อย่างไรก็ตาม เมื่อคุณเข้าสู่ระบบเข้ามาใหม่ โทเค็นของคุณจะถูกสร้างขึ้นมาใหม่**",
       "action": "ออกจากระบบ"
     }
   },
   "images": {
     "replace": "เปลี่ยนรูป",
-    "how_to": "Drag and drop to upload or click to select"
+    "how_to": "ลากไฟล์แล้ววางไว้ที่นี่ เพื่ออัพโหลด หรือคลิกเพื่อเลือกไฟล์"
   },
   "ads": {
-    "privacy_respecting": "A privacy-respecting ad would have been shown here.",
+    "privacy_respecting": "โฆษณาที่เคารพความเป็นส่วนตัวของคุณจะแสดงขึ้นที่นี่",
     "console": {
-      "line1": "You are using an adblocker.",
-      "line2": "Your adblocker prevented Modrinth from showing an ad, our only source of income.",
-      "line3": "If you still want to help Modrinth without viewing ads, you can contribute to Modrinth on GitHub!",
+      "line1": "คุณกำลังใช้ตัวบล็อกโฆษณาอยู่",
+      "line2": "ตัวบล็อกโฆษณาของคุณกีดกันไม่ให้ Modrinth แสดงโฆษณา ซึ่งเป็นแหล่งรายได้ทางเดียวของพวกเราได้",
+      "line3": "หากคุณยังต้องการสนับสนุนทีมงาน Modrinth โดยที่ไม่ต้องดูโฆษณา คุณสามารถมีส่วนร่วมในการพัฒนา Modrinth บน GitHub ได้!",
       "line4": "https://github.com/modrinth/"
     }
   },
   "modal": {
     "deletion": {
       "generic": {
-        "important": "This is extremely important.",
-        "verify": "To verify, type <i>{key}</i> below:",
-        "placeholder": "Type here..."
+        "important": "เรื่องนี้สำคัญมาก",
+        "verify": "โปรดพิมพ์ <i>{key}</i> ลงในช่องด้านล่างนี้เพื่อยืนยัน",
+        "placeholder": "พิมพ์ที่นี่"
       },
       "project": {
         "title": "ลบโปรเจกต์",
-        "description": "Deleting a project erases all project data, including versions.",
+        "description": "การลบโปรเจกต์จะเป็นการลบข้อมูลทุกอย่างของโปรเจกต์ทิ้ง รวมทั้งเวอร์ชันด้วย",
         "action": "ลบโปรเจกต์"
       },
       "version": {
         "title": "ลบเวอร์ชัน",
-        "description": "Are you sure you want to delete this version? All files and metadata will be irrecoverably lost.",
+        "description": "คุณแน่ใจที่จะลบเวอร์ชันนี้หรือไม่? ไฟล์และ Metadata ทั้งหมดจะหายไปและไม่สามารถกู้คืนได้",
         "action": "ลบเวอร์ชัน"
       },
       "account": {
         "title": "คุณต้องการทำแบบนี้ใช่หรือไม่",
-        "description": "This will **immediately delete all of your projects** and follows. Deleting your account cannot be reversed.\n\nIf you need help with your account, get support on the [Modrinth Discord](/discord).",
-        "action": "Yes, irrecoverably delete my account"
+        "description": "เมื่อทำแบบนี้แล้ว**จะเป็นการลบโปรเจกต์ทั้งหมดของคุณ** และผู้ที่ติดตามคุณอยู่ด้วย เมื่อลบบัญชีไปแล้วจะไม่สามารถกู้กลับคืนมาได้\n\nหากคุณต้องการความช่วยเหลือกับบัญชีของคุณ สามารถติดต่อได้ที่ [Modrinth Discord](/discord)",
+        "action": "ใช่ ลบบัญชีของฉันอย่างถาวรเลย"
       },
       "image": {
-        "title": "Delete gallery image",
-        "description": "Are you sure you want to delete this image file and metadata? This action cannot be undone.",
+        "title": "ลบรูปภาพในแกลเลอรี่",
+        "description": "คุณยืนยันหรือไม่ว่าจะลบรูปและ Metadata นี้หรือไม่? การดำเนินการนี้ไม่สามารถเลิกทำได้",
         "action": "ลบรูป"
       }
     },
     "report": {
       "generic": {
-        "description": "Modding should be safe for everyone, so we take abuse and malicious intent seriously at Modrinth. We want to hear about harmful content on the site that violates our [ToS](/legal/terms) and [Rules](/legal/rules). Rest assured, we’ll keep your identifying information private.",
+        "description": "ด้วยความที่การม็อดต้องมีความปลอดภัยสำหรับทุกคน ดังนั้นเราจึงจริงจังกับเรื่องเจตนาร้ายหรือที่มิชอบมาก เราต้องการที่จะรับทราบเกี่ยวกับเนื้อหาที่รุนแรงบนเว็บไซต์ที่ละเมิด [ToS](/legal/terms) และ [Rules](legal/rules) พวกเราจะเก็บข้อมูลการระบุตัวตนไว้เป็นความลับ เพราะฉะนั้นวางใจพวกเราได้",
         "fields": {
           "reason": {
             "label": "เหตุผล"
           },
           "information": {
             "label": "ข้อมูลเพิ่มเติม",
-            "helper": "Include links and images if possible. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "helper": "โปรดระบุลิงก์และรูปภาพ ถ้ามี ฟอร์แมท Markdown สามารถใช้ได้",
+            "placeholder": "กรอกข้อมูลเพิ่มเติม"
           }
         }
       },
       "project": {
-        "action": "Report project"
+        "action": "รายงานโปรเจกต์"
       },
       "version": {
-        "action": "Report version"
+        "action": "รายงานเวอร์ชัน"
       },
       "user": {
         "action": "แจ้งพบผู้ใช้ที่ไม่เหมาะสม"
@@ -388,42 +388,42 @@
     },
     "creation": {
       "project": {
-        "title": "สร้างโครงงาน",
-        "description": "New projects are created as drafts, and can be found under your profile page.",
+        "title": "สร้างโปรเจกต์",
+        "description": "โปรเจกต์ใหม่ ๆ จะถูกสร้างขึ้นเป็นแบบร่าง และจะสามารถพบได้ด้านล่างของหน้าโปรไฟล์ของคุณ",
         "action": "ดำเนินการต่อ",
         "fields": {
           "project_type": {
             "label": "ประเภทโปรเจกต์"
           },
           "name": {
-            "label": "ชื่อโปรเจคท์",
-            "placeholder": "Enter project name..."
+            "label": "ชื่อโปรเจกต์",
+            "placeholder": "กรอกชื่อโปรเจกต์"
           },
           "summary": {
             "label": "สรุป",
-            "helper": "This appears in search and on the sidebar of your project's page.",
-            "placeholder": "Enter short summary of project..."
+            "helper": "สิ่งนี้จะปรากฏอยู่ในการค้นหาและแถบด้านข้างของหน้าโปรเจกต์ของคุณ",
+            "placeholder": "สรุปใจความสั้น ๆ เกี่ยวกับโปรเจกต์ของคุณ"
           }
         }
       },
       "image": {
-        "title": "Add gallery image",
+        "title": "เพิ่มรูปภาพลงแกลเลอรี่",
         "action": "เพิ่มรูป",
         "fields": {
           "title": {
             "label": "ชื่อ",
-            "placeholder": "Enter image title..."
+            "placeholder": "กรอกหัวข้อของรูปภาพ"
           },
           "description": {
             "label": "คำอธิบาย",
-            "placeholder": "Enter image description..."
+            "placeholder": "กรอกคำอธิบายรูปภาพ"
           }
         }
       }
     },
     "moderation": {
       "project_status": {
-        "title": "Change project status",
+        "title": "เปลี่ยนสถานะของโปรเจกต์",
         "action": "ยืนยัน",
         "fields": {
           "status": {
@@ -435,9 +435,9 @@
             }
           },
           "moderation_message": {
-            "label": "Moderation message",
-            "helper": "Optionally include information to communicate problems with a project's team members. Markdown formatting is supported.",
-            "placeholder": "Enter additional information..."
+            "label": "ข้อความจากฝ่ายคัดกรอง",
+            "helper": "เพิ่มข้อมูลแบบไม่บังคับเพื่อติดต่อปัญหากับสมาชิกของทีมโปรเจกต์ สามารถใช้ฟอร์แมท Markdown ร่วมด้วยได้",
+            "placeholder": "กรอกข้อมูลเพิ่มเติม"
           }
         }
       }
@@ -447,22 +447,22 @@
     "technology": "เทคโนโลยี",
     "adventure": "ผจญภัย",
     "magic": "เวทมนตร์",
-    "utility": "Utility",
+    "utility": "เครื่องมือ",
     "decoration": "ของตกแต่ง",
     "library": "ไลบรารี",
     "cursed": "มีเพื่อ?",
-    "worldgen": "World generation",
-    "storage": "Storage",
+    "worldgen": "การสร้างโลก",
+    "storage": "สิ่งจัดเก็บ",
     "food": "อาหาร",
     "equipment": "อุปกรณ์",
     "miscellaneous": "เบ็ดเตล็ด",
-    "challenging": "Challenging",
+    "challenging": "ท้าทาย",
     "combat": "ต่อสู้",
     "kitchen-sink": "ไม่เข้าพวก",
     "lightweight": "เบาเครื่อง",
-    "multiplayer": "Multiplayer",
-    "quests": "Quests",
-    "optimization": "Optimization",
+    "multiplayer": "ผู้เล่นหลายคน",
+    "quests": "ภารกิจ",
+    "optimization": "เพิ่มประสิทธิภาพ",
     "fabric": "Fabric",
     "forge": "Forge",
     "quilt": "Quilt",

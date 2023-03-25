@@ -139,7 +139,7 @@
     "environments": {
       "singular": "Середовище",
       "plural": "Середовища",
-      "server_side": "Для сервера",
+      "server_side": "Сервер",
       "client_side": "Клієнт",
       "values": {
         "required": "Потрібно",

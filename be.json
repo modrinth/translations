@@ -429,7 +429,7 @@
           "status": {
             "label": "Status",
             "options": {
-              "approve": "Approve",
+              "approve": "Ухваліць",
               "unlist": "Unlist",
               "reject": "Reject"
             }
@@ -468,8 +468,8 @@
     "quilt": "Quilt",
     "modloader": "ModLoader",
     "rift": "Rift",
-    "server": "Server",
-    "client": "Client",
+    "server": "Сервер",
+    "client": "Кліент",
     "good": "Good",
     "trash": "Trash",
     "misc": "Miscellaneous"

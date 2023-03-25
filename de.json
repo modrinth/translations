@@ -4,7 +4,7 @@
   },
   "index": {
     "tagline": "Entdecke, spiele und erstelle Minecraft Inhalte",
-    "description": "Finde spaßige und hochwertige Minecraft Inhalte auf unserer Quelloffenen Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
+    "description": "Finde unterhaltsame und hochwertige Minecraft Inhalte auf unserer Quelloffenen Modplattform - gebaut für die Community. Erstelle etwas, werde bezahlt*, und veröffentliche dein Projekt mit unserer vollständig dokumentierten API!",
     "features": {
       "book": {
         "title": "Einfach verwendbare API",
@@ -78,7 +78,7 @@
   },
   "pages": {
     "description": "Beschreibung",
-    "gallery": "Gallerie",
+    "gallery": "Galerie",
     "changelog": "Änderungsprotokoll",
     "versions": "Versionen",
     "settings": "Einstellungen",
@@ -110,7 +110,7 @@
       "edit": "Bearbeiten",
       "follow": "Folgen",
       "unfollow": "Entfolgen",
-      "feature": "Hebe Version hervor",
+      "feature": "Version hervorheben",
       "report": "Melden",
       "new_project": "Neues Projekt",
       "preview": "Vorschau",
@@ -306,7 +306,7 @@
     },
     "delete": {
       "title": "Account löschen",
-      "body": "Wenn du deinen Account einmal gelöscht hast, gibt es kein Zurück mehr. Deinen Account zu löschen heißt, dass auch alle Daten, die zu ihm gehören, von unseren Servern gelöscht werden, einschließlich aller Projekte."
+      "body": "Sobald du deinen Account löscht, gibt es kein Zurück. Deinen Account zu löschen heißt, dass auch alle Daten, die zugehörigen Daten, einschließlich aller Projekte, von unseren Servern gelöscht werden."
     },
     "auth": {
       "title": "Authentifizierungs-Token",

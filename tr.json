@@ -4,7 +4,7 @@
   },
   "index": {
     "tagline": "Minecraft içeriklerini keşfet, oyna ve oluştur",
-    "description": "Topluluk için yapılan açık kaynak modlama platformumuz üzerinden eğlenceli ve kaliteli içerik bulun. Bir şey oluşturun, ödeme alın* ve tamamen belgelenmiş API'miz ile projenizi yükleyin!",
+    "description": "Topluluk için yapılan açık kaynak modlama platformumuz üzerinden eğlenceli ve kaliteli içerik bulun. Bir şeyler oluşturun, ödeme alın* ve tamamen belgelenmiş API'miz ile projenizi yükleyin!",
     "features": {
       "book": {
         "title": "Kullanması kolay API",
@@ -16,7 +16,7 @@
       },
       "speedometer": {
         "title": "Işık hızında arama",
-        "description": "Hızlı ve uyumlu arama algoritmaları ile güçlendirildi ki beklemek zorunda kalmayın."
+        "description": "Beklemek zorunda kalmamanız için hızlı ve uyarlanabilir algoritmalar ile güçlendirildi."
       },
       "chat": {
         "title": "Yardımsever topluluk",
@@ -309,15 +309,15 @@
       "body": "Hesabınızı bir kere silerseniz geri dönüşü yok. Hesabını silmek, projeler dahil olmak üzere tüm alakalı verileri sunucumuzdan kaldıracaktır."
     },
     "auth": {
-      "title": "Kimlik doğrulama jetonu",
-      "body": "Kimlik doğrulama jetonunuz, Modrinth API, Minotaur Gradle eklentisi ve Modrinth API'yle etkileşime giren diğer uygulamalarla kullanılabilir. Bunu saklı tuttuğunuzdan emin olun!",
-      "copy": "Jetonu panoya kopyala",
-      "copied": "Jeton panoya kopyalandı",
-      "revoke": "Jetonu iptal et"
+      "title": "Kimlik doğrulama belirteci",
+      "body": "Kimlik doğrulama belirteciniz, Modrinth API, Minotaur Gradle eklentisi ve Modrinth API'yle etkileşime giren diğer uygulamalarla kullanılabilir. Bunu saklı tuttuğunuzdan emin olun!",
+      "copy": "Belirteci panoya kopyala",
+      "copied": "Belirteç panoya kopyalandı",
+      "revoke": "Belirteci iptal et"
     },
     "revoke_token": {
-      "title": "Modrinth jetonunu iptal et",
-      "body": "Modrinth tokeninizi iptal etmenin istenmeyen sonuçları olabilir. Lütfen aşağıdakilerinin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a geçersiz token verildiyse, Gradle yapılarınızda hata oluşabilir.\n - GitHub - eğer Modrinth API'sini kullanan bir GitHub Action'ı kullanıyorsanız, hataya sebep verecek.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub üzerinden Modrinth Uygulama sayfasına](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) geçin. Modrinth için kullanmış olduğunuz GitHub hesabıyla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kez bu adımları tamamladığınızda, aşağıdaki \"Çıkış yap\" tuşuna basın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracak, ancak geri giriş yaptığınızda, tokeniniz yeniden oluşturulacak.**",
+      "title": "Modrinth belirtecini iptal et",
+      "body": "Modrinth tokeninizi iptal etmenin istenmeyen sonuçları olabilir. Lütfen aşağıdakilerinin bozulabileceğinin bilincinde olun:\n - API'ye erişmek için tokeninizi kullanan herhangi uygulama.\n - Gradle - eğer Minotaur'a geçersiz token verildiyse, Gradle derlemelerinizde hata oluşabilir.\n - GitHub - eğer Modrinth API'sini kullanan bir GitHub Action'ı kullanıyorsanız, hataya sebep verecek.\n\nEğer devam etmekte istekliyseniz, aşağıdaki adımları tamamlayın:\n\n 1. [GitHub üzerinden Modrinth Uygulama sayfasına](https://github.com/settings/connections/applications/3acffb2e808d16d4b226) geçin. Modrinth için kullanmış olduğunuz GitHub hesabıyla giriş yaptığınızdan emin olun!\n 2. \"İzinler\" başlığının yanındaki büyük kırmızı \"Erişimi İptal Et\" tuşuna basın.\n\nBir kez bu adımları tamamladığınızda, aşağıdaki \"Çıkış yap\" tuşuna basın.\n\n**Bu sizi Modrinth'ten çıkış yaptıracak, ancak geri giriş yaptığınızda, tokeniniz yeniden oluşturulacak.**",
       "action": "Çıkış yap"
     }
   },
@@ -329,7 +329,7 @@
     "privacy_respecting": "Gizliliğe önem veren bir reklam burada gözükürdü.",
     "console": {
       "line1": "Bir reklam engelleyici kullanıyorsunuz.",
-      "line2": "Reklam engelleyiciniz Modrinth'in tek gelir kaynağı olan bir reklamın göstermesinin önüne geçti.",
+      "line2": "Reklam engelleyiciniz Modrinth'in tek gelir kaynağı olan bir reklamın gösterilmesinin önüne geçti.",
       "line3": "Eğer hala reklamları görmeden Modrinth'e yardım etmek istersen, GitHub üzerinden Modrinth'e katkıda bulunabilirsin!",
       "line4": "https://github.com/modrinth/"
     }
@@ -342,24 +342,24 @@
         "placeholder": "Buraya yazın..."
       },
       "project": {
-        "title": "Proje sil",
+        "title": "Projeyi sil",
         "description": "Bir projeyi silmek, sürümler dahil olmak üzere tüm proje verisini kaldırır.",
-        "action": "Proje sil"
+        "action": "Projeyi sil"
       },
       "version": {
-        "title": "Sürüm sil",
-        "description": "Bu sürümü silmek istediğinizden emin misiniz? Tüm dosyalar ve üstveriler geri dönülemez bir şekilde kaybolacak.",
-        "action": "Sürüm sil"
+        "title": "Sürümü sil",
+        "description": "Bu sürümü silmek istediğinizden emin misiniz? Tüm dosyalar ve üstveriler kurtarılamayacak bir şekilde kaybolacak.",
+        "action": "Sürümü sil"
       },
       "account": {
-        "title": "Bunu yapmak istediğinden emin misin?",
+        "title": "Bunu yapmak istediğinizden emin misiniz?",
         "description": "Bu **bütün projelerinizi ve takip ettiklerinizi derhal kaldıracaktır**. Hesabın silinmesi geri alınamaz.\n\nHesabınızla ilgili yardıma ihtiyacınız varsa, [Modrinth Discord](/discord) üzerinden destek alın.",
-        "action": "Evet, geri alınamaz şekilde hesabımı sil"
+        "action": "Evet, kurtarılamayacak şekilde hesabımı sil"
       },
       "image": {
         "title": "Galeri görselini sil",
         "description": "Bu görsel dosyasını ve üstveriyi silmek istediğinizden emin misiniz? Bu eylem geriye alınamaz.",
-        "action": "Görsel sil"
+        "action": "Görseli sil"
       }
     },
     "report": {
@@ -371,7 +371,7 @@
           },
           "information": {
             "label": "Ek bilgi",
-            "helper": "Mümkünse bağlantı ve görselleri dahil edin. Markdown formatı desteklidir.",
+            "helper": "Mümkünse bağlantı ve görselleri dahil edin. Markdown biçimlendirmesi desteklidir.",
             "placeholder": "Ek bilgi gir..."
           }
         }
@@ -401,7 +401,7 @@
           },
           "summary": {
             "label": "Özet",
-            "helper": "Bu aramada ve proje sayfanızın kenar çubuğunda gözüküyor.",
+            "helper": "Bu, aramada ve proje sayfanızın kenar çubuğunda gözükür.",
             "placeholder": "Projenin kısa özetini gir..."
           }
         }
@@ -429,14 +429,14 @@
           "status": {
             "label": "Durum",
             "options": {
-              "approve": "Onaylı",
-              "unlist": "Liste dışı",
-              "reject": "Reddedildi"
+              "approve": "Onayla",
+              "unlist": "Liste dışı bırak",
+              "reject": "Reddet"
             }
           },
           "moderation_message": {
-            "label": "Moderasyon mesajı",
-            "helper": "Bir projenin takım üyeleriyle sorunları iletmek için tercihen bilgi dahil edin. Markdown formatı desteklidir.",
+            "label": "Yönetim mesajı",
+            "helper": "Bir projenin takım üyeleriyle ilgili sorunları iletmek için tercihen bilgi dahil edin. Markdown biçimlendirmesi desteklidir.",
             "placeholder": "Ek bilgi gir..."
           }
         }
@@ -446,19 +446,19 @@
   "tags": {
     "technology": "Teknoloji",
     "adventure": "Macera",
-    "magic": "Sihir",
+    "magic": "Büyü",
     "utility": "Yardımcı",
     "decoration": "Dekorasyon",
     "library": "Kitaplık",
     "cursed": "Lanetli",
-    "worldgen": "Dünya Oluşumu",
+    "worldgen": "Dünya oluşumu",
     "storage": "Depolama",
-    "food": "Yemek",
+    "food": "Yiyecek",
     "equipment": "Ekipman",
     "miscellaneous": "Çeşitli",
-    "challenging": "Meydan Okuyucu",
-    "combat": "Savaşma",
-    "kitchen-sink": "Eviye",
+    "challenging": "Zorlayıcı",
+    "combat": "Savaş",
+    "kitchen-sink": "Karmakarışık",
     "lightweight": "Hafif",
     "multiplayer": "Çok Oyunculu",
     "quests": "Görevler",
